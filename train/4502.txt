@@ -1,0 +1,7 @@
+Tannins, flavonoids and stilbenes in extracts of African savanna woodland trees Terminalia brownii, Terminalia laxiflora and Anogeissus leiocarpus showing promising antibacterial potential
+
+m: Tannins
+m: flavonoids
+m: stilbenes
+m: extracts of African savanna woodland trees Terminalia brownii, Terminalia laxiflora and Anogeissus leiocarpus
+rp: antibacterial potential

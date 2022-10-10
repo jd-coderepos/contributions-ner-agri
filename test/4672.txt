@@ -1,0 +1,6 @@
+Understanding insect foraging in complex habitats by comparing trophic levels: insights from specialist host-parasitoid-hyperparasitoid systems
+
+rp: insect foraging
+m: complex habitats
+meth: comparing trophic levels
+t: specialist host-parasitoid-hyperparasitoid systems

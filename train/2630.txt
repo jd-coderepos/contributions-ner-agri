@@ -1,0 +1,6 @@
+The AAP gene family for amino acid permeases contributes to development of the cyst nematode Heterodera schachtii in roots of Arabidopsis
+
+rp: AAP gene family
+m: amino acid permeases
+p: development of the cyst nematode Heterodera schachtii
+m: roots of Arabidopsis

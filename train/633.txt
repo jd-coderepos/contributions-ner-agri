@@ -1,0 +1,6 @@
+Grain yield, adaptation and progress in breeding for early-maturing and heat-tolerant wheat lines in South Asia
+
+p: Grain yield, adaptation and progress
+rp: breeding
+m: early-maturing and heat-tolerant wheat lines
+loc: South Asia

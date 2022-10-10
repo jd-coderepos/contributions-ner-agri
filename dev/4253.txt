@@ -1,0 +1,5 @@
+RAPD variation within and between natural populations of morama [Tylosema esculentum (Burchell) Schreiber] in southern Africa
+
+rp: RAPD variation
+m: natural populations of morama [Tylosema esculentum (Burchell) Schreiber]
+loc: southern Africa

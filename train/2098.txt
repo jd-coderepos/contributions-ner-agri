@@ -1,0 +1,5 @@
+Ethnobotanical inventory of medicinal plants used by Vhembe traditional healers in the management of weight loss amongst HIV/AIDS patients
+
+rp: Ethnobotanical inventory of medicinal plants
+m: Vhembe traditional healers
+rp: weight loss amongst HIV/AIDS patients

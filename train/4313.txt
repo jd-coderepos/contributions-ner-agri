@@ -1,0 +1,7 @@
+Assessment of stress-related enzymes in response to either exogenous salicylic acid or methyl jasmonate in Jatropha curcas L. leaves, an attractive plant to produce biofuel
+
+rp: Assessment of stress-related enzymes
+m: exogenous salicylic acid
+m: methyl jasmonate
+m: Jatropha curcas L. leaves
+p: produce biofuel

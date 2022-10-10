@@ -1,0 +1,6 @@
+Yield components, harvest index and leaf area efficiency of a sample of a wild population and a domesticated variant of the common bean Phaseolus vulgaris
+
+rp: Yield components
+rp: harvest index
+rp: leaf area efficiency
+m: sample of a wild population and a domesticated variant of the common bean Phaseolus vulgaris

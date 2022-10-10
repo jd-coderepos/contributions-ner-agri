@@ -1,0 +1,4 @@
+The vegetation and identification of management units of the Imberbe Game Lodge in the mixed bushveld of the north-western Transvaal
+
+rp: vegetation
+loc: Imberbe Game Lodge in the mixed bushveld of the north-western Transvaal

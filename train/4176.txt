@@ -1,0 +1,6 @@
+Transformation of Cichorium intybus with the HvBADH1 gene enhanced the salinity tolerance of the transformants
+
+rp: Transformation of Cichorium intybus
+m: HvBADH1 gene
+p: salinity tolerance
+m: transformants

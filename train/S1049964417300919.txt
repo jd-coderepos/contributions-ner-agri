@@ -1,0 +1,4 @@
+Individual variation in stage duration in matrix population models: Problems and solutions 
+
+rp: Individual variation in stage duration
+meth: matrix population models

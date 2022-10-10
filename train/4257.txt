@@ -1,0 +1,6 @@
+The list of type specimens of Crassulaceae from East and South Africa and Madagascar in the Herbarium of the Komarov Botanical Institute (LE)
+
+rp: type specimens of Crassulaceae
+loc: East and South Africa
+loc: Madagascar
+loc: Herbarium of the Komarov Botanical Institute (LE)

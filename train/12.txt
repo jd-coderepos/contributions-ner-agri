@@ -1,0 +1,4 @@
+Partial cross-enhancement in models for dengue epidemiology
+
+meth: Partial cross-enhancement
+rp: dengue epidemiology

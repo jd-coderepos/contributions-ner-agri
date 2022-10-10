@@ -1,0 +1,5 @@
+A taxonomic revision of Gymnodiscus (Asteraceae: Senecioneae: Othonninae), a Greater Cape Floristic Region endemic
+
+rp: taxonomic revision
+m: Gymnodiscus (Asteraceae: Senecioneae: Othonninae)
+loc: Greater Cape Floristic Region

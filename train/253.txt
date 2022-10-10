@@ -1,0 +1,8 @@
+On-farm evaluation and determination of sources of variability of soybean response to Bradyrhizobium inoculation and phosphorus fertilizer in northern Ghana
+
+meth: On-farm evaluation
+meth: determination of sources of variability
+rp: soybean response
+m: phosphorus fertilizer
+rp: Bradyrhizobium inoculation
+loc: northern Ghana

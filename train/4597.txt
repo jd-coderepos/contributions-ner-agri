@@ -1,0 +1,6 @@
+A three amino acid deletion in the transmembrane domain of the nicotinic acetylcholine receptor α6 subunit confers high-level resistance to spinosad in Plutella xylostella
+
+rp: three amino acid deletion
+m: transmembrane domain of the nicotinic acetylcholine receptor α6 subunit
+p: high-level resistance
+m: spinosad in Plutella xylostella

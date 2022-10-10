@@ -1,0 +1,5 @@
+Effects of variety, year of cultivation and sulphur supply on the accumulation of free asparagine in the grain of commercial wheat varieties
+
+p: variety, year of cultivation and sulphur supply
+rp: accumulation of free asparagine
+m: grain of commercial wheat varieties

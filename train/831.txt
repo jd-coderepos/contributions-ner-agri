@@ -1,0 +1,5 @@
+Metabolic response of short term calorie restriction and supplementation with Hoodia gordonii
+
+rp: Metabolic response
+meth: short term calorie restriction and supplementation
+m: Hoodia gordonii

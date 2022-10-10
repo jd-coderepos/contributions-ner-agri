@@ -1,0 +1,5 @@
+Effect of Ppd-1 photoperiod sensitivity genes on dry matter production and allocation in durum wheat
+
+m: Ppd-1 photoperiod sensitivity genes
+m: durum wheat
+rp: dry matter production and allocation

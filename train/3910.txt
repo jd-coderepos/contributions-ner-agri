@@ -1,0 +1,6 @@
+An investigation of the rate of biogenic volatile organic carbon emission from commercial crops and plantation species in the Mpumalanga Province
+
+rp: biogenic volatile organic carbon emission
+m: commercial crops
+m: plantation species
+loc: Mpumalanga Province

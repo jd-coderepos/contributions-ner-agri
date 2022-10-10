@@ -1,0 +1,6 @@
+The MiLA tool: Modeling greenhouse gas emissions and cumulative energy demand of energy crop cultivation in rotation
+
+s: The MiLA tool
+rp: greenhouse gas emissions
+rp: cumulative energy demand
+meth: energy crop cultivation in rotation

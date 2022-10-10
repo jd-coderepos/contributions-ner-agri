@@ -1,0 +1,5 @@
+Ulvan from Ulva armoricana (Chlorophyta) activates the PI3K/Akt signalling pathway via TLR4 to induce intestinal cytokine production
+
+m: Ulvan from Ulva armoricana (Chlorophyta)
+p: PI3K/Akt signalling pathway via TLR4
+rp: intestinal cytokine production

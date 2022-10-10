@@ -1,0 +1,5 @@
+Oxidative biodegradation of tetrachloroethene in needles of Norway spruce (Picea abies L.)
+
+rp: Oxidative biodegradation
+m: tetrachloroethene
+m: needles of Norway spruce (Picea abies L.)

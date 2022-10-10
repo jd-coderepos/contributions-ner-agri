@@ -1,0 +1,7 @@
+Changes in activities of superoxide dismutase, peroxidase and catalase from leaves of Impatiens flanaganiae in response to light intensity
+
+m: superoxide dismutase
+m: peroxidase
+m: catalase
+m: leaves of Impatiens flanaganiae
+p: light intensity

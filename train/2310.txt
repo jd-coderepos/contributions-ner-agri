@@ -1,0 +1,5 @@
+A convenient thin layer chromatographic technique for chemotaxonomic application in Maytenus (Celastraceae)
+
+meth: thin layer chromatographic technique
+rp: chemotaxonomic application
+m: Maytenus (Celastraceae)

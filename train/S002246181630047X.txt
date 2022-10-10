@@ -1,0 +1,5 @@
+Beta diversity along fynbos and non-fynbos coenoclines in the lower Gamtoos River Valley, south-eastern Cape 
+
+rp: Beta diversity
+m: fynbos and non-fynbos coenoclines
+loc: lower Gamtoos River Valley, south-eastern Cape

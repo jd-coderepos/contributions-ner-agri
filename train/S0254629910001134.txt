@@ -1,0 +1,6 @@
+Seed germination at different temperatures and water stress levels, and seedling emergence from different depths of Ziziphus lotus
+
+rp: Seed germination
+rp: seedling emergence
+meth: different temperatures and water stress levels
+m: depths of Ziziphus lotus

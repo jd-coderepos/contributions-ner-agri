@@ -1,0 +1,8 @@
+Transuterine infection by Baylisascaris transfuga: Neurological migration and fatal debilitation in sibling moose calves (Alces alces gigas) from Alaska
+
+rp: Transuterine infection
+m: Baylisascaris transfuga
+p: Neurological migration
+p: fatal debilitation
+m: sibling moose calves (Alces alces gigas)
+loc: Alaska

@@ -1,0 +1,6 @@
+Comparing pressures on national parks in Ghana and Tanzania: The case of Mole and Tarangire National Parks
+
+rp: pressures on national parks
+loc: Mole and Tarangire National Parks
+loc: Ghana
+loc: Tanzania

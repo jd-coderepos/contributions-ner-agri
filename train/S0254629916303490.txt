@@ -1,0 +1,5 @@
+Varietal variations in temperature response for hermaphrodite flower production and fruit set in mango (Mangifera indica L)
+
+rp: Varietal variations in temperature response
+p: hermaphrodite flower production
+m: fruit set in mango (Mangifera indica L)

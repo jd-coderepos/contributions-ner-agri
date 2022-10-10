@@ -1,0 +1,7 @@
+The afromontane forests of Transkei, southern Africa. I: The importance of phytogeography and past utilization to the study of forest patches and a description of a sampling strategy
+
+m: afromontane forests
+loc: Transkei, southern Africa
+meth: phytogeography and past utilization
+rp: study of forest patches
+meth: sampling strategy

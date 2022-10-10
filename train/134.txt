@@ -1,0 +1,6 @@
+Savanna tree-grass interactions: A phenological investigation of green-up in relation to water availability over three seasons
+
+rp: Savanna tree-grass interactions
+meth: phenological investigation
+p: green-up
+p: water availability

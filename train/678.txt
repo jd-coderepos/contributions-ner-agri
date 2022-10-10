@@ -1,0 +1,5 @@
+The dark side of algae cultivation: Characterizing night biomass loss in three photosynthetic algae, Chlorella sorokiniana, Nannochloropsis salina and Picochlorum sp.
+
+p: algae cultivation
+rp: night biomass loss
+m: three photosynthetic algae, Chlorella sorokiniana, Nannochloropsis salina and Picochlorum sp.

@@ -1,0 +1,5 @@
+Production of indole alkaloids in hairy root cultures of Catharanthus roseus L. and their antimicrobial activity
+
+p: Production of indole alkaloids
+m: hairy root cultures of Catharanthus roseus L.
+rp: antimicrobial activity

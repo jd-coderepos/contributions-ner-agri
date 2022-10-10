@@ -1,0 +1,6 @@
+Kinetic modelling of microalgae cultivation for wastewater treatment and carbon dioxide sequestration
+
+meth: Kinetic modelling
+sol: microalgae cultivation
+rp: wastewater treatment
+rp: carbon dioxide sequestration

@@ -1,0 +1,4 @@
+The art of curation at a biological database: Principles and application
+
+m: biological database
+rp: curation

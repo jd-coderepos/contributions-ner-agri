@@ -1,0 +1,5 @@
+The regional distribution, marketing and economic value of the palm wine trade in the Ingwavuma district, Natal, South Africa
+
+rp: palm wine trade
+p: regional distribution, marketing and economic value
+loc: Ingwavuma district, Natal, South Africa

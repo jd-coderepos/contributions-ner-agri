@@ -1,0 +1,5 @@
+Modelling the effect of temperature on the seasonal population dynamics of temperate mosquitoes
+
+m: temperate mosquitoes
+rp: seasonal population dynamics
+s: Modelling the effect of temperature

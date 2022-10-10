@@ -1,0 +1,4 @@
+The first record of Agave celsii var. albicans (Agavaceae), a Mexican plant, in South Africa
+
+m: Agave celsii var. albicans (Agavaceae)
+loc: South Africa

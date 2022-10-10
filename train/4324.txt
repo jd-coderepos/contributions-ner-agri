@@ -1,0 +1,6 @@
+Herbivory and N2-fixation drive plant and soil nutrient dynamics in a southern African savanna
+
+p: Herbivory
+p: N2-fixation
+rp: plant and soil nutrient dynamics
+loc: southern African savanna

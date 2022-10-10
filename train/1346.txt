@@ -1,0 +1,5 @@
+Next generation microbiological risk assessment—Potential of omics data for hazard characterisation
+
+s: Next generation microbiological risk assessment
+m: omics data
+rp: hazard characterisation

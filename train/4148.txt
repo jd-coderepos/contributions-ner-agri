@@ -1,0 +1,5 @@
+Physiological stress factors associated with different mine tailings on the chlorophyll fluorescence of plants
+
+p: Physiological stress factors
+m: mine tailings
+rp: chlorophyll fluorescence of plants

@@ -1,0 +1,5 @@
+Erratum to “Kinetics and molecular docking of vasicine from Adhatoda vasica: An acetylcholinesterase inhibitor for Alzheimer's disease” [South African journal of botany 104C (2016) 118–124]
+
+rp: Alzheimer's disease
+s: Kinetics and molecular docking of vasicine from Adhatoda vasica
+p: acetylcholinesterase inhibitor

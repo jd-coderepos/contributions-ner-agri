@@ -1,0 +1,5 @@
+Size class structure of three commonly traded bulbs at Faraday (Johannesburg) umuthi market: Implications for sustainability
+
+loc: Faraday (Johannesburg) umuthi market
+rp: Size class structure
+m: commonly traded bulbs

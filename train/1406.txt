@@ -1,0 +1,5 @@
+Genomics of quantitative disease resistance in African maize varieties
+
+p: Genomics
+rp: quantitative disease resistance
+m: African maize varieties

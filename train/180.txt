@@ -1,0 +1,9 @@
+Active proton efflux, nutrient retention and boron-bridging of pectin are related to greater tolerance of proton toxicity in the roots of two Erica species
+
+p: Active proton efflux
+p: nutrient retention
+p: boron-bridging
+m: pectin 
+rp: proton toxicity
+m: roots of two Erica species
+f: Active proton efflux, nutrient retention and boron-bridging of pectin are related to greater tolerance of proton toxicity in the roots of two Erica species

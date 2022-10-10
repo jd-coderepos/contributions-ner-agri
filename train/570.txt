@@ -1,0 +1,5 @@
+Plant assemblages on Mima-like earth mounds in the Clanwillian district, South Africa
+
+rp: Plant assemblages
+m: Mima-like earth mounds
+loc: Clanwillian district, South Africa

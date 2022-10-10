@@ -1,0 +1,6 @@
+Abscisic acid promotes flowering and enhances LcAP1 expression in Litchi chinensis Sonn.
+
+m: Abscisic acid
+rp: flowering
+rp: LcAP1 expression
+m: Litchi chinensis Sonn.

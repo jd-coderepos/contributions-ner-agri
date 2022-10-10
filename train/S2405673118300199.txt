@@ -1,0 +1,5 @@
+A systematic review with epidemiological update of male genital schistosomiasis (MGS): A call for integrated case management across the health system in sub-Saharan Africa
+
+loc: sub-Saharan Africa
+s: integrated case management across the health system
+rp: male genital schistosomiasis (MGS)

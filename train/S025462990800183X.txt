@@ -1,0 +1,5 @@
+Initial response of riparian plant community structure to clearing of invasive alien plants in Kruger National Park, South Africa 
+
+p: response of riparian plant community structure
+rp: clearing of invasive alien plants
+loc: Kruger National Park, South Africa

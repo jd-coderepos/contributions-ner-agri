@@ -1,0 +1,6 @@
+Evidence of Tamarix hybrids in South Africa, as inferred by nuclear ITS and plastid trnS–trnG DNA sequences
+
+rp: Evidence of Tamarix hybrids
+loc: South Africa
+meth: nuclear ITS
+meth: plastid trnS–trnG DNA sequences

@@ -1,0 +1,6 @@
+Understanding variability in the benefits of N2-fixation in soybean-maize rotations on smallholder farmers’ fields in Malawi
+
+rp: benefits of N2-fixation
+meth: soybean-maize rotations
+m: smallholder farmers’ fields
+loc: Malawi

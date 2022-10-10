@@ -1,0 +1,6 @@
+Biomarker analysis of American toad (Anaxyrus americanus) and grey tree frog (Hyla versicolor) tadpoles following exposure to atrazine
+
+rp: Biomarker analysis
+m: American toad (Anaxyrus americanus)
+m: grey tree frog (Hyla versicolor) tadpoles
+p: exposure to atrazine

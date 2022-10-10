@@ -1,0 +1,5 @@
+Wood density reduced while wood volume growth accelerated in Central European forests since 1870
+
+p: Wood density reduced
+p: wood volume growth accelerated
+loc: Central European forests

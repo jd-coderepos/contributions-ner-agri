@@ -1,0 +1,7 @@
+In vitro plant regeneration, phenolic compound production and pharmacological activities of Coleonema pulchellum
+
+meth: In vitro
+rp: plant regeneration
+rp: phenolic compound production
+rp: pharmacological activities
+m: Coleonema pulchellum

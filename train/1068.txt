@@ -1,0 +1,7 @@
+Antimicrobial activity and mutagenic effects of twelve traditional medicinal plants used to treat ailments related to the gastro-intestinal tract in South Africa
+
+rp: Antimicrobial activity
+rp: mutagenic effects
+m: gastro-intestinal tract
+m: twelve traditional medicinal plants
+loc: South Africa

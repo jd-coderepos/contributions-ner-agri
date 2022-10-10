@@ -1,0 +1,6 @@
+Proliferation of the biocontrol agent Fusarium oxysporum f. strigae and its impact on indigenous rhizosphere communities in maize under different agro-ecologies
+
+m: biocontrol agent Fusarium oxysporum f. strigae
+rp: indigenous rhizosphere communities
+m: maize
+p: different agro-ecologies

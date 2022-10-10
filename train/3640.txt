@@ -1,0 +1,4 @@
+Detection of Streptococcus equi subspecies equi using a triplex qPCR assay
+
+rp: Detection of Streptococcus equi subspecies equi
+meth: triplex qPCR assay

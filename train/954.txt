@@ -1,0 +1,6 @@
+ASAP: A new global early warning system to detect anomaly hot spots of agricultural production for food security analysis
+
+s: ASAP
+s: global early warning system
+rp: detect anomaly hot spots of agricultural production
+p: food security analysis

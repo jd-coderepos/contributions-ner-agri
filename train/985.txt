@@ -1,0 +1,6 @@
+Impact of global warming on the odour and ammonia emissions of livestock buildings used for fattening pigs
+
+rp: global warming
+p: odour and ammonia emissions
+m: livestock buildings
+p: fattening pigs

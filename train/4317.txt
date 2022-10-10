@@ -1,0 +1,6 @@
+In vitro regeneration and transient expression of recombinant sesquiterpene cyclase (SQC) in Artemisia annua L.
+
+meth: In vitro
+p: regeneration
+p: transient expression
+m: recombinant sesquiterpene cyclase (SQC) in Artemisia annua L.

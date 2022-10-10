@@ -1,0 +1,6 @@
+Prevention of floret abscission for Agapanthus praecox requires an adequate supply of carbohydrate to the developing florets
+
+rp: Prevention of floret abscission
+m: Agapanthus praecox
+m: developing florets
+p: adequate supply of carbohydrate

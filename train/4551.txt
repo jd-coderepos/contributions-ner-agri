@@ -1,0 +1,6 @@
+An assessment of forest biomass maps in Europe using harmonized national statistics and inventory plots
+
+rp: forest biomass maps
+loc: Europe
+meth: harmonized national statistics
+m: inventory plots

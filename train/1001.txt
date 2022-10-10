@@ -1,0 +1,4 @@
+Engineering of B800 bacteriochlorophyll binding site specificity in the Rhodobacter sphaeroides LH2 antenna
+
+m: Rhodobacter sphaeroides LH2 antenna
+rp: B800 bacteriochlorophyll binding site specificity

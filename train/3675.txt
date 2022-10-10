@@ -1,0 +1,4 @@
+Impact of light color on photobioreactor productivity
+
+m: light color
+rp: photobioreactor productivity

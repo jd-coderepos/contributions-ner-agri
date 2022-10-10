@@ -1,0 +1,5 @@
+Comparison of different strategies for using fossil calibrations to generate the time prior in Bayesian molecular clock dating
+
+meth: fossil calibrations
+p: generate the time prior
+rp: Bayesian molecular clock dating

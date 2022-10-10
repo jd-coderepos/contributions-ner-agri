@@ -1,0 +1,7 @@
+Antibacterial, anti-inflammatory and mutagenic effects of some medicinal plants used in South Africa for the treatment of wounds and retained placenta in livestock 
+
+loc: South Africa
+m: medicinal plants
+m: livestock
+s: Antibacterial, anti-inflammatory and mutagenic effects
+rp: treatment of wounds and retained placenta

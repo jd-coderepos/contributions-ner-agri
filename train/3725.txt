@@ -1,0 +1,5 @@
+The effect of seaweed concentrate and fertilizer on growth and the endogenous cytokinin content of Phaseolus vulgaris
+
+m: seaweed concentrate and fertilizer
+m: Phaseolus vulgaris
+rp: growth and the endogenous cytokinin content

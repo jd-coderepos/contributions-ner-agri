@@ -1,0 +1,5 @@
+Photosynthesis and the regulatory role of sucrose and hexose in sugarcane leaves
+
+m: sugarcane leaves
+p: Photosynthesis
+rp: regulatory role of sucrose and hexose

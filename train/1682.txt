@@ -1,0 +1,4 @@
+Soil N, P, and dynamics of upland and seasonally flooded forests of the Pantanal
+
+rp: Soil N, P
+loc: upland and seasonally flooded forests of the Pantanal

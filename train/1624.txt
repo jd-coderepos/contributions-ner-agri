@@ -1,0 +1,6 @@
+Metabolomics for organic food authentication: Results from a long-term field study in carrots
+
+p: Metabolomics
+rp: organic food authentication
+meth: long-term field study
+m: carrots

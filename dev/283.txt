@@ -1,0 +1,7 @@
+Seasonality of precipitation and species distribution in a widespread North American ecosystem: Insights from ecophysiological studies
+
+p: Seasonality
+rp: precipitation
+rp: species distribution
+m: widespread North American ecosystem
+meth: ecophysiological studies

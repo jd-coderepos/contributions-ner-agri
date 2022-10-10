@@ -1,0 +1,7 @@
+Acetate-detoxification of wood hydrolysates with alkali tolerant Bacillus sp. as a strategy to enhance the lipid production from Rhodosporidium toruloides
+
+meth: Acetate-detoxification
+m: wood hydrolysates
+m: alkali tolerant Bacillus sp.
+m: Rhodosporidium toruloides
+rp: lipid production

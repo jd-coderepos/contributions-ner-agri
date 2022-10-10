@@ -1,0 +1,6 @@
+Biome stability and long-term vegetation change in the semi-arid, south-eastern interior of South Africa: A synthesis of repeat photo-monitoring studies
+
+rp: Biome stability
+rp: long-term vegetation change
+loc: semi-arid, south-eastern interior of South Africa
+meth: repeat photo-monitoring studies

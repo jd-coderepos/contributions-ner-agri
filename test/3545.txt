@@ -1,0 +1,5 @@
+Seasonal dynamics of zooplankton in the southern Chukchi Sea revealed from acoustic backscattering strength
+
+rp: Seasonal dynamics of zooplankton
+loc: southern Chukchi Sea
+meth: acoustic backscattering strength

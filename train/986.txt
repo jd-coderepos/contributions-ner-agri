@@ -1,0 +1,5 @@
+Regional variability in the impacts of future land use on summertime temperatures in Kanto region, the Japanese megacity
+
+p: Regional variability
+loc: Kanto region, the Japanese megacity
+rp: impacts of future land use

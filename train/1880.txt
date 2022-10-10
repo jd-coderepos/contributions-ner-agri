@@ -1,0 +1,5 @@
+Could the trade-off between plant burial responses and light-competition result in the zonation of dune vegetation?
+
+p: trade-off between plant burial responses and light-competition
+rp: dune vegetation
+p: zonation

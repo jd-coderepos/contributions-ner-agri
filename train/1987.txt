@@ -1,0 +1,6 @@
+Dormancy and germination characteristics of the trimorphic achenes of Garhadiolus papposus (Asteraceae), an annual ephemeral from the Junggar Desert, China
+
+rp: Dormancy
+rp: germination characteristics
+m: trimorphic achenes of Garhadiolus papposus (Asteraceae)
+loc: Junggar Desert, China

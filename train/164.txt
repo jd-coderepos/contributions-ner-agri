@@ -1,0 +1,5 @@
+Improved calibration scheme of SWAT by separating wet and dry seasons
+
+p: calibration scheme
+rp: SWAT
+meth: separating wet and dry seasons

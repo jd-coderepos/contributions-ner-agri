@@ -1,0 +1,5 @@
+Mapping rootable depth and root zone plant-available water holding capacity of the soil of sub-Saharan Africa
+
+p: Mapping rootable depth
+rp: root zone plant-available water holding capacity of the soil
+loc: sub-Saharan Africa

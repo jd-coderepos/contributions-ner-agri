@@ -1,0 +1,4 @@
+Differences in the effective population sizes of males and females do not require differences in their distribution of offspring number
+
+rp: population sizes of males and females
+p: distribution of offspring number

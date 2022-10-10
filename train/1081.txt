@@ -1,0 +1,4 @@
+Vegetation classification of the proposed Heritage Park, North-West Province, South Africa
+
+rp: Vegetation classification
+loc: proposed Heritage Park, North-West Province, South Africa

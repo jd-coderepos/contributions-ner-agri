@@ -1,0 +1,4 @@
+Challenges and opportunities in synthesizing historical geospatial data using statistical models
+
+rp: historical geospatial data
+meth: statistical models

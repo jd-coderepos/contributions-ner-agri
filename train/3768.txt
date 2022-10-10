@@ -1,0 +1,6 @@
+Post-ovulatory oocyte aging induces spontaneous occurrence of polyploids and mosaics in artificial fertilization of Japanese eel, Anguilla japonica
+
+rp: Post-ovulatory oocyte aging
+p: spontaneous occurrence of polyploids and mosaics
+m: Japanese eel, Anguilla japonica
+meth: artificial fertilization

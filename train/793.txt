@@ -1,0 +1,4 @@
+Manipulation of carbohydrate pools in strawberry
+
+rp: carbohydrate pools
+m: strawberry

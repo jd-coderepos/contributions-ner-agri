@@ -1,0 +1,4 @@
+The implicit loss function for errors in soil information
+
+p: implicit loss function
+rp: errors in soil information

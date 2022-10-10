@@ -1,0 +1,6 @@
+Climate change, drought and biodiversity: An ecophysiological perspective
+
+rp: Climate change
+rp: drought
+rp: biodiversity
+p: ecophysiological perspective

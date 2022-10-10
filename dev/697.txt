@@ -1,0 +1,5 @@
+Serological investigation of visceral Leishmania infection in human and its associated risk factors in Welkait District, Western Tigray, Ethiopia
+
+meth: Serological investigation
+rp: visceral Leishmania infection
+loc: Welkait District, Western Tigray, Ethiopia

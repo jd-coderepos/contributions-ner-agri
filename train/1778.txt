@@ -1,0 +1,7 @@
+Comparative study of the reproductive performance and White Spot Syndrome Virus (WSSV) status of black tiger shrimp (Penaeus monodon) collected from the Bay of Bengal
+
+meth: Comparative study
+rp: reproductive performance
+m: White Spot Syndrome Virus (WSSV) status
+m: black tiger shrimp (Penaeus monodon)
+loc: Bay of Bengal

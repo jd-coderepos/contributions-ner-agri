@@ -1,0 +1,4 @@
+The response of lateral buds of Pisum sativum to decapitation and selective bud excision
+
+m: lateral buds of Pisum sativum
+rp: decapitation and selective bud excision

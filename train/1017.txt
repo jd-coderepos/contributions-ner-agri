@@ -1,0 +1,5 @@
+Numerical modelling and experimental validation of a regenerative electrocaloric cooler
+
+meth: Numerical modelling
+s: experimental validation
+t: regenerative electrocaloric cooler

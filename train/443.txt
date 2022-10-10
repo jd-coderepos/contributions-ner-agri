@@ -1,0 +1,5 @@
+Bioactivity of the selected medicinal plants against Candida albicans
+
+p: Bioactivity
+m: selected medicinal plants
+m: Candida albicans

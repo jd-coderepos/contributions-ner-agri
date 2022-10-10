@@ -1,0 +1,5 @@
+Mathematical analysis to prioritise strategies for malaria elimination
+
+meth: Mathematical analysis
+s: prioritise strategies
+rp: malaria elimination

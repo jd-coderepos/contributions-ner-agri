@@ -1,0 +1,5 @@
+Besnoitia tarandi in Canadian woodland caribou – Isolation, characterization and suitability for serological tests
+
+rp: Besnoitia tarandi
+m: Canadian woodland caribou
+meth: serological tests

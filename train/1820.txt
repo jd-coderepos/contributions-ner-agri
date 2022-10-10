@@ -1,0 +1,7 @@
+Does organic farming enhance biodiversity in Mediterranean vineyards? A case study with bats and arachnids
+
+meth: organic farming
+rp: biodiversity
+loc: Mediterranean vineyards
+m: bats
+m: arachnids

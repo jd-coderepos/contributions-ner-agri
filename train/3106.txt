@@ -1,0 +1,6 @@
+Consistent variation in seed germination across an environmental gradient in a Neotropical savanna
+
+p: Consistent variation
+p: environmental gradient
+rp: seed germination
+loc: Neotropical savanna

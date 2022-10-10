@@ -1,0 +1,5 @@
+A syntaxonomic and synecological account of the vegetation of the eastern Cape midlands
+
+meth: syntaxonomic and synecological account
+rp: vegetation
+loc: eastern Cape midlands

@@ -1,0 +1,7 @@
+A field evaluation of the impact of temporary cover crops on soil properties and vegetation communities in southern Spain vineyards
+
+meth: field evaluation
+rp: impact of temporary cover crops
+p: soil properties
+m: vegetation communities
+loc: southern Spain vineyards

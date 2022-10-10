@@ -1,0 +1,6 @@
+Can developing inflorescences of Protea cv. Carnival reduce the responsiveness of non-flowering shoots to benzyladenine induction of flowers ‘out of season’?
+
+m: Protea cv. Carnival
+m: flowers ‘out of season’
+p: benzyladenine induction
+rp: responsiveness of non-flowering shoots

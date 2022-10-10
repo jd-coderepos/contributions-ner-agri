@@ -1,0 +1,5 @@
+A reappraisal of the identification and distribution of Asparagus asparagoides in southern Africa
+
+meth: reappraisal
+rp: identification and distribution of Asparagus asparagoides
+loc: southern Africa

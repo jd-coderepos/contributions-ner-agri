@@ -1,0 +1,4 @@
+Resistance or tolerance: An examination of aphid (Sitobion yakini) phloem feeding on Betta and Betta-Dn wheat (Triticum aestivum)
+
+rp: aphid (Sitobion yakini) phloem feeding
+m: Betta and Betta-Dn wheat (Triticum aestivum)

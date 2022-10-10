@@ -1,0 +1,8 @@
+A new wilt and die-back disease of Acacia mangium associated with Ceratocystis manginecans and C. acaciivora sp. nov. in Indonesia
+
+loc: Indonesia
+f: A new wilt and die-back disease of Acacia mangium associated with Ceratocystis manginecans and C. acaciivora sp. nov. in Indonesia
+m: Acacia mangium
+rp: wilt and die-back disease
+m: Ceratocystis manginecans
+m: C. acaciivora sp. nov.

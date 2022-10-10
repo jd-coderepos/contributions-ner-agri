@@ -1,0 +1,4 @@
+A preliminary investigation of extracellular enzyme production toy some species of Aspergillus
+
+rp: extracellular enzyme production
+m: species of Aspergillus

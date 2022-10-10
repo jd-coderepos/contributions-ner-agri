@@ -1,0 +1,6 @@
+Semi-stochastic models for Salmonella infection within finishing pig units in the UK
+
+loc: UK
+meth: Semi-stochastic models
+rp: Salmonella infection
+m: finishing pig units

@@ -1,0 +1,5 @@
+A new species of Protea (Proteaceae) from Namaqualand with comments on the Kamiesberg as a centre of endemism
+
+loc: Namaqualand
+loc: Kamiesberg
+rp: endemism

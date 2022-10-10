@@ -1,0 +1,4 @@
+Control of clustered action potential firing in a mathematical model of entorhinal cortex stellate cells
+
+rp: Control of clustered action potential firing
+meth: mathematical model of entorhinal cortex stellate cells

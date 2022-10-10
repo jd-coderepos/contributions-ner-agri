@@ -1,0 +1,5 @@
+Application of iPBS in high-throughput sequencing for the development of retrotransposon-based molecular markers
+
+t: iPBS
+meth: high-throughput sequencing
+rp: development of retrotransposon-based molecular markers

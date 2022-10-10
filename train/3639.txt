@@ -1,0 +1,6 @@
+Breed, age and gender distribution of dogs with chronic hepatitis in the United Kingdom
+
+rp: Breed, age and gender distribution
+m: dogs
+p: chronic hepatitis
+loc: United Kingdom

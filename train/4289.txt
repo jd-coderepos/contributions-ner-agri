@@ -1,0 +1,5 @@
+The aril of Colophospermum mopane. Its role during seed germination and fruit opening
+
+m: aril of Colophospermum mopane
+rp: seed germination
+rp: fruit opening

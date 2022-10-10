@@ -1,0 +1,6 @@
+Nitric oxide influences glycine betaine content and ascorbate peroxidase activity in maize
+
+m: Nitric oxide
+m: maize
+m: glycine betaine content
+p: ascorbate peroxidase activity

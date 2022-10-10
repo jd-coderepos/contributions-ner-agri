@@ -1,0 +1,7 @@
+Is broad-scale smoke–water application always a useful tool for improving seedling emergence in post-mining restoration? Evidence from jarrah forest restoration in Western Australia 
+
+rp: seedling emergence
+p: post-mining restoration
+t: broad-scale smoke–water application
+loc: Western Australia
+meth: jarrah forest restoration

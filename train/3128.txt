@@ -1,0 +1,6 @@
+Synthesis, X-ray structure determination and germination studies on some smoke-derived karrikins
+
+meth: Synthesis
+rp: X-ray structure determination
+rp: germination studies
+m: smoke-derived karrikins

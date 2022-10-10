@@ -1,0 +1,8 @@
+Intraspecific variation in sensitivity to ultraviolet-B radiation in endogenous hormones and photosynthetic characteristics of 10 wheat cultivars grown under field conditions
+
+rp: Intraspecific variation in sensitivity
+p: ultraviolet-B radiation
+m: endogenous hormones
+rp: photosynthetic characteristics
+m: 10 wheat cultivars
+meth: field conditions

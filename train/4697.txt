@@ -1,0 +1,5 @@
+High prevalence of intestinal worms in children up to 5years of age in Huaphan province, Lao People's Democratic Republic (PDR)
+
+rp: intestinal worms
+m: children up to 5years of age
+loc: Huaphan province, Lao People's Democratic Republic (PDR)

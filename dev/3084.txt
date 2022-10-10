@@ -1,0 +1,5 @@
+The development of an accurate DNA-based identification tool for traded and protected tree species in Southern Africa
+
+rp: accurate DNA-based identification tool
+m: traded and protected tree species
+loc: Southern Africa

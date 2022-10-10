@@ -1,0 +1,6 @@
+Computational modelling of amino acid exchange and facilitated transport in placental membrane vesicles
+
+meth: Computational modelling
+p: amino acid exchange
+p: facilitated transport
+m: placental membrane vesicles

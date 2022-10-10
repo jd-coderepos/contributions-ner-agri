@@ -1,0 +1,4 @@
+The vegetation of the protected plots at Thabamhlope Research Station
+
+rp: vegetation
+loc: protected plots at Thabamhlope Research Station

@@ -1,0 +1,6 @@
+Multiscale modelling of dual-porosity porous media; a computational pore-scale study for flow and solute transport
+
+meth: Multiscale modelling
+meth: computational pore-scale study
+rp: flow and solute transport
+m: dual-porosity porous media

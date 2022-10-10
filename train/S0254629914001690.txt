@@ -1,0 +1,5 @@
+Identification and characterization of a new allele for ZEBRA LEAF 2, a gene encoding carotenoid isomerase in rice
+
+m: rice
+m: new allele for ZEBRA LEAF 2
+rp: gene encoding carotenoid isomerase

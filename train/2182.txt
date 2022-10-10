@@ -1,0 +1,5 @@
+Assessing the prevalence of early-greening in Burkea africana woodlands across southern Africa using MODIS NDVI over 14years
+
+rp: early-greening
+loc: Burkea africana woodlands across southern Africa
+t: MODIS NDVI

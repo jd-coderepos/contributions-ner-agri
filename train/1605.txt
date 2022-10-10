@@ -1,0 +1,5 @@
+Ecological profiles of potential bush encroacher species in the Manyeleti Game Reserve
+
+rp: Ecological profiles
+m: potential bush encroacher species
+loc: Manyeleti Game Reserve

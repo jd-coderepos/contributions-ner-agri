@@ -1,0 +1,5 @@
+Phytomass and major nutrient pools in an 11-year post-fire coastal fynbos community
+
+rp: Phytomass
+rp: major nutrient pools
+m: 11-year post-fire coastal fynbos community

@@ -1,0 +1,6 @@
+Ethnobotanical survey of culinary herbs and spices used in the traditional medicinal system of Nkonkobe Municipality, Eastern Cape, South Africa
+
+meth: Ethnobotanical survey
+m: culinary herbs and spices
+rp: traditional medicinal system
+loc: Nkonkobe Municipality, Eastern Cape, South Africa

@@ -1,0 +1,6 @@
+Virulence adaptation in a rice leafhopper: Exposure to ineffective genes compromises pyramided resistance
+
+rp: Virulence adaptation
+p: pyramided resistance
+m: rice leafhopper
+m: ineffective genes

@@ -1,0 +1,6 @@
+Phenolic profile, biological activities and fraction analysis of the medicinal halophyte Retama raetam
+
+rp: Phenolic profile
+rp: biological activities
+rp: fraction analysis
+m: medicinal halophyte Retama raetam

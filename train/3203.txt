@@ -1,0 +1,5 @@
+Investigating species-level flammability across five biomes in the Eastern Cape, South Africa
+
+rp: species-level flammability
+m: five biomes
+loc: Eastern Cape, South Africa

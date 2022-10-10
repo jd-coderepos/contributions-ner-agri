@@ -1,0 +1,5 @@
+Short term recovery of vegetation and soil after abandoning cultivated mixedgrass prairies in Alberta, Canada
+
+rp: Short term recovery of vegetation and soil
+p: abandoning cultivated mixedgrass prairies
+loc: Alberta, Canada

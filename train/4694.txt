@@ -1,0 +1,7 @@
+Investigation of Vibrio alginolyticus, V. harveyi, and V. parahaemolyticus in large yellow croaker, Pseudosciaena crocea (Richardson) reared in Xiangshan Bay, China
+
+m: Vibrio alginolyticus
+m: V. harveyi
+m: V. parahaemolyticus
+m: large yellow croaker, Pseudosciaena crocea (Richardson)
+loc: Xiangshan Bay, China

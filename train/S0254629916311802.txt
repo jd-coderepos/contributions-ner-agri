@@ -1,0 +1,6 @@
+An SEM study of the external pollen morphology in Senecio and some related genera in the subtribe Senecioninae (Asteraceae: Senecioneae) 
+
+meth: SEM study
+rp: external pollen morphology
+m: subtribe Senecioninae (Asteraceae: Senecioneae)
+m: Senecio

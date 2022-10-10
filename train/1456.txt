@@ -1,0 +1,7 @@
+Antioxidant activity and protection of human umbilical vein endothelial cells from hydrogen peroxide-induced injury by DMC, a chalcone from buds of Cleistocalyx operculatus
+
+p: Antioxidant activity
+p: protection
+m: human umbilical vein endothelial cells
+m: DMC, a chalcone from buds of Cleistocalyx operculatus
+p: hydrogen peroxide-induced injury

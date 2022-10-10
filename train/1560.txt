@@ -1,0 +1,5 @@
+Isolation of β-asarone, an antibacterial and anthelmintic compound, from Acorus calamus in South Africa
+
+rp: Isolation of β-asarone, an antibacterial and anthelmintic compound
+m: Acorus calamus
+loc: South Africa

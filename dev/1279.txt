@@ -1,0 +1,6 @@
+Trees, soils, and warthogs – Distribution of services and disservices from reforestation areas in southern Ethiopia
+
+m: Trees
+m: soils
+m: warthogs
+loc: reforestation areas in southern Ethiopia

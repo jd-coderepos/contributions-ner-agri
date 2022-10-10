@@ -1,0 +1,8 @@
+Mice pollinate the Pagoda Lily, Whiteheadia bifolia (Hyacinthaceae) — First field observations with photographic documentation of rodent pollination in South Africa
+
+m: Mice
+p: pollinate
+m: Pagoda Lily, Whiteheadia bifolia (Hyacinthaceae)
+loc: South Africa
+meth: photographic documentation
+rp: rodent pollination

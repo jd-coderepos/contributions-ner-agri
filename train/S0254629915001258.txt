@@ -1,0 +1,4 @@
+Identifying phenological functional types of semi-arid savanna trees 
+
+m: semi-arid savanna trees
+rp: phenological functional types

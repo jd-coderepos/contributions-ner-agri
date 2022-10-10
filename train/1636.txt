@@ -1,0 +1,6 @@
+Scaling down bread production for quality assessment using a breadmaker: Are results from a breadmaker representative of other breadmaking methods?
+
+s: Scaling down bread production
+t: breadmaker
+p: quality assessment
+rp: breadmaking methods

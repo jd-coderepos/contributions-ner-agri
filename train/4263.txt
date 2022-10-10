@@ -1,0 +1,8 @@
+On the co-occurrence of two exotic, invasive marine organisms: the brown seaweed Sargassum muticum (Yendo) Fensholt and the Spirorbid tube worm Janua (Neodexiospira) brasiliensis (Grube), in association with the indigenous eelgrass, Zostera marina L. and Wrack, Fucus serratus L. in the south-west Netherlands and the Channel Islands, Europe
+
+m: exotic, invasive marine organisms
+m: indigenous eelgrass, Zostera marina L. and Wrack, Fucus serratus L.
+m: brown seaweed Sargassum muticum (Yendo) Fensholt
+m: Spirorbid tube worm Janua (Neodexiospira) brasiliensis (Grube)
+loc: south-west Netherlands
+loc: Channel Islands, Europe

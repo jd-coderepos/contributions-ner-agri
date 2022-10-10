@@ -1,0 +1,6 @@
+Ameliorative activity of aqueous root extracts of Dicoma anomala against isoproterenol induced Myocardial infarction in rats
+
+rp: Ameliorative activity
+m: aqueous root extracts of Dicoma anomala
+m: rats
+p: isoproterenol induced Myocardial infarction

@@ -1,0 +1,6 @@
+State transitions in the cyanobacterium Synechococcus elongatus 7942 involve reversible quenching of the photosystem II core
+
+p: State transitions
+m: cyanobacterium Synechococcus elongatus 7942
+m: photosystem II core
+meth: reversible quenching

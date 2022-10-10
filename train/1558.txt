@@ -1,0 +1,6 @@
+Pharmacological screening of traditional medicinal plants used to treat skin ailments in the Free State Province of South Africa
+
+meth: Pharmacological screening
+rp: traditional medicinal plants
+p: skin ailments
+loc: Free State Province of South Africa

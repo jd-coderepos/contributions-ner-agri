@@ -1,0 +1,7 @@
+Wild flower harvesting on the Agulhas Plain, South Africa: Impact of harvesting intensity under a simulated commercial harvesting regime for two re-seeding and two re-sprouting fynbos species
+
+rp: Wild flower harvesting
+loc: Agulhas Plain, South Africa
+p: harvesting intensity
+p: simulated commercial harvesting regime
+m: fynbos species

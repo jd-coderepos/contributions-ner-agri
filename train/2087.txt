@@ -1,0 +1,6 @@
+The effect of n6-benzyladenine on multiple shoot induction on soybean for subsequent Agrobacterium-mediated genetic transformation
+
+m: n6-benzyladenine
+rp: multiple shoot induction
+m: soybean
+p: Agrobacterium-mediated genetic transformation

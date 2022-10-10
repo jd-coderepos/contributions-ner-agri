@@ -1,0 +1,6 @@
+Understanding the creek dynamics and environmental characteristics that determine the distribution of mangrove and salt marsh communities at Nahoon Estuary
+
+p: creek dynamics
+p: environmental characteristics
+rp: distribution of mangrove and salt marsh communities
+loc: Nahoon Estuary

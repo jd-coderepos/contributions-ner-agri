@@ -1,0 +1,5 @@
+Importance of partial barriers and temporal variation in flow when modelling connectivity in fragmented river systems
+
+m: partial barriers
+p: temporal variation in flow
+rp: modelling connectivity in fragmented river systems

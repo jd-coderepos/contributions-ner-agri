@@ -1,0 +1,5 @@
+Global patterns of the effects of land-use changes on soil carbon stocks
+
+p: Global patterns
+rp: land-use changes
+m: soil carbon stocks

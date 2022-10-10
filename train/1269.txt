@@ -1,0 +1,5 @@
+Application of microbial electrolysis cells to treat spent yeast from an alcoholic fermentation
+
+m: microbial electrolysis cells
+m: spent yeast
+p: alcoholic fermentation

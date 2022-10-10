@@ -1,0 +1,6 @@
+Karrikinolide residues in grassland soils following fire: Implications on germination activity
+
+m: Karrikinolide residues
+rp: germination activity
+m: grassland soils
+p: fire

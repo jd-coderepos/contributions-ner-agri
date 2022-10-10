@@ -1,0 +1,4 @@
+The role of population inertia in predicting the outcome of stage-structured biological invasions
+
+p: population inertia
+rp: predicting the outcome of stage-structured biological invasions

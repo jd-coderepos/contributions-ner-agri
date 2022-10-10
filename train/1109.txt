@@ -1,0 +1,5 @@
+The fire-vegetation-climate system - how ecology can contribute to earth system science
+
+s: fire-vegetation-climate system
+p: ecology
+rp: earth system science

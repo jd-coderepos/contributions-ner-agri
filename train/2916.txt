@@ -1,0 +1,6 @@
+Characterisation of two soybean (Glycine max L.) LEA 4 proteins — circular dichroism and Fourier transform infrared studies
+
+meth: Characterisation
+m: soybean (Glycine max L.) LEA 4 proteins
+rp: circular dichroism
+rp: Fourier transform infrared studies

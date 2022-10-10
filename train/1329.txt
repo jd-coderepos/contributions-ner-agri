@@ -1,0 +1,4 @@
+Estimation of the HIV-1 backward mutation rate from transmitted drug-resistant strains
+
+rp: HIV-1 backward mutation rate
+m: transmitted drug-resistant strains

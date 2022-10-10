@@ -1,0 +1,6 @@
+An energetic reformulation of kinetic rate laws enables scalable parameter estimation for biochemical networks
+
+meth: energetic reformulation
+rp: kinetic rate laws
+p: scalable parameter estimation
+meth: biochemical networks

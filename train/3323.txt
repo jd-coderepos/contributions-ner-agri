@@ -1,0 +1,6 @@
+Does smoke substitute for red light in the germination of light-sensitive lettuce seeds by affecting gibberellin metabolism?
+
+m: smoke
+p: red light
+rp: germination of light-sensitive lettuce seeds
+p: gibberellin metabolism

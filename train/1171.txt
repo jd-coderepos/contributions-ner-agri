@@ -1,0 +1,7 @@
+Transpiration and water-use efficiency in response to water stress in Themeda triandra and Eragrostis lehmanniana
+
+p: Transpiration
+p: water-use efficiency
+rp: water stress
+m: Themeda triandra
+m: Eragrostis lehmanniana

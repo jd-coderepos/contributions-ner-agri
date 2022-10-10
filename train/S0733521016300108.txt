@@ -1,0 +1,4 @@
+Food safety: Structure and expression of the asparagine synthetase gene family of wheat
+
+m: asparagine synthetase gene family of wheat
+rp: Food safety

@@ -1,0 +1,8 @@
+Trichomes, essential oil composition and biological activities of Salvia albicaulis Benth. and S. dolomitica Codd, two species from the Cape region of South Africa
+
+rp: Trichomes
+rp: essential oil composition
+rp: biological activities
+m: Salvia albicaulis Benth.
+m: S. dolomitica Codd
+loc: Cape region of South Africa

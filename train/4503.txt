@@ -1,0 +1,6 @@
+Effect of ethanol and acetone on photochemical reactions in isolated chloroplasts of Phaseolus vulgaris
+
+m: ethanol
+m: acetone
+rp: photochemical reactions
+m: isolated chloroplasts of Phaseolus vulgaris

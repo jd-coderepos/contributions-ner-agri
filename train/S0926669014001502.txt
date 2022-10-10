@@ -1,0 +1,6 @@
+Comparison of response surface methodology (RSM) and artificial neural networks (ANN) towards efficient extraction of artemisinin from Artemisia annua
+
+m: Artemisia annua
+meth: response surface methodology (RSM)
+meth: artificial neural networks (ANN)
+rp: efficient extraction of artemisinin

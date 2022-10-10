@@ -1,0 +1,6 @@
+Ecology of Salix variegata seed germination: Implications for species distribution and conservation in the Three Gorges region
+
+loc: Three Gorges region
+m: Salix variegata
+p: seed germination
+rp: species distribution and conservation

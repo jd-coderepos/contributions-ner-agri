@@ -1,0 +1,5 @@
+Micropropagation and protein profile analysis by SDS-PAGE of Gracilaria changii (Rhodophyta, Solieriaceae)
+
+m: SDS-PAGE of Gracilaria changii (Rhodophyta, Solieriaceae)
+rp: Micropropagation
+rp: protein profile analysis

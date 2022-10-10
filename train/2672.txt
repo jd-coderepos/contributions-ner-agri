@@ -1,0 +1,4 @@
+Prediction of the Diplocarpon rosae secretome reveals candidate genes for effectors and virulence factors
+
+s: Prediction of the Diplocarpon rosae secretome
+rp: candidate genes for effectors and virulence factors

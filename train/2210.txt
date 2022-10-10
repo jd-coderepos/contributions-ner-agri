@@ -1,0 +1,5 @@
+Antibacterial activities of the methanol extracts and compounds from Uapaca togoensis against Gram-negative multi-drug resistant phenotypes
+
+rp: Antibacterial activities
+m: methanol extracts and compounds from Uapaca togoensis
+m: Gram-negative multi-drug resistant phenotypes

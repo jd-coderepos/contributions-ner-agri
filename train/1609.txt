@@ -1,0 +1,6 @@
+Assessment of genetic stability amongst micropropagated Ansellia africana, a vulnerable medicinal orchid species of Africa using SCoT markers
+
+rp: Assessment of genetic stability
+m: micropropagated Ansellia africana, a vulnerable medicinal orchid species
+loc: Africa
+meth: SCoT markers

@@ -1,0 +1,6 @@
+Effect of arbuscular mycorrhizal fungi inoculation on root traits and root volatile organic compound emissions of Sorghum bicolor
+
+rp: arbuscular mycorrhizal fungi inoculation
+m: root traits
+p: root volatile organic compound emissions
+m: Sorghum bicolor

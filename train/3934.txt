@@ -1,0 +1,5 @@
+The molecular analysis of the effects of the rhizosphere signal molecule lumichrome as a plant growth promoter
+
+meth: molecular analysis
+m: rhizosphere signal molecule lumichrome
+rp: plant growth promoter

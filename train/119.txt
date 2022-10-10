@@ -1,0 +1,6 @@
+Heat stimulated germination in relation to seed characteristics in fynbos legumes of the Western Cape Province, South Africa
+
+rp: Heat stimulated germination
+rp: seed characteristics
+m: fynbos legumes
+loc: Western Cape Province, South Africa

@@ -1,0 +1,6 @@
+Lessons learned from applying a forest gap model to understand ecosystem and carbon dynamics of complex tropical forests
+
+meth: forest gap model
+rp: ecosystem
+rp: carbon dynamics
+m: complex tropical forests

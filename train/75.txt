@@ -1,0 +1,6 @@
+Yeast alpha glucosidase inhibitory and antioxidant activities of six medicinal plants collected in Phalaborwa, South Africa
+
+m: Yeast alpha glucosidase
+rp: inhibitory and antioxidant activities
+m: six medicinal plants
+loc: Phalaborwa, South Africa

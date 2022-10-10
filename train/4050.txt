@@ -1,0 +1,5 @@
+Agro-morphological characterization and assessment of variability, heritability, genetic advance and divergence in bacterial blight resistant rice genotypes
+
+meth: Agro-morphological characterization
+rp: assessment of variability, heritability, genetic advance and divergence
+m: bacterial blight resistant rice genotypes

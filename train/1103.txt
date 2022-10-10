@@ -1,0 +1,7 @@
+Physiological analysis of salt stress behaviour of citrus species and genera: Low chloride accumulation as an indicator of salt tolerance
+
+meth: Physiological analysis
+rp: salt stress behaviour
+m: citrus species
+p: Low chloride accumulation
+p: salt tolerance

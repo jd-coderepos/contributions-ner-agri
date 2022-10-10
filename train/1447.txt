@@ -1,0 +1,5 @@
+A revision of the Brunsvigia radula-group (Amaryllidaceae: Amaryllideae) of species in South Africa, including the description of Brunsvigia gariepensis a new species from Bushmanland in Northern Cape
+
+m: Brunsvigia radula-group (Amaryllidaceae: Amaryllideae) of species
+loc: South Africa
+loc: Bushmanland in Northern Cape

@@ -1,0 +1,5 @@
+Phosphorus limitation during a phytoplankton spring bloom in the western Dutch Wadden Sea
+
+rp: Phosphorus limitation
+p: phytoplankton spring bloom
+loc: western Dutch Wadden Sea

@@ -1,0 +1,5 @@
+Thermodynamic modelling and parameter determination of ejector for ejection refrigeration systems
+
+meth: Thermodynamic modelling
+meth: parameter determination
+t: ejector for ejection refrigeration systems

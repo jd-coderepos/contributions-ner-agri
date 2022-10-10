@@ -1,0 +1,5 @@
+Analysis of the spontaneous vegetation of intensively managed urban open spaces in the Potchefstroom Municipal Area, North West Province, South Africa
+
+rp: spontaneous vegetation
+m: intensively managed urban open spaces
+loc: Potchefstroom Municipal Area, North West Province, South Africa

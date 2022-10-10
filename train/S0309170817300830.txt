@@ -1,0 +1,5 @@
+Sampling design optimisation for rainfall prediction using a non-stationary geostatistical model
+
+rp: rainfall prediction
+meth: non-stationary geostatistical model
+s: Sampling design optimisation

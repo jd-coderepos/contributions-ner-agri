@@ -1,0 +1,4 @@
+A microbial model of economic trading and comparative advantage
+
+meth: microbial model
+rp: economic trading

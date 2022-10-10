@@ -1,0 +1,5 @@
+PICS bags safely store unshelled and shelled groundnuts in Niger 
+
+loc: Niger
+t: PICS bags
+m: unshelled and shelled groundnuts

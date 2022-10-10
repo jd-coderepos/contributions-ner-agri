@@ -1,0 +1,5 @@
+The spatial spread of schistosomiasis: A multidimensional network model applied to Saint-Louis region, Senegal
+
+rp: spatial spread of schistosomiasis
+meth: multidimensional network model
+rp: Saint-Louis region, Senegal

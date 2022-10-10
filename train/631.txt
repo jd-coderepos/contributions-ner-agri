@@ -1,0 +1,4 @@
+Grouping of early maturing quality protein maize inbreds based on SNP markers and combining ability under multiple environments
+
+m: early maturing quality protein maize inbreds
+t: SNP markers

@@ -1,0 +1,6 @@
+Examining affective structure in chickens: valence, intensity, persistence and generalization measured using a Conditioned Place Preference Test
+
+rp: Examining affective structure
+m: chickens
+p: valence, intensity, persistence and generalization
+meth: Conditioned Place Preference Test

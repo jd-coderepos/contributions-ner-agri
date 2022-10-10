@@ -1,0 +1,6 @@
+Land fragmentation index for drip-irrigated field systems in the Mediterranean: A case study from Ricote (Murcia, SE Spain)
+
+rp: Land fragmentation index
+t: drip-irrigated field systems
+loc: Mediterranean
+loc: Ricote (Murcia, SE Spain)

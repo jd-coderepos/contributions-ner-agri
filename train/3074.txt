@@ -1,0 +1,7 @@
+Effects of salt stress on ion content, antioxidant enzymes and protein profile in different tissues of Broussonetia papyrifera
+
+meth: salt stress
+rp: ion content
+rp: antioxidant enzymes
+rp: protein profile
+m: different tissues of Broussonetia papyrifera

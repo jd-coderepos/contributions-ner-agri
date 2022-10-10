@@ -1,0 +1,7 @@
+Critical review of the impacts of grazing intensity on soil organic carbon storage and other soil quality indicators in extensively managed grasslands
+
+meth: Critical review
+rp: grazing intensity
+p: soil organic carbon storage
+m: soil quality indicators
+m: extensively managed grasslands

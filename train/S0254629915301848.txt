@@ -1,0 +1,7 @@
+The effects of elevated CO2 and nitrogen availability supersedes the need for nodulation in peas grown under controlled environmental conditions 
+
+f: The effects of elevated CO2 and nitrogen availability supersedes the need for nodulation in peas grown under controlled environmental conditions
+m: peas
+m: CO2
+m: nitrogen
+meth: controlled environmental conditions

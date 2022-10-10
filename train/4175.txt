@@ -1,0 +1,7 @@
+Antimycobacterial activity against different pathogens and selectivity index of fourteen medicinal plants used in southern Africa to treat tuberculosis and respiratory ailments
+
+rp: Antimycobacterial activity
+rp: tuberculosis and respiratory ailments
+m: pathogens
+p: selectivity index of fourteen medicinal plants
+loc: southern Africa

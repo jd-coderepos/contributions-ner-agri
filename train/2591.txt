@@ -1,0 +1,6 @@
+Increasing yield stability and input efficiencies with cost-effective mechanization in Nepal
+
+rp: yield stability
+rp: input efficiencies
+meth: cost-effective mechanization
+loc: Nepal

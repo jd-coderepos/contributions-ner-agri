@@ -1,0 +1,5 @@
+The transmission process: A combinatorial stochastic process for the evolution of transmission trees over networks
+
+p: combinatorial stochastic process
+rp: evolution of transmission trees
+meth: networks

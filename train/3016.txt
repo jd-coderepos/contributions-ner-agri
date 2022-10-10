@@ -1,0 +1,5 @@
+Plant regeneration from seed-derived callus of Arctotis arctotoides (L.F.) O. Hoffm.: A medicinal herb of the family Asteraceae
+
+rp: Plant regeneration
+m: seed-derived callus of Arctotis arctotoides (L.F.) O. Hoffm.
+m: medicinal herb of the family Asteraceae

@@ -1,0 +1,6 @@
+Chemical composition of Cinnamosma madagascariensis (Cannelaceae) essential oil and its larvicidal potential against the filariasis vector Culex quinquefasciatus Say
+
+rp: Chemical composition
+m: Cinnamosma madagascariensis (Cannelaceae) essential oil
+m: filariasis vector Culex quinquefasciatus Say
+p: larvicidal potential

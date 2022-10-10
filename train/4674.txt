@@ -1,0 +1,5 @@
+Databases and bioinformatics tools for rice research
+
+m: Databases
+meth: bioinformatics tools
+rp: rice research

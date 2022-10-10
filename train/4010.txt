@@ -1,0 +1,6 @@
+Germination activity of smoke residues in soils following a fire
+
+rp: Germination activity
+m: smoke residues
+m: soils
+p: fire

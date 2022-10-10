@@ -1,0 +1,5 @@
+The vegetation of the Roodeplaat Dam Nature Reserve. IV. Phenology and climate
+
+rp: vegetation
+loc: Roodeplaat Dam Nature Reserve
+p: Phenology and climate

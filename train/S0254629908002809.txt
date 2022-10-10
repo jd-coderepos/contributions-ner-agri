@@ -1,0 +1,8 @@
+The effect of medium, carbon source and explant on regeneration and control of shoot-tip necrosis in Harpagophytum procumbens
+
+m: Harpagophytum procumbens
+rp: shoot-tip necrosis
+p: regeneration and control
+m: medium
+m: carbon source
+m: explant

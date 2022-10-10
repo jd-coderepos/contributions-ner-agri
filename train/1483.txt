@@ -1,0 +1,6 @@
+Stress tolerance and 16S–23S rRNA-RFLP analysis of Bradyrhizobium population nodulating groundnut (Arachis hypogaea) in South African soil
+
+rp: Stress tolerance
+rp: 16S–23S rRNA-RFLP analysis
+m: Bradyrhizobium population nodulating groundnut (Arachis hypogaea)
+m: South African soil

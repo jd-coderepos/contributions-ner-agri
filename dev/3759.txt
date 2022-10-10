@@ -1,0 +1,6 @@
+Medical and entomological malarial interventions, a comparison and synergy of two control measures using a Ross/Macdonald model variant and openmalaria simulation
+
+rp: Medical and entomological malarial interventions
+p: control measures
+meth: Ross/Macdonald model variant
+meth: openmalaria simulation

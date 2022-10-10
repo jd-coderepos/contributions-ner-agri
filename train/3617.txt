@@ -1,0 +1,5 @@
+The antimicrobial effect of metal substrates on food pathogens
+
+rp: antimicrobial effect
+m: metal substrates
+m: food pathogens

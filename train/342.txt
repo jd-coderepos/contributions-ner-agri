@@ -1,0 +1,6 @@
+Anatomy, trichome morphology and palynology of Salvia chrysophylla Stapf (Lamiaceae)
+
+rp: Anatomy
+rp: trichome morphology
+rp: palynology
+m: Salvia chrysophylla Stapf (Lamiaceae)

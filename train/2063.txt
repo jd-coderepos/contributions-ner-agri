@@ -1,0 +1,6 @@
+LC–MS-based metabolomics assists with quality assessment and traceability of wild and cultivated plants of Sutherlandia frutescens (Fabaceae)
+
+rp: LC–MS-based metabolomics
+p: quality assessment
+p: traceability
+m: wild and cultivated plants of Sutherlandia frutescens (Fabaceae)

@@ -1,0 +1,5 @@
+Repeated nitrogen starvation doesn’t affect lipid productivity of Chlorococcum littorale
+
+p: nitrogen starvation
+rp: lipid productivity
+m: Chlorococcum littorale

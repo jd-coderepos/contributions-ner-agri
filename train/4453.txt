@@ -1,0 +1,5 @@
+Vegetative and floral phenology of three mangroves in Mgeni Estuary
+
+rp: Vegetative and floral phenology
+m: three mangroves
+loc: Mgeni Estuary

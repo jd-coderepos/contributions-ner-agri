@@ -1,0 +1,7 @@
+Ethnobotany, leaf anatomy, essential oil composition and antibacterial activity of Pteronia onobromoides (Asteraceae)
+
+rp: Ethnobotany
+rp: leaf anatomy
+rp: essential oil composition
+rp: antibacterial activity
+m: Pteronia onobromoides (Asteraceae)

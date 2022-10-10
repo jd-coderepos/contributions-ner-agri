@@ -1,0 +1,5 @@
+The comparative growth rates of indigenous street and garden trees in Grahamstown, South Africa
+
+rp: comparative growth rates
+m: indigenous street and garden trees
+loc: Grahamstown, South Africa

@@ -1,0 +1,6 @@
+A molecular systematic investigation of Cymopterus and its allies (Apiaceae) based on phylogenetic analyses of nuclear (ITS) and plastid (rps16 intron) DNA sequences
+
+meth: molecular systematic investigation
+m: Cymopterus and its allies (Apiaceae)
+m: nuclear (ITS) and plastid (rps16 intron) DNA sequences
+meth: phylogenetic analyses

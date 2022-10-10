@@ -1,0 +1,6 @@
+Using experimental de-worming to measure the immunological and pathological impacts of lungworm infection in cane toads
+
+meth: experimental de-worming
+p: immunological and pathological impacts
+rp: lungworm infection
+m: cane toads

@@ -1,0 +1,7 @@
+Parental control over feeding in infancy. Influence of infant weight, appetite and feeding method
+
+meth: Parental control
+rp: feeding in infancy
+m: infant weight
+m: appetite
+m: feeding method

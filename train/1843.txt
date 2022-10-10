@@ -1,0 +1,5 @@
+Training response inhibition to food is associated with weight loss and reduced energy intake
+
+rp: response inhibition to food
+p: weight loss
+p: reduced energy intake

@@ -1,0 +1,6 @@
+History of Occurrence and Present Home Territory Sizes for Black-Tailed Prairie Dogs on the Standing Rock Sioux Reservation 
+
+loc: Standing Rock Sioux Reservation
+m: Black-Tailed Prairie Dogs
+rp: History of Occurrence
+rp: Present Home Territory Sizes

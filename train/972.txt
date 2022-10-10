@@ -1,0 +1,6 @@
+Acidification of prehydrolysis liquor and spent liquor of neutral sulfite semichemical pulping process
+
+meth: Acidification
+m: prehydrolysis liquor
+m: spent liquor
+p: neutral sulfite semichemical pulping process

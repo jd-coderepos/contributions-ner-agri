@@ -1,0 +1,5 @@
+Dewatering treatments to increase dry matter content of the brown seaweed, kelp (Laminaria digitata ((Hudson) JV Lamouroux))
+
+rp: Dewatering treatments
+m: dry matter content
+m: brown seaweed, kelp (Laminaria digitata ((Hudson) JV Lamouroux))

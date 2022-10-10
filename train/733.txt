@@ -1,0 +1,5 @@
+Response of the soil water content of mobile dunes to precipitation patterns in Inner Mongolia, northern China
+
+rp: soil water content of mobile dunes
+p: precipitation patterns
+loc: Inner Mongolia, northern China

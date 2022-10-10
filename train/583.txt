@@ -1,0 +1,4 @@
+Genera Palmarum. A classification of palms based on the work of Harold E. Moore, Jr.
+
+rp: A classification of palms
+f: Genera Palmarum

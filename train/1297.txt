@@ -1,0 +1,5 @@
+Bioefficacy of ecbolin A and ecbolin B isolated from Ecbolium viride (Forsk.) Alston on dengue vector Aedes aegypti L. (Diptera: Culicidae)
+
+rp: Bioefficacy of ecbolin A and ecbolin B
+m: Ecbolium viride (Forsk.) Alston
+m: dengue vector Aedes aegypti L. (Diptera: Culicidae)

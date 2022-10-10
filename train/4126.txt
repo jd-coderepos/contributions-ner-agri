@@ -1,0 +1,7 @@
+Cytotoxic, antimicrobial, antioxidant, antilipoxygenase activities and phenolic composition of Ozoroa and Searsia species (Anacardiaceae) used in South African traditional medicine for treating diarrhoea
+
+rp: Cytotoxic, antimicrobial, antioxidant, antilipoxygenase activities
+p: phenolic composition
+rp: treating diarrhoea
+m: Ozoroa and Searsia species (Anacardiaceae)
+meth: South African traditional medicine

@@ -1,0 +1,5 @@
+A proteomics-based identification of putative biomarkers for disease in bovine milk
+
+meth: proteomics-based identification
+rp: putative biomarkers for disease
+m: bovine milk

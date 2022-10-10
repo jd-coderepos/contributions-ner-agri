@@ -1,0 +1,6 @@
+Comparison of photosynthetic temperature and light optima in selected C3 and C4 grasses from the E. Cape/Ciskei region
+
+rp: photosynthetic temperature
+rp: light optima
+m: selected C3 and C4 grasses
+loc: E. Cape/Ciskei region

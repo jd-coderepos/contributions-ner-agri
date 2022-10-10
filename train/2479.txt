@@ -1,0 +1,6 @@
+Further studies on the use of phenolic acids in the chemotaxonomy of the genus Sarcocaulon
+
+meth: Further studies
+m: phenolic acids
+m: genus Sarcocaulon
+rp: chemotaxonomy

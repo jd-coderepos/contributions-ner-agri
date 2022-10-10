@@ -1,0 +1,6 @@
+Photosynthetic performance of soybean plants to water deficit under high and low light intensity
+
+rp: Photosynthetic performance
+p: water deficit
+m: soybean plants
+p: high and low light intensity

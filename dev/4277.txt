@@ -1,0 +1,4 @@
+Progress with the trial phase for registration of new plant names
+
+p: trial phase
+rp: registration of new plant names

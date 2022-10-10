@@ -1,0 +1,7 @@
+Leaf water potential responses of three bean varieties to water stress during flowering in a semi-arid environment of Kenya
+
+rp: Leaf water potential responses
+m: three bean varieties
+p: water stress
+p: flowering
+loc: Kenya

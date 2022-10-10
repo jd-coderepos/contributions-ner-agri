@@ -1,0 +1,5 @@
+The ethnobotany and pharmacognosy of Olea europaea subsp. africana (Oleaceae)
+
+rp: ethnobotany
+rp: pharmacognosy
+m: Olea europaea subsp. africana (Oleaceae)

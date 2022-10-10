@@ -1,0 +1,4 @@
+Carbohydrate production in guayule
+
+rp: Carbohydrate production
+m: guayule

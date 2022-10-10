@@ -1,0 +1,5 @@
+Vegetation changes after single fire-events in the Okavango Delta wetland, Botswana
+
+rp: Vegetation changes
+m: single fire-events
+loc: Okavango Delta wetland, Botswana

@@ -1,0 +1,5 @@
+Cadmium-induced oxidative damage in mustard [Brassica juncea (L.) Czern. & Coss.] plants can be alleviated by salicylic acid
+
+rp: Cadmium-induced oxidative damage
+m: mustard [Brassica juncea (L.) Czern. & Coss.] plants
+m: salicylic acid

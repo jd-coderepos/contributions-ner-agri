@@ -1,0 +1,5 @@
+Identification of pre-zygotic reproductive and morphological barriers limiting controlled crossed seed production of triploid Acacia mearnsii
+
+p: pre-zygotic reproductive and morphological barriers
+m: triploid Acacia mearnsii
+rp: crossed seed production

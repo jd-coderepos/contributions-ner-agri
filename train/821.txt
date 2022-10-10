@@ -1,0 +1,6 @@
+Microsatellite DNA fingerprinting and cultivar identification in sugarcane using a semi-automated genetic analyser
+
+rp: Microsatellite DNA fingerprinting
+rp: cultivar identification
+meth: semi-automated genetic analyser
+m: sugarcane

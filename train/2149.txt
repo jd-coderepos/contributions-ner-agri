@@ -1,0 +1,8 @@
+Somaclonal variation among somatic embryo derived plants — Evaluation of agronomically important somaclones and detection of genetic changes by RAPD in Cymbopogon winterianus
+
+rp: Somaclonal variation
+m: agronomically important somaclones
+p: detection of genetic changes
+m: somatic embryo derived plants
+t: RAPD
+m: Cymbopogon winterianus

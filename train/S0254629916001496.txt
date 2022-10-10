@@ -1,0 +1,5 @@
+The ecological status of plants endemic to Soutpansberg area in Limpopo Province, South Africa
+
+loc: Soutpansberg area in Limpopo Province, South Africa
+rp: ecological status
+m: plants

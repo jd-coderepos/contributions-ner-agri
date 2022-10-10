@@ -1,0 +1,5 @@
+Non-destructive estimation of content using near-infrared spectroscopy to rapidly asses kraft pulp yeild of Eucalyptus grandis
+
+p: Non-destructive estimation of content
+t: near-infrared spectroscopy
+m: kraft pulp yeild of Eucalyptus grandis

@@ -1,0 +1,5 @@
+Plant communities of the Ad land type in the Newcastle – Memel – Chelmsford Dam area
+
+rp: Plant communities
+m: Ad land type
+loc: Newcastle – Memel – Chelmsford Dam area

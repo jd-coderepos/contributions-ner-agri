@@ -1,0 +1,5 @@
+Antimicrobial activity of medicinal plants against oral microorganisms
+
+rp: Antimicrobial activity
+m: medicinal plants
+p: oral microorganisms

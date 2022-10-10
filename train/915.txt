@@ -1,0 +1,5 @@
+Survey of fungi associated with grass roots in virgin soils on the Springbok Flats
+
+m: fungi associated with grass roots
+m: virgin soils
+loc: Springbok Flats

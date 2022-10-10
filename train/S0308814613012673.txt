@@ -1,0 +1,7 @@
+Atmospheric pressure chemical ionisation mass spectrometry analysis linked with chemometrics for food classification – A case study: Geographical provenance and cultivar classification of monovarietal clarified apple juices
+
+rp: food classification
+meth: Atmospheric pressure chemical ionisation mass spectrometry analysis
+meth: chemometrics
+m: monovarietal clarified apple juices
+rp: Geographical provenance and cultivar classification

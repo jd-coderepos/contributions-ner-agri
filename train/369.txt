@@ -1,0 +1,8 @@
+Influence of salinity and temperature on seed germination rate and the hydrotime model parameters for the halophyte, Chloris virgata, and the glycophyte, Digitaria sanguinalis
+
+p: salinity
+p: temperature
+rp: seed germination rate
+rp: hydrotime model parameters
+m: halophyte, Chloris virgata
+m: glycophyte, Digitaria sanguinalis

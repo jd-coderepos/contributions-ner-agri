@@ -1,0 +1,4 @@
+The selfish herd: Noise effects in Local Crowded Horizon and Voronoi models
+
+rp: Noise effects
+meth: Local Crowded Horizon and Voronoi models

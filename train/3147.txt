@@ -1,0 +1,6 @@
+Heterologous expression of EsSPDS1 in tobacco plants improves drought tolerance with efficient reactive oxygen species scavenging systems
+
+p: Heterologous expression
+m: EsSPDS1 in tobacco plants
+rp: drought tolerance
+meth: efficient reactive oxygen species scavenging systems

@@ -1,0 +1,8 @@
+Epidemiology of pituitary pars intermedia dysfunction: A systematic literature review of clinical presentation, disease prevalence and risk factors
+
+p: Epidemiology
+rp: pituitary pars intermedia dysfunction
+meth: systematic literature review
+p: clinical presentation
+p: disease prevalence
+p: risk factors

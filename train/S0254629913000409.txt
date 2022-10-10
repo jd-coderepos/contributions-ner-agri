@@ -1,0 +1,5 @@
+Savanna woody plant dynamics; The role of bark thickness
+
+loc: Savanna
+rp: Savanna woody plant dynamics
+m: bark thickness

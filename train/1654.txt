@@ -1,0 +1,6 @@
+Trees for life: The ecosystem service contribution of trees to food production and livelihoods in the tropics
+
+rp: ecosystem service contribution of trees
+loc: tropics
+p: food production
+p: livelihoods

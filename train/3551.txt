@@ -1,0 +1,6 @@
+Farm systems assessment of bioenergy feedstock production: Integrating bio-economic models and life cycle analysis approaches
+
+meth: Farm systems assessment
+rp: bioenergy feedstock production
+p: bio-economic models
+p: life cycle analysis approaches

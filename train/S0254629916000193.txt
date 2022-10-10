@@ -1,0 +1,6 @@
+Kinetics and molecular docking of vasicine from Adhatoda vasica: An acetylcholinesterase inhibitor for Alzheimer's disease
+
+p: Kinetics and molecular docking
+rp: Alzheimer's disease
+s: acetylcholinesterase inhibitor
+m: vasicine from Adhatoda vasica

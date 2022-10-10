@@ -1,0 +1,5 @@
+DNA profiling of Persea americana using AFLP markers
+
+rp: DNA profiling
+m: Persea americana
+meth: AFLP markers

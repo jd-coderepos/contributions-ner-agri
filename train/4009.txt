@@ -1,0 +1,7 @@
+Alleviation of hyperhydricity of sugarcane plantlets produced in RITA® vessels and genotypic and phenotypic characterization of acclimated plants
+
+rp: Alleviation of hyperhydricity
+m: sugarcane plantlets
+m: RITA® vessels
+m: acclimated plants
+rp: genotypic and phenotypic characterization

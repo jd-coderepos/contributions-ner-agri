@@ -1,0 +1,4 @@
+The use of Landsat imagery for the identification of the remaining West Coast Renosterveld fragments, Western Cape Province, South Africa
+
+meth: Landsat imagery
+loc: remaining West Coast Renosterveld fragments, Western Cape Province, South Africa

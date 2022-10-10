@@ -1,0 +1,6 @@
+Pollination of an alien hummingbird-pollinated plant (Nicotiana glauca) by hovering sunbirds (Nectarinia famosa): Effects on each others distribution
+
+rp: Pollination
+m: alien hummingbird-pollinated plant (Nicotiana glauca)
+m: hovering sunbirds (Nectarinia famosa):
+p: distribution

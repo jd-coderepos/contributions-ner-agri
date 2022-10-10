@@ -1,0 +1,4 @@
+The accuracy of estimates of the overturning circulation from basin-wide mooring arrays
+
+rp: estimates of the overturning circulation
+meth: basin-wide mooring arrays

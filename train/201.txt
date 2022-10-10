@@ -1,0 +1,5 @@
+Correlated fluorescence quenching and topographic mapping of Light-Harvesting Complex II within surface-assembled aggregates and lipid bilayers
+
+rp: Correlated fluorescence quenching
+rp: topographic mapping
+m: Light-Harvesting Complex II within surface-assembled aggregates and lipid bilayers

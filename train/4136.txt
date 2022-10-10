@@ -1,0 +1,6 @@
+Direct and indirect in vitro plant regeneration and the effect of brassinolide on callus differentiation of Populus euphratica Oliv.
+
+rp: Direct and indirect in vitro plant regeneration
+p: effect of brassinolide
+rp: callus differentiation
+m: Populus euphratica Oliv.

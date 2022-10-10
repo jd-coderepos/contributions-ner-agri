@@ -1,0 +1,6 @@
+The identification of Broad Habitat Units as biodiversity entities for systematic conservation planning in the Cape Floristic Region
+
+meth: Broad Habitat Units
+p: biodiversity entities
+rp: systematic conservation planning
+loc: Cape Floristic Region

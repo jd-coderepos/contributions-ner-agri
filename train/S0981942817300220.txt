@@ -1,0 +1,6 @@
+Comparative analysis of mutant plants impaired in the main regulatory mechanisms of photosynthetic light reactions - From biophysical measurements to molecular mechanisms
+
+rp: Comparative analysis of mutant plants
+p: regulatory mechanisms of photosynthetic light reactions
+meth: biophysical measurements
+meth: molecular mechanisms

@@ -1,0 +1,6 @@
+Discrete and continuous time simulations of spatial ecological processes predict different final population sizes and interspecific competition outcomes
+
+meth: Discrete and continuous time simulations
+rp: spatial ecological processes
+m: final population sizes
+m: interspecific competition outcomes

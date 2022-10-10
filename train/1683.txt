@@ -1,0 +1,5 @@
+Effect of water temperature on sex ratio and rate of juvenile Pelteobagrus fulvidraco, P. vachelli and hybrids [P. fulvidraco (♀)×P. (♂)]
+
+p: water temperature
+rp: sex ratio
+rp: rate of juvenile Pelteobagrus fulvidraco, P. vachelli and hybrids [P. fulvidraco (♀)×P. (♂)]

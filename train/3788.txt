@@ -1,0 +1,6 @@
+Walleye Sander vitreus performance, water quality, and waste production in replicated recirculation aquaculture systems when feeding a low phosphorus diet without fishmeal versus a traditional fishmeal-based diet
+
+rp: Walleye Sander vitreus performance, water quality, and waste production
+m: low phosphorus diet without fishmeal
+p: traditional fishmeal-based diet
+m: replicated recirculation aquaculture systems

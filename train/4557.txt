@@ -1,0 +1,6 @@
+Participatory evaluation guides the development and selection of farmers’ preferred rice varieties for salt- and flood-affected coastal deltas of South and Southeast Asia
+
+meth: Participatory evaluation
+rp: development and selection of farmers’ preferred rice varieties
+m: salt- and flood-affected coastal deltas
+loc: South and Southeast Asia

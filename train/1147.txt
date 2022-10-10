@@ -1,0 +1,5 @@
+Identification of compounds in Olax dissitiflora with larvacidal effect against Anopheles arabiensis
+
+rp: compounds in Olax dissitiflora
+p: larvacidal effect
+m: Anopheles arabiensis

@@ -1,0 +1,5 @@
+An implicit wetting and drying approach for non-hydrostatic baroclinic flows in high aspect ratio domains
+
+s: implicit wetting and drying approach
+rp: non-hydrostatic baroclinic flows
+m: high aspect ratio domains

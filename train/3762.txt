@@ -1,0 +1,6 @@
+Coalescent simulation in continuous space: Algorithms for large neighbourhood size
+
+meth: Coalescent simulation
+p: continuous space
+rp: large neighbourhood size
+meth: Algorithms

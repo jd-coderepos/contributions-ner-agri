@@ -1,0 +1,5 @@
+Recovery of the herbaceous layer of Mopaneveld after strip-mining
+
+rp: Recovery of the herbaceous layer
+loc: Mopaneveld
+meth: strip-mining

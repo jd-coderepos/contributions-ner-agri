@@ -1,0 +1,4 @@
+Investigating cytosolic carbon metabolism in strawberry
+
+rp: cytosolic carbon metabolism
+m: strawberry

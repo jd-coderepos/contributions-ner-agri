@@ -1,0 +1,5 @@
+Effects of Streblus asper leaf extract on the biofilm formation of subgingival pathogens
+
+m: Streblus asper leaf extract
+m: subgingival pathogens
+rp: biofilm formation

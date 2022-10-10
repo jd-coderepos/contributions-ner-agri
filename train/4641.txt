@@ -1,0 +1,5 @@
+Potential role of predators on carbon dynamics of marine ecosystems as assessed by a Bayesian belief network
+
+m: predators
+rp: carbon dynamics of marine ecosystems
+meth: Bayesian belief network

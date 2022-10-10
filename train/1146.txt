@@ -1,0 +1,5 @@
+Theoretical modeling of the Aux/IAA negative feedback circuit in plants
+
+meth: Theoretical modeling
+p: Aux/IAA negative feedback circuit
+m: plants

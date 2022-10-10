@@ -1,0 +1,5 @@
+A note on auxotelic cones and basitonic branching in Encephalartos
+
+m: auxotelic cones
+p: basitonic branching
+m: Encephalartos

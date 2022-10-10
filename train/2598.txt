@@ -1,0 +1,7 @@
+Portfolio entrepreneurship in farming: Empirical evidence from the 1881 census for England and Wales
+
+s: Portfolio entrepreneurship
+rp: farming
+m: 1881 census
+loc: England
+loc: Wales

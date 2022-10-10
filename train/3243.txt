@@ -1,0 +1,6 @@
+The ethnobotany of the Midzichenda tribes of the coastal forest areas in Kenya: 1. General perspective and non-medicinal plant uses
+
+rp: ethnobotany
+m: Midzichenda tribes
+p: non-medicinal plant uses
+loc: coastal forest areas in Kenya

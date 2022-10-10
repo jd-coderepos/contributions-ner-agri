@@ -1,0 +1,5 @@
+The potential of blue lupins as a protein source, in the diets of laying hens
+
+m: blue lupins
+rp: protein source
+m: diets of laying hens

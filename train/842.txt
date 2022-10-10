@@ -1,0 +1,6 @@
+Drought alters the expression of a candidate Zea mays p-coumarate 3-hydroxylase gene and caffeic acid biosynthesis
+
+f: Drought alters the expression of a candidate Zea mays p-coumarate 3-hydroxylase gene and caffeic acid biosynthesis
+rp: Drought
+m: Zea mays p-coumarate 3-hydroxylase gene
+p: caffeic acid biosynthesis

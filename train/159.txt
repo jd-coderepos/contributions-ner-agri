@@ -1,0 +1,5 @@
+A preliminary study of the phenology of Scaevola plumieri
+
+m: Scaevola plumieri
+rp: phenology
+meth: preliminary study

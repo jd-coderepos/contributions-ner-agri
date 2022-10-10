@@ -1,0 +1,5 @@
+No substantial changes in estrogen receptor and estrogen-related receptor orthologue gene transcription in Marisa cornuarietis exposed to estrogenic chemicals 
+
+m: Marisa cornuarietis exposed to estrogenic chemicals
+m: estrogen receptor
+rp: estrogen-related receptor orthologue gene transcription

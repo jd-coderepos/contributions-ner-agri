@@ -1,0 +1,6 @@
+Paclobutrazol retards vegetative growth in hydroponically-cultured Leonotis leonurus (L.) R.Br. Lamiaceae for a multipurpose flowering potted plant
+
+m: Paclobutrazol
+p: vegetative growth
+m: hydroponically-cultured Leonotis leonurus (L.) R.Br. Lamiaceae
+rp: multipurpose flowering potted plant

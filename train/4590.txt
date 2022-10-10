@@ -1,0 +1,6 @@
+Energy efficient bead milling of microalgae: Effect of bead size on disintegration and release of proteins and carbohydrates
+
+rp: Energy efficient bead milling
+m: microalgae
+m: bead size
+p: disintegration and release of proteins and carbohydrates

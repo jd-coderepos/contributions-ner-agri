@@ -1,0 +1,6 @@
+Assessment of eating rate and food intake in spoon versus fork users in a laboratory setting
+
+rp: eating rate
+rp: food intake
+p: laboratory setting
+m: spoon versus fork users

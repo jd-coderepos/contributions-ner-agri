@@ -1,0 +1,6 @@
+Seasonal influence on vegetative growth and flower initiation of Spathiphyllum
+
+p: Seasonal influence
+rp: flower initiation
+rp: vegetative growth
+m: Spathiphyllum

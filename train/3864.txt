@@ -1,0 +1,7 @@
+Wood and pulp properties of coppiced trees after first rotation related to their parent crop in six Eucalyptus genotypes
+
+rp: Wood and pulp properties
+m: parent crop
+m: coppiced trees
+m: six Eucalyptus genotypes
+meth: first rotation

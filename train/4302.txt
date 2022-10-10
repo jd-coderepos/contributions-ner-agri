@@ -1,0 +1,5 @@
+Micropropagation of Podocarpus henkelii and P. elongatus
+
+rp: Micropropagation
+m: Podocarpus henkelii
+m: P. elongatus

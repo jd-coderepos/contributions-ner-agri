@@ -1,0 +1,6 @@
+Chemical compositions of Casuarina equisetifolia L., Eucalyptus toreliana L. and Ficus elastica Roxb. ex Hornem cultivated in Nigeria
+
+rp: Chemical compositions
+m: Casuarina equisetifolia L., Eucalyptus toreliana L.
+m: Ficus elastica Roxb. ex Hornem
+loc: Nigeria

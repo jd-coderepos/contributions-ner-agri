@@ -1,0 +1,4 @@
+Mechanisms for a nutrient-conserving carbon pump in a seasonally stratified, temperate continental shelf sea
+
+rp: nutrient-conserving carbon pump
+m: seasonally stratified, temperate continental shelf sea

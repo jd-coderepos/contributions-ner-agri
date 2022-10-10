@@ -1,0 +1,5 @@
+Hydnora abyssinica: Ethnobotanical evidence for its occurrence in southern Mozambique
+
+loc: southern Mozambique
+f: Hydnora abyssinica
+meth: Ethnobotanical evidence

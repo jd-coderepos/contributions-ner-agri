@@ -1,0 +1,5 @@
+An enhanced temperature index model for debris-covered glaciers accounting for thickness effect
+
+s: enhanced temperature index model
+m: debris-covered glaciers
+p: thickness effect

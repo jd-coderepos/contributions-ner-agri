@@ -1,0 +1,7 @@
+Effects of urbanization and habitat composition on site occupancy of two snake species using regional monitoring data from southern California
+
+rp: urbanization
+rp: habitat composition
+m: site occupancy of two snake species
+loc: southern California
+m: regional monitoring data

@@ -1,0 +1,6 @@
+Rhizosphere activity and atmospheric methane concentrations drive variations of methane fluxes in a temperate forest soil
+
+p: Rhizosphere activity
+p: atmospheric methane concentrations
+rp: variations of methane fluxes
+m: temperate forest soil

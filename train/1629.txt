@@ -1,0 +1,4 @@
+Wound induced Beta vulgaris polygalacturonase-inhibiting protein genes encode a longer leucine-rich repeat domain and inhibit fungal polygalacturonases
+
+rp: Wound induced Beta vulgaris polygalacturonase
+f: Wound induced Beta vulgaris polygalacturonase-inhibiting protein genes encode a longer leucine-rich repeat domain and inhibit fungal polygalacturonases

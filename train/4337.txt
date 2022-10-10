@@ -1,0 +1,6 @@
+Breeding system, response to grassland management, and the Allee effect in Kohautia amatymbica (Rubiaceae)
+
+rp: Breeding system
+rp: Allee effect
+rp: response to grassland management
+m: Kohautia amatymbica (Rubiaceae)

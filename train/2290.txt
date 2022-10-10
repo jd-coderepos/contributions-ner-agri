@@ -1,0 +1,7 @@
+The effect of simulated harvesting on biomass and agar of Gelidium abbottiorum R.E. Norris at Reunion Rocks, KwaZulu-Natal, South Africa
+
+meth: simulated harvesting
+m: biomass
+m: agar
+m: Gelidium abbottiorum R.E. Norris
+loc: Reunion Rocks, KwaZulu-Natal, South Africa

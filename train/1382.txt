@@ -1,0 +1,9 @@
+Woody Plants of Western African Forests—A Guide to the Forest Trees, Shrubs and Lianes from Senegal to Ghana, 2006, William D. Hawthorne and Carel C.H. Jongkind, illustrated by R. Wise and M. Spitteler. Kew Publishing, The Royal Botanic Gardens, Kew, Price: £69.00, Hard Cover, ISBN 13: 978 1 84246 089 4. 1040 pages, 2600 line drawings on 420 plates plus 2600 colour photographs. E-mail: l.white@kew.org.
+
+rp: Woody Plants
+loc: Western African Forests
+m: Forest Trees
+m: Shrubs
+m: Lianes
+loc: Senegal
+loc: Ghana

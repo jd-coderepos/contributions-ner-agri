@@ -1,0 +1,6 @@
+Comparison of small interfering RNA (siRNA) delivery into bovine monocyte-derived macrophages by transfection and electroporation
+
+rp: small interfering RNA (siRNA) delivery
+m: bovine monocyte-derived macrophages
+p: transfection
+p: electroporation

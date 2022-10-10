@@ -1,0 +1,7 @@
+Environmental chemicals active as human antiandrogens do not activate a stickleback androgen receptor but enhance a feminising effect of oestrogen in roach
+
+rp: Environmental chemicals
+m: human antiandrogens
+p: feminising effect of oestrogen
+p: stickleback androgen receptor
+m: roach

@@ -1,0 +1,6 @@
+The effects of pruning on shoot production and basal increment of Acacia tortilis
+
+meth: pruning
+rp: shoot production
+rp: basal increment
+m: Acacia tortilis

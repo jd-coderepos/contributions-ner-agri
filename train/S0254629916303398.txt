@@ -1,0 +1,6 @@
+A comparative study of the chemical composition of lucerne (Medicago sativa L.) and spinach beet (Beta vulgaris var. cicla L.) 
+
+m: lucerne (Medicago sativa L.)
+m: spinach beet (Beta vulgaris var. cicla L.)
+meth: comparative study
+p: chemical composition

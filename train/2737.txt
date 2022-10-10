@@ -1,0 +1,4 @@
+The effect of water stress on the germination of Citrullus lanatus seeds
+
+meth: water stress
+rp: germination of Citrullus lanatus seeds

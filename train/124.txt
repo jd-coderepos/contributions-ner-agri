@@ -1,0 +1,7 @@
+The differential display technique using short primers is not suited for the routine isolation of differentially expressed sequences in sugarcane
+
+meth: differential display technique
+t: short primers
+m: differentially expressed sequences
+m: sugarcane
+p: routine isolation

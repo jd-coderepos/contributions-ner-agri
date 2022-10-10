@@ -1,0 +1,5 @@
+Above-ground biomass and plant cover in a succulent shrubland in the southern Karoo, South Africa
+
+rp: Above-ground biomass and plant cover
+m: succulent shrubland
+loc: southern Karoo, South Africa

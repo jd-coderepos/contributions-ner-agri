@@ -1,0 +1,5 @@
+Insect pollination reduces yield loss following heat stress in faba bean (Vicia faba L.)
+
+meth: Insect pollination
+rp: yield loss
+m: faba bean (Vicia faba L.)

@@ -1,0 +1,6 @@
+Mechanisms of desiccation tolerance in resurrection plants: A review from the molecular to whole plant physiological level
+
+rp: desiccation tolerance
+m: resurrection plants
+p: physiological level
+m: molecular to whole plant

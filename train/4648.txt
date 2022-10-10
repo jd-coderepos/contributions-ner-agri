@@ -1,0 +1,4 @@
+A Xyloglucan Backbone 6-O-Acetyltransferase from Brachypodium distachyon Modulates Xyloglucan Xylosylation
+
+m: Xyloglucan Backbone 6-O-Acetyltransferase
+m: Brachypodium distachyon Modulates Xyloglucan Xylosylation

@@ -1,0 +1,6 @@
+Improving predictive mapping of deep-water habitats: Considering multiple model outputs and ensemble techniques
+
+meth: predictive mapping
+rp: deep-water habitats
+m: multiple model outputs
+meth: ensemble techniques

@@ -1,0 +1,5 @@
+Phytotoxic effects of fumonisin B1 on cowpea (Vigna unguiculata (L.) Walp)
+
+rp: Phytotoxic effects
+m: fumonisin B1
+m: cowpea (Vigna unguiculata (L.) Walp)

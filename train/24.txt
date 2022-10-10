@@ -1,0 +1,6 @@
+Variable response to phosphorus mitigation measures across the nutrient transfer continuum in a dairy grassland catchment
+
+rp: Variable response
+sol: phosphorus mitigation measures
+p: nutrient transfer continuum
+loc: dairy grassland catchment

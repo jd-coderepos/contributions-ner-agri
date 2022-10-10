@@ -1,0 +1,5 @@
+Eucalyptus die-back in South Africa associated with Colletotrichum gloeosporioides
+
+loc: South Africa
+rp: Eucalyptus die-back
+m: Colletotrichum gloeosporioides

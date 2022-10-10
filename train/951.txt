@@ -1,0 +1,5 @@
+Modelling the impact and control of an infectious disease in a plant nursery with infected plant material inputs
+
+p: Modelling the impact and control
+rp: infectious disease
+m: plant nursery with infected plant material inputs

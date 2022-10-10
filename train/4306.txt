@@ -1,0 +1,5 @@
+A taxonomic listing, including new distribution records, for benthic, intertidal seaweeds from Mecúfi, northern Mozambique
+
+rp: taxonomic listing
+m: benthic, intertidal seaweeds
+loc: Mecúfi, northern Mozambique

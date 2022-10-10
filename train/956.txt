@@ -1,0 +1,8 @@
+Oxidation of marine oils during in vitro gastrointestinal digestion with human digestive fluids – Role of oil origin, added tocopherols and lipolytic activity
+
+m: human digestive fluids
+p: in vitro gastrointestinal digestion
+rp: Oxidation of marine oils
+p: oil origin
+p: added tocopherols
+p: lipolytic activity

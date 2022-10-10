@@ -1,0 +1,6 @@
+The effects of parent density and season of burn on the regeneration of Leucadendron laureolum (Proteaceae) in the Kogelberg
+
+p: parent density
+p: season of burn
+rp: regeneration of Leucadendron laureolum (Proteaceae)
+loc: Kogelberg

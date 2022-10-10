@@ -1,0 +1,5 @@
+Life cycle, techno-economic and dynamic simulation assessment of bioelectrochemical systems: A case of formic acid synthesis
+
+meth: Life cycle, techno-economic and dynamic simulation assessment
+rp: bioelectrochemical systems
+p: formic acid synthesis

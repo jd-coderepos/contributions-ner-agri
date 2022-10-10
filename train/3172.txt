@@ -1,0 +1,6 @@
+In vitro antimicrobial activity and genotoxicity evaluation of plants used for the treatment of tuberculosis and related symptoms in South Africa
+
+meth: In vitro
+rp: antimicrobial activity and genotoxicity evaluation of plants
+p: tuberculosis and related symptoms
+loc: South Africa

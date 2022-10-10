@@ -1,0 +1,6 @@
+A review of the taxonomy and phylogenetic relationships of Gerbera section Gerbera (Asteraceae: Mutisieae) in the Cape Floristic Region
+
+meth: review
+rp: taxonomy and phylogenetic relationships
+m: Gerbera section Gerbera (Asteraceae: Mutisieae)
+loc: Cape Floristic Region

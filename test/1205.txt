@@ -1,0 +1,5 @@
+Syntaxonomy of the vegetation of the Fb land type in the western Transvaal grassland, South Africa
+
+p: Syntaxonomy
+rp: vegetation of the Fb land type
+loc: western Transvaal grassland, South Africa

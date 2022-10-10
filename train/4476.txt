@@ -1,0 +1,4 @@
+Woody canopy cover of the Burkea savanna at Nylsvley
+
+rp: Woody canopy cover
+loc: Burkea savanna at Nylsvley

@@ -1,0 +1,4 @@
+A novel method for testing automatic systems for controlling the spray boom height
+
+rp: testing automatic systems
+p: controlling the spray boom height

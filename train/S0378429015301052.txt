@@ -1,0 +1,5 @@
+Impacts of reduced model complexity and driver resolution on cropland ecosystem photosynthesis estimates
+
+rp: cropland ecosystem photosynthesis estimates
+meth: reduced model complexity
+meth: driver resolution

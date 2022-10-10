@@ -1,0 +1,7 @@
+Nonhost resistance: Reactive oxygen species (ROS) signal causes DNA damage prior to the induction of PR genes and disease resistance in pea tissue
+
+rp: Nonhost resistance
+m: Reactive oxygen species (ROS) signal
+p: induction of PR genes
+p: disease resistance in pea tissue
+p: DNA damage

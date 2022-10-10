@@ -1,0 +1,5 @@
+A reconnaissance survey of the vegetation of the plains in the Potchefstroom–Fochville–Parys area
+
+meth: reconnaissance survey
+rp: vegetation of the plains
+loc: Potchefstroom–Fochville–Parys area

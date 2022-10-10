@@ -1,0 +1,6 @@
+Some effects of fluoride on the establishment and growth of propagules of Bruguiera gymnorrhiza and Avicennia marina
+
+m: fluoride
+m: Bruguiera gymnorrhiza
+m: Avicennia marina
+rp: establishment and growth of propagules

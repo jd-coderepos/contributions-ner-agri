@@ -1,0 +1,7 @@
+Sodium nitroprusside, ferricyanide, nitrite and nitrate decrease the thermo-dormancy of lettuce seed germination in a nitric oxide-dependent manner in light
+
+p: Sodium nitroprusside, ferricyanide, nitrite and nitrate decrease
+p: thermo-dormancy
+rp: lettuce seed germination
+meth: nitric oxide-dependent manner
+m: light

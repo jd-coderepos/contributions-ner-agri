@@ -1,0 +1,5 @@
+Water relations of Caatinga trees in the dry season
+
+rp: Water relations
+m: Caatinga trees
+p: dry season

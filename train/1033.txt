@@ -1,0 +1,5 @@
+Effect of aqueous extracts of allelopathic crops on germination and growth of Parthenium hysterophorus L.
+
+m: aqueous extracts of allelopathic crops
+m: Parthenium hysterophorus L.
+rp: germination and growth

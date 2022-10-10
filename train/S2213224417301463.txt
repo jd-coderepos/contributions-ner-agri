@@ -1,0 +1,5 @@
+Sarcoptic mange in wild quichua porcupines (Coendou quichua Thomas, 1899) in Colombia
+
+loc: Colombia
+rp: Sarcoptic mange
+m: wild quichua porcupines (Coendou quichua Thomas, 1899)

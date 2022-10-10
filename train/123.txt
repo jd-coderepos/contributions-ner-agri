@@ -1,0 +1,6 @@
+Corrections to "Systematic studies in subfamily Celastroideae (Celastraceae) in southern Africa: The genus putterlickia"
+
+meth: Systematic studies
+m: subfamily Celastroideae (Celastraceae)
+loc: southern Africa:
+m: genus putterlickia

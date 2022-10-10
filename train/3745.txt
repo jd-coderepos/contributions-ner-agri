@@ -1,0 +1,5 @@
+Feedback mechanisms control coexistence in a stem cell model of acute myeloid leukaemia
+
+p: Feedback mechanisms control coexistence
+meth: stem cell model
+rp: acute myeloid leukaemia

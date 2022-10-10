@@ -1,0 +1,5 @@
+Genetic diversity of Cucurbita pepo landraces revealed by random amplified polymorphic DNA (RAPD) markers
+
+rp: Genetic diversity
+m: Cucurbita pepo landraces
+meth: random amplified polymorphic DNA (RAPD) markers

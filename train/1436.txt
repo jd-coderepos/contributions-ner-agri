@@ -1,0 +1,5 @@
+Quantification of free and conjugated abscisic acid in five genotypes of barley (Hordeum vulgare L.) under water stress conditions
+
+rp: Quantification of free and conjugated abscisic acid
+m: five genotypes of barley (Hordeum vulgare L.)
+p: water stress conditions

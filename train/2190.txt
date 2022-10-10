@@ -1,0 +1,6 @@
+Cytokinin dynamics in differently senescing laminae of Phragmites australis plants grown in different habitats
+
+rp: Cytokinin dynamics
+p: differently senescing laminae
+m: Phragmites australis plants
+m: different habitats

@@ -1,0 +1,5 @@
+Free-energy minimization in joint agent-environment systems: A niche construction perspective
+
+rp: Free-energy minimization
+m: joint agent-environment systems
+s: niche construction perspective

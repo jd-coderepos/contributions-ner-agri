@@ -1,0 +1,6 @@
+Histopathological Characterization of the Lesions of Contagious Ovine Digital Dermatitis and Immunolabelling of Treponema-like Organisms 
+
+rp: Lesions of Contagious Ovine Digital Dermatitis
+meth: Histopathological Characterization
+meth: Immunolabelling
+m: Treponema-like Organisms

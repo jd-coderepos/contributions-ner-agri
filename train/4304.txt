@@ -1,0 +1,6 @@
+Biomass distribution and leaf nutrient concentrations and resorption of Thalassia hemprichii at Inhaca Island, Mozambique
+
+rp: Biomass distribution
+rp: leaf nutrient concentrations and resorption
+m: Thalassia hemprichii
+loc: Inhaca Island, Mozambique

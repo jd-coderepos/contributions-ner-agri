@@ -1,0 +1,5 @@
+Simulation on gasification of forestry residues in fluidized beds by Eulerian–Lagrangian approach
+
+rp: gasification of forestry residues
+m: fluidized beds
+meth: Eulerian–Lagrangian approach

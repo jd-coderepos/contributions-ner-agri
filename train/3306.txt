@@ -1,0 +1,6 @@
+Nitrogen utilisation and growth at reduced water activity by mucoralean fungi present in soil
+
+rp: Nitrogen utilisation and growth
+p: reduced water activity
+m: mucoralean fungi
+m: soil

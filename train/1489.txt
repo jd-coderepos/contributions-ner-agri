@@ -1,0 +1,5 @@
+Influence of annual rainfall on antibacterial activity of acetone leaf extracts of selected medicinal trees
+
+p: annual rainfall
+rp: antibacterial activity
+m: acetone leaf extracts of selected medicinal trees

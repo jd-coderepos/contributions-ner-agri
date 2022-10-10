@@ -1,0 +1,6 @@
+Exposing the illegal trade in Encephalartos species at the Faraday ‘muthi’ market in South Africa using DNA barcoding
+
+rp: illegal trade
+m: Encephalartos species
+loc: Faraday ‘muthi’ market in South Africa
+meth: DNA barcoding

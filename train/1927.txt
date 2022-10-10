@@ -1,0 +1,5 @@
+Ethnobotanical inventory of medicinal plants used in traditional veterinary medicine in Northern Côte d'Ivoire (West Africa)
+
+rp: Ethnobotanical inventory of medicinal plants
+meth: traditional veterinary medicine
+loc: Northern Côte d'Ivoire (West Africa)

@@ -1,0 +1,6 @@
+An insight into Hevea - Phytophthora interaction: The story of Hevea defense and Phytophthora counter defense mediated through molecular signalling
+
+rp: Hevea - Phytophthora interaction
+p: Hevea defense
+p: Phytophthora counter defense
+meth: molecular signalling

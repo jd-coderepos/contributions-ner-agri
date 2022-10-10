@@ -1,0 +1,4 @@
+Resistance of animal fungal pathogens to solvents used in bioassays
+
+rp: Resistance of animal fungal pathogens
+m: solvents used in bioassays

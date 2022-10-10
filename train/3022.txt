@@ -1,0 +1,6 @@
+In vitro callus induction and plant regeneration from leaf explants of Ruta graveolens L.
+
+meth: In vitro
+rp: callus induction
+rp: plant regeneration
+m: leaf explants of Ruta graveolens L.

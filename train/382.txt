@@ -1,0 +1,4 @@
+Savanna woody plant dynamics; The role of bark thickness
+
+m: bark thickness
+rp: Savanna woody plant dynamics

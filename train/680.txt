@@ -1,0 +1,5 @@
+A standardised faecal collection protocol for intestinal helminth egg counts in Asian elephants, Elephas maximus
+
+meth: standardised faecal collection protocol
+rp: intestinal helminth egg counts
+m: Asian elephants, Elephas maximus

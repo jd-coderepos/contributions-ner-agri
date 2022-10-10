@@ -1,0 +1,6 @@
+Diurnal pollination, primarily by a single species of rodent, documented in Protea foliosa using modified camera traps
+
+rp: Diurnal pollination
+meth: modified camera traps
+m: single species of rodent
+m: Protea foliosa

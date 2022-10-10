@@ -1,0 +1,7 @@
+Precarious rural cosmopolitanism: Negotiating globalization, migration and diversity in Irish small towns 
+
+loc: Irish small towns
+rp: rural cosmopolitanism
+p: globalization
+p: migration
+p: diversity

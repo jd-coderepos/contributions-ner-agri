@@ -1,0 +1,5 @@
+Hyperspectral imaging and multivariate accelerated shelf life testing (MASLT) approach for determining shelf life of rocket leaves
+
+t: Hyperspectral imaging
+s: multivariate accelerated shelf life testing (MASLT) approach
+rp: determining shelf life of rocket leaves

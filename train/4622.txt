@@ -1,0 +1,7 @@
+Evaluation of long-term conservation agriculture and crop intensification in rice-wheat rotation of Indo-Gangetic Plains of South Asia: Carbon dynamics and productivity
+
+meth: long-term conservation agriculture
+rp: rice-wheat rotation
+meth: crop intensification
+loc: Indo-Gangetic Plains of South Asia
+p: Carbon dynamics and productivity

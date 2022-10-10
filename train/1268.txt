@@ -1,0 +1,5 @@
+A solid state fungal fermentation-based strategy for the hydrolysis of wheat straw
+
+s: solid state fungal fermentation-based strategy
+p: hydrolysis
+m: wheat straw

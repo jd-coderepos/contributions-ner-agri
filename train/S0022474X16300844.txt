@@ -1,0 +1,6 @@
+Grain size and grain depth restrict oxygen movement in leaky hermetic containers and contribute to protective effect 
+
+rp: oxygen movement
+m: leaky hermetic containers
+m: Grain size
+m: grain depth

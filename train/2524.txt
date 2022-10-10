@@ -1,0 +1,5 @@
+Influence of fire on the soil phosphorus status in sand plain lowland fynbos, south-western Cape
+
+m: fire
+rp: soil phosphorus status
+loc: sand plain lowland fynbos, south-western Cape

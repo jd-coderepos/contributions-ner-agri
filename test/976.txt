@@ -1,0 +1,5 @@
+Feline mammary carcinoma stem cells are tumorigenic, radioresistant, chemoresistant and defective in activation of the ATM/p53 DNA damage pathway
+
+f: Feline mammary carcinoma stem cells are tumorigenic, radioresistant, chemoresistant and defective in activation of the ATM/p53 DNA damage pathway
+rp: Feline mammary carcinoma stem cells
+p: activation of the ATM/p53 DNA damage pathway

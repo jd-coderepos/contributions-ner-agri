@@ -1,0 +1,5 @@
+Perspectives for the microbial production of methyl propionate integrated with product recovery
+
+rp: microbial production
+m: methyl propionate
+p: product recovery

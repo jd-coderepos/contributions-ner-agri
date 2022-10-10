@@ -1,0 +1,5 @@
+Inferring the shallow phylogeny of true salamanders (Salamandra) by multiple phylogenomic approaches
+
+rp: shallow phylogeny
+m: true salamanders (Salamandra) 
+meth: multiple phylogenomic approaches

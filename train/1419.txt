@@ -1,0 +1,7 @@
+The effect of ploughing and augmenting natural vegetation with commercial fynbos species on the biodiversity of Overberg Sandstone fynbos on the Agulhas Plain, South Africa
+
+rp: ploughing
+rp: augmenting natural vegetation
+m: commercial fynbos species
+p: biodiversity
+loc: Overberg Sandstone fynbos on the Agulhas Plain, South Africa

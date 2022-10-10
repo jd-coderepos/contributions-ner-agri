@@ -1,0 +1,5 @@
+Effects of variety and nutrient availability on the acrylamide-forming potential of rye grain
+
+p: variety and nutrient availability
+rp: acrylamide-forming potential
+m: rye grain

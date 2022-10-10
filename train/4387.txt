@@ -1,0 +1,5 @@
+Biological nitrogen fixation (acetylene reduction) associated with decomposing Avicennia marina leaves in the Beachwood Mangrove Nature Reserve
+
+rp: Biological nitrogen fixation (acetylene reduction)
+p: decomposing Avicennia marina leaves
+loc: Beachwood Mangrove Nature Reserve

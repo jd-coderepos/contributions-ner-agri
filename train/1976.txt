@@ -1,0 +1,5 @@
+Landscape and biotic controls on soil respiration in a semiarid savanna
+
+s: Landscape and biotic controls
+rp: soil respiration
+loc: semiarid savanna

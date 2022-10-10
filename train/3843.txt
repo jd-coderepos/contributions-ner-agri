@@ -1,0 +1,6 @@
+Antibacterial activity and QSAR of homoisoflavanones isolated from six Hyacinthaceae species
+
+rp: Antibacterial activity
+rp: QSAR
+m: homoisoflavanones
+m: six Hyacinthaceae species

@@ -1,0 +1,5 @@
+A long photoperiod relaxes energy management in Arabidopsis leaf six
+
+m: Arabidopsis leaf six
+m: long photoperiod
+rp: energy management

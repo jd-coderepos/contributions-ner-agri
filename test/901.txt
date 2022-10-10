@@ -1,0 +1,5 @@
+Ethnobotanical inventory of tree species within home gardens of Tshamutilikwa village in Vhembe District Municipality, Limpopo Province, South Africa
+
+rp: Ethnobotanical inventory
+m: tree species
+loc: home gardens of Tshamutilikwa village in Vhembe District Municipality, Limpopo Province, South Africa

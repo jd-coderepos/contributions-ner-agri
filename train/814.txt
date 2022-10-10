@@ -1,0 +1,5 @@
+Photo guide to the wildflowers of South Africa (A revised edition)
+
+meth: Photo guide
+rp: wildflowers
+loc: South Africa

@@ -1,0 +1,6 @@
+A protocol for the production of adventitious shoot explants for cryopreservation of Ekebergia capensis using a temporary immersion system (RITA®)
+
+t: temporary immersion system (RITA®)
+rp: production of adventitious shoot explants
+meth: cryopreservation
+m: Ekebergia capensis

@@ -1,0 +1,5 @@
+Quality of maize for sale in markets in Benin and Niger
+
+rp: Quality of maize for sale
+loc: Benin
+loc: Niger

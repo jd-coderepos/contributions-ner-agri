@@ -1,0 +1,6 @@
+Screening of 16 poisonous plants for antibacterial, anthelmintic and cytotoxic activity in vitro
+
+m: 16 poisonous plants
+meth: Screening
+rp: antibacterial, anthelmintic and cytotoxic activity
+meth: in vitro

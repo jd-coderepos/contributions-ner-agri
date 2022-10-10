@@ -1,0 +1,5 @@
+Detecting global trends of cereal yield stability by adjusting the coefficient of variation
+
+p: global trends
+rp: cereal yield stability
+meth: adjusting the coefficient of variation

@@ -1,0 +1,8 @@
+A meta-analysis approach to examining the greenhouse gas implications of including dry peas (Pisum sativum L.) and lentils (Lens culinaris M.) in crop rotations in western Canada
+
+meth: meta-analysis approach
+rp: greenhouse gas implications
+m: dry peas (Pisum sativum L.)
+m: lentils (Lens culinaris M.)
+meth: crop rotations
+loc: western Canada

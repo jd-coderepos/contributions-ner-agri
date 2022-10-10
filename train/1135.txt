@@ -1,0 +1,8 @@
+Salicylic acid supplementation improves photosynthesis and growth in mustard through changes in proline accumulation and ethylene formation under drought stress
+
+s: Salicylic acid supplementation
+rp: photosynthesis and growth
+m: mustard
+p: proline accumulation
+p: ethylene formation
+p: drought stress

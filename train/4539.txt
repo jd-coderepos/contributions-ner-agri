@@ -1,0 +1,6 @@
+Modelling multi-phase liquid-sediment scour and resuspension induced by rapid flows using Smoothed Particle Hydrodynamics (SPH) accelerated with a Graphics Processing Unit (GPU)
+
+s: Modelling multi-phase liquid-sediment scour and resuspension
+p: rapid flows
+meth: Smoothed Particle Hydrodynamics (SPH)
+t: Graphics Processing Unit (GPU)

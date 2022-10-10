@@ -1,0 +1,4 @@
+Development and validation of an APCI-MS/GC–MS approach for the classification and prediction of Cheddar cheese maturity
+
+meth: APCI-MS/GC–MS approach
+rp: classification and prediction of Cheddar cheese maturity

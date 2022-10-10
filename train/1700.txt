@@ -1,0 +1,4 @@
+The effects of idebenone on mitochondrial bioenergetics
+
+rp: mitochondrial bioenergetics
+m: idebenone

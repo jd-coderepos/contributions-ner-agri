@@ -1,0 +1,7 @@
+The anatomy, ethnobotany, antimicrobial activity and essential oil composition of southern African species of Teucrium (Lamiaceae)
+
+rp: anatomy
+rp: ethnobotany
+rp: antimicrobial activity
+rp: essential oil composition
+m: southern African species of Teucrium (Lamiaceae)

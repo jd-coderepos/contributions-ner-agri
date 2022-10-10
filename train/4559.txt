@@ -1,0 +1,6 @@
+Maize-grain legume intercropping for enhanced resource use efficiency and crop productivity in the Guinea savanna of northern Ghana
+
+meth: Maize-grain legume intercropping
+rp: enhanced resource use efficiency
+rp: crop productivity
+loc: Guinea savanna of northern Ghana

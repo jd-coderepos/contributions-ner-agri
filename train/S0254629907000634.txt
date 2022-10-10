@@ -1,0 +1,5 @@
+Micro-location of elements in leaves of Leucadendron ‘Safari Sunset’ (Proteaceae) with phosphorus toxicity
+
+m: Leucadendron ‘Safari Sunset’ (Proteaceae)
+p: phosphorus toxicity
+rp: Micro-location of elements in leaves

@@ -1,0 +1,4 @@
+Occupancy time in sets of states for demographic models
+
+rp: Occupancy time
+meth: demographic models

@@ -1,0 +1,6 @@
+Geographic factors predict wild food and nonfood NTFP collection by households across four African countries
+
+p: Geographic factors
+rp: predict wild food and nonfood NTFP collection
+m: households
+loc: four African countries

@@ -1,0 +1,5 @@
+Relationship of follicle size and seed size in Hakea (Proteaceae); isometry, allometry and adaptation
+
+rp: Relationship of follicle size and seed size
+m: Hakea (Proteaceae)
+p: isometry, allometry and adaptation

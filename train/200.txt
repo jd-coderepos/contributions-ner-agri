@@ -1,0 +1,5 @@
+Engineering of a calcium-ion binding site into the RC-LH1-PufX complex of Rhodobacter sphaeroides to enable ion-dependent spectral red-shifting
+
+m: RC-LH1-PufX complex of Rhodobacter sphaeroides
+p: ion-dependent spectral red-shifting
+rp: Engineering of a calcium-ion binding site

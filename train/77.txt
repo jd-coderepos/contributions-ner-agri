@@ -1,0 +1,5 @@
+Bioactivity of selected essential oils and some components on Listeria monocytogenes biofilms
+
+rp: Bioactivity
+m: selected essential oils
+m: Listeria monocytogenes biofilms

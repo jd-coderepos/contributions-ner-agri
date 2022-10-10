@@ -1,0 +1,7 @@
+Seed production, seed bank dynamics, resprouting and long-term response to clearing of the alien invasive Solanum mauritianum in a temperate to subtropical riparian ecosystem
+
+p: Seed production
+p: seed bank dynamics
+p: resprouting and long-term response
+rp: clearing of the alien invasive Solanum mauritianum
+m: temperate to subtropical riparian ecosystem

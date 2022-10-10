@@ -1,0 +1,7 @@
+The Vegetation of South Africa, Lesotho and Swaziland. Wall Map, Book and CD. How was that done? Behind the scenes of the VEGMAP
+
+loc: South Africa
+loc: Lesotho
+loc: Swaziland
+rp: Vegetation
+t: VEGMAP

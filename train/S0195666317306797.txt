@@ -1,0 +1,4 @@
+Presenting a food in multiple smaller units increases expected satiety 
+
+f: Presenting a food in multiple smaller units increases expected satiety
+rp: expected satiety

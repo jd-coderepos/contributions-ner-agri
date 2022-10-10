@@ -1,0 +1,4 @@
+Accounting for long-term soil fertility effects when assessing the climate impact of crop cultivation
+
+p: long-term soil fertility effects
+rp: climate impact of crop cultivation

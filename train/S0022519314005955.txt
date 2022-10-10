@@ -1,0 +1,6 @@
+Epidemic control analysis: Designing targeted intervention strategies against epidemics propagated on contact networks 
+
+rp: Epidemic control analysis
+s: Designing targeted intervention strategies
+p: epidemics
+m: contact networks

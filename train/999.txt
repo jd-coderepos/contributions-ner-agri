@@ -1,0 +1,7 @@
+Rapid integrated survey to determine prevalence and co-distribution patterns of lymphatic filariasis and onchocerciasis in a Loa loa area : The Angolan experience
+
+meth: Rapid integrated survey
+rp: determine prevalence
+rp: co-distribution patterns
+m: lymphatic filariasis and onchocerciasis
+loc: Loa loa area

@@ -1,0 +1,6 @@
+Elucidating patterns in the population size structure and density of Aloe plicatilis, a tree aloe endemic to the Cape fynbos, South Africa 
+
+loc: Cape fynbos, South Africa
+m: Aloe plicatilis
+rp: population size structure and density
+meth: Elucidating patterns

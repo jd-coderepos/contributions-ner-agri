@@ -1,0 +1,7 @@
+Seasonal variation in photosynthetic capacity with respect to plant water status of five species of the mediterranean climate region of South Africa
+
+rp: Seasonal variation
+p: photosynthetic capacity
+p: plant water status
+m: five species of the mediterranean climate region
+loc: South Africa

@@ -1,0 +1,4 @@
+Hot water treatment as a kill-step to inactivate Escherichia coli O157:H7, Salmonella enterica, Listeria monocytogenes and Enterococcus faecium on in-shell pecans
+
+meth: Hot water treatment
+p: inactivate Escherichia coli O157:H7, Salmonella enterica, Listeria monocytogenes and Enterococcus faecium on in-shell pecans

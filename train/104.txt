@@ -1,0 +1,5 @@
+Identification of proteins associated with cytoplasmic male sterility in pepper (Capsicum annuum L.)
+
+m: proteins
+rp: cytoplasmic male sterility
+m: pepper (Capsicum annuum L.)

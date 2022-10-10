@@ -1,0 +1,7 @@
+Interactive effects of salt and alkali stresses on seed germination, germination recovery, and seedling growth of a halophyte Spartina alterniflora (Poaceae)
+
+p: salt and alkali stresses
+rp: seed germination
+rp: germination recovery
+rp: seedling growth
+m: halophyte Spartina alterniflora (Poaceae)

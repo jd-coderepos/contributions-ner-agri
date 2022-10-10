@@ -1,0 +1,6 @@
+Water relations and photosynthetic characteristics of selected trees and shrubs of riparian and hillslope habitats in the south-western Cape Province, South Africa
+
+rp: Water relations
+rp: photosynthetic characteristics
+m: selected trees and shrubs of riparian and hillslope habitats
+loc: south-western Cape Province, South Africa

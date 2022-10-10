@@ -1,0 +1,5 @@
+The dynamics of disease in a metapopulation: The role of dispersal range
+
+rp: dynamics of disease
+m: metapopulation
+p: dispersal range

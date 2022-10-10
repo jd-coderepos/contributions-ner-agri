@@ -1,0 +1,5 @@
+Next generation microbiological risk assessment: opportunities of whole genome sequencing (WGS) for foodborne pathogen surveillance, source tracking and risk assessment
+
+s: Next generation microbiological risk assessment
+meth: whole genome sequencing (WGS)
+rp: foodborne pathogen surveillance, source tracking and risk assessment

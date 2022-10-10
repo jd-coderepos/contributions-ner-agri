@@ -1,0 +1,4 @@
+Assimilation of remotely-sensed optical properties to improve marine biogeochemistry modelling
+
+p: remotely-sensed optical properties
+rp: marine biogeochemistry modelling

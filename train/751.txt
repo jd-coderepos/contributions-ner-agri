@@ -1,0 +1,4 @@
+Indicator analysis as a group technique in community classification
+
+meth: Indicator analysis as a group technique
+rp: community classification

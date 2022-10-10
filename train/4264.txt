@@ -1,0 +1,5 @@
+Vegetation ecology of the southern Free State: Shrubland communities of the rocky outcrops
+
+rp: Vegetation ecology
+loc: southern Free State
+m: Shrubland communities of the rocky outcrops

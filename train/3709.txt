@@ -1,0 +1,5 @@
+Effectiveness of Community Forest Management at reducing deforestation in Madagascar
+
+meth: Community Forest Management
+rp: reducing deforestation
+loc: Madagascar

@@ -1,0 +1,4 @@
+Ethonobotanical inventory of tree species within home-gardens of Tshamutilikwa village in Thulamela Municipality, Limpopo Province, South Africa
+
+loc: home-gardens of Tshamutilikwa village in Thulamela Municipality, Limpopo Province, South Africa
+m: Ethonobotanical inventory of tree species

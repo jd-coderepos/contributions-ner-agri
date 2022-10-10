@@ -1,0 +1,7 @@
+Antimycobacterial activity of ellagitannin and ellagic acid derivate rich crude extracts and fractions of five selected species of Terminalia used for treatment of infectious diseases in African traditional medicine
+
+rp: Antimycobacterial activity
+rp: treatment of infectious diseases
+m: ellagitannin and ellagic acid derivate rich crude extracts
+m: fractions of five selected species of Terminalia
+meth: African traditional medicine

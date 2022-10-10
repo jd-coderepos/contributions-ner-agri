@@ -1,0 +1,5 @@
+Effects of plant growth regulators on drought resistance of two maize cultivars
+
+m: plant growth regulators
+rp: drought resistance
+m: two maize cultivars

@@ -1,0 +1,5 @@
+Thermal nociception as a measure of non-steroidal anti-inflammatory drug effectiveness in broiler chickens with articular pain
+
+sol: Thermal nociception
+m: broiler chickens with articular pain
+rp: non-steroidal anti-inflammatory drug effectiveness

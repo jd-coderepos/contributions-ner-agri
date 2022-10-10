@@ -1,0 +1,5 @@
+Seed germination of valuable high-altitude medicinal plants of southern Africa
+
+rp: Seed germination
+m: valuable high-altitude medicinal plants
+loc: southern Africa

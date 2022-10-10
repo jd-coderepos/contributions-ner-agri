@@ -1,0 +1,6 @@
+The probable use of Pistia stratiotes as a bioindicator of Cadmum and Zinc pollution in water
+
+m: Pistia stratiotes
+meth: bioindicator
+rp: Cadmum and Zinc pollution
+m: water

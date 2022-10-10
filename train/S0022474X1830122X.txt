@@ -1,0 +1,6 @@
+Cumulative oxygen consumption during development of two postharvest insect pests: Callosobruchus maculatus Fabricius and Plodia interpunctella Hübner 
+
+rp: oxygen consumption
+m: two postharvest insect pests
+m: Callosobruchus maculatus Fabricius
+m: Plodia interpunctella Hübner

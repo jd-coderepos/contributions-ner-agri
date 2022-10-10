@@ -1,0 +1,7 @@
+Identification of transcription factors in tomato, potentially related to early blight resistance at invasion in host tissue, using microarray expression profiling
+
+rp: Identification of transcription factors
+p: early blight resistance
+p: invasion in host tissue
+meth: microarray expression profiling
+m: tomato

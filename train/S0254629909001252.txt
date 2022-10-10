@@ -1,0 +1,6 @@
+A new genus in the Cryphonectriaceae associated with Combretaceae and Lythraceae in Africa
+
+loc: Africa
+m: Combretaceae
+m: Lythraceae
+f: A new genus in the Cryphonectriaceae associated with Combretaceae and Lythraceae in Africa

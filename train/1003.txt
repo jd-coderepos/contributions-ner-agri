@@ -1,0 +1,4 @@
+Predicting responses to conservation interventions through scenarios: A Cambodian case study
+
+rp: Predicting responses to conservation interventions
+meth: Cambodian case study

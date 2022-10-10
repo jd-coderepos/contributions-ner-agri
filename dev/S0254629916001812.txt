@@ -1,0 +1,5 @@
+The plant communities and species richness of Telperion Nature Reserve, Mpumalanga
+
+loc: Telperion Nature Reserve, Mpumalanga
+m: plant communities
+m: species richness

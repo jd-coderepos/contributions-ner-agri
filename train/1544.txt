@@ -1,0 +1,5 @@
+The herbaceous vegetation of subtropical freshwater wetlands in South Africa: Classification, description and explanatory environmental factors
+
+rp: herbaceous vegetation
+m: subtropical freshwater wetlands
+loc: South Africa

@@ -1,0 +1,5 @@
+Trees of the Garden Route: Mossel Bay to Storms River
+
+rp: Trees of the Garden Route
+loc: Mossel Bay
+loc: Storms River

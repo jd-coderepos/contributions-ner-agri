@@ -1,0 +1,5 @@
+Establishment of guayule plants in a limed bark medium at low phosphate levels
+
+rp: Establishment of guayule plants
+meth: limed bark medium
+p: low phosphate levels

@@ -1,0 +1,5 @@
+Protective effect of the anti-ozonant, ethylenediurea (EDU), on development and photosynthesis of Glycine max under ambient and elevated ozone levels in an OTC system
+
+m: OTC system
+m: Glycine max
+m: anti-ozonant, ethylenediurea (EDU)

@@ -1,0 +1,5 @@
+Enhanced cutaneous wound healing by Senecio serratuloides (Asteraceae/Compositae) in a pig model 
+
+m: Senecio serratuloides (Asteraceae/Compositae)
+rp: cutaneous wound healing
+m: pig model

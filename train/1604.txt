@@ -1,0 +1,6 @@
+Leaf peroxidase types in Acacia karroo. Geographical distribution and influence of the environment
+
+rp: Leaf peroxidase types
+m: Acacia karroo
+p: Geographical distribution
+p: influence of the environment

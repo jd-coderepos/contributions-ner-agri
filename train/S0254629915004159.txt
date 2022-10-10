@@ -1,0 +1,5 @@
+Evaluation of antitumor and anti-angiogenic activity of bioactive compounds from Cinnamomum tamala: In vitro, in vivo and in silico approach 
+
+rp: antitumor and anti-angiogenic activity
+m: bioactive compounds from Cinnamomum tamala
+meth: In vitro, in vivo and in silico approach

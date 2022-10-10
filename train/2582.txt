@@ -1,0 +1,6 @@
+Topographic metric predictions of soil redistribution and organic carbon in Iowa cropland fields
+
+rp: Topographic metric predictions
+p: soil redistribution
+m: organic carbon
+loc: Iowa cropland fields

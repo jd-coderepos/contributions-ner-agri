@@ -1,0 +1,5 @@
+Cardiopulmonary effects of vatinoxan in sevoflurane-anaesthetised sheep receiving dexmedetomidine 
+
+m: sevoflurane-anaesthetised sheep
+m: dexmedetomidine
+rp: Cardiopulmonary effects of vatinoxan

@@ -1,0 +1,6 @@
+Studies in Cyperaceae in southern Africa. 14: A reappraisal of Scirpus nodosus and S. dioecus
+
+m: Cyperaceae
+m: Scirpus nodosus
+m: S. dioecus
+loc: southern Africa

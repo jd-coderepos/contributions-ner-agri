@@ -1,0 +1,5 @@
+An application of multivariate analysis techniques to dry-weight-rank data from a Bankenveld nature reserve
+
+meth: multivariate analysis techniques
+m: dry-weight-rank data
+loc: Bankenveld nature reserve

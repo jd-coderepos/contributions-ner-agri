@@ -1,0 +1,7 @@
+Biomonitoring using tagged sentinel fish and acoustic telemetry in commercial salmon aquaculture: A feasibility study
+
+p: Biomonitoring
+m: tagged sentinel fish
+meth: acoustic telemetry
+meth: feasibility study
+rp: commercial salmon aquaculture

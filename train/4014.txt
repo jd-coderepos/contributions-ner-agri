@@ -1,0 +1,5 @@
+Cytology and embryology of the pompom weed, Campuloclinium macrocephalum (Eupatorieae, Asteraceae)
+
+rp: Cytology
+rp: embryology
+m: pompom weed, Campuloclinium macrocephalum (Eupatorieae, Asteraceae)

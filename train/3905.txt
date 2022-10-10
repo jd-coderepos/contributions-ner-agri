@@ -1,0 +1,5 @@
+Performance of seedlings subsequent to cryopreservation of embryonic axes of Amaryllis belladonna
+
+m: seedlings
+m: embryonic axes of Amaryllis belladonna
+meth: cryopreservation

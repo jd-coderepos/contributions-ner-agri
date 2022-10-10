@@ -1,0 +1,6 @@
+The effects of feeding commercial feed formulated for semi-intensive systems on Litopenaeus vannamei production and its profitability in a hyper-intensive biofloc-dominated system
+
+meth: feeding commercial feed
+p: semi-intensive systems
+rp: Litopenaeus vannamei production
+t: hyper-intensive biofloc-dominated system

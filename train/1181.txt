@@ -1,0 +1,5 @@
+Seed germination of Opuntia stricta: Implications for management strategies in the Kruger National Park
+
+rp: Seed germination
+m: Opuntia stricta
+loc: Kruger National Park

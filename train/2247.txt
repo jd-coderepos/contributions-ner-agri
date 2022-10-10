@@ -1,0 +1,5 @@
+Does irrigation influence the growth, yield and water use efficiency of the protea hybrid ‘Sylvia’ (Protea susannae X Protea eximia)?
+
+rp: irrigation
+p: growth, yield and water use efficiency
+m: protea hybrid ‘Sylvia’ (Protea susannae X Protea eximia)

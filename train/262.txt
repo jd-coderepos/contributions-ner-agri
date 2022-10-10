@@ -1,0 +1,7 @@
+Effects of temperature, pre-chilling and light on seed germination of Withania somnifera; a high value medicinal plant
+
+p: temperature
+p: pre-chilling
+p: light
+rp: seed germination
+m: Withania somnifera

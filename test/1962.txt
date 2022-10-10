@@ -1,0 +1,5 @@
+Structural description of two Isoberlinia dominated vegetation types in the Wari–Maro Forest Reserve (Benin)
+
+rp: Structural description
+m: Isoberlinia dominated vegetation types
+loc: Wari–Maro Forest Reserve (Benin)

@@ -1,0 +1,5 @@
+Seed germination and dormancy of Stipa trichotoma (Nassella tussock). Part 1. Effect of dehulling, constant temperatures, light, oxygen, activated charcoal and storage 
+
+m: Stipa trichotoma (Nassella tussock)
+rp: Seed germination and dormancy
+p: dehulling, constant temperatures, light, oxygen, activated charcoal and storage

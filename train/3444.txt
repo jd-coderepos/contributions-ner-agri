@@ -1,0 +1,4 @@
+Stratification of a tropical forest as seen in dispersal types
+
+rp: Stratification of a tropical forest
+m: dispersal types

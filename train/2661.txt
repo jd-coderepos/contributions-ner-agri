@@ -1,0 +1,6 @@
+Spatio-temporal Bayesian network models with latent variables for revealing trophic dynamics and functional networks in fisheries ecology
+
+s: Spatio-temporal Bayesian network models with latent variables
+p: functional networks
+p: trophic dynamics
+rp: fisheries ecology

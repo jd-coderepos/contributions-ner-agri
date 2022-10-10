@@ -1,0 +1,6 @@
+Germination of zygotic embryos and in vitro growth of seedlings of wild types of Ensete ventricosum
+
+rp: Germination 
+m: zygotic embryos
+meth: in vitro growth
+m: seedlings of wild types of Ensete ventricosum

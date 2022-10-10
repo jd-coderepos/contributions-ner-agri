@@ -1,0 +1,6 @@
+Vegetation mapping in the St Lucia estuary using very high-resolution multispectral imagery and LiDAR
+
+rp: Vegetation mapping
+loc: St Lucia estuary
+t: very high-resolution multispectral imagery
+t: LiDAR

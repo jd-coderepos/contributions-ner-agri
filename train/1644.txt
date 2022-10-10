@@ -1,0 +1,5 @@
+A Glycine max homolog of NON-RACE SPECIFIC DISEASE RESISTANCE 1 (NDR1) alters defense gene expression while functioning during a resistance response to different root pathogens in different genetic backgrounds
+
+m: Glycine max homolog of NON-RACE SPECIFIC DISEASE RESISTANCE 1 (NDR1)
+rp: defense gene expression
+p: resistance response to different root pathogens in different genetic backgrounds

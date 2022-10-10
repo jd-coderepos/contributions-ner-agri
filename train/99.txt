@@ -1,0 +1,5 @@
+Variation in the relationship between phosphorus acquisition strategies and nodulation in Cape legumes
+
+p: phosphorus acquisition strategies
+p: nodulation
+m: Cape legumes

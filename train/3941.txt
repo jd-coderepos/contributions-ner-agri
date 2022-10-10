@@ -1,0 +1,5 @@
+A molecular phylogeny of the genus Ursinia (Anthemideae, Asteraceae) based on Internal Transcribed Spacers of the nuclear ribosomal DNA
+
+rp: molecular phylogeny
+m: genus Ursinia (Anthemideae, Asteraceae)
+m: Internal Transcribed Spacers of the nuclear ribosomal DNA

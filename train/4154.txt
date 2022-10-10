@@ -1,0 +1,5 @@
+Differences in plant growth, nodulation and intrinsic water use efficiency of Rhizobium-inoculated and un-inoculated promiscuous and commercial soybean genotypes grown at Mpumalanga, South Africa
+
+rp: Differences in plant growth, nodulation and intrinsic water use efficiency
+m: Rhizobium-inoculated and un-inoculated promiscuous and commercial soybean genotypes
+loc: Mpumalanga, South Africa

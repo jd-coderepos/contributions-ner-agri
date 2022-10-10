@@ -1,0 +1,5 @@
+The effect of the herbicide chlorsulfuron on photochemical reactions in isolated chloroplasts of Phaseolus vulgaris
+
+m: herbicide chlorsulfuron
+rp: photochemical reactions
+m: isolated chloroplasts of Phaseolus vulgaris

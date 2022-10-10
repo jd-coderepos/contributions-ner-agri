@@ -1,0 +1,5 @@
+Resistance of advanced cassava breeding clones to infection by major viruses in Uganda
+
+rp: advanced cassava breeding clones
+p: infection by major viruses
+loc: Uganda

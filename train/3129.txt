@@ -1,0 +1,5 @@
+A mismatch between germination requirements and environmental conditions: Niche conservatism in xeric subtropical thicket canopy species?
+
+rp: germination requirements
+rp: environmental conditions
+m: xeric subtropical thicket canopy species

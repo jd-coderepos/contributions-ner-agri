@@ -1,0 +1,6 @@
+Isozyme characterisation of Fusarium graminearum isolates associated with head blight of irrigated wheat in South Africa
+
+rp: Isozyme characterisation
+m: Fusarium graminearum isolates
+p: head blight of irrigated wheat
+loc: South Africa

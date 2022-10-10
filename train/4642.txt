@@ -1,0 +1,5 @@
+Computational analysis of the effects of light gradients and neighbouring species on foliar nitrogen
+
+meth: Computational analysis
+rp: effects of light gradients and neighbouring species
+m: foliar nitrogen

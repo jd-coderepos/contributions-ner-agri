@@ -1,0 +1,6 @@
+Evaluation and optimization of the Circulating Cathodic Antigen (POC-CCA) cassette test for detecting Schistosoma mansoni infection by using image analysis in school children in Mwanza Region, Tanzania
+
+meth: Circulating Cathodic Antigen (POC-CCA) cassette test
+rp: Schistosoma mansoni infection
+meth: image analysis
+loc: Mwanza Region, Tanzania

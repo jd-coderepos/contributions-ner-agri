@@ -1,0 +1,6 @@
+Polyphenols content, antioxidant and antiviral activities of leaf extracts of Marrubium deserti growing in Tunisia
+
+rp: Polyphenols content
+rp: antioxidant and antiviral activities
+m: leaf extracts of Marrubium deserti
+loc: Tunisia

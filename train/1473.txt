@@ -1,0 +1,6 @@
+Antioxidant enzyme activity, proline accumulation, leaf area and cell membrane stability in water stressed Amaranthus leaves
+
+p: Antioxidant enzyme activity
+p: proline accumulation
+p: leaf area and cell membrane stability
+m: water stressed Amaranthus leaves

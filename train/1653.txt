@@ -1,0 +1,5 @@
+Hard-substrate habitats in the German Bight (South-Eastern North Sea) observed using drift videos
+
+m: Hard-substrate habitats
+loc: German Bight (South-Eastern North Sea)
+meth: drift videos

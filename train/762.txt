@@ -1,0 +1,8 @@
+Ophiostoma species from Protea infructescences: Four way interactions between plants, fungi, mites and beetles
+
+m: Ophiostoma species
+m: Protea infructescences
+m: plants
+m: fungi
+m: mites
+m: beetles

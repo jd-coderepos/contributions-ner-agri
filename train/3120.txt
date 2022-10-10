@@ -1,0 +1,6 @@
+A simple and effective method for the micropropagation and in vitro induction of polyploidy and the effect on floral characteristics of the South African iris, Crocosmia aurea
+
+rp: micropropagation
+rp: in vitro induction of polyploidy
+p: floral characteristics
+m: South African iris, Crocosmia aurea

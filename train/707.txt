@@ -1,0 +1,7 @@
+Collating and validating indigenous and local knowledge to apply multiple knowledge systems to an environmental challenge: A case-study of pollinators in India
+
+s: Collating and validating indigenous and local knowledge
+meth: multiple knowledge systems
+rp: environmental challenge
+m: pollinators
+loc: India

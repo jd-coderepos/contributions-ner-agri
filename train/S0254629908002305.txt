@@ -1,0 +1,5 @@
+Antifungal and antibacterial activity of seven traditionally used South African plant species active against Candida albicans
+
+rp: Antifungal and antibacterial activity
+m: seven traditionally used South African plant species
+m: Candida albicans

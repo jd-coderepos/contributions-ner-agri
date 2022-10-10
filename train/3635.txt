@@ -1,0 +1,6 @@
+187-gene phylogeny of protozoan phylum Amoebozoa reveals a new class (Cutosea) of deep-branching, ultrastructurally unique, enveloped marine Lobosa and clarifies amoeba evolution
+
+meth: 187-gene phylogeny
+m: protozoan phylum Amoebozoa
+m: new class (Cutosea) of deep-branching, ultrastructurally unique, enveloped marine Lobosa
+rp: amoeba evolution

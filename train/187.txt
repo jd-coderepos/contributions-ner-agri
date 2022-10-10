@@ -1,0 +1,5 @@
+Common marmosets are sensitive to simple dependencies at variable distances in an artificial grammar
+
+m: Common marmosets
+meth: artificial grammar
+f: Common marmosets are sensitive to simple dependencies at variable distances in an artificial grammar

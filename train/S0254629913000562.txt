@@ -1,0 +1,6 @@
+Ethnobotanical study on medicinal plant material used to treat and manage diabetes mellitus and other diseases in Phalaborwa (South Africa) 
+
+meth: Ethnobotanical study
+m: medicinal plant material
+rp: diabetes mellitus and other diseases
+loc: Phalaborwa (South Africa)

@@ -1,0 +1,7 @@
+The ethnobotany, leaf anatomy, essential oil variation and biological activity of Pteronia incana (Asteraceae)
+
+rp: ethnobotany
+rp: leaf anatomy
+rp: essential oil variation
+rp: biological activity
+m: Pteronia incana (Asteraceae)

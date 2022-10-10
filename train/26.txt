@@ -1,0 +1,5 @@
+Behavioural and physiological responses of laying hens to automated monitoring equipment
+
+rp: Behavioural and physiological responses
+m: laying hens
+t: automated monitoring equipment

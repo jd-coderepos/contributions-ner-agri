@@ -1,0 +1,5 @@
+Bartonella and Rickettsia in arthropods from the Lao PDR and from Borneo, Malaysia
+
+rp: Bartonella and Rickettsia
+m: arthropods
+loc: Lao PDR and from Borneo, Malaysia

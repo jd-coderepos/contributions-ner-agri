@@ -1,0 +1,6 @@
+Assessment of the impacts of clear-cutting on soil loss by water erosion in Italian forests: First comprehensive monitoring and modelling approach
+
+rp: impacts of clear-cutting on soil loss
+loc: Italian forests
+p: water erosion
+s: comprehensive monitoring and modelling approach

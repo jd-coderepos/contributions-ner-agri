@@ -1,0 +1,6 @@
+Investigating a potential adjuvent remedy for cancer treatment: LC/MS based methods to differentiate and assess chemical composition of wild populations of Dodonaea viscosa
+
+rp: potential adjuvent remedy for cancer treatment
+meth: LC/MS based methods
+p: differentiate and assess chemical composition
+m: wild populations of Dodonaea viscosa

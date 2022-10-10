@@ -1,0 +1,5 @@
+Exploring resource allocation and alternate clinic accessibility landscapes for improved blood donor turnout
+
+p: resource allocation
+p: clinic accessibility landscapes
+rp: blood donor turnout

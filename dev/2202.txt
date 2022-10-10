@@ -1,0 +1,5 @@
+Distribution of benthic diatom communities in a permanently open temperate estuary in relation to physico-chemical variables
+
+rp: Distribution of benthic diatom communities
+loc: permanently open temperate estuary
+m: physico-chemical variables

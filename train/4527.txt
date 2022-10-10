@@ -1,0 +1,5 @@
+An evaluation framework to build a cost-efficient crop monitoring system. Experiences from the extension of the European crop monitoring system
+
+s: evaluation framework
+m: cost-efficient crop monitoring system
+rp: European crop monitoring system

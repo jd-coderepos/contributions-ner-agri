@@ -1,0 +1,5 @@
+A novel processing-based classification and conventional food grouping to estimate milk product consumption in Finnish children
+
+s: processing-based classification and conventional food grouping
+rp: estimate milk product consumption
+m: Finnish children

@@ -1,0 +1,5 @@
+Allometric models for managing lowland miombo woodlands of the Beira corridor in Mozambique
+
+meth: Allometric models
+rp: managing lowland miombo woodlands
+loc: Beira corridor in Mozambique

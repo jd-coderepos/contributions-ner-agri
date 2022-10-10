@@ -1,0 +1,7 @@
+Utilization of ground-based digital photography for the evaluation of seasonal changes in the aboveground green biomass and foliage phenology in a grassland ecosystem
+
+meth: ground-based digital photography
+rp: seasonal changes
+p: foliage phenology
+m: aboveground green biomass
+m: grassland ecosystem

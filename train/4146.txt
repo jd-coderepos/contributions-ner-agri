@@ -1,0 +1,6 @@
+The role of edaphic substrate versus moisture availability in montane endemic plant distribution patterns — Evidence from the Cape Midlands Escarpment, South Africa
+
+m: edaphic substrate
+p: moisture availability
+rp: montane endemic plant distribution patterns
+loc: Cape Midlands Escarpment, South Africa

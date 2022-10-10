@@ -1,0 +1,8 @@
+Can trackers count free-ranging wildlife as effectively and efficiently as conventional aerial survey and distance sampling? Implications for citizen science in the Kalahari, Botswana
+
+rp: count free-ranging wildlife
+t: trackers
+p: citizen science
+meth: conventional aerial survey
+meth: distance sampling
+loc: Kalahari, Botswana

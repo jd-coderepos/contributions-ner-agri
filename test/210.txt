@@ -1,0 +1,5 @@
+Seasonal growth of the overstorey and understorey in mediterranean-type shrublands and heathlands in the south eastern Cape, South Africa
+
+rp: Seasonal growth
+m: overstorey and understorey in mediterranean-type shrublands and heathlands
+loc: south eastern Cape, South Africa

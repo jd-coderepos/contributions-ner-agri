@@ -1,0 +1,6 @@
+Combined mutations in five wheat STARCH BRANCHING ENZYME II genes improve resistant starch but affect grain yield and bread-making quality
+
+m: five wheat STARCH BRANCHING ENZYME II genes
+p: grain yield
+p: bread-making quality
+p: resistant starch

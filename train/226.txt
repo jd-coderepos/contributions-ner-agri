@@ -1,0 +1,5 @@
+Applying asymptotic methods to synthetic biology: Modelling the reaction kinetics of the mevalonate pathway
+
+s: Applying asymptotic methods
+rp: synthetic biology
+p: reaction kinetics of the mevalonate pathway

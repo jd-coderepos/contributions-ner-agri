@@ -1,0 +1,6 @@
+The effects of past management practices for invasive alien plant control on subsequent recovery of fynbos on the Cape Peninsula, South Africa
+
+rp: invasive alien plant control
+p: subsequent recovery
+m: fynbos
+loc: Cape Peninsula, South Africa

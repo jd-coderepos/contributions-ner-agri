@@ -1,0 +1,5 @@
+The molecular and physiological effects of fumonisin B1 on cowpea (Vigna unguiculata L. Walp)
+
+m: cowpea (Vigna unguiculata L. Walp)
+m: fumonisin B1
+p: molecular and physiological effects

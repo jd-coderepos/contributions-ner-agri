@@ -1,0 +1,5 @@
+Developing a genetic approach to investigate the mechanism of mitochondrial competence for DNA import
+
+meth: genetic approach
+p: mitochondrial competence
+rp: DNA import

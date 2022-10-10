@@ -1,0 +1,6 @@
+Evaluation of elite rice genotypes for physiological and yield attributes under aerobic and irrigated conditions in tarai areas of western Himalayan region
+
+m: elite rice genotypes
+p: physiological and yield attributes
+p: aerobic and irrigated conditions
+loc: tarai areas of western Himalayan region

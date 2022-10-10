@@ -1,0 +1,5 @@
+Water stress as a factor influencing the distribution of the ericoid shrub Philippia evansii in the Natal Drakensberg mountains, South Africa
+
+meth: Water stress
+rp: distribution of the ericoid shrub Philippia evansii
+loc: Natal Drakensberg mountains, South Africa

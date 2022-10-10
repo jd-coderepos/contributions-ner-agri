@@ -1,0 +1,6 @@
+Combined effect of foliar-applied salicylic acid and deficit irrigation on physiological–anatomical responses, and yield of squash plants under saline soil
+
+p: Combined effect of foliar-applied salicylic acid and deficit irrigation
+rp: yield of squash plants
+m: saline soil
+rp: physiological–anatomical responses

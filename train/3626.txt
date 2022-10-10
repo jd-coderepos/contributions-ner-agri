@@ -1,0 +1,5 @@
+Evaluation of dry heat treatment of soft wheat flour for the production of high ratio cakes
+
+meth: dry heat treatment
+m: soft wheat flour
+rp: production of high ratio cakes

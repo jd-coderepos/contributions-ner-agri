@@ -1,0 +1,6 @@
+Comparison of the plant water relations of Cunonia capensis and Pittosporum undulatum in a riparian woodland in the south-western Cape
+
+rp: Comparison of the plant water relations
+m: Cunonia capensis
+m: Pittosporum undulatum
+loc: riparian woodland in the south-western Cape

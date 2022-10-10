@@ -1,0 +1,6 @@
+Effects of alien plant management and fire on soil seed banks and regeneration in the Cape Peninsula National Park, South Africa
+
+p: alien plant management
+p: fire
+rp: soil seed banks and regeneration
+loc: Cape Peninsula National Park, South Africa

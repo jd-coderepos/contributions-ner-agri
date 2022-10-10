@@ -1,0 +1,5 @@
+The anticancer activity and phytochemical analysis of six methanol extracts
+
+rp: anticancer activity
+meth: phytochemical analysis
+m: six methanol extracts

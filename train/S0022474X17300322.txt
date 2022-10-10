@@ -1,0 +1,4 @@
+Impact of storage environment on the efficacy of hermetic storage bags
+
+m: storage environment
+rp: hermetic storage bags

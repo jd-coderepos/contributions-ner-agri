@@ -1,0 +1,7 @@
+Seasonality, phytoplankton succession and the biogeochemical impacts of an autumn storm in the northeast Atlantic Ocean
+
+rp: Seasonality
+rp: phytoplankton succession
+rp: biogeochemical impacts
+p: autumn storm
+loc: northeast Atlantic Ocean

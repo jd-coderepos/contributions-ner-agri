@@ -1,0 +1,6 @@
+Reduced exposure of farmed salmon to salmon louse (Lepeophtheirus salmonis L.) infestation by use of plankton nets: Estimating the shielding effect
+
+rp: Reduced exposure of farmed salmon
+p: salmon louse (Lepeophtheirus salmonis L.) infestation
+meth: plankton nets
+meth: shielding effect

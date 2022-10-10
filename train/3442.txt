@@ -1,0 +1,6 @@
+The grassland-associated vegetation of the Black Reef Quartzite and associated large rocky outcrops in the north-eastern mountain sourveld of the Transvaal escarpment
+
+rp: grassland-associated vegetation
+m: Black Reef Quartzite
+m: large rocky outcrops
+loc: north-eastern mountain sourveld of the Transvaal escarpment

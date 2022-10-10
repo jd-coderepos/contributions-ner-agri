@@ -1,0 +1,5 @@
+Photosynthietic characteristics of Zea mays seedlings grown under controlled environmental conditions 
+
+rp: Photosynthietic characteristics
+meth: controlled environmental conditions
+m: Zea mays seedlings

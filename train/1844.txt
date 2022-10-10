@@ -1,0 +1,7 @@
+Inhibitory control training for appetitive behaviour change: A meta-analytic investigation of mechanisms of action and moderators of effectiveness
+
+meth: Inhibitory control training
+meth: meta-analytic investigation
+rp: appetitive behaviour change
+p: moderators of effectiveness
+p: mechanisms of action

@@ -1,0 +1,4 @@
+Bioactivity of plant extracts against methicillin-resistant Staphylococcus aureus
+
+m: methicillin-resistant Staphylococcus aureus
+rp: Bioactivity of plant extracts

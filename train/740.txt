@@ -1,0 +1,5 @@
+Prevalence of Verocytotoxigenic Escherichia coli strains isolated from raw beef in southern Italy
+
+m: Verocytotoxigenic Escherichia coli strains
+m: raw beef
+loc: southern Italy

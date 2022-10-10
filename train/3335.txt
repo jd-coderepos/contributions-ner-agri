@@ -1,0 +1,5 @@
+Bioguided fractionation and isolation of phytotoxic compounds from Apium graveolens L. aerial parts (Apiaceae)
+
+rp: Bioguided fractionation
+rp: isolation of phytotoxic compounds
+m: Apium graveolens L. aerial parts (Apiaceae)

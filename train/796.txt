@@ -1,0 +1,5 @@
+Using plant functional types to compare vegetation structure of alien-invaded and uninvaded Acacia nilotica savannas
+
+m: plant functional types
+m: alien-invaded and uninvaded Acacia nilotica savannas
+rp: vegetation structure

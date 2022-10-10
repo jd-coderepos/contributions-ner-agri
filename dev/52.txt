@@ -1,0 +1,5 @@
+Xylem – as well as phloem – sustains severe damage due to feeding by the Russian wheat aphid
+
+rp: feeding by the Russian wheat aphid
+m: Xylem
+m: phloem

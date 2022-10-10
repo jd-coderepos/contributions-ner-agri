@@ -1,0 +1,4 @@
+Vegetation trends following fire in the Roggeveld, Mountain Renosterveld, South Africa
+
+rp: Vegetation
+loc: Roggeveld, Mountain Renosterveld, South Africa

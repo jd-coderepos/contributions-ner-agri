@@ -1,0 +1,5 @@
+Sense organs on the ovipositor of Macrocentrus cingulum Brischke (Hymenoptera: Braconidae): their probable role in stinging, oviposition and host selection process
+
+m: Sense organs
+m: ovipositor of Macrocentrus cingulum Brischke (Hymenoptera: Braconidae)
+rp: stinging, oviposition and host selection process

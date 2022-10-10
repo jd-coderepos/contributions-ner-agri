@@ -1,0 +1,7 @@
+In vitro antimycobacterial activity of extracts from plants used in traditional medicine to treat TB and related symptoms
+
+meth: In vitro
+rp: antimycobacterial activity
+m: extracts from plants
+p: traditional medicine
+p: TB and related symptoms

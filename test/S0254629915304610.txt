@@ -1,0 +1,5 @@
+The potential of the arbitrarily primed polymerase chain reaction (AP-PCR) as a method to distinguish different genetic lines and strains in Vigna unguiculata (L.) Walp.
+
+p: arbitrarily primed polymerase chain reaction (AP-PCR)
+m: Vigna unguiculata (L.) Walp.
+rp: distinguish different genetic lines and strains

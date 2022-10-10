@@ -1,0 +1,5 @@
+Phytosociological synthesis of the vegetation of the Borakalalo Nature Reserve, North-West Province
+
+rp: Phytosociological synthesis
+m: vegetation
+loc: Borakalalo Nature Reserve, North-West Province

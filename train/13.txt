@@ -1,0 +1,5 @@
+Physiological, aerodynamic and geometric constraints of flapping account for bird gaits, and bounding and flap-gliding flight strategies
+
+meth: Physiological, aerodynamic and geometric constraints
+rp: flapping account for bird gaits
+s: bounding and flap-gliding flight strategies

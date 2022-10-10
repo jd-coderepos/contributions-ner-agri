@@ -1,0 +1,5 @@
+Early responses of Bassia diffusa (Thunb.) Kuntze to submergence for different salinity treatments
+
+rp: salinity treatments
+m: Bassia diffusa (Thunb.) Kuntze
+p: submergence

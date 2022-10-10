@@ -1,0 +1,7 @@
+Growth media effects on shoot physiology, nodule numbers and symbiotic nitrogen fixation in soybean
+
+s: Growth media effects
+rp: symbiotic nitrogen fixation
+rp: shoot physiology
+rp: nodule numbers
+m: soybean

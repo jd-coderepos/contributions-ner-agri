@@ -1,0 +1,6 @@
+The effect of low-intensity fires on forest floor vegetation in mature Pinus elliottii plantations in the Tsitsikamma
+
+rp: effect of low-intensity fires
+m: mature Pinus elliottii plantations
+m: forest floor vegetation
+loc: Tsitsikamma

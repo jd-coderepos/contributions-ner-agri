@@ -1,0 +1,7 @@
+Reducing spatial variability of soybean response to rhizobia inoculants in farms of variable soil fertility in Siaya County of western Kenya
+
+p: spatial variability
+loc: Siaya County of western Kenya
+rp: soybean response
+m: rhizobia inoculants
+m: farms of variable soil fertility

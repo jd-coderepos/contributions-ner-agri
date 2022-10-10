@@ -1,0 +1,7 @@
+Human population density correlates with phylogenetic diversity and plant vulnerability in southern Africa
+
+rp: Human population density
+p: phylogenetic diversity
+p: plant vulnerability
+loc: southern Africa
+f: Human population density correlates with phylogenetic diversity and plant vulnerability in southern Africa

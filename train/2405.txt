@@ -1,0 +1,6 @@
+Leaf anatomy, chloroplast organization and photosynthetic rate of hyperhydric Eucalyptus saligna Sm. material
+
+rp: Leaf anatomy
+rp: chloroplast organization
+rp: photosynthetic rate
+m: hyperhydric Eucalyptus saligna Sm. material

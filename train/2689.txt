@@ -1,0 +1,6 @@
+Effect of the recent land use on the plant diversity and community structure of Omayed Biosphere Reserve, Egypt
+
+meth: land use
+rp: plant diversity
+rp: community structure
+loc: Omayed Biosphere Reserve, Egypt

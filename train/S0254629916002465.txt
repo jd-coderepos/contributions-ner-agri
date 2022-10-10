@@ -1,0 +1,5 @@
+First report of Fusarium boothii from pecan (Carya illinoinensis) and camel thorn (Vachellia erioloba) trees in South Africa
+
+loc: South Africa
+m: Fusarium boothii from pecan (Carya illinoinensis)
+m: camel thorn (Vachellia erioloba) trees

@@ -1,0 +1,5 @@
+Identification of a large-effect QTL associated with kernel discoloration in barley
+
+p: large-effect QTL
+m: barley
+rp: kernel discoloration

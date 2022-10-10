@@ -1,0 +1,4 @@
+Multivariate analysis of some characteristics of South African isolates of Colletotrichum
+
+meth: Multivariate analysis
+rp: some characteristics of South African isolates of Colletotrichum

@@ -1,0 +1,6 @@
+Rehydration and reconstitution of the photosynthetic apparatus in desiccated poikilochlorophyllous Xerophyta scabrida leaves with exclusion of water uptake through the petioles
+
+rp: Rehydration and reconstitution
+m: photosynthetic apparatus
+m: desiccated poikilochlorophyllous Xerophyta scabrida leaves
+p: water uptake through the petioles

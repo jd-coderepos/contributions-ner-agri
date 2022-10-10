@@ -1,0 +1,6 @@
+Early detection of health and welfare compromises through automated detection of behavioural changes in pigs
+
+rp: Early detection of health and welfare
+meth: automated detection
+p: behavioural changes
+m: pigs

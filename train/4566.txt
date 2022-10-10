@@ -1,0 +1,6 @@
+The hypothalamo-pituitary-adrenal (HPA) axis in sheep is attenuated during lactation in response to psychosocial and predator stress
+
+m: hypothalamo-pituitary-adrenal (HPA) axis
+m: sheep
+p: lactation
+rp: psychosocial and predator stress

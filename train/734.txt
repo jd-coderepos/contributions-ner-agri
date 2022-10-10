@@ -1,0 +1,5 @@
+Numerical modeling of a two-phase twin-screw expander for Trilateral Flash Cycle applications
+
+meth: Numerical modeling
+t: two-phase twin-screw expander
+rp: Trilateral Flash Cycle applications

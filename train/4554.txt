@@ -1,0 +1,6 @@
+Impact of contrasted maize root traits at flowering on water stress tolerance – A simulation study
+
+m: contrasted maize root traits
+p: flowering
+rp: water stress tolerance
+meth: simulation study

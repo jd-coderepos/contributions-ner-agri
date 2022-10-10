@@ -1,0 +1,5 @@
+A rapid IL-17 response to Cryptosporidium parvum in the bovine intestine
+
+p: rapid IL-17 response
+m: Cryptosporidium parvum
+m: bovine intestine

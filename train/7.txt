@@ -1,0 +1,6 @@
+Using isotope dilution assays to understand speciation changes in Cd, Zn, Pb and Fe in a soil model system under simulated flooding conditions
+
+meth: isotope dilution assays
+meth: simulated flooding conditions
+p: speciation changes in Cd, Zn, Pb and Fe
+t: soil model system

@@ -1,0 +1,5 @@
+The legacy effect of cover crops on soil fungal populations in a cereal rotation
+
+rp: legacy effect of cover crops
+m: soil fungal populations
+meth: cereal rotation

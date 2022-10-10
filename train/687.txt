@@ -1,0 +1,4 @@
+Large-scale semi-automated acoustic monitoring allows to detect temporal decline of bush-crickets
+
+rp: temporal decline of bush-crickets
+sol: Large-scale semi-automated acoustic monitoring

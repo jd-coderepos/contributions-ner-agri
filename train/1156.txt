@@ -1,0 +1,6 @@
+Patterns in the seed germination response to smoke in plants from the Cape Floristic Region, South Africa
+
+rp: seed germination response
+m: smoke
+m: plants
+loc: Cape Floristic Region, South Africa

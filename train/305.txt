@@ -1,0 +1,6 @@
+Components of reproductive isolation and their role in speciation between Jamesbrittenia racemosa and J. pedunculosa (Manuleae)
+
+rp: reproductive isolation
+p: speciation
+m: Jamesbrittenia racemosa
+m: J. pedunculosa (Manuleae)

@@ -1,0 +1,8 @@
+Effect of Bradyrhizobium inoculation and phosphorus fertilization on water use efficiency, carbon accumulation and yield in two cowpea varieties in Mozambique
+
+meth: Bradyrhizobium inoculation
+meth: phosphorus fertilization
+p: carbon accumulation and yield
+rp: water use efficiency
+m: two cowpea varieties
+loc: Mozambique

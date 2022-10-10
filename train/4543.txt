@@ -1,0 +1,5 @@
+Impact of uncertainty in soil texture parameters on estimation of soil moisture through radio waves transmission
+
+p: uncertainty in soil texture parameters
+rp: estimation of soil moisture
+meth: radio waves transmission

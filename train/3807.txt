@@ -1,0 +1,8 @@
+N2-fixation and N contribution by grain legumes under different soil fertility status and cropping systems in the Guinea savanna of northern Ghana
+
+rp: N2-fixation
+p: soil fertility status
+rp: N contribution
+m: grain legumes
+meth: cropping systems
+loc: Guinea savanna of northern Ghana

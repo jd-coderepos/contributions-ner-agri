@@ -1,0 +1,4 @@
+Patterns of plant species associations on a Sour Bushveld nature reserve
+
+rp: Patterns of plant species associations
+loc: Sour Bushveld nature reserve

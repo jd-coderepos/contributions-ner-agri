@@ -1,0 +1,5 @@
+A putative serine protease, SpSsp1, from Saprolegnia parasitica is recognised by sera of rainbow trout, Oncorhynchus mykiss
+
+m: putative serine protease, SpSsp1
+m: Saprolegnia parasitica
+m: rainbow trout, Oncorhynchus mykiss

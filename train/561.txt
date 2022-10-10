@@ -1,0 +1,4 @@
+A vegetation survey of the Karoo National Botanic Garden Reserve, Worcester
+
+rp: vegetation survey
+loc: Karoo National Botanic Garden Reserve, Worcester

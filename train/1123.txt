@@ -1,0 +1,5 @@
+Physiological and biochemical changes of common bermudagrass (Cynodon dactylon [L.] Pers.) under combined salinity and deficit irrigation stresses
+
+rp: Physiological and biochemical changes
+m: common bermudagrass (Cynodon dactylon [L.] Pers.)
+p: combined salinity and deficit irrigation stresses

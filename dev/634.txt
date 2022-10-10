@@ -1,0 +1,5 @@
+Yield stability of selected rice breeding lines and donors across conditions of mild to moderately severe drought stress
+
+rp: Yield stability
+m: selected rice breeding lines and donors
+p: mild to moderately severe drought stress

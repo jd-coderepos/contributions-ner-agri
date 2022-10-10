@@ -1,0 +1,7 @@
+Computing rates of Markov models of voltage-gated ion channels by inverting partial differential equations governing the probability density functions of the conducting and non-conducting states
+
+rp: Computing rates of Markov models
+m: voltage-gated ion channels
+meth: inverting partial differential equations
+p: probability density functions
+m: conducting and non-conducting states

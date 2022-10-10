@@ -1,0 +1,5 @@
+Impact of iodized table salt on the sensory characteristics of bread, sausage and pickle
+
+m: iodized table salt
+p: sensory characteristics
+m: bread, sausage and pickle

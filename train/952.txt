@@ -1,0 +1,6 @@
+BEESCOUT: A model of bee scouting behaviour and a software tool for characterizing nectar/pollen landscapes for BEEHAVE
+
+s: model of bee scouting behaviour
+rp: characterizing nectar/pollen landscapes
+t: BEEHAVE
+s: BEESCOUT

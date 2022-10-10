@@ -1,0 +1,4 @@
+Proteinase activity in soybean nodules
+
+rp: Proteinase activity
+m: soybean nodules

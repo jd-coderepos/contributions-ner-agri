@@ -1,0 +1,5 @@
+Analytical studies of medicinal plants from the Eastern Cape Province used for beauty and healthcare
+
+meth: Analytical studies
+m: medicinal plants
+loc: Eastern Cape Province

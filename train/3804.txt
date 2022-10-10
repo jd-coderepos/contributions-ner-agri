@@ -1,0 +1,5 @@
+Automated monitoring of urination events from grazing cattle
+
+meth: Automated monitoring
+rp: urination events
+m: grazing cattle

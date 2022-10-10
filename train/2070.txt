@@ -1,0 +1,4 @@
+Monitoring transgene expression levels in different genotypes of field grown maize (Zea mays L.)
+
+rp: transgene expression levels
+m: genotypes of field grown maize (Zea mays L.)

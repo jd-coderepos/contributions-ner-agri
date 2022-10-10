@@ -1,0 +1,7 @@
+Maximum size-density relationship in bamboo forests: Case study of Phyllostachys pubescens forests in Japan
+
+p: Maximum size-density relationship
+m: bamboo forests
+meth: Case study
+m: Phyllostachys pubescens forests
+loc: Japan

@@ -1,0 +1,6 @@
+Pollination ecology of Aloe divaricata, Berger (Liliaceae): an endemic plant species of south-west Madagascar
+
+rp: Pollination ecology
+m: Aloe divaricata, Berger (Liliaceae)
+p: endemic plant species
+loc: south-west Madagascar

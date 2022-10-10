@@ -1,0 +1,8 @@
+Micropropagation of sugarcane (Saccharum spp. hybrids) in vitro: A comparison between semi-solid and liquid RITA® temporary immersion culture systems with respect to plant production and genotypic and phenotypic fidelity
+
+p: Micropropagation
+meth: in vitro
+rp: plant production
+m: sugarcane (Saccharum spp. hybrids)
+t: semi-solid and liquid RITA® temporary immersion culture systems
+rp: genotypic and phenotypic fidelity

@@ -1,0 +1,5 @@
+Is oxidative stress the cause of recalcitrant seed death in Spartina alterniflora?
+
+p: oxidative stress
+rp: recalcitrant seed death
+m: Spartina alterniflora

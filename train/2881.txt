@@ -1,0 +1,5 @@
+Short-term vegetation and soil responses following herbivore exclusion in a semiarid savanna toposequence
+
+rp: Short-term vegetation and soil responses
+p: herbivore exclusion
+loc: semiarid savanna toposequence

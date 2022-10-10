@@ -1,0 +1,6 @@
+Chemical composition and antibacterial activity of Ruta graveolens L. (Rutaceae) volatile oils, from São Luís, Maranhão, Brazil
+
+rp: Chemical composition
+rp: antibacterial activity
+m: Ruta graveolens L. (Rutaceae) volatile oils,
+loc: São Luís, Maranhão, Brazil

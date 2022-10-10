@@ -1,0 +1,5 @@
+The relevance of spatial scales in nutrient balances on dairy farms
+
+m: spatial scales
+rp: nutrient balances
+m: dairy farms

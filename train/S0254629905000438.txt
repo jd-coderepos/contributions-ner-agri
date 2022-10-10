@@ -1,0 +1,7 @@
+Diurnal versus nocturnal pollination of Brunsvigia gregaria R.A. Dyer (Amaryllidaceae) at a coastal site
+
+m: Brunsvigia gregaria R.A. Dyer (Amaryllidaceae)
+loc: coastal site
+rp: pollination
+p: Diurnal
+p: nocturnal

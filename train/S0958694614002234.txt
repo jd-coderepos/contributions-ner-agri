@@ -1,0 +1,7 @@
+Enterotoxin genes, enterotoxin production, and methicillin resistance in Staphylococcus aureus isolated from milk and dairy products in Central Italy 
+
+rp: Enterotoxin genes
+rp: enterotoxin production
+rp: methicillin resistance
+m: Staphylococcus aureus isolated from milk and dairy products
+loc: Central Italy

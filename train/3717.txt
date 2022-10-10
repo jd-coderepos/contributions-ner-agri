@@ -1,0 +1,8 @@
+Mapping trace element deficiency by cokriging from regional geochemical soil data: A case study on cobalt for grazing sheep in Ireland
+
+rp: Mapping trace element deficiency
+meth: cokriging
+m: regional geochemical soil
+m: cobalt
+rp: grazing sheep
+loc: Ireland
