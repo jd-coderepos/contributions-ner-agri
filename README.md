@@ -8,7 +8,7 @@ _method_ , _solution_ and _technology_ .
 
 The selected concepts were derived from the AGROVOC ontology [1].
 
-[1] Subirats-Coll, Imma, et al. (AGROVOC: The linked data concept hub for food and agriculture.)[https://doi.org/10.1016/j.compag.2020.105965] Computers and Electronics in Agriculture 196 (2022): 105965.
+[1] Subirats-Coll, Imma, et al. [AGROVOC: The linked data concept hub for food and agriculture.](https://doi.org/10.1016/j.compag.2020.105965) Computers and Electronics in Agriculture 196 (2022): 105965.
 
 ### 2) Dataset Statistics
 
