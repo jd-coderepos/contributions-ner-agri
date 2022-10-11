@@ -3,7 +3,7 @@
 ### 1) About
 
 This work proposes a standardized Agri-NER task by defining a set of seven _contribution-centric_ scholarly
-entities for CS NER viz., _research problem_ , _material_ , _process_ , _location_ ,
+entities for Agriculture NER viz., _research problem_ , _material_ , _process_ , _location_ ,
 _method_ , _solution_ and _technology_ . 
 
 The selected concepts were derived from the AGROVOC ontology [1].
