@@ -1,5 +1,7 @@
 # Agriculture Named Entity Recognition in the Open Research Knowledge Graph (Agri-NER dataset)
 
+[![DOI](https://zenodo.org/badge/548976004.svg)](https://zenodo.org/badge/latestdoi/548976004)
+
 ### 1) About
 
 This work proposes a standardized Agri-NER task by defining a set of seven _contribution-centric_ scholarly
