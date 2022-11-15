@@ -1,0 +1,7 @@
+Optimisation and validation of a PCR for antigen receptor rearrangement (PARR) assay to detect clonality in canine lymphoid malignancies
+
+rp: Optimisation and validation
+m: PCR
+meth: antigen receptor rearrangement (PARR) assay
+p: detect clonality
+rp: canine lymphoid malignancies

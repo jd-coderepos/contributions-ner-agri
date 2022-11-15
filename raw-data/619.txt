@@ -1,0 +1,7 @@
+Hyperspectral imaging for non-destructive prediction of fermentation index, polyphenol content and antioxidant activity in single cocoa beans
+
+meth: Hyperspectral imaging
+p: fermentation index
+p: polyphenol content
+p: antioxidant activity
+m: single cocoa beans

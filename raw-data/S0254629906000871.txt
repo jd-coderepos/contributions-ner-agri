@@ -1,0 +1,6 @@
+Seasonal and annual variation of osmotic solute and stable carbon isotope composition in leaves of endangered desert evergreen shrub Ammopiptanthus mongolicus
+
+rp: Seasonal and annual variation
+m: leaves of endangered desert evergreen shrub Ammopiptanthus mongolicus
+m: osmotic solute
+p: stable carbon isotope composition

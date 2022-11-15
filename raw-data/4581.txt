@@ -1,0 +1,5 @@
+Pre-harvest management is a critical practice for minimizing aflatoxin contamination of maize
+
+p: Pre-harvest management
+rp: aflatoxin contamination
+m: maize

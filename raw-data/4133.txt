@@ -1,0 +1,6 @@
+Standardized fruit extract of Momordica charantia L protect against vincristine induced neuropathic pain in rats by modulating GABAergic action, antimitotoxic, NOS inhibition, anti-inflammatory and antioxidative activity
+
+m: Standardized fruit extract of Momordica charantia L
+rp: vincristine induced neuropathic pain
+m: rats
+meth: modulating GABAergic action, antimitotoxic, NOS inhibition, anti-inflammatory and antioxidative activity

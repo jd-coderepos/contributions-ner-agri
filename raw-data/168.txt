@@ -1,0 +1,4 @@
+Untenable nonstationarity: An assessment of the fitness for purpose of trend tests in hydrology
+
+meth: trend tests
+rp: hydrology

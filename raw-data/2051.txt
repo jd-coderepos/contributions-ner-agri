@@ -1,0 +1,7 @@
+A taxonomic revision of Pentzia (Asteraceae, Anthemideae) I: the P. incana group in southern Africa, including the description of the new species P. oppositifolia Magee
+
+rp: taxonomic revision
+m: Pentzia (Asteraceae, Anthemideae) I
+m: P. incana group
+loc: southern Africa
+m: P. oppositifolia Magee

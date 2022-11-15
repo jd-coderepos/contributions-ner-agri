@@ -1,0 +1,6 @@
+Antibiofilm activity and post antifungal effect of lemongrass oil on clinical Candida dubliniensis isolate
+
+rp: Antibiofilm activity
+rp: post antifungal effect
+m: lemongrass oil
+m: clinical Candida dubliniensis isolate

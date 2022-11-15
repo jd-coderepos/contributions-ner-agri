@@ -1,0 +1,5 @@
+Tooth germ invagination from cell–cell interaction: Working hypothesis on mechanical instability
+
+meth: Tooth germ invagination
+rp: cell–cell interaction
+p: mechanical instability

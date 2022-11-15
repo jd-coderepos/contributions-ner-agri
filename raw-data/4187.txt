@@ -1,0 +1,6 @@
+Kinetic studies of tyrosinase inhibitory activity of 19 essential oils extracted from endemic and exotic medicinal plants
+
+meth: Kinetic studies
+rp: tyrosinase inhibitory activity
+m: 19 essential oils
+m: endemic and exotic medicinal plants

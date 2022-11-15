@@ -1,0 +1,5 @@
+Flammability traits of Cape shrubland species with different post-fire recruitment strategies
+
+rp: Flammability traits
+m: Cape shrubland species
+meth: post-fire recruitment strategies

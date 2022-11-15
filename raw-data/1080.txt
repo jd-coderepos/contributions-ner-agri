@@ -1,0 +1,6 @@
+Varietal differences in cold acclimation potential in sugarcane influences stalk sucrose accumulation following frost
+
+p: Varietal differences
+rp: cold acclimation potential
+m: sugarcane
+m: stalk sucrose accumulation following frost

@@ -1,0 +1,5 @@
+The effect of silver impregnation of surgical scrub suits on surface bacterial contamination
+
+meth: silver impregnation
+m: surgical scrub suits
+rp: surface bacterial contamination

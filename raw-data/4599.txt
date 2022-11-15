@@ -1,0 +1,5 @@
+Distinguishing between the abyssal macrourids Coryphaenoides yaquinae and C. armatus from in situ photography
+
+m: abyssal macrourids Coryphaenoides yaquinae
+m: C. armatus
+meth: in situ photography

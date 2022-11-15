@@ -1,0 +1,8 @@
+Evaluation of the effects of mulch on optimum sowing date and irrigation management of zero till wheat in central Punjab, India using APSIM
+
+m: mulch
+m: zero till wheat
+loc: central Punjab, India
+rp: optimum sowing date
+rp: irrigation management
+t: APSIM

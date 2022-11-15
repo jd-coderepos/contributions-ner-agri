@@ -1,0 +1,6 @@
+Competitive effect and response of savanna tree seedlings: Comparison of survival, growth and associated functional traits
+
+m: savanna tree seedlings
+p: survival
+p: growth
+p: associated functional traits

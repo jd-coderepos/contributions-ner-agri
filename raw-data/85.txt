@@ -1,0 +1,6 @@
+Effects of adjuvants and soil microbes on the phytotoxic activity of coumarin in combination with p-vanillin on goosegrass (Eleusine indica L.) seedling emergence and growth
+
+m: adjuvants and soil microbes
+rp: phytotoxic activity of coumarin in combination with p-vanillin
+m: goosegrass (Eleusine indica L.) 
+p: seedling emergence and growth

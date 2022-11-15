@@ -1,0 +1,11 @@
+Effects of temperature, light, nutrients and smoke-water on seed germination and seedling growth of Astragalus membranaceus, Panax notoginseng and Magnolia officinalis — Highly traded Chinese medicinal plants
+
+rp: seed germination
+rp: seedling growth
+m: temperature
+m: light
+m: nutrients
+m: smoke-water
+m: Astragalus membranaceus
+m: Panax notoginseng
+m: Magnolia officinalis

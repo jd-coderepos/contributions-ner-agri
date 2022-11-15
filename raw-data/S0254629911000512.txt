@@ -1,0 +1,5 @@
+Medicinal plants used for the treatment of sexually transmitted infections by lay people in northern Maputaland, KwaZulu–Natal Province, South Africa
+
+loc: northern Maputaland, KwaZulu–Natal Province, South Africa
+m: Medicinal plants
+rp: sexually transmitted infections

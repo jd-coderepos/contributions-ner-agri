@@ -1,0 +1,6 @@
+A unified mathematical model to quantify performance impairment for both chronic sleep restriction and total sleep deprivation
+
+rp: chronic sleep restriction
+rp: total sleep deprivation
+p: performance impairment
+meth: unified mathematical model

@@ -1,0 +1,5 @@
+Preliminary evidence that the long-proboscid fly, Philoliche gulosa, pollinates Disa karooica and its proposed Batesian model Pelargonium stipulaceum
+
+m: long-proboscid fly, Philoliche gulosa, pollinates Disa karooica
+s: Batesian model Pelargonium stipulaceum
+meth: Preliminary evidence

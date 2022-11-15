@@ -1,0 +1,8 @@
+Phytochemical investigation and in vitro antibacterial activity of essential oils from Cleome droserifolia (Forssk.) Delile and C. trinervia Fresen. (Cleomaceae)
+
+meth: Phytochemical investigation
+meth: in vitro
+rp: antibacterial activity
+m: essential oils
+m: Cleome droserifolia (Forssk.) Delile
+m: C. trinervia Fresen. (Cleomaceae)

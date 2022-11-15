@@ -1,0 +1,4 @@
+Herbal Drugs: Ethnomedicine to Modern Medicine, K.G. Ramawat (Ed.), 2009, Springer-Verlag, Heidelberg, Germany, Price: €199.95, Hard Cover, 402 pages, ISBN: 978-3-540-79115-7, Website: www.springer.com
+
+rp: Ethnomedicine
+meth: Modern Medicine

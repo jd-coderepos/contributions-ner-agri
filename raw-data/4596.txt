@@ -1,0 +1,5 @@
+The cytochrome P450 CYP6P4 is responsible for the high pyrethroid resistance in knockdown resistance-free Anopheles arabiensis
+
+m: cytochrome P450 CYP6P4
+m: knockdown resistance-free Anopheles arabiensis
+rp: high pyrethroid resistance

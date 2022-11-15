@@ -1,0 +1,5 @@
+Digital soil mapping of arable land in Sweden – Validation of performance at multiple scales
+
+rp: Digital soil mapping
+loc: arable land in Sweden
+meth: multiple scales

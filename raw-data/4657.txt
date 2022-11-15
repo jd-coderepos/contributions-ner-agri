@@ -1,0 +1,5 @@
+Photonfluxostat: A method for light-limited batch cultivation of cyanobacteria at different, yet constant, growth rates
+
+s: Photonfluxostat
+rp: light-limited batch cultivation of cyanobacteria
+p: different, yet constant, growth rates

@@ -1,0 +1,7 @@
+Ex-vivo models of the Retinal Pigment Epithelium (RPE) in long-term culture faithfully recapitulate key structural and physiological features of native RPE
+
+meth: Ex-vivo models
+m: Retinal Pigment Epithelium (RPE)
+m: long-term culture
+p: recapitulate key structural and physiological features
+m: native RPE

@@ -1,0 +1,7 @@
+Mangrove floras of the southern continents. Part 1. The geographical origin of Indo-Pacific mangrove genera the development present status of the Australian mangroves
+
+loc: southern continents
+m: Australian mangroves
+rp: Mangrove floras
+m: Indo-Pacific mangrove genera
+rp: geographical origin

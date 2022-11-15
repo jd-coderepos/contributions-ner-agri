@@ -1,0 +1,6 @@
+The structure of the seed of Mangifera indica L. and notes on seed characters of the tribe Mangifereae (Anacardiaceae)
+
+m: Mangifera indica L.
+m: tribe Mangifereae (Anacardiaceae)
+rp: seed characters
+rp: structure of the seed

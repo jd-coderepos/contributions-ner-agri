@@ -1,0 +1,6 @@
+Prevalence and socio-demographic correlates of time spent cooking by adults in the 2005 UK Time Use Survey. Cross-sectional analysis
+
+m: time spent cooking by adults
+meth: 2005 UK Time Use Survey
+rp: Prevalence and socio-demographic correlates
+meth: Cross-sectional analysis

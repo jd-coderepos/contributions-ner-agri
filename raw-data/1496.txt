@@ -1,0 +1,6 @@
+Temperature and light requirements for seed germination and seedling growth of two medicinal Hyacinthaceae species
+
+p: Temperature and light requirements
+rp: seed germination
+rp: seedling growth
+m: two medicinal Hyacinthaceae species

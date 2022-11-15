@@ -1,0 +1,4 @@
+Stochasticity and the limits to confidence when estimating R0 of Ebola and other emerging infectious diseases
+
+p: Stochasticity and the limits to confidence
+rp: R0 of Ebola and other emerging infectious diseases

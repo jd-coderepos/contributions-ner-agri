@@ -1,0 +1,5 @@
+Influence of experimental protocol on response rate and repeatability of mechanical threshold testing in dogs
+
+meth: experimental protocol
+rp: response rate and repeatability of mechanical threshold testing
+m: dogs

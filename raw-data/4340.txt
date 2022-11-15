@@ -1,0 +1,5 @@
+The ecological impact of elephant herbivory on vegetation of Atherstone Collaborative Nature Reserve, Limpopo Province, South Africa
+
+p: ecological impact of elephant herbivory
+rp: vegetation
+loc: Atherstone Collaborative Nature Reserve, Limpopo Province, South Africa

@@ -1,0 +1,4 @@
+Composite random search strategies based on non-directional sensory cues
+
+s: Composite random search strategies
+rp: non-directional sensory cues

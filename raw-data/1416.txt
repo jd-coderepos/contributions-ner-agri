@@ -1,0 +1,8 @@
+Isolation of rhizobia from Lebeckia species indigenous to South Africa and their nodulation properties on Lebeckia and the promiscuous legumes cowpea and siratro
+
+rp: Isolation of rhizobia
+rp: nodulation properties
+m: Lebeckia species
+m: Lebeckia
+m: promiscuous legumes cowpea and siratro
+loc: South Africa

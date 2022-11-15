@@ -1,0 +1,6 @@
+Mapping abiotic stresses for rice in Africa: Drought, cold, iron toxicity, salinity and sodicity
+
+loc: Africa
+m: rice
+rp: Mapping abiotic stresses
+p: Drought, cold, iron toxicity, salinity and sodicity

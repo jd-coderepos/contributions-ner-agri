@@ -1,0 +1,5 @@
+Improved flowering of a South African Watsonia with smoke treatments
+
+rp: flowering
+m: South African Watsonia
+meth: smoke treatments

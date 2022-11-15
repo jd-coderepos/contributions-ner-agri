@@ -1,0 +1,6 @@
+The assessment of chemical and mechanical control of Acacia decurrens Willd. and Lantana camara L. and their effect on biodiversity
+
+p: chemical and mechanical control
+m: Acacia decurrens Willd.
+m: Lantana camara L.
+rp: biodiversity

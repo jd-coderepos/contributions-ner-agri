@@ -1,0 +1,4 @@
+A monograph of the cycad genus Encephalartos (Zamiaceae)
+
+meth: monograph
+m: cycad genus Encephalartos (Zamiaceae)

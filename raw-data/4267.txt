@@ -1,0 +1,5 @@
+A comparison of tree density and canopy cover between different plant communities in Mixed Bushveld, Northern Province
+
+rp: comparison of tree density and canopy cover
+m: plant communities
+loc: Mixed Bushveld, Northern Province

@@ -1,0 +1,6 @@
+Psychological benefits of weight loss following behavioural and/or dietary weight loss interventions. A systematic research review
+
+p: Psychological benefits
+rp: weight loss
+meth: behavioural and/or dietary weight loss interventions
+meth: systematic research review

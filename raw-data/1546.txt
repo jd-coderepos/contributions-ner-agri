@@ -1,0 +1,5 @@
+Climate change may reduce the spread of non-native and invading species in South Africa
+
+p: Climate change
+rp: spread of non-native and invading species
+loc: South Africa

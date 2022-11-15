@@ -1,0 +1,5 @@
+The effect of temperature regulation on seed germination of the tropical tree Myrsine parvifolia A. DC near its southern limit 
+
+m: Myrsine parvifolia A. DC
+rp: seed germination
+meth: temperature regulation

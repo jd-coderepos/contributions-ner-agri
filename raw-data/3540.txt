@@ -1,0 +1,7 @@
+Herbicide options for effective weed management in dry direct-seeded rice under scented rice-wheat rotation of western Indo-Gangetic Plains
+
+m: Herbicide options
+rp: weed management
+m: dry direct-seeded rice
+meth: scented rice-wheat rotation
+loc: western Indo-Gangetic Plains

@@ -1,0 +1,6 @@
+Simultaneous application of salicylic acid and calcium improves salt tolerance in two contrasting tomato (Solanum lycopersicum) cultivars
+
+meth: Simultaneous application
+m: salicylic acid and calcium
+m: two contrasting tomato (Solanum lycopersicum) cultivars
+rp: salt tolerance

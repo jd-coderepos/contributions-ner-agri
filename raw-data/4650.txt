@@ -1,0 +1,6 @@
+Two CYP82D Enzymes Function as Flavone Hydroxylases in the Biosynthesis of Root-Specific 4′-Deoxyflavones in Scutellaria baicalensis
+
+m: CYP82D Enzymes
+m: Flavone Hydroxylases
+rp: Biosynthesis of Root-Specific 4′-Deoxyflavones
+m: Scutellaria baicalensis

@@ -1,0 +1,4 @@
+Combining the [ABA] and net photosynthesis-based model equations of stomatal conductance
+
+meth: [ABA] and net photosynthesis-based model equations
+rp: stomatal conductance

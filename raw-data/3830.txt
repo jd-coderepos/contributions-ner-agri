@@ -1,0 +1,6 @@
+The family Polygonaceae in West Africa: Taxonomic significance of leaf epidermal characters
+
+m: family Polygonaceae
+m: leaf epidermal characters
+rp: Taxonomic significance
+loc: West Africa

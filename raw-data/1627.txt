@@ -1,0 +1,6 @@
+Exploring the yield gap of orange-fleshed sweet potato varieties on smallholder farmers’ fields in Malawi
+
+rp: yield gap
+m: orange-fleshed sweet potato varieties
+m: smallholder farmers’ fields
+loc: Malawi

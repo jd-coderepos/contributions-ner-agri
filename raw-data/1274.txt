@@ -1,0 +1,5 @@
+Elastin content is high in the canine cruciate ligament and is associated with degeneration
+
+m: Elastin content
+m: canine cruciate ligament
+p: degeneration

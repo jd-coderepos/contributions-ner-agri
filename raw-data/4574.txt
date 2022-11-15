@@ -1,0 +1,6 @@
+Effect of UV-C on the physiology and biochemical profile of fresh Piper nigrum berries
+
+m: UV-C
+m: fresh Piper nigrum berries
+rp: physiology
+rp: biochemical profile

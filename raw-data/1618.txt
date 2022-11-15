@@ -1,0 +1,4 @@
+Can Bangladesh produce enough cereals to meet future demand?
+
+loc: Bangladesh
+rp: produce enough cereals

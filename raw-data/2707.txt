@@ -1,0 +1,4 @@
+Modelling the free energy profile of the mitochondrial ADP/ATP carrier
+
+m: mitochondrial ADP/ATP carrier
+rp: free energy profile

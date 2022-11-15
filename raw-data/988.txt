@@ -1,0 +1,6 @@
+The influence of exogenous organic carbon assimilation and photoperiod on the carbon and lipid metabolism of Chlamydomonas reinhardtii
+
+p: exogenous organic carbon assimilation
+p: photoperiod
+rp: carbon and lipid metabolism
+m: Chlamydomonas reinhardtii

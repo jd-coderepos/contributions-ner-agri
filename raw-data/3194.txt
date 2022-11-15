@@ -1,0 +1,5 @@
+Effect of water stress on antimicrobial activity of selected medicinal plant species
+
+meth: water stress
+rp: antimicrobial activity
+m: selected medicinal plant species

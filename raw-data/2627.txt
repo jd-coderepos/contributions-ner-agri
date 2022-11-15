@@ -1,0 +1,5 @@
+nanos-Driven expression of piggyBac transposase induces mobilization of a synthetic autonomous transposon in the malaria vector mosquito, Anopheles stephensi
+
+p: nanos-Driven expression of piggyBac transposase
+m: malaria vector mosquito, Anopheles stephensi
+p: mobilization of a synthetic autonomous transposon

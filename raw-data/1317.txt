@@ -1,0 +1,8 @@
+The effect of time of application and sterilization method of gibberellic acid, and temperature on the seed germination of Erica junonia, an endangered species
+
+p: time of application
+p: sterilization method
+m: gibberellic acid
+p: temperature
+m: Erica junonia, an endangered species
+rp: seed germination

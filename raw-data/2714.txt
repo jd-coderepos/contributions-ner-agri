@@ -1,0 +1,6 @@
+Chytrid fungus infections in laboratory and introduced Xenopus laevis populations: assessing the risks for U.K. native amphibians
+
+rp: Chytrid fungus infections
+m: laboratory
+m: Xenopus laevis populations
+p: risks for U.K. native amphibians

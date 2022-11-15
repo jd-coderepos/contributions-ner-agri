@@ -1,0 +1,6 @@
+The effect of sulphuric acid and effective micro-organisms on the seed germination of Harpagophytum procumbens (devil's claw)
+
+m: sulphuric acid
+m: effective micro-organisms
+m: Harpagophytum procumbens (devil's claw)
+rp: seed germination

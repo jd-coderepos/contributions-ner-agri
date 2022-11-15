@@ -1,0 +1,5 @@
+Seed development of Ornithogalum dubium, with special reference to fertilization and the egg apparatus
+
+rp: Seed development
+m: Ornithogalum dubium
+p: fertilization

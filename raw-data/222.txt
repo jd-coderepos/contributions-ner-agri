@@ -1,0 +1,7 @@
+Qualitative analysis of subcutaneous Lispro and regular insulin injections for stress hyperglycemia: A pilot numerical study
+
+meth: Qualitative analysis
+m: subcutaneous Lispro
+m: regular insulin injections
+rp: stress hyperglycemia
+meth: pilot numerical study

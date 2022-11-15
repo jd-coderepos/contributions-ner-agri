@@ -1,0 +1,6 @@
+Effects of water and nutrient additions on the timing and duration of phenological stages of resprouting Terminalia sericea
+
+m: water
+rp: resprouting Terminalia sericea
+m: nutrient additions
+p: timing and duration of phenological stages

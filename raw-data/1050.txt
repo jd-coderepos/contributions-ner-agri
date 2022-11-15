@@ -1,0 +1,5 @@
+The use of the model species Medicago truncatula in studies on desiccation tolerance and sensitivity in seeds
+
+m: model species Medicago truncatula
+m: seeds
+rp: desiccation tolerance and sensitivity

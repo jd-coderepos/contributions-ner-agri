@@ -1,0 +1,7 @@
+Can productivity and profitability be enhanced in intensively managed cereal systems while reducing the environmental footprint of production? Assessing sustainable intensification options in the breadbasket of India
+
+p: productivity and profitability be enhanced
+t: intensively managed cereal systems
+rp: environmental footprint of production
+s: Assessing sustainable intensification options
+loc: breadbasket of India

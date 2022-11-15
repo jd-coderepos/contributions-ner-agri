@@ -1,0 +1,6 @@
+Effects of aroma and taste, independently or in combination, on appetite sensation and subsequent food intake
+
+p: aroma
+p: taste
+rp: appetite sensation
+rp: food intake

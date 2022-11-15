@@ -1,0 +1,5 @@
+Rhoicissus tridentata subsp. Cuneifolia: the effect of geographical distribution plant storage on rat uterine contractile activity
+
+m: Rhoicissus tridentata subsp. Cuneifolia
+rp: geographical distribution plant storage
+p: rat uterine contractile activity

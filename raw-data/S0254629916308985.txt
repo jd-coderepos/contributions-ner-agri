@@ -1,0 +1,5 @@
+Growth and gas exchange responses of Leucadendron xanthoconus (Proteaceae) seedlings to different nutrient and water regimes 
+
+m: Leucadendron xanthoconus (Proteaceae) seedlings
+rp: Growth and gas exchange responses
+p: nutrient and water regimes

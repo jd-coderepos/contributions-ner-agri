@@ -1,0 +1,7 @@
+Soybean genotypic variations for nodulation and N2 fixation in response to Bradyrhizobium inoculation under glasshouse conditions
+
+rp: Soybean genotypic variations
+p: nodulation
+p: N2 fixation
+meth: Bradyrhizobium inoculation
+p: glasshouse conditions

@@ -1,0 +1,6 @@
+Assessment of genetic diversity among six populations of Rhododendron triflorum in Tibet using ISSR and AFLP markers
+
+rp: genetic diversity
+m: six populations of Rhododendron triflorum
+meth: ISSR and AFLP markers
+loc: Tibet

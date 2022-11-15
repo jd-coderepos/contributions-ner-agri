@@ -1,0 +1,4 @@
+A model of episodic, abiotic dispersal for oaks (Quercus robur)
+
+m: oaks (Quercus robur)
+rp: episodic, abiotic dispersal

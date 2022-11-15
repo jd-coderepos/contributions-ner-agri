@@ -1,0 +1,5 @@
+Rapid, cost-effective and accurate quantification of Yucca schidigera Roezl. steroidal saponins using HPLC-ELSD method 
+
+meth: Rapid, cost-effective and accurate quantification
+m: Yucca schidigera Roezl. steroidal saponins
+t: HPLC-ELSD method

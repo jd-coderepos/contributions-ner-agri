@@ -1,0 +1,6 @@
+Investigating possible effects of climate change on tree recruitment: Responses of abundant species to water stress in Gorongosa National Park
+
+p: climate change
+rp: tree recruitment
+loc: Gorongosa National Park
+rp: water stress

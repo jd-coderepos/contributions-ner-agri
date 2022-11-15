@@ -1,0 +1,5 @@
+Variation in seed set amongst populations of a rodent pollinated geophyte, Colchicum coloratum
+
+m: Colchicum coloratum
+rp: Variation in seed set
+meth: rodent pollinated geophyte

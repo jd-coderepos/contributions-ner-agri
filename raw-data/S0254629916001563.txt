@@ -1,0 +1,6 @@
+Ethnomedicinal survey of plant species used by the Vhavenda people in the management of diabetes mellitus in Muraga Village, Vhembe District, Limpopo Province
+
+loc: Muraga Village, Vhembe District, Limpopo Province
+rp: diabetes mellitus
+meth: Ethnomedicinal survey
+m: plant species used by the Vhavenda people

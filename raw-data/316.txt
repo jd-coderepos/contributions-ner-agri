@@ -1,0 +1,6 @@
+Effect of seaweed extract on the growth, yield and nutrient uptake of soybean (Glycine max) under rainfed conditions
+
+m: seaweed extract
+m: soybean (Glycine max)
+p: rainfed conditions
+rp: growth, yield and nutrient uptake

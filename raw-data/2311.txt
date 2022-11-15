@@ -1,0 +1,6 @@
+A preliminary survey of plants used in traditional medicine in the Grahamstown area
+
+meth: preliminary survey
+m: plants
+rp: traditional medicine
+loc: Grahamstown area

@@ -1,0 +1,6 @@
+Existence of abiotic stress-responsive genes within the regions of QTLs controlling maize grain yield: One of the root causes for unstability of the QTLs?
+
+m: abiotic stress-responsive genes
+p: maize grain yield
+m: regions of QTLs
+rp: unstability of the QTLs

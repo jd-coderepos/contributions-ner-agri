@@ -1,0 +1,5 @@
+Genetic engineering of Synechocystis sp. PCC6803 for poly-β-hydroxybutyrate overproduction
+
+rp: Genetic engineering
+p: poly-β-hydroxybutyrate overproduction
+m: Synechocystis sp. PCC6803

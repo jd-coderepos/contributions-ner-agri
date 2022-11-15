@@ -1,0 +1,4 @@
+The vegetation of old-fields in Transkei
+
+rp: vegetation
+loc: old-fields in Transkei

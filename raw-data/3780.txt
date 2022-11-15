@@ -1,0 +1,5 @@
+Growth and mortality of coccolithophores during spring in a temperate Shelf Sea (Celtic Sea, April 2015)
+
+rp: Growth and mortality of coccolithophores
+p: spring
+loc: temperate Shelf Sea (Celtic Sea, April 2015)

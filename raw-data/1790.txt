@@ -1,0 +1,6 @@
+Simulating transport pathways of pelagic Sargassum from the Equatorial Atlantic into the Caribbean Sea
+
+rp: Simulating transport pathways
+m: pelagic Sargassum
+loc: Equatorial Atlantic
+loc: Caribbean Sea

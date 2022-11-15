@@ -1,0 +1,8 @@
+Flooding and Phytophthora cinnamomi: Effects on photosynthesis and chlorophyll fluorescence in shoots of non-grafted Persea americana (Mill.) rootstocks differing in tolerance to Phytophthora root rot
+
+p: Flooding
+m: Phytophthora cinnamomi
+m: shoots of non-grafted Persea americana (Mill.) rootstocks
+m: Phytophthora root rot
+rp: photosynthesis
+rp: chlorophyll fluorescence

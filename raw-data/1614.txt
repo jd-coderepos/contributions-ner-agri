@@ -1,0 +1,7 @@
+Sand ridge morphology and bedform migration patterns derived from bathymetry and backscatter on the inner-continental shelf offshore of Assateague Island, USA
+
+rp: Sand ridge morphology
+rp: bedform migration patterns
+p: bathymetry
+p: backscatter
+m: inner-continental shelf offshore of Assateague Island, USA

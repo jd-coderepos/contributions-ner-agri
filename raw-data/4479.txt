@@ -1,0 +1,5 @@
+A taxonomic revision of the section Myrrhidium of Pelargonium (Geraniaceae) in southern Africa
+
+rp: taxonomic revision
+m: section Myrrhidium of Pelargonium (Geraniaceae)
+loc: southern Africa

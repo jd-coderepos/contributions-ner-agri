@@ -1,0 +1,6 @@
+Toposequential variation in methane emissions from double-cropping paddy rice in Northwest Vietnam
+
+rp: Toposequential variation
+m: double-cropping paddy rice
+m: methane emissions
+loc: Northwest Vietnam

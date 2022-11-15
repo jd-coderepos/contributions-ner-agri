@@ -1,0 +1,7 @@
+Beverages containing low energy sweeteners do not differ from water in their effects on appetite, energy intake and food choices in healthy, non-obese French adults
+
+rp: Beverages containing low energy sweeteners
+p: appetite
+p: energy intake
+p: food choices
+loc: healthy, non-obese French adults

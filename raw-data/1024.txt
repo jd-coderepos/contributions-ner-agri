@@ -1,0 +1,5 @@
+Sheep urine patch N2O emissions are lower from extensively-managed than intensively-managed grasslands
+
+p: Sheep urine patch N2O emissions
+m: intensively-managed grasslands
+f: Sheep urine patch N2O emissions are lower from extensively-managed than intensively-managed grasslands

@@ -1,0 +1,7 @@
+The demand for pregnancy testing: The Aschheim–Zondek reaction, diagnostic versatility, and laboratory services in 1930s Britain
+
+rp: pregnancy testing
+p: Aschheim–Zondek reaction
+p: diagnostic versatility
+p: laboratory services
+loc: 1930s Britain

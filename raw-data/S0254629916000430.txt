@@ -1,0 +1,5 @@
+A 30-day daily double dose assessment of ethanolic root extract of Morella serrata (Lam.) Killick in Wistar rats 
+
+m: Wistar rats
+meth: 30-day daily double dose assessment
+m: ethanolic root extract of Morella serrata (Lam.) Killick

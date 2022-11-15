@@ -1,0 +1,5 @@
+Variation in symbiotic N2 fixation of indigenous Cape Floristic Region legumes grown at low P supply
+
+rp: symbiotic N2 fixation
+m: indigenous Cape Floristic Region legumes
+p: low P supply

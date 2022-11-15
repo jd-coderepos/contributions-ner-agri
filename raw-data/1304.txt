@@ -1,0 +1,6 @@
+Testing the boundaries: Seasonal residency and inter-annual site fidelity of basking sharks in a proposed Marine Protected Area
+
+rp: Seasonal residency
+rp: inter-annual site fidelity
+m: basking sharks
+loc: Marine Protected Area

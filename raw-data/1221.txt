@@ -1,0 +1,6 @@
+Investigations on carotenoids in lichens. XVIII. Carotenoid content in certain lichens from southern Africa
+ 
+m: carotenoids 
+rp: Carotenoid content
+m: lichens
+loc: southern Africa

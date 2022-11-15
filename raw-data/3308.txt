@@ -1,0 +1,5 @@
+Insect pollination and seed set in four ephemeral plant species from Namaqualand
+
+rp: Insect pollination
+rp: seed set in four ephemeral plant species
+loc: Namaqualand

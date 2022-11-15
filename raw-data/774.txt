@@ -1,0 +1,4 @@
+e-flora; a new interactive floristic and chorologic information system on the Internet
+
+s: e-flora
+meth: floristic and chorologic information system

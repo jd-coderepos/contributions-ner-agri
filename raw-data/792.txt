@@ -1,0 +1,6 @@
+A phylogenetic and ecological assessment of the usefulness of seedlings in a study of the evolution of the genera Psoralea and Otholobium (Fabaceae)
+
+rp: phylogenetic and ecological assessment
+m: seedlings
+rp: study of the evolution
+m: genera Psoralea and Otholobium (Fabaceae)

@@ -1,0 +1,7 @@
+Effect of low oxygen, temperature and 1-methylcyclopropene on the expression of genes regulating ethylene biosynthesis and perception during ripening in apple
+
+m: low oxygen
+m: temperature
+m: 1-methylcyclopropene
+rp: expression of genes regulating ethylene biosynthesis and perception
+p: ripening in apple

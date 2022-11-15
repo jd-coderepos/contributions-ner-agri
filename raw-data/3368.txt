@@ -1,0 +1,5 @@
+Resistance gene regulation by microRNA in Diuraphis noxia infested wheat
+
+rp: Resistance gene regulation
+meth: microRNA
+m: Diuraphis noxia infested wheat

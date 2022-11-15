@@ -1,0 +1,5 @@
+Identifying inhibitory effects of lignocellulosic by-products on growth of lactic acid producing micro-organisms using a rapid small-scale screening method
+
+rp: inhibitory effects of lignocellulosic by-products
+p: growth of lactic acid producing micro-organisms
+meth: rapid small-scale screening method

@@ -1,0 +1,8 @@
+Studies on Gracilaria gracilis (Stackhouse) Steentoft, Farnham and Irvine and Gracilaria aculeata (Hering) Papenfuss from southern Africa. I. The influence of temperature, irradiance, salinity and nitrogen-nutrition on growth
+
+loc: southern Africa
+loc: Farnham
+loc: Irvine
+m: Gracilaria gracilis (Stackhouse) Steentoft
+m: Gracilaria aculeata (Hering) Papenfuss
+rp: influence of temperature, irradiance, salinity and nitrogen-nutrition on growth

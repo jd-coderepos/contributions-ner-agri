@@ -1,0 +1,5 @@
+Morphological and biochemical variation in Sea buckthorn Hippophae rhamnoides ssp. turkestanica, a multipurpose plant for fragile mountains of Pakistan
+
+loc: Pakistan
+m: Sea buckthorn Hippophae rhamnoides ssp. turkestanica
+rp: Morphological and biochemical variation

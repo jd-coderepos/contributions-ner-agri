@@ -1,0 +1,5 @@
+Biological control in Africa: can it provide a sustainable solution for control of fruit diseases?
+
+s: Biological control
+loc: Africa
+rp: control of fruit diseases

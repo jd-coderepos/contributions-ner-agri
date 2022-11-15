@@ -1,0 +1,6 @@
+Fruit polymorphism in ephemeral species of Namaqualand. VI. Intermorphic competition among plants cultivated from dimorphic diaspores
+
+rp: Fruit polymorphism
+rp: Intermorphic competition among plants
+loc: Namaqualand
+m: dimorphic diaspores

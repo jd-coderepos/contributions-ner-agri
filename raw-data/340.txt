@@ -1,0 +1,8 @@
+Specificity of the signal emitted by figs to attract their pollinating wasps: Comparison of volatile organic compounds emitted by receptive syconia of Ficus sur and F. sycomorus in Southern Africa
+
+m: figs
+m: pollinating wasps
+rp: Comparison of volatile organic compounds emitted by receptive syconia
+m: Ficus sur
+m: F. sycomorus
+loc: Southern Africa

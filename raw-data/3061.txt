@@ -1,0 +1,5 @@
+The pharmacognostic value of leaf and stem anatomy in rooibos tea (Aspalathus linearis)
+
+p: pharmacognostic value
+rp: leaf and stem anatomy
+m: rooibos tea (Aspalathus linearis)

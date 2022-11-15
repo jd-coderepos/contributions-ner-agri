@@ -1,0 +1,4 @@
+Breaking of seed dormancy in the medicinal plant, Sutherlandia frutescens L.
+
+m: medicinal plant, Sutherlandia frutescens L.
+rp: seed dormancy

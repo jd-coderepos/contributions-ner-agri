@@ -1,0 +1,5 @@
+Genotoxic and antigenotoxic potential of the aqueous leaf extracts of Amaranthus spinosus Linn. using Allium cepa assay
+
+rp: Genotoxic and antigenotoxic potential
+m: aqueous leaf extracts of Amaranthus spinosus Linn.
+meth: Allium cepa assay

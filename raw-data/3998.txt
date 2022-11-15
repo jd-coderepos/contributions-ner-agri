@@ -1,0 +1,6 @@
+Pharmacological interactions of essential oil constituents on the in vitro growth of Plasmodium falciparum
+
+rp: Pharmacological interactions
+m: essential oil constituents
+m: Plasmodium falciparum
+meth: in vitro growth

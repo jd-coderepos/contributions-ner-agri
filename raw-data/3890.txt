@@ -1,0 +1,9 @@
+Effect of ethylene, 1-MCP, ABA and IAA on break strength, cellulase and polygalacturonase activities during cotton leaf abscission
+
+m: ethylene
+m: 1-MCP
+m: ABA
+m: IAA
+p: break strength
+p: cellulase and polygalacturonase activities
+rp: cotton leaf abscission

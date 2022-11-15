@@ -1,0 +1,4 @@
+The vegetation of the proposed coastal National Botanic Garden, East London
+
+rp: vegetation
+loc: proposed coastal National Botanic Garden, East London

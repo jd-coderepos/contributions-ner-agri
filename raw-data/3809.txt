@@ -1,0 +1,7 @@
+Additive yield response of chickpea (Cicer arietinum L.) to rhizobium inoculation and phosphorus fertilizer across smallholder farms in Ethiopia
+
+rp: Additive yield response
+m: chickpea (Cicer arietinum L.)
+m: phosphorus fertilizer
+meth: rhizobium inoculation
+loc: smallholder farms in Ethiopia

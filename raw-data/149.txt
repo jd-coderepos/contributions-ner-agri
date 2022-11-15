@@ -1,0 +1,6 @@
+Discriminant analysis and ordination of vegetation and soils on the Vaalputs radioactive waste disposal site, Bushmanland, South Africa
+
+rp: Discriminant analysis
+rp: ordination 
+m: vegetation and soils
+loc: Vaalputs radioactive waste disposal site, Bushmanland, South Africa

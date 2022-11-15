@@ -1,0 +1,4 @@
+Supercapacitive microbial fuel cell: Characterization and analysis for improved charge storage/delivery performance
+
+m: Supercapacitive microbial fuel cell
+rp: charge storage/delivery performance

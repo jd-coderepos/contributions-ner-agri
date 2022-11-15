@@ -1,0 +1,7 @@
+Corrigendum to “Histopathological Characterization of Tail Injury and Traumatic Neuroma Development after Tail Docking in Piglets” [J Comp Pathol 155 (1) (2016) 40–49]
+
+meth: Histopathological Characterization
+rp: Tail Injury
+rp: Traumatic Neuroma Development
+m: Piglets
+p: Tail Docking

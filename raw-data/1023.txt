@@ -1,0 +1,7 @@
+Effect of cattle urine addition on the surface emissions and subsurface concentrations of greenhouse gases in a UK peat grassland
+
+rp: cattle urine addition
+p: surface emissions
+p: subsurface concentrations
+m: greenhouse gases
+loc: UK peat grassland

@@ -1,0 +1,6 @@
+Whole leaves to cellulose microfibrils: mechanical, molecular, and architectural approaches to study wall in-folding in vegetative tissues of desiccation tolerant plants
+
+p: Whole leaves to cellulose microfibrils
+m: vegetative tissues of desiccation tolerant plants
+meth: mechanical, molecular, and architectural approaches
+rp: wall in-folding

@@ -1,0 +1,7 @@
+Verbascoside and luteolin-5-O-β-d-glucoside isolated from Halleria lucida L. exhibit antagonistic anti-oxidant properties in vitro
+
+m: Verbascoside
+m: luteolin-5-O-β-d-glucoside
+m: Halleria lucida L.
+rp: antagonistic anti-oxidant properties 
+meth: in vitro

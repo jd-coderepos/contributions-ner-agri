@@ -1,0 +1,5 @@
+A meta-analysis on the effects of climate change on the yield and quality of European pastures
+
+meth: meta-analysis
+rp: climate change
+loc: European pastures

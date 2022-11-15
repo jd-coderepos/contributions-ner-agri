@@ -1,0 +1,6 @@
+Effect of heavy metals on germination and seedling development of widely used medicinal plants belonging to the Hyacinthaceae
+
+m: heavy metals
+rp: germination
+rp: seedling development
+m: medicinal plants belonging to the Hyacinthaceae

@@ -1,0 +1,5 @@
+Methodological and reporting quality in laboratory studies of human eating behavior
+
+p: Methodological and reporting quality
+rp: human eating behavior
+meth: laboratory studies

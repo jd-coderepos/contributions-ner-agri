@@ -1,0 +1,5 @@
+Tracking transparent monogenean parasites on fish from infection to maturity
+
+m: fish
+p: infection to maturity
+rp: Tracking transparent monogenean parasites

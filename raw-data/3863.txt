@@ -1,0 +1,5 @@
+Can national occupancy patterns predict landscape-level invasion risk of an invasive species?
+
+p: national occupancy patterns
+rp: landscape-level invasion risk
+m: invasive species

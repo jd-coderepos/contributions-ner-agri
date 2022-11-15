@@ -1,0 +1,5 @@
+Seed storage and asymbiotic germination of Hadrolaelia grandis (Orchidaceae)
+
+rp: Seed storage
+rp: asymbiotic germination
+m: Hadrolaelia grandis (Orchidaceae)

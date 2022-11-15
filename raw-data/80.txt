@@ -1,0 +1,5 @@
+Toxic and mutagenic properties of extracts from Tunisian traditional medicinal plants investigated by the neutral red uptake, VITOTOX and alkaline comet assays
+
+m: extracts from Tunisian traditional medicinal plants
+rp: Toxic and mutagenic properties
+meth: neutral red uptake, VITOTOX and alkaline comet assays

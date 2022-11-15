@@ -1,0 +1,7 @@
+The catastrophic decline of the Sumatran rhino (Dicerorhinus harrissoni) in Sabah : Historic exploitation , reduced female performance and population viability
+
+rp: decline of the Sumatran rhino (Dicerorhinus harrissoni)
+loc: Sabah
+p: Historic exploitation
+p: reduced female performance
+p: population viability

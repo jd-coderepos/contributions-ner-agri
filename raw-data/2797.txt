@@ -1,0 +1,6 @@
+The effects of ozonation on performance, health and welfare of rainbow trout Oncorhynchus mykiss in low-exchange water recirculation aquaculture systems
+
+rp: ozonation
+p: performance, health and welfare
+m: rainbow trout Oncorhynchus mykiss
+t: low-exchange water recirculation aquaculture systems

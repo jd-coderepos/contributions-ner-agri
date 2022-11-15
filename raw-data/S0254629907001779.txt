@@ -1,0 +1,5 @@
+Inter-site and species specific differences in photosynthetic properties of C4 plants growing in an African savanna/wetland mosaic 
+
+m: C4 plants
+loc: African savanna/wetland mosaic
+rp: photosynthetic properties

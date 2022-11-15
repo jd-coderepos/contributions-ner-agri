@@ -1,0 +1,5 @@
+Cross-slope flow in the Atlantic Inflow Current driven by the on-shelf deflection of a slope current
+
+p: Cross-slope flow
+rp: Atlantic Inflow Current
+p: on-shelf deflection of a slope current

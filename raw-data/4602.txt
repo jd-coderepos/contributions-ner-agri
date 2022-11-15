@@ -1,0 +1,5 @@
+Spatial and temporal seasonal trends in coastal upwelling off Northwest Africa, 1981–2012
+
+rp: Spatial and temporal seasonal trends
+p: coastal upwelling
+loc: Northwest Africa

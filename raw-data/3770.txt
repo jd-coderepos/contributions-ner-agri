@@ -1,0 +1,6 @@
+Microarray-predicted marker genes and molecular pathways indicating crowding stress in rainbow trout (Oncorhynchus mykiss)
+
+rp: Microarray-predicted marker genes
+p: crowding stress
+p: molecular pathways
+m: rainbow trout (Oncorhynchus mykiss)

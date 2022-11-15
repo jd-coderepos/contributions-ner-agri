@@ -1,0 +1,7 @@
+Effect of cadmium uptake and accumulation on growth and antibacterial activity of Merwilla plumbea — An extensively used medicinal plant in South Africa
+
+p: cadmium uptake and accumulation
+rp: growth and antibacterial activity
+m: Merwilla plumbea
+loc: South Africa
+m: medicinal plant

@@ -1,0 +1,7 @@
+Two observational studies examining the effect of a social norm and a health message on the purchase of vegetables in student canteen settings
+
+meth: observational studies
+p: social norm
+rp: purchase of vegetables
+m: health message
+p: student canteen settings

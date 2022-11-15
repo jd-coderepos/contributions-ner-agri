@@ -1,0 +1,8 @@
+Effects of alkalinity on ammonia removal, carbon dioxide stripping, and system pH in semi-commercial scale water recirculating aquaculture systems operated with moving bed bioreactors
+
+rp: Effects of alkalinity
+p: ammonia removal
+p: carbon dioxide stripping
+p: system pH
+meth: semi-commercial scale water recirculating aquaculture systems
+t: moving bed bioreactors

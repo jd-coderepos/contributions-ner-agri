@@ -1,0 +1,6 @@
+In vitro bulblet production of Brunsvigia undulata from twin-scales
+
+meth: In vitro
+rp: bulblet production
+m: Brunsvigia undulata
+meth: twin-scales

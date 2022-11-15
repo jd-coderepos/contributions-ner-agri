@@ -1,0 +1,5 @@
+“Where there is a spark is there fire?: The importance of ignitions in determining fire regimes in southern Africa”
+
+loc: southern Africa
+rp: determining fire regimes
+meth: ignitions

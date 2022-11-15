@@ -1,0 +1,5 @@
+Korannaberg–Viervoetberg mountain range (Ladybrand, Eastern Free State) — A floristic hub of the north-western Drakensberg
+
+loc: north-western Drakensberg
+loc: Korannaberg–Viervoetberg mountain range (Ladybrand, Eastern Free State)
+rp: floristic hub

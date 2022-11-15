@@ -1,0 +1,4 @@
+The criteria of measurement of the inorganic acid test of pollen viability
+
+rp: pollen viability
+meth: inorganic acid test

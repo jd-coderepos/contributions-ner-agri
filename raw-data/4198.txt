@@ -1,0 +1,6 @@
+A re-evaluation of plastochron index determination in peas — a case for using leaflet length
+
+meth: re-evaluation
+rp: plastochron index determination
+m: peas
+m: leaflet length

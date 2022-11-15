@@ -1,0 +1,6 @@
+A quantitative approach to the structural analysis and classification of the vegetation of the Manyeleti Game Reserve
+
+loc: Manyeleti Game Reserve
+meth: quantitative approach
+m: vegetation
+rp: structural analysis and classification

@@ -1,0 +1,6 @@
+Can survival analyses detect hunting pressure in a highly connected species? Lessons from straw-coloured fruit bats
+
+meth: survival analyses
+rp: hunting pressure
+m: highly connected species
+m: straw-coloured fruit bats

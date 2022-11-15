@@ -1,0 +1,6 @@
+Ecological intensification by integrating biogas production into nutrient cycling: Modeling the case of Agroecological Symbiosis
+
+meth: Ecological intensification
+p: biogas production
+p: nutrient cycling
+rp: Agroecological Symbiosis

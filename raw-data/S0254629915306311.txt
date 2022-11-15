@@ -1,0 +1,7 @@
+Cytokinin-like compounds in bark and shoot tissue of Salix babylonica and bark tissue of Ginkgo biloba after leaf abscission and during bud burst 
+
+rp: Cytokinin-like compounds
+m: bark and shoot tissue of Salix babylonica
+m: bark tissue of Ginkgo biloba
+p: after leaf abscission
+p: during bud burst

@@ -1,0 +1,5 @@
+Antimicrobial, antioxidant, anti-inflammatory activities and phytoconstituents of extracts from the roots of Dissotis thollonii Cogn. (Melastomataceae)
+
+m: roots of Dissotis thollonii Cogn. (Melastomataceae)
+rp: Antimicrobial, antioxidant, anti-inflammatory activities
+rp: phytoconstituents of extracts

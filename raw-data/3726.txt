@@ -1,0 +1,5 @@
+A cytotaxonomic study of Lantana camara (Verbenaceae) from South Africa
+
+meth: cytotaxonomic study
+m: Lantana camara (Verbenaceae)
+loc: South Africa

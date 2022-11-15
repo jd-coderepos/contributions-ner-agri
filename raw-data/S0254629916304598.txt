@@ -1,0 +1,5 @@
+A phytochemical investigation of Craterocapsa tarsodes, a plant used for the treatment of epilepsy by the Northern Sotho people of South Africa
+
+loc: South Africa
+m: Craterocapsa tarsodes
+meth: phytochemical investigation

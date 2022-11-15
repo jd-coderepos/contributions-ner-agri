@@ -1,0 +1,5 @@
+Differential gene expression analysis of ‘Granny Smith’ apple (Malus domestica Borkh.) during fruit skin coloration
+
+rp: Differential gene expression analysis
+m: ‘Granny Smith’ apple (Malus domestica Borkh.)
+p: fruit skin coloration

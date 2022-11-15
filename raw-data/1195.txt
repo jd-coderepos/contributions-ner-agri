@@ -1,0 +1,6 @@
+Understanding the spatial and temporal patterns of photosynthetic efficiency of Welwitschia mirabilis in the central Namib Desert
+
+p: spatial and temporal patterns
+rp: photosynthetic efficiency
+m: Welwitschia mirabilis
+loc: central Namib Desert

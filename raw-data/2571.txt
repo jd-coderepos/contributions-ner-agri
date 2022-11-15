@@ -1,0 +1,5 @@
+Protein content prediction in single wheat kernels using hyperspectral imaging
+
+rp: Protein content prediction
+m: single wheat kernels
+t: hyperspectral imaging

@@ -1,0 +1,5 @@
+Nitrate removal effectiveness of fluidized sulfur-based autotrophic denitrification biofilters for recirculating aquaculture systems
+
+rp: Nitrate removal effectiveness
+t: fluidized sulfur-based autotrophic denitrification biofilters
+t: recirculating aquaculture systems

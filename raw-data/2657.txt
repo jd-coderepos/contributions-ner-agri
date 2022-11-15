@@ -1,0 +1,4 @@
+Assessing temporal scales and patterns in time series: Comparing methods based on redundancy analysis
+
+rp: Assessing temporal scales and patterns in time series
+meth: redundancy analysis

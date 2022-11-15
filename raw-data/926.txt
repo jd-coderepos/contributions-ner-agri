@@ -1,0 +1,5 @@
+The ‘Omajowa’ or ‘Termitenpilz’, Termitomyces sp. (Agaricales) of Namibia
+
+m: ‘Omajowa’ or ‘Termitenpilz’
+m: Termitomyces sp. (Agaricales)
+loc: Namibia

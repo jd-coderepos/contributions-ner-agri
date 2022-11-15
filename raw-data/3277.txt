@@ -1,0 +1,4 @@
+Genetically transformed Bacillus subtilis with defluorinating ability
+
+rp: Genetically transformed Bacillus subtilis
+p: defluorinating ability

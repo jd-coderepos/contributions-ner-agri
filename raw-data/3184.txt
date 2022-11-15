@@ -1,0 +1,7 @@
+The effect of mixed and separate boiling extraction on the bioactivity of root extracts of Ziziphus mucronata, Prunus persica and Prunus armeniaca
+
+meth: mixed and separate boiling extraction
+rp: bioactivity of root extracts
+m: Ziziphus mucronata
+m: Prunus persica
+m: Prunus armeniaca

@@ -1,0 +1,5 @@
+Frontiers of urbanization: Identifying and explaining urbanization hot spots in the south of Mexico City using human and remote sensing
+
+rp: urbanization
+loc: urbanization hot spots in the south of Mexico City
+meth: human and remote sensing

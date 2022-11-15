@@ -1,0 +1,5 @@
+Revegetation as an efficient means of increasing soil aggregate stability on the Loess Plateau (China)
+
+s: Revegetation
+rp: soil aggregate stability
+loc: Loess Plateau (China)

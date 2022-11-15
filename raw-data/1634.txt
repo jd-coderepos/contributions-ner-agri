@@ -1,0 +1,6 @@
+Influence of solvent selection and extraction temperature on yield and composition of lipids extracted from spent coffee grounds
+
+p: solvent selection
+p: extraction temperature
+rp: yield and composition of lipids
+m: spent coffee grounds

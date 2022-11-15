@@ -1,0 +1,6 @@
+Induction of red skin and improvement of fruit quality in ‘Kent’, 'Shelly' and ‘Maya’ mangoes by preharvest spraying of prohydrojasmon at the orchard
+
+rp: Induction of red skin
+rp: fruit quality
+m: ‘Kent’, 'Shelly' and ‘Maya’ mangoes
+s: preharvest spraying of prohydrojasmon at the orchard

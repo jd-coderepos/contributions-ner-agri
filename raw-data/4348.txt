@@ -1,0 +1,4 @@
+Relationships of the sub-Saharan African genus Zygotritonia Mildbr. (Iridaceae: Crocoideae) inferred from molecular analysis
+
+m: sub-Saharan African genus Zygotritonia Mildbr. (Iridaceae: Crocoideae)
+meth: molecular analysis

@@ -1,0 +1,6 @@
+Physiological determinants of individual variation in sensitivity to an organophosphate pesticide in Nile tilapia Oreochromis niloticus
+
+p: Physiological determinants
+rp: individual variation in sensitivity
+m: organophosphate pesticide
+m: Nile tilapia Oreochromis niloticus

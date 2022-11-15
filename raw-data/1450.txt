@@ -1,0 +1,5 @@
+Seed dormancy and germination characteristics of Astragalus arpilobus (Fabaceae, subfamily Papilionoideae), a central Asian desert annual ephemeral
+
+rp: Seed dormancy
+rp: germination characteristics
+m: Astragalus arpilobus (Fabaceae, subfamily Papilionoideae)

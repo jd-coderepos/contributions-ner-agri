@@ -1,0 +1,5 @@
+Comparison of measured (XRPD) and modeled (A2M) soil mineralogies: A study of some Swedish forest soils in the context of weathering rate predictions
+
+m: measured (XRPD) and modeled (A2M) soil mineralogies
+m: Swedish forest soils
+p: weathering rate predictions

@@ -1,0 +1,6 @@
+Drivers of recreational fisher compliance in temperate marine conservation areas: A study of Rockfish Conservation Areas in British Columbia, Canada
+
+rp: recreational fisher compliance
+m: temperate marine conservation areas
+m: Rockfish Conservation Areas
+loc: British Columbia, Canada

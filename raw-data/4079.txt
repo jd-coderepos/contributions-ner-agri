@@ -1,0 +1,7 @@
+Effectiveness of plant guards in reducing grazing of Tetraria capillaris in restored bauxite mines in Western Australia
+
+m: plant guards
+m: restored bauxite mines
+rp: reducing grazing
+m: Tetraria capillaris
+loc: Western Australia

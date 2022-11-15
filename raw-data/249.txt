@@ -1,0 +1,6 @@
+A novel approach to estimate direct and indirect water withdrawals from satellite measurements: A case study from the Incomati basin
+
+rp: direct and indirect water withdrawals
+m: satellite measurements
+meth: case study
+loc: Incomati basin

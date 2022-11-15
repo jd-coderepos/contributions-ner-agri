@@ -1,0 +1,6 @@
+Ethno-phytotherapeutic remedies used in meat, milk, and blood products by the Maasai people of Kenya
+
+rp: Ethno-phytotherapeutic remedies
+m: meat, milk, and blood products
+m: Maasai people
+loc: Kenya

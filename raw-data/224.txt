@@ -1,0 +1,4 @@
+Mathematical model for calcium-assisted epidermal homeostasis
+
+meth: Mathematical model
+p: calcium-assisted epidermal homeostasis

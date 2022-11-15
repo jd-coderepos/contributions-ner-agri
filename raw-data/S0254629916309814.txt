@@ -1,0 +1,6 @@
+The Influence of nutrient nitrogen source on the growth and productivity of sunflower (Helianthus annuus var. Dwarf Sungold)
+
+m: sunflower (Helianthus annuus var. Dwarf Sungold)
+m: nutrient nitrogen source
+p: growth
+p: productivity

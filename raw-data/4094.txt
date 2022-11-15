@@ -1,0 +1,6 @@
+Osmotic priming effects on emergence of Physalis angulata and the influence of abiotic stresses on physalin content
+
+meth: Osmotic priming effects
+p: abiotic stresses
+rp: emergence of Physalis angulata
+m: physalin content

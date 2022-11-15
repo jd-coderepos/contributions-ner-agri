@@ -1,0 +1,7 @@
+Phylogenetic selection of target species in Amaryllidaceae tribe Haemantheae for acetylcholinesterase inhibition and affinity to the serotonin reuptake transport protein
+
+rp: Phylogenetic selection
+m: target species
+m: Amaryllidaceae tribe Haemantheae
+p: acetylcholinesterase inhibition and affinity
+m: serotonin reuptake transport protein

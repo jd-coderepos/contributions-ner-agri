@@ -1,0 +1,6 @@
+Abscisic acid is involved in the response of Arabidopsis mutant sad2-1 to ultraviolet-B radiation by enhancing antioxidant enzymes
+
+m: Abscisic acid
+m: Arabidopsis mutant sad2-1
+meth: enhancing antioxidant enzymes
+p: ultraviolet-B radiation

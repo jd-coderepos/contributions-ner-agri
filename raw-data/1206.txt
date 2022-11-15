@@ -1,0 +1,5 @@
+Regeneration patterns in Cape subtropical transitional thicket; where are all the seedlings?
+
+rp: Regeneration patterns
+loc: Cape subtropical transitional thicket
+m: seedlings

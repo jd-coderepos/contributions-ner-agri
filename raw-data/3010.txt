@@ -1,0 +1,6 @@
+A review of Pteronia species used in traditional medicine in South Africa
+
+meth: review
+m: Pteronia species
+rp: traditional medicine
+loc: South Africa

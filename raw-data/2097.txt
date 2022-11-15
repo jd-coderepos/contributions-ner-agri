@@ -1,0 +1,5 @@
+A phytochemical profile of Aloe marlothii in the Nobody area of the Capricorn District, Limpopo Province
+
+rp: phytochemical profile
+m: Aloe marlothii
+loc: Nobody area of the Capricorn District, Limpopo Province

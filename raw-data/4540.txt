@@ -1,0 +1,4 @@
+A global-scale two-layer transient groundwater model: Development and application to groundwater depletion
+
+s: global-scale two-layer transient groundwater model
+rp: groundwater depletion

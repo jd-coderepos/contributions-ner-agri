@@ -1,0 +1,6 @@
+Fishery-induced changes to age and length dependent maturation schedules of three demersal fish species in the Firth of Clyde
+
+p: Fishery-induced changes
+rp: age and length dependent maturation schedules
+m: three demersal fish species
+loc: Firth of Clyde

@@ -1,0 +1,5 @@
+Morphology and taxonomy of South African isolates of Colletotrichum
+
+rp: Morphology
+rp: taxonomy
+m: South African isolates of Colletotrichum

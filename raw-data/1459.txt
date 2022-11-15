@@ -1,0 +1,6 @@
+The effects of range margin proximity and life-history on dispersal ability in southern African Asteraceae
+
+p: range margin proximity
+p: life-history
+rp: dispersal ability
+m: southern African Asteraceae

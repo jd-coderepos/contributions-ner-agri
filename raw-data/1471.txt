@@ -1,0 +1,5 @@
+Ammonium ions affect metal toxicity in chamomile plants
+
+m: Ammonium ions
+rp: metal toxicity
+m: chamomile plants

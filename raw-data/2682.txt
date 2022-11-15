@@ -1,0 +1,4 @@
+Does resistance really carry a fitness cost?
+
+p: resistance
+rp: fitness cost

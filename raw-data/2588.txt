@@ -1,0 +1,5 @@
+Cultivar differences in the grain protein accumulation ability in rice (Oryza sativa L.)
+
+p: Cultivar differences
+rp: grain protein accumulation ability
+m: rice (Oryza sativa L.)

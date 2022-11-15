@@ -1,0 +1,4 @@
+The grassland vegetation of the Low Drakensberg escarpment in the north-westernKwaZulu-Natal and north-eastern Orange Free State border area
+
+rp: grassland vegetation
+loc: Low Drakensberg escarpment in the north-westernKwaZulu-Natal and north-eastern Orange Free State border area

@@ -1,0 +1,5 @@
+A synoptic view on the grassland vegetation of Soetdoring Nature Reserve, Free State Province
+
+meth: synoptic view
+rp: grassland vegetation
+loc: Soetdoring Nature Reserve, Free State Province

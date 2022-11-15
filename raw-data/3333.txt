@@ -1,0 +1,5 @@
+“Brazilian ginseng” (Pfaffia glomerata Spreng. Pedersen, Amaranthaceae) methanolic extract: cytogenotoxicity in animal and plant assays
+
+m: “Brazilian ginseng” (Pfaffia glomerata Spreng. Pedersen, Amaranthaceae) methanolic extract
+rp: cytogenotoxicity
+meth: animal and plant assays

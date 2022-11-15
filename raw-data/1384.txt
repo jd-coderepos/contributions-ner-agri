@@ -1,0 +1,5 @@
+Antimutagenic activity of Myrtus communis L. using the Salmonella microsome assay
+
+rp: Antimutagenic activity
+m: Myrtus communis L.
+meth: Salmonella microsome assay

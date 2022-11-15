@@ -1,0 +1,5 @@
+Taxonomy of the Moraea saxicola complex (Iridaceae: Iridoideae) of arid, western southern Africa, with the new species, M. acocksii, M. geminifolia, M. quartzicola and M. teretifolia
+
+rp: Taxonomy
+m: Moraea saxicola complex (Iridaceae: Iridoideae)
+loc: arid, western southern Africa

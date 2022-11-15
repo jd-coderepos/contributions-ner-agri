@@ -1,0 +1,6 @@
+An assessment of the impact of pesticides applied at planting on survival of pines during regeneration, in South Africa
+
+m: pesticides
+meth: planting
+rp: survival of pines
+loc: South Africa

@@ -1,0 +1,5 @@
+Amino acid and mineral composition of indigenous watermelon (Citrullus lanatus (Thunb) Matsum. and Nakai)) landrace seeds from the Sekhukhune and Capricorn districts in the Limpopo Province
+
+rp: Amino acid and mineral composition
+m: indigenous watermelon (Citrullus lanatus (Thunb) Matsum. and Nakai)) landrace seeds
+loc: Sekhukhune and Capricorn districts in the Limpopo Province

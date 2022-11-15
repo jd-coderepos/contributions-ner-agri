@@ -1,0 +1,5 @@
+Analysis of tidal currents in the North Sea from shipboard acoustic Doppler current profiler data
+
+rp: tidal currents
+m: shipboard acoustic Doppler current profiler data
+loc: North Sea

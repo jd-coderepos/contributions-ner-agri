@@ -1,0 +1,4 @@
+A new general analytical approach for modeling patterns of genetic differentiation and effective size of subdivided populations over time
+
+rp: modeling patterns of genetic differentiation
+p: effective size of subdivided populations over time

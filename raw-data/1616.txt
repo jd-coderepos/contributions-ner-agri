@@ -1,0 +1,7 @@
+Application of genomic tools to avocado (Persea americana) breeding: SNP discovery for genotyping and germplasm characterization
+
+meth: Application of genomic tools
+rp: avocado (Persea americana) breeding
+p: genotyping
+p: germplasm characterization
+s: SNP discovery

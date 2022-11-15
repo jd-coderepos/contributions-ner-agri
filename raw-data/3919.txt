@@ -1,0 +1,6 @@
+Description of reference conditions for restoration projects of riparian vegetation from the species-rich fynbos biome
+
+meth: Description of reference conditions
+p: restoration projects
+rp: riparian vegetation
+m: species-rich fynbos biome

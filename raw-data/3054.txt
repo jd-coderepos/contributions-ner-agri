@@ -1,0 +1,6 @@
+Ploidy determination of buffel grass accessions in the USDA National Plant Germplasm System collection by flow cytometry
+
+rp: Ploidy determination
+meth: flow cytometry
+m: buffel grass accessions
+m: USDA National Plant Germplasm System collection

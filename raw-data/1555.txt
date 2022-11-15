@@ -1,0 +1,6 @@
+An ethnobotanical survey of traditional medicinal plants used against lymphatic filariasis in South Africa
+
+meth: ethnobotanical survey
+rp: traditional medicinal plants
+p: lymphatic filariasis
+loc: South Africa

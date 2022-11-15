@@ -1,0 +1,7 @@
+Developing publicly acceptable tree health policy: public perceptions of tree-breeding solutions to ash dieback among interested publics in the UK
+
+s: publicly acceptable tree health policy
+s: public perceptions of tree-breeding solutions
+rp: ash dieback
+m: interested publics
+loc: UK

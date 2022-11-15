@@ -1,0 +1,5 @@
+The physical environment and major vegetation types of Sekhukhuneland, South Africa
+
+m: physical environment
+rp: vegetation types
+loc: Sekhukhuneland, South Africa

@@ -1,0 +1,6 @@
+Geographic variation in flower color: Spectral composition versus perception of pollinators
+
+rp: Geographic variation
+p: Spectral composition
+m: pollinators
+m: flower color

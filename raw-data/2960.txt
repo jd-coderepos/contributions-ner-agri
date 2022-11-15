@@ -1,0 +1,7 @@
+Viability of alien and native seed banks after slash and burn: Effects of soil moisture, depth of burial and fuel load
+
+rp: Viability of alien and native seed banks
+p: slash and burn
+p: soil moisture
+p: depth of burial
+p: fuel load

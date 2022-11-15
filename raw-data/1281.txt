@@ -1,0 +1,4 @@
+Tree loss impacts on ecological connectivity: Developing models for assessment
+
+p: Tree loss
+rp: ecological connectivity

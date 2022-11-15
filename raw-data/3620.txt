@@ -1,0 +1,5 @@
+Metabolic engineering of yeast for fermentative production of flavonoids
+
+rp: Metabolic engineering of yeast
+p: fermentative production
+m: flavonoids

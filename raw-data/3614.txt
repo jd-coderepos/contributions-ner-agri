@@ -1,0 +1,6 @@
+Visual perceptions of portion size normality and intended food consumption: A norm range model
+
+rp: portion size normality
+rp: intended food consumption
+p: Visual perceptions
+s: norm range model

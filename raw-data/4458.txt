@@ -1,0 +1,5 @@
+Patterns of variation in the climates, soils and vegetation of some subantarctic and antarctic islands
+
+p: Patterns of variation
+rp: climates, soils and vegetation
+loc: subantarctic and antarctic islands

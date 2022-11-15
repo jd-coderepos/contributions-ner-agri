@@ -1,0 +1,6 @@
+Seed priming stimulate germination and early seedling growth of Chinese cabbage under drought stress
+
+rp: Seed priming stimulate germination
+rp: early seedling growth
+m: Chinese cabbage
+p: drought stress

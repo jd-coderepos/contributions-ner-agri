@@ -1,0 +1,4 @@
+The description of a method for accurately estimating creatinine clearance in acute kidney injury
+
+p: accurately estimating creatinine clearance
+rp: acute kidney injury

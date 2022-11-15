@@ -1,0 +1,4 @@
+An updated plant checklist for Tankwa Karoo National Park, South Africa
+
+loc: Tankwa Karoo National Park, South Africa
+rp: plant checklist

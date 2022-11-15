@@ -1,0 +1,6 @@
+Wound callose synthesis in response to Russian wheat aphid and Bird cherry-oat aphid feeding on barley cv Clipper
+
+rp: Wound callose synthesis
+m: Russian wheat aphid
+m: Bird cherry-oat aphid
+m: barley cv Clipper

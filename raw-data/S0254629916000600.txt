@@ -1,0 +1,5 @@
+Molecular characterization of micro-symbiont associated with cowpea (Vigna unguiculata) varieties cultivated in different agro-ecological regions of Mozambique 
+
+rp: Molecular characterization
+m: micro-symbiont associated with cowpea (Vigna unguiculata) varieties
+loc: different agro-ecological regions of Mozambique

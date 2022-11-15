@@ -1,0 +1,6 @@
+An ethnopharmacological investigation of home grown plants used for treating diarrhoea and wound infections in the Mbazwana area, Maputaland
+
+meth: ethnopharmacological investigation
+m: home grown plants
+rp: treating diarrhoea and wound infections
+loc: Mbazwana area, Maputaland

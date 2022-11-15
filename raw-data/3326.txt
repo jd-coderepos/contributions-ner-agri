@@ -1,0 +1,5 @@
+Antimicrobial activity of Albizia gummifera (J.F.Gmel.) C.A.Sm leaf extracts against four Salmonella serovars
+
+rp: Antimicrobial activity
+m: Albizia gummifera (J.F.Gmel.) C.A.Sm leaf extracts
+m: four Salmonella serovars

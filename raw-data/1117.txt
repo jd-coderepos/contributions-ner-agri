@@ -1,0 +1,5 @@
+Vase life of cut rose cultivars ‘Avalanche’ and ‘Fiesta’ as affected by Nano-Silver and S-carvone treatments
+
+rp: Vase life
+m: cut rose cultivars ‘Avalanche’ and ‘Fiesta’
+meth: Nano-Silver and S-carvone treatments

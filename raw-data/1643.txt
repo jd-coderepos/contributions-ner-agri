@@ -1,0 +1,6 @@
+Coordinated RNA-Seq and peptidomics identify neuropeptides and G-protein coupled receptors (GPCRs) in the large pine weevil Hylobius abietis, a major forestry pest
+
+rp: Coordinated RNA-Seq and peptidomics
+m: neuropeptides
+m: G-protein coupled receptors (GPCRs)
+m: large pine weevil Hylobius abietis, a major forestry pest

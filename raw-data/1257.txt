@@ -1,0 +1,5 @@
+Resistance and tolerance to the brown planthopper, Nilaparvata lugens (Stål), in rice infested at different growth stages across a gradient of nitrogen applications
+
+m: brown planthopper, Nilaparvata lugens (Stål)
+m: rice
+m: gradient of nitrogen applications

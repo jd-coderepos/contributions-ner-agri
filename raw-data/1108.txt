@@ -1,0 +1,6 @@
+Frugivorous birds visit fruits of emerging alien shrub species more frequently than those of native shrub species in the South African Mediterranean climate region
+
+m: Frugivorous birds
+m: emerging alien shrub species
+m: native shrub species
+loc: South African Mediterranean climate region

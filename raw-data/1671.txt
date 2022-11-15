@@ -1,0 +1,6 @@
+Using occupancy models to investigate the prevalence of ectoparasitic vectors on hosts: An example with fleas on prairie dogs
+
+meth: occupancy models
+rp: prevalence of ectoparasitic vectors
+m: fleas
+m: prairie dogs

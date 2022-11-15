@@ -1,0 +1,6 @@
+Effects of seed flavonoid and anthocyanin content on the symbiotic performance of Bradyrhizobium-inoculated Bambara groundnut (Vigna subterranea L.) landraces
+
+m: seed flavonoid
+m: anthocyanin content
+m: Bradyrhizobium-inoculated Bambara groundnut (Vigna subterranea L.) landraces
+rp: symbiotic performance

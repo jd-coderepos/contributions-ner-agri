@@ -1,0 +1,6 @@
+Conventional and molecular marker-assisted selection and pyramiding of genes for multiple disease resistance in tomato
+
+s: Conventional and molecular marker-assisted selection and pyramiding
+m: genes
+m: tomato
+rp: multiple disease resistance

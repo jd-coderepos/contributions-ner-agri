@@ -1,0 +1,6 @@
+Effect of National Schistosomiasis Programme on Taenia taeniosis and porcine cysticercosis in rural communities Tanzania
+
+meth: National Schistosomiasis Programme
+p: Taenia taeniosis
+p: porcine cysticercosis
+loc: rural communities Tanzania

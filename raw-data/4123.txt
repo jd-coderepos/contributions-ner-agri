@@ -1,0 +1,5 @@
+Physiological responses of a fynbos legume, Aspalathus linearis to drought stress
+
+rp: Physiological responses
+m: fynbos legume, Aspalathus linearis
+p: drought stress

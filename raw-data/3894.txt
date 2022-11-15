@@ -1,0 +1,5 @@
+Deep structure analysis: Finding scale-breaks in vegetation along the Shingwedzi River
+
+meth: Deep structure analysis
+rp: scale-breaks in vegetation
+loc: Shingwedzi River

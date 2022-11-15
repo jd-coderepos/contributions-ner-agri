@@ -1,0 +1,5 @@
+Bark medicines used in traditional healthcare in KwaZulu-Natal, South Africa: An inventory
+
+rp: Bark medicines
+p: traditional healthcare
+loc: KwaZulu-Natal, South Africa

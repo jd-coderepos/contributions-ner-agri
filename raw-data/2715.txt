@@ -1,0 +1,7 @@
+Exploring stakeholder perceptions of conservation outcomes from alternative income generating activities in Tanzanian villages adjacent to Eastern Arc Mountain forests
+
+p: stakeholder perceptions
+rp: conservation outcomes
+meth: alternative income generating activities
+loc: Tanzanian villages
+loc: Eastern Arc Mountain forests

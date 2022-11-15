@@ -1,0 +1,7 @@
+Studies in Cyperaceae in southern Africa 23: a reassessment of Schoenoplectus litoralis, Sch. subulatus and Scirpus pterolepis
+
+m: Cyperaceae
+m: Schoenoplectus litoralis
+m: Sch. subulatus
+m: Scirpus pterolepis
+loc: southern Africa

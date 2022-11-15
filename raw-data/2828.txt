@@ -1,0 +1,5 @@
+Unintentional effects of environmentally-friendly farming practices: Arising conflicts between zero-tillage and a crop pest, the common vole (Microtus arvalis)
+
+rp: environmentally-friendly farming practices
+meth: zero-tillage
+m: crop pest, the common vole (Microtus arvalis)

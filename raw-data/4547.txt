@@ -1,0 +1,6 @@
+Assessing the suitability of the Soil Vulnerability Index (SVI) on identifying croplands vulnerable to nitrogen loss using the SWAT model
+
+meth: Soil Vulnerability Index (SVI)
+m: croplands
+p: nitrogen loss
+t: SWAT model

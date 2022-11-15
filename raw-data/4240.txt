@@ -1,0 +1,6 @@
+Changes in foliar cytokinins of Salix babylonica and Ginkgo biloba prior to and during leaf senescence
+
+rp: Changes in foliar cytokinins
+m: Salix babylonica
+m: Ginkgo biloba
+meth: prior to and during leaf senescence

@@ -1,0 +1,6 @@
+A phytocentric perspective of Asterolecanium quercicola Bouché infestation on Quercus robur L. trees along an urbanization gradient
+
+m: Quercus robur L. trees
+p: phytocentric perspective
+p: urbanization gradient
+rp: Asterolecanium quercicola Bouché infestation

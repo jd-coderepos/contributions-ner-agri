@@ -1,0 +1,4 @@
+Strigolactone signalling in Physcomitrella patens: Is locus Pp1s148_40v6 a MAX2 homolog?
+
+rp: Strigolactone signalling
+m: Physcomitrella patens

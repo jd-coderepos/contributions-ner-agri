@@ -1,0 +1,6 @@
+Anti-bacterial and anti-oxidant activity of Hypoxis hemerocallidea (Hypoxidaceae): Can leaves be substituted for corms as a conservation strategy?
+
+rp: Anti-bacterial and anti-oxidant activity
+m: Hypoxis hemerocallidea (Hypoxidaceae)
+p: conservation strategy
+m: leaves

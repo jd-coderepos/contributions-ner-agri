@@ -1,0 +1,7 @@
+The role of cytokinins on the antioxidant capacity and phenolic acid content during tissue culture and acclimatization of Merwilla plumbea
+
+rp: role of cytokinins
+p: antioxidant capacity
+m: phenolic acid content
+m: Merwilla plumbea
+meth: tissue culture and acclimatization

@@ -1,0 +1,6 @@
+Histopathological Characterization of Tail Injury and Traumatic Neuroma Development after Tail Docking in Piglets
+
+meth: Histopathological Characterization
+rp: Tail Injury
+rp: Traumatic Neuroma Development
+p: Tail Docking in Piglets

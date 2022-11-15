@@ -1,0 +1,5 @@
+Physiomorphological response of rose-scented geranium (Pelargonium spp.) to irrigation frequency
+
+rp: Physiomorphological response
+m: rose-scented geranium (Pelargonium spp.)
+p: irrigation frequency

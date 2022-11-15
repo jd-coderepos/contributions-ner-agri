@@ -1,0 +1,5 @@
+The economic impact of the introduction of low-phosphate detergents in South Africa
+
+rp: economic impact
+m: low-phosphate detergents
+loc: South Africa

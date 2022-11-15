@@ -1,0 +1,5 @@
+Quantification of effective exoelectrogens by most probable number (MPN) in a microbial fuel cell
+
+rp: Quantification of effective exoelectrogens
+meth: most probable number (MPN)
+m: microbial fuel cell

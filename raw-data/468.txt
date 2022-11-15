@@ -1,0 +1,5 @@
+Evaluation of antibacterial activity of traditionally prepared South African remedies for infections
+
+rp: antibacterial activity
+m: traditionally prepared South African remedies
+p: infections

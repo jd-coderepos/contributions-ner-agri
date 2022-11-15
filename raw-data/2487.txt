@@ -1,0 +1,4 @@
+Anomalous in vitro nitrate reductase activity of pea (Pisum sativum)
+
+p: in vitro nitrate reductase activity
+m: pea (Pisum sativum)

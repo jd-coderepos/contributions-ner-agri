@@ -1,0 +1,6 @@
+Watsonias as container plants: using paclobutrazol for flowering and height control
+
+m: Watsonias
+rp: container plants
+m: paclobutrazol
+rp: flowering and height control

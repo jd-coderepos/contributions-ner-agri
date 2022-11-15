@@ -1,0 +1,5 @@
+Community structure of a southern Chihuahuan Desert grassland under different grazing pressures
+
+rp: Community structure
+loc: southern Chihuahuan Desert grassland
+p: grazing pressures

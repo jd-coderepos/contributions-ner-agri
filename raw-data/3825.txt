@@ -1,0 +1,5 @@
+Genetic transformation of Torenia fournieri L. mediated by Agrobacterium rhizogenes
+
+rp: Genetic transformation
+m: Torenia fournieri L.
+m: Agrobacterium rhizogenes

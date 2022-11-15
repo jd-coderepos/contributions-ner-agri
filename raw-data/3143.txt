@@ -1,0 +1,5 @@
+Effects of exogenous salicylic acid on polysaccharides production of Dendrobium officinale
+
+m: exogenous salicylic acid
+m: Dendrobium officinale
+rp: polysaccharides production

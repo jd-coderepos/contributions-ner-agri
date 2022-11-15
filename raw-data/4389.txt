@@ -1,0 +1,5 @@
+Cylindrocladium leucothoes and C. hederae, synonyms of C. reteaudii
+
+m: Cylindrocladium leucothoes
+m: C. reteaudii
+rp: synonyms of C. reteaudii

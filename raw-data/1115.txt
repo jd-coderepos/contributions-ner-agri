@@ -1,0 +1,6 @@
+Smoke-derived compounds with germination activity: Towards understanding the mode of action by investigating structure-activity relationships of synthetic analogues
+
+m: Smoke-derived compounds
+rp: germination activity
+meth: investigating structure-activity relationships
+m: synthetic analogues

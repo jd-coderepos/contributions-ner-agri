@@ -1,0 +1,5 @@
+Efficient avian pollination of Strelitzia reginae outside of South Africa
+
+rp: avian pollination
+m: Strelitzia reginae
+loc: South Africa

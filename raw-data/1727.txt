@@ -1,0 +1,4 @@
+Soil natural capital quantification by the stock adequacy method
+
+rp: Soil natural capital quantification
+meth: stock adequacy method

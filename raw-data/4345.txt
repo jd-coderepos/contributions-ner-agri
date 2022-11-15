@@ -1,0 +1,6 @@
+Combining pollination ecology and fine-scale spatial genetic structure analysis to unravel the reproductive strategy of an insular threatened orchid
+
+p: pollination ecology
+meth: fine-scale spatial genetic structure analysis
+rp: reproductive strategy
+m: insular threatened orchid

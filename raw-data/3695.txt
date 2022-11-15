@@ -1,0 +1,6 @@
+Identifying climatic factors and circulation indices related to apple yield variation in main production areas of China
+
+p: climatic factors
+p: circulation indices
+rp: apple yield variation
+loc: China

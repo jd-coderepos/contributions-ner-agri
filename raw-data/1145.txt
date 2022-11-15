@@ -1,0 +1,7 @@
+Phytochemical analysis and antioxidant activity of different tissue types of Crocus sativus and oxidative stress alleviating potential of saffron extract in plants, bacteria, and yeast
+
+rp: Phytochemical analysis
+rp: antioxidant activity
+m: different tissue types of Crocus sativus
+m: saffron extract in plants, bacteria, and yeast
+p: oxidative stress alleviating potential

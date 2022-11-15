@@ -1,0 +1,7 @@
+Studies in Cyperaceae in southern Africa. 16: A re-examination of Schoenoplectus paludicola, Sch. decipiens and Sch. pulchellus
+
+m: Cyperaceae
+m: Schoenoplectus paludicola
+m: Sch. decipiens
+m: Sch. pulchellus
+loc: southern Africa

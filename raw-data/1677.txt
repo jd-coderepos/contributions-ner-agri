@@ -1,0 +1,6 @@
+Profiling Bangladeshi rice diversity based on grain size and amylose content using molecular markers
+
+rp: Profiling Bangladeshi rice diversity
+p: grain size
+p: amylose content
+meth: molecular markers

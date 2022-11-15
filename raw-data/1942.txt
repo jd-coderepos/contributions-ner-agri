@@ -1,0 +1,6 @@
+The formation of root casts by Morella cordifolia: The possible role of transpiration driven mass-flow of soil nutrients
+
+rp: root casts
+m: Morella cordifolia
+meth: transpiration driven mass-flow
+m: soil nutrients

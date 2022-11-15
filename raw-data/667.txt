@@ -1,0 +1,5 @@
+Logistic regression for clustered data from environmental monitoring programs
+
+rp: Logistic regression
+m: clustered data
+meth: environmental monitoring programs

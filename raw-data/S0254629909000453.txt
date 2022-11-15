@@ -1,0 +1,5 @@
+A phylogenetic study of the genus Cussonia (Araliaceae) based on morphological, anatomical and molecular data 
+
+rp: phylogenetic study
+m: genus Cussonia (Araliaceae)
+meth: morphological, anatomical and molecular data

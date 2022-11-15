@@ -1,0 +1,6 @@
+First report of Trichophaea abundans and the teleomorph of Peziza ostracoderma associated with mushroom cultivation in South Africa
+
+m: Trichophaea abundans
+m: teleomorph of Peziza ostracoderma
+rp: mushroom cultivation
+loc: South Africa

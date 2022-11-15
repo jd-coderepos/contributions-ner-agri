@@ -1,0 +1,6 @@
+Complimentary analysis of metacommunity nestedness and diversity partitioning highlights the need for a holistic conservation strategy for highland lake fish assemblages
+
+meth: metacommunity nestedness
+meth: diversity partitioning
+m: highland lake fish assemblages
+rp: holistic conservation strategy

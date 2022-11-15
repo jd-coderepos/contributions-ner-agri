@@ -1,0 +1,5 @@
+Antifungal activity of the selected medicinal plants used to treat candidiasis
+
+p: Antifungal activity
+m: selected medicinal plants
+rp: candidiasis

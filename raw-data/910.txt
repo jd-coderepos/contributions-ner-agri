@@ -1,0 +1,5 @@
+The vegetation syntaxa of the Ba land type in the western Transvaal Grassland, South Africa
+
+rp: vegetation syntaxa
+m: Ba land type
+loc: western Transvaal Grassland, South Africa

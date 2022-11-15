@@ -1,0 +1,7 @@
+The relationship between seasonal changes in anti-oxidative system and freezing tolerance in the leaves of evergreen plants of Sabina
+
+rp: seasonal changes
+p: anti-oxidative system
+m: leaves of evergreen plants
+loc: Sabina
+p: freezing tolerance

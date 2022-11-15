@@ -1,0 +1,5 @@
+Caffeic acid-induced salt stress tolerance is mediated by nitric oxide and hydrogen peroxide scavenging enzymes in soybean root nodules
+
+rp: Caffeic acid-induced salt stress tolerance
+m: nitric oxide and hydrogen peroxide scavenging enzymes
+m: soybean root nodules

@@ -1,0 +1,5 @@
+Impact of proximity of healthier versus less healthy foods on intake: A lab-based experiment
+
+rp: proximity of healthier versus less healthy foods
+p: intake
+meth: lab-based experiment

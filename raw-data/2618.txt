@@ -1,0 +1,5 @@
+The mechanisms of hydrothermal deconstruction of lignocellulose: New insights from thermal–analytical and complementary studies
+
+rp: hydrothermal deconstruction
+m: lignocellulose
+meth: thermal–analytical and complementary studies

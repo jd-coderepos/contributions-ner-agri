@@ -1,0 +1,5 @@
+Senecio angustifolia is the main pyrrolizidine alkaloid contaminant of rooibos tea
+
+m: rooibos tea
+m: Senecio angustifolia
+p: main pyrrolizidine alkaloid contaminant

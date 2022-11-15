@@ -1,0 +1,5 @@
+The water relations of the maritime lichen Roccella hypomecha (Ach.) Borg. studied using thermocouple psychrometry
+
+rp: water relations
+m: maritime lichen Roccella hypomecha (Ach.) Borg.
+meth: thermocouple psychrometry

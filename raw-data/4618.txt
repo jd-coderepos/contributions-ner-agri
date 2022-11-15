@@ -1,0 +1,6 @@
+Isolation-by-distance, homophily, and “core” vs. “package” cultural evolution models in Neolithic Europe
+
+p: Isolation-by-distance
+p: homophily
+rp: “core” vs. “package” cultural evolution models
+loc: Neolithic Europe

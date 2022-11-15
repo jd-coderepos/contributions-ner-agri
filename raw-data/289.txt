@@ -1,0 +1,6 @@
+In vivo hepatoprotective effects of Rhoicissus tridentata subsp. cuneifolia, a traditional Zulu medicinal plant, against CCl4-induced acute liver injury in rats
+
+loc: rats
+m: Rhoicissus tridentata subsp. cuneifolia
+p: CCl4-induced acute liver injury
+rp: In vivo hepatoprotective effects

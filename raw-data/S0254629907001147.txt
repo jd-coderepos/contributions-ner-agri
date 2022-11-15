@@ -1,0 +1,5 @@
+Acclimation of the maize transcriptome to CO2 enrichment 
+
+rp: CO2 enrichment
+m: maize transcriptome
+p: Acclimation

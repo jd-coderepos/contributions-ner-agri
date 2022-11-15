@@ -1,0 +1,6 @@
+The utilization of storage compounds during early growth of Avicennia marina seedlings under laboratory and field conditions
+
+m: storage compounds
+rp: early growth of Avicennia marina seedlings
+meth: laboratory
+meth: field conditions

@@ -1,0 +1,6 @@
+Cell fusion and cytomixis during microsporogenesis in Brachiaria humidicola (Poaceae)
+
+p: Cell fusion
+p: cytomixis
+rp: microsporogenesis
+m: Brachiaria humidicola (Poaceae)

@@ -1,0 +1,5 @@
+Extension of k-ω turbulence closure to two-phase sediment transport modelling: Application to oscillatory sheet flows
+
+meth: k-ω turbulence closure
+meth: two-phase sediment transport modelling
+rp: oscillatory sheet flows

@@ -1,0 +1,5 @@
+Integrating variable retention systems into strategic forest management to deal with conservation biodiversity objectives
+
+meth: variable retention systems
+p: strategic forest management
+rp: conservation biodiversity objectives

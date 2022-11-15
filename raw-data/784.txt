@@ -1,0 +1,6 @@
+Isolation, expression analysis and chromosomal location of P5CR gene in common wheat (Triticum aestivum L.)
+
+rp: Isolation
+rp: expression analysis
+rp: chromosomal location
+m: P5CR gene in common wheat (Triticum aestivum L.)

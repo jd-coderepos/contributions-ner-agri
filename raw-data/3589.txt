@@ -1,0 +1,5 @@
+Ethiopian wheat yield and yield gap estimation: A spatially explicit small area integrated data approach
+
+rp: Ethiopian wheat yield
+rp: yield gap estimation
+s: spatially explicit small area integrated data approach

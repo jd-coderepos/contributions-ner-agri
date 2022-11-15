@@ -1,0 +1,6 @@
+Gene-mining the Arabidopsis thaliana genome: applications for biotechnology in Africa
+
+rp: Gene-mining
+m: Arabidopsis thaliana genome
+t: biotechnology
+loc: Africa

@@ -1,0 +1,6 @@
+The effects of elevated copper and zinc concentrations on hydroponically cultivated soybean (Glycine max [L Merr]) at the vegetative growth stage
+
+m: hydroponically cultivated soybean (Glycine max [L Merr])
+m: elevated copper
+m: zinc concentrations
+p: vegetative growth stage

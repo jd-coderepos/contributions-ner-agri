@@ -1,0 +1,6 @@
+Seasonal changes in plankton respiration and bacterial metabolism in a temperate shelf sea
+
+p: Seasonal changes
+rp: plankton respiration
+p: bacterial metabolism
+m: temperate shelf sea

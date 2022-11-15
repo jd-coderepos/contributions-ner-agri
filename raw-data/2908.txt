@@ -1,0 +1,5 @@
+Vegetation of the central Kavango woodlands in Namibia: An example from the Mile 46 Livestock Development Centre
+
+rp: Vegetation
+loc: central Kavango woodlands in Namibia
+loc: Mile 46 Livestock Development Centre

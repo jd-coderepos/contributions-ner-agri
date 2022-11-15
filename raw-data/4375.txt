@@ -1,0 +1,6 @@
+Cytotaxonomic studies in Themeda triandra Forssk.: IV. A population cytogenetic study of a contact zone between tetraploid and hexaploid populations
+
+meth: Cytotaxonomic studies
+rp: population cytogenetic study
+m: Themeda triandra Forssk.
+m: contact zone between tetraploid and hexaploid populations

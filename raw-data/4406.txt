@@ -1,0 +1,5 @@
+Callus initiation and somatic embryogenesis in root cultures of the maize inbred line 21A-6
+
+rp: Callus initiation
+rp: somatic embryogenesis
+m: root cultures of the maize inbred line 21A-6

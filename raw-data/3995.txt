@@ -1,0 +1,7 @@
+Above ground woody community attributes, biomass and carbon stocks along a rainfall gradient in the savannas of the central lowveld, South Africa
+
+rp: Above ground woody community attributes
+p: biomass
+p: carbon stocks
+p: rainfall gradient
+loc: savannas of the central lowveld, South Africa

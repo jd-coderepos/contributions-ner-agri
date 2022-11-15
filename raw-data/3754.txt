@@ -1,0 +1,5 @@
+Learning pharmacokinetic models for in vivo glucocorticoid activation
+
+p: pharmacokinetic models
+meth: in vivo
+rp: glucocorticoid activation

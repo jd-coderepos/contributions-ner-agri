@@ -1,0 +1,5 @@
+UPLC-qTOF-MS profiling of pharmacologically important chlorogenic acids and associated glycosides in Moringa ovalifolia leaf extracts
+
+rp: UPLC-qTOF-MS profiling
+m: pharmacologically important chlorogenic acids and associated glycosides
+m: Moringa ovalifolia leaf extracts

@@ -1,0 +1,7 @@
+Dehydrins presence in xylem parenchyma cells enhances hydraulic conductivity and physiological performance in Nothofagus dombeyi
+
+m: Dehydrins
+m: xylem parenchyma cells
+m: Nothofagus dombeyi
+p: hydraulic conductivity
+p: physiological performance

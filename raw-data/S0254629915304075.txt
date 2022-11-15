@@ -1,0 +1,5 @@
+Pollinium structure in Epistemma: Periplocoideae (Apocynaceae)
+
+rp: Pollinium structure
+m: Epistemma
+m: Periplocoideae (Apocynaceae)

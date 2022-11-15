@@ -1,0 +1,6 @@
+Hepatic transcriptional responses to copper in the three-spined stickleback are affected by their pollution exposure history
+
+rp: Hepatic transcriptional responses
+m: copper
+m: three-spined stickleback
+p: pollution exposure history

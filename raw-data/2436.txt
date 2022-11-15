@@ -1,0 +1,7 @@
+Systematic studies in the genus Mohria (Pteridophyta: Anemiaceae) I. Comparative morphology and anatomy of the rhizome and frond
+
+meth: Systematic studies
+m: genus Mohria (Pteridophyta: Anemiaceae)
+m: rhizome
+m: frond
+rp: Comparative morphology and anatomy

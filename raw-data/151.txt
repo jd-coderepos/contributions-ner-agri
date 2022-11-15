@@ -1,0 +1,7 @@
+Seasonal changes in root biomass, root/shoot ratios and turnover in two coastal grassland communities in Transkei
+
+rp: Seasonal changes
+loc: coastal grassland communities in Transkei
+p: root biomass
+p: root/shoot ratios
+p: turnover

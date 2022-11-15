@@ -1,0 +1,5 @@
+Metabolic effect of short term administration of Hoodia gordonii, an herbal appetite suppressant
+
+rp: Metabolic effect
+meth: short term administration
+m: Hoodia gordonii, an herbal appetite suppressant

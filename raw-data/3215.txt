@@ -1,0 +1,9 @@
+Comparative analyses of alterations in carbohydrates, amino acids, phenols and lignin in roots of three cultivars of Xanthosoma sagittifolium infected by Pythium myriotylum
+
+rp: Comparative analyses of alterations
+m: carbohydrates
+m: amino acids
+m: phenols
+m: lignin
+m: roots of three cultivars of Xanthosoma sagittifolium
+m: Pythium myriotylum

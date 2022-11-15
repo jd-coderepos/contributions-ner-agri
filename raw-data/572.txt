@@ -1,0 +1,5 @@
+Experimental management of a Pinus pinaster plantation for the conservation of Diastella buekii
+
+rp: conservation of Diastella buekii
+m: Pinus pinaster plantation
+meth: Experimental management

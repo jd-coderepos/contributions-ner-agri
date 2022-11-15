@@ -1,0 +1,6 @@
+Impact of opening hermetic storage bags on grain quality, fungal growth and aflatoxin accumulation 
+
+rp: hermetic storage bags
+p: grain quality
+p: fungal growth
+p: aflatoxin accumulation

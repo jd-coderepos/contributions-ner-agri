@@ -1,0 +1,5 @@
+Constraints on photosynthesis of C3 and C4 crop plants by trichloroacetic acid, an atmogenically generated pollutant
+
+rp: photosynthesis
+m: C3 and C4 crop plants
+m: trichloroacetic acid, an atmogenically generated pollutant

@@ -1,0 +1,6 @@
+Chemical composition and antifungal activity of the essential oils of Lippia rehmannii from South Africa
+
+rp: Chemical composition
+rp: antifungal activity
+m: essential oils of Lippia rehmannii
+loc: South Africa

@@ -1,0 +1,7 @@
+The C-terminus of PufX plays a key role in dimerisation and assembly of the reaction center light-harvesting 1 complex from Rhodobacter sphaeroides
+
+m: C-terminus of PufX
+meth: dimerisation
+meth: assembly
+rp: reaction center light-harvesting 1 complex
+m: Rhodobacter sphaeroides

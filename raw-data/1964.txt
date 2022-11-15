@@ -1,0 +1,6 @@
+Extracts of the leaves and twigs of the threatened tree Curtisia dentata (Cornaceae) are more active against Candida albicans and other microorganisms than the stem bark extract
+
+rp: Extracts of the leaves and twigs
+m: threatened tree Curtisia dentata (Cornaceae)
+m: Candida albicans
+m: stem bark extract

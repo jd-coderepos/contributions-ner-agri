@@ -1,0 +1,6 @@
+Evaluation of a high-EPA oil from transgenic Camelina sativa in feeds for Atlantic salmon (Salmo salar L.): Effects on tissue fatty acid composition, histology and gene expression
+
+m: high-EPA oil
+m: transgenic Camelina sativa
+m: feeds for Atlantic salmon (Salmo salar L.)
+rp: tissue fatty acid composition, histology and gene expression

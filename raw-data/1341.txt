@@ -1,0 +1,5 @@
+Investigating trends in the growth of five demersal fish species from the Firth of Clyde and the wider western shelf of Scotland
+
+rp: trends in the growth of five demersal fish species
+loc: Firth of Clyde
+loc: wider western shelf of Scotland

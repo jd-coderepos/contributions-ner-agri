@@ -1,0 +1,5 @@
+Effects of collection time on the antimicrobial activities of Harpephyllum caffrum bark
+
+rp: antimicrobial activities
+m: Harpephyllum caffrum bark
+p: collection time

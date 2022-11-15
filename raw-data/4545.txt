@@ -1,0 +1,6 @@
+Spatio-temporal analysis of rainfall erosivity and erosivity density in Greece
+
+meth: Spatio-temporal analysis
+rp: rainfall erosivity
+p: erosivity density
+loc: Greece

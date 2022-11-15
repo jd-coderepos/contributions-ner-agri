@@ -1,0 +1,5 @@
+Can we be certain about future land use change in Europe? A multi-scenario, integrated-assessment analysis
+
+rp: future land use change
+meth: multi-scenario, integrated-assessment analysis
+loc: Europe

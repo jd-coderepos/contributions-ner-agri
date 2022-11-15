@@ -1,0 +1,7 @@
+Phytotoxic effects of trichloroacetic acid on Scots pine and birch determined by chl a fluorescence and the JlP-test
+
+rp: Phytotoxic effects
+m: trichloroacetic acid
+m: Scots pine
+m: birch
+meth: chl a fluorescence and the JlP-test

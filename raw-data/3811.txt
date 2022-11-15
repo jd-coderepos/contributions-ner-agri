@@ -1,0 +1,6 @@
+Using the mouse grimace scale and behaviour to assess pain in CBA mice following vasectomy
+
+p: mouse grimace scale and behaviour
+rp: assess pain
+m: CBA mice
+meth: vasectomy

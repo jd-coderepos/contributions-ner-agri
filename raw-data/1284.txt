@@ -1,0 +1,5 @@
+Galleria melonella as an experimental in vivo host model for the fish-pathogenic oomycete Saprolegnia parasitica
+
+m: Galleria melonella
+m: fish-pathogenic oomycete Saprolegnia parasitica
+meth: experimental in vivo host model

@@ -1,0 +1,5 @@
+Direct electricity generation from sweet sorghum stalks and anaerobic sludge
+
+rp: Direct electricity generation
+m: sweet sorghum stalks
+m: anaerobic sludge

@@ -1,0 +1,5 @@
+Intensification of protein extraction from soybean processing materials using hydrodynamic cavitation
+
+rp: protein extraction
+m: soybean processing materials
+meth: hydrodynamic cavitation

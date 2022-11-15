@@ -1,0 +1,6 @@
+PhyPA: Phylogenetic method with pairwise sequence alignment outperforms likelihood methods in phylogenetics involving highly diverged sequences
+
+s: PhyPA
+meth: Phylogenetic method
+meth: pairwise sequence alignment
+rp: phylogenetics involving highly diverged sequences

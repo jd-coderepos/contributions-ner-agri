@@ -1,0 +1,6 @@
+In vitro antiplasmodial and cytotoxicity activities of 14 medicinal plants from Kenya
+
+meth: In vitro
+rp: antiplasmodial and cytotoxicity activities
+m: 14 medicinal plants
+loc: Kenya

@@ -1,0 +1,5 @@
+Do traditional vegetables contribute to the nutritional needs of communities in northern KwaZulu-Natal?
+
+loc: northern KwaZulu-Natal
+m: traditional vegetables
+rp: nutritional needs of communities

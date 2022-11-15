@@ -1,0 +1,5 @@
+An epidemiological survey of porcine cysticercosis in Nyasa District, Ruvuma Region, Tanzania
+
+meth: epidemiological survey
+rp: porcine cysticercosis
+loc: Nyasa District, Ruvuma Region, Tanzania

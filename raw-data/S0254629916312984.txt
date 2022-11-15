@@ -1,0 +1,6 @@
+The occurrence of seed-feeding Zulubius acaciaphagus (Hemiptera, Alydidae) and its effects on Acacia cyclops seed germination and seed banks in South Africa
+
+loc: South Africa
+rp: occurrence of seed-feeding Zulubius acaciaphagus (Hemiptera, Alydidae)
+m: Acacia cyclops
+m: seed banks

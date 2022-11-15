@@ -1,0 +1,4 @@
+A “Large Infrequent Disturbance” in an East African Savanna
+
+p: Large Infrequent Disturbance
+loc: East African Savanna

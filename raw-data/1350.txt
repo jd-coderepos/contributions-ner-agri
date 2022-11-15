@@ -1,0 +1,6 @@
+Systematic review and meta-analysis of strategies to increase vegetable consumption in preschool children aged 2–5 years
+
+meth: Systematic review
+meth: meta-analysis
+rp: strategies to increase vegetable consumption
+m: preschool children aged 2–5 years

@@ -1,0 +1,6 @@
+Ethnobotanical survey of invasive plant species used by traditional healers for the treatment of various diseases in the Capricorn district, Limpopo Province
+
+meth: Ethnobotanical survey
+rp: treatment of various diseases
+m: invasive plant species
+loc: Capricorn district, Limpopo Province

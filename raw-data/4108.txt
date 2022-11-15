@@ -1,0 +1,7 @@
+In vitro cytotoxicity and genotoxicity of five Ochna species (Ochnaceae) with excellent antibacterial activity
+
+meth: In vitro
+rp: cytotoxicity
+rp: genotoxicity
+m: five Ochna species (Ochnaceae)
+p: antibacterial activity

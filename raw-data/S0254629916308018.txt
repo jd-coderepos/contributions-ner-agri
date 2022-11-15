@@ -1,0 +1,4 @@
+The vegetation of the Haasvlakte, Houhoek, South Africa
+
+loc: Haasvlakte, Houhoek, South Africa
+m: vegetation

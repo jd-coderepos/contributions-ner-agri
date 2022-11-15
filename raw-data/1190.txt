@@ -1,0 +1,7 @@
+Linking root traits to superior phosphorus uptake and utilization efficiency in Fabales in the Core Cape Subregion, South Africa
+
+rp: root traits
+p: phosphorus uptake
+p: utilization efficiency
+m: Fabales
+loc: Core Cape Subregion, South Africa

@@ -1,0 +1,4 @@
+Identification of different temporal classes of gene expression during a cycle of desiccation in the resurrection plant, Xerophyta humilis
+
+rp: different temporal classes of gene expression
+m: resurrection plant, Xerophyta humilis

@@ -1,0 +1,6 @@
+The effect of year-to-year variability of leaf area index on Variable Infiltration Capacity model performance and simulation of runoff
+
+p: year-to-year variability
+rp: Variable Infiltration Capacity model performance
+m: leaf area index
+p: simulation of runoff

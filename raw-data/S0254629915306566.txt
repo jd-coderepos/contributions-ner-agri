@@ -1,0 +1,7 @@
+Salinity-induced changes in anatomy, stomatal counts and photosynthetic rate of Atriplex semibaccata R. Br.
+
+m: Atriplex semibaccata R. Br.
+rp: Salinity-induced changes
+p: anatomy
+p: stomatal counts
+p: photosynthetic rate

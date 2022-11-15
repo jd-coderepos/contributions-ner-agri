@@ -1,0 +1,5 @@
+Pollen morphology of Erodium in southern Africa
+
+rp: Pollen morphology
+m: Erodium
+loc: southern Africa

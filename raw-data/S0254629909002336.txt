@@ -1,0 +1,5 @@
+Heterostyly and pollinators in Plumbago auriculata (Plumbaginaceae)
+
+m: Plumbago auriculata (Plumbaginaceae)
+rp: Heterostyly
+rp: pollinators

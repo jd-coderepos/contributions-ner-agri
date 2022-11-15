@@ -1,0 +1,7 @@
+Molecular characterisation and taxon assemblage typing of giardiasis in primary school children living close to the shoreline of Lake Albert, Uganda 
+
+loc: shoreline of Lake Albert, Uganda
+m: primary school children
+rp: giardiasis
+meth: Molecular characterisation
+meth: taxon assemblage typing

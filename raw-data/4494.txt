@@ -1,0 +1,6 @@
+Photosynthesis and transpiration of the subtropical coastal sand dune pioneer Scaevola plumieri under controlled conditions
+
+p: Photosynthesis
+p: transpiration
+m: subtropical coastal sand dune pioneer Scaevola plumieri
+p: controlled conditions

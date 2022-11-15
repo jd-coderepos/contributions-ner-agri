@@ -1,0 +1,5 @@
+Larvae act as a transient transmission hub for the prevalent bumblebee parasite Crithidia bombi
+
+rp: transient transmission hub
+m: prevalent bumblebee parasite Crithidia bombi
+m: Larvae

@@ -1,0 +1,6 @@
+The effect of factors associated with fire on seed germination of Erica sessiliflora and E. hebecalyx (Ericaceae)
+
+p: factors associated with fire
+rp: seed germination
+m: Erica sessiliflora
+m: E. hebecalyx (Ericaceae)

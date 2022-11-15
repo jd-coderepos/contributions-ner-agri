@@ -1,0 +1,4 @@
+Determination of the relative activity of aqueous plant-derived smoke solutions used in seed germination
+
+p: relative activity of aqueous plant-derived smoke solutions
+rp: seed germination

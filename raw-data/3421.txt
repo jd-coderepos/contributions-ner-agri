@@ -1,0 +1,5 @@
+South African fungi. 2. Some species of Leucoagaricus and Leucocoprinus
+
+rp: South African fungi
+m: Leucoagaricus
+m: Leucocoprinus

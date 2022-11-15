@@ -1,0 +1,6 @@
+Seed bank strategies in a Kalahari ecosystem in relation to habitat and grazing 
+
+rp: Seed bank strategies
+t: Kalahari ecosystem
+p: habitat
+p: grazing

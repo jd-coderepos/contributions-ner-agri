@@ -1,0 +1,6 @@
+Effects of micro-topographies on stand structure and tree species diversity in an old-growth evergreen broad-leaved forest, southwestern Japan
+
+p: micro-topographies
+rp: stand structure
+rp: tree species diversity
+loc: old-growth evergreen broad-leaved forest, southwestern Japan

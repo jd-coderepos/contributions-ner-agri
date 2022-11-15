@@ -1,0 +1,4 @@
+Field-scale modeling of tree–crop interactions: Challenges and development needs
+
+meth: Field-scale modeling
+rp: tree–crop interactions

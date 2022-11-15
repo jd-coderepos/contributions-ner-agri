@@ -1,0 +1,5 @@
+Effects of Helinus integrifolius (Lam.) Kuntze crude leaf extract on ruminant gas production and fodder digestibility
+
+m: Helinus integrifolius (Lam.) Kuntze crude leaf extract
+rp: fodder digestibility
+rp: ruminant gas production

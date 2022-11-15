@@ -1,0 +1,6 @@
+A gradient analysis and selection of key ecological species for veld management in a degraded environment near Villa Nora, north-western Transvaal, South Africa
+
+meth: gradient analysis and selection
+m: key ecological species
+rp: veld management in a degraded environment
+loc: Villa Nora, north-western Transvaal, South Africa

@@ -1,0 +1,5 @@
+Directed assembly of defined oligomeric photosynthetic reaction centres through adaptation with programmable extra-membrane coiled-coil interfaces
+
+meth: Directed assembly
+m: oligomeric photosynthetic reaction centres
+t: programmable extra-membrane coiled-coil interfaces

@@ -1,0 +1,6 @@
+Plankton community respiration and bacterial metabolism in a North Atlantic Shelf Sea during spring bloom development (April 2015)
+
+rp: Plankton community respiration
+rp: bacterial metabolism
+loc: North Atlantic Shelf Sea
+p: spring bloom development

@@ -1,0 +1,6 @@
+Light as environmental regulator for germination and macrocotyledon development in Streptocarpus rexii (Gesneriaceae) 
+
+m: Light
+rp: environmental regulator
+m: Streptocarpus rexii (Gesneriaceae)
+p: germination and macrocotyledon development

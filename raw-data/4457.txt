@@ -1,0 +1,4 @@
+A classification of the vegetation of the Etosha National Park
+
+rp: classification of the vegetation
+loc: Etosha National Park

@@ -1,0 +1,4 @@
+Predicting how many animals will be where: How to build, calibrate and evaluate individual-based models
+
+meth: individual-based models
+rp: Predicting how many animals will be where

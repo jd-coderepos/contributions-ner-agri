@@ -1,0 +1,7 @@
+Chemical composition of Schinus lentiscifolius March. essential oil and its phytotoxic and cytotoxic effects on lettuce and onion
+
+rp: Chemical composition
+m: Schinus lentiscifolius March. essential oil
+p: phytotoxic and cytotoxic effects
+m: lettuce
+m: onion

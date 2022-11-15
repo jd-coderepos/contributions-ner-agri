@@ -1,0 +1,5 @@
+Fluorescence kinetics of PSII crystals containing Ca2+ or Sr2+ in the oxygen evolving complex 
+
+rp: Fluorescence kinetics
+m: PSII crystals containing Ca2+ or Sr2+
+m: oxygen evolving complex

@@ -1,0 +1,6 @@
+Do pollinators limit plant reproduction in the high Drakensberg Alpine Centre? Investigating the breeding system of Cineraria erodioides (Asteraceae)
+
+rp: pollinators
+p: plant reproduction
+loc: high Drakensberg Alpine Centre
+p: breeding system of Cineraria erodioides (Asteraceae)

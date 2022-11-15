@@ -1,0 +1,5 @@
+Evaluation of Trichoderma's bio-catalytic potential on growth, chlorophyll content and photosynthetic efficiency in nitrogen stressed spinach plants
+
+rp: Trichoderma's bio-catalytic potential
+p: growth, chlorophyll content and photosynthetic efficiency
+m: nitrogen stressed spinach plants

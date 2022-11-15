@@ -1,0 +1,7 @@
+Considerations for evaluating flower abscission in potted plants with multiple inflorescences—Plectranthus as a case study
+
+rp: flower abscission
+m: potted plants
+m: multiple inflorescences
+m: Plectranthus
+meth: case study

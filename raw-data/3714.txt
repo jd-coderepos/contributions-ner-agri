@@ -1,0 +1,7 @@
+A framework for prioritizing conservation translocations to mimic natural ecological processes under climate change: A case study with African antelopes
+
+rp: prioritizing conservation translocations
+p: natural ecological processes
+p: climate change
+m: African antelopes
+meth: case study

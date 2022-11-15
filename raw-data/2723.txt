@@ -1,0 +1,9 @@
+Bats in the Ghats: Agricultural intensification reduces functional diversity and increases trait filtering in a biodiversity hotspot in India
+
+meth: Agricultural intensification
+rp: functional diversity
+rp: trait filtering
+p: biodiversity hotspot
+loc: India
+loc: Ghats
+m: Bats

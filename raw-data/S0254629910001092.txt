@@ -1,0 +1,5 @@
+Serotonin transporter affinity of (−)-loliolide, a monoterpene lactone from Mondia whitei
+
+m: Mondia whitei
+rp: Serotonin transporter affinity
+m: (−)-loliolide, a monoterpene lactone

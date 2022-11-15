@@ -1,0 +1,8 @@
+Do logging concessions decrease the availability to villagers of foods from timber trees? A quantitative analysis for Moabi (Baillonella toxisperma), Sapelli (Entandrophragma cylindricum) and Tali (Erythrophleum suaveolens) in Cameroon
+
+loc: Cameroon
+rp: logging concessions
+m: timber trees
+m: Moabi (Baillonella toxisperma)
+m: Sapelli (Entandrophragma cylindricum)
+m: Tali (Erythrophleum suaveolens)

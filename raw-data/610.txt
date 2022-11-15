@@ -1,0 +1,5 @@
+An integrated ecological modeling system for assessing impacts of multiple stressors on stream and riverine ecosystem services within river basins
+
+meth: integrated ecological modeling system
+m: river basins
+p: stream and riverine ecosystem services

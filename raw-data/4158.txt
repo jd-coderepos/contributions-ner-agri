@@ -1,0 +1,5 @@
+The ethnobotanical survey and conservation of medicinal plants that are used by the local people of Thulamela municipality, Limpopo Province
+
+meth: ethnobotanical survey
+rp: conservation of medicinal plants
+loc: Thulamela municipality, Limpopo Province

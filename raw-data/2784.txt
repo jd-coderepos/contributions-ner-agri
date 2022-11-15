@@ -1,0 +1,6 @@
+Modelling twentieth century global ocean circulation and iceberg flux at 48°N: implications for west Greenland iceberg discharge
+
+rp: twentieth century global ocean circulation and iceberg flux
+p: 48°N
+loc: west Greenland
+p: iceberg discharge

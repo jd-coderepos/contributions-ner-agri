@@ -1,0 +1,6 @@
+Genetic analysis of an Arabidopsis thaliana ecotype showing resistance to a bacterial wilt isolate from Eucalyptus
+
+rp: Genetic analysis
+m: Arabidopsis thaliana ecotype
+m: bacterial wilt isolate from Eucalyptus
+p: resistance

@@ -1,0 +1,5 @@
+Diagnosis and causal explanation in psychiatry
+
+meth: Diagnosis
+rp: psychiatry
+meth: causal explanation

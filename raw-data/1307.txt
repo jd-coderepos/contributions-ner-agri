@@ -1,0 +1,6 @@
+Combining global tree cover loss data with historical national forest cover maps to look at six decades of deforestation and forest fragmentation in Madagascar
+
+m: global tree cover loss data
+m: historical national forest cover maps
+rp: six decades of deforestation and forest fragmentation
+loc: Madagascar

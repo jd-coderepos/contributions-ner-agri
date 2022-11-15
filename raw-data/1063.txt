@@ -1,0 +1,5 @@
+Does species richness and diversity of serpentine vegetation differ from the surrounding non-serpentine vegetation?
+
+p: species richness and diversity
+rp: serpentine vegetation
+m: non-serpentine vegetation

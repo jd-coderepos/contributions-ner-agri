@@ -1,0 +1,6 @@
+An assessment of the natural regeneration of valuable woody species in north eastern Namibia 
+
+loc: north eastern Namibia
+m: valuable woody species
+rp: natural regeneration
+meth: assessment

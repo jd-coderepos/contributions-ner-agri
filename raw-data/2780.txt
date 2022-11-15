@@ -1,0 +1,5 @@
+Time-to-response toxicity analysis as a method for drug susceptibility assessment in salmon lice
+
+meth: Time-to-response toxicity analysis
+rp: drug susceptibility assessment
+m: salmon lice

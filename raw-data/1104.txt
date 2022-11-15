@@ -1,0 +1,7 @@
+Wetland plant communities of the Tsitsikamma Plateau in relation to fire history, plantation management and physical factors
+
+rp: Wetland plant communities
+loc: Tsitsikamma Plateau
+p: fire history
+p: plantation management
+p: physical factors

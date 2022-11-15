@@ -1,0 +1,5 @@
+Relationship inference from the genetic data on parents or offspring: A comparative study
+
+rp: Relationship inference
+m: genetic data on parents or offspring
+meth: comparative study

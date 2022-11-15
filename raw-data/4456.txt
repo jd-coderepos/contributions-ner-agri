@@ -1,0 +1,6 @@
+Age structure and regeneration after fire in a self-sown Pinus halepensis forest on the Cape Peninsula, South Africa
+
+rp: Age structure and regeneration
+p: fire
+m: self-sown Pinus halepensis forest
+loc: Cape Peninsula, South Africa

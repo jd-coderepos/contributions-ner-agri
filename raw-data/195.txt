@@ -1,0 +1,6 @@
+Evaluation of phenotypic traits and blight-resistance in an American chestnut backcross orchard in Georgia
+
+rp: phenotypic traits
+rp: blight-resistance
+m: American chestnut backcross orchard
+loc: Georgia

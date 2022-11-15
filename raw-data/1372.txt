@@ -1,0 +1,5 @@
+The pharmacological interaction of commercial essential oils in combination with conventional antimicrobials
+
+rp: pharmacological interaction
+m: commercial essential oils
+m: conventional antimicrobials

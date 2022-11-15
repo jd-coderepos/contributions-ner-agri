@@ -1,0 +1,5 @@
+COX-1 inhibitory effect of medicinal plants of Ghana
+
+rp: COX-1 inhibitory effect
+m: medicinal plants 
+loc: Ghana

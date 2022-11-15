@@ -1,0 +1,5 @@
+Disease burden due to gastrointestinal infections among people living along the major wastewater system in Hanoi, Vietnam
+
+rp: gastrointestinal infections
+loc: Hanoi, Vietnam
+t: major wastewater system

@@ -1,0 +1,6 @@
+Seasonal variations in tolerance to ion leakage following desiccation in the moss Atrichum androgynum from a KwaZulu-Natal afromontane forest
+
+rp: Seasonal variations
+p: tolerance to ion leakage following desiccation
+m: moss Atrichum androgynum
+loc: KwaZulu-Natal afromontane forest

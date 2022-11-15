@@ -1,0 +1,7 @@
+Aluminium toxicity and regeneration of the root cap: Preliminary evidence for a Golgi apparatus derived morphogen in the primary root of Zea mays
+
+p: Aluminium toxicity
+p: regeneration
+m: root cap
+m: primary root of Zea mays
+m: Golgi apparatus derived morphogen

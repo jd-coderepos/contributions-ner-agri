@@ -1,0 +1,5 @@
+Soyabean response to rhizobium inoculation across sub-Saharan Africa: Patterns of variation and the role of promiscuity
+
+rp: Soyabean response
+meth: rhizobium inoculation
+loc: sub-Saharan Africa

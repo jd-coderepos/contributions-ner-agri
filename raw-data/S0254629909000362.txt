@@ -1,0 +1,6 @@
+Do edaphic factors influence the biogeography of legumes species in the Cape Floristic Region of South Africa?
+
+loc: Cape Floristic Region of South Africa
+m: legumes species
+rp: biogeography
+meth: edaphic factors

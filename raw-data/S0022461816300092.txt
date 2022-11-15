@@ -1,0 +1,5 @@
+The morphology of Dothistroma septospora on Pinus canariensis from South Africa 
+
+rp: morphology of Dothistroma septospora
+m: Pinus canariensis
+loc: South Africa

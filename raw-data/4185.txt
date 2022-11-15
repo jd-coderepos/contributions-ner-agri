@@ -1,0 +1,6 @@
+High irradiation and increased temperature induce different strategies for competent photosynthesis in young and mature fig leaves
+
+meth: High irradiation
+meth: increased temperature
+rp: competent photosynthesis
+m: young and mature fig leaves

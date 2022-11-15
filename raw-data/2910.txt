@@ -1,0 +1,6 @@
+Microarray analysis of the Arabidopsis thaliana cir1 (constitutively induced resistance 1) mutant reveals candidate defence response genes against Pseudomonas syringae pv tomato DC3000
+
+meth: Microarray analysis
+m: Arabidopsis thaliana cir1 (constitutively induced resistance 1) mutant
+m: candidate defence response genes
+m: Pseudomonas syringae pv tomato DC3000

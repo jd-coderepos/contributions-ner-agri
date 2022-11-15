@@ -1,0 +1,5 @@
+Modelling of light and temperature influences on cyanobacterial growth and biohydrogen production
+
+p: light and temperature influences
+rp: cyanobacterial growth
+rp: biohydrogen production

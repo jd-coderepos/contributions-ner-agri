@@ -1,0 +1,5 @@
+LegalGEO: Conservation tool to guide the siting of legal reserves under the Brazilian Forest Code
+
+sol: LegalGEO
+meth: Brazilian Forest Code
+meth: guide the siting of legal reserves

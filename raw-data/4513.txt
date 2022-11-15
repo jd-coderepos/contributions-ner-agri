@@ -1,0 +1,5 @@
+Insights into processes of population decline using an integrated population model: The case of the St. Lawrence Estuary beluga (Delphinapterus leucas)
+
+rp: processes of population decline
+meth: integrated population
+loc: St. Lawrence Estuary beluga (Delphinapterus leucas)

@@ -1,0 +1,6 @@
+Screening of Venda medicinal plants for antifungal activity against Candida albicans
+
+meth: Screening
+m: Venda medicinal plants
+m: Candida albicans
+rp: antifungal activity

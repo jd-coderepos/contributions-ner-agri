@@ -1,0 +1,6 @@
+Effect of seasonal variation on the biological activities and lichen metabolites in Usnea undulata and Heterodermia speciosa found in KwaZulu-Natal Province, South Africa
+
+rp: seasonal variation
+p: biological activities
+m: lichen metabolites in Usnea undulata and Heterodermia speciosa
+loc: KwaZulu-Natal Province, South Africa

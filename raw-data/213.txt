@@ -1,0 +1,5 @@
+Multiperforate septa in Geotrichum and Dipodascus
+
+m: Geotrichum
+m: Dipodascus
+rp: Multiperforate septa

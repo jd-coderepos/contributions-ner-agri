@@ -1,0 +1,6 @@
+Inducing seed germination in Ceratotheca triloba grown under saline and heavy metal stress using traditional and non-traditional plant growth regulators
+
+rp: seed germination
+m: Ceratotheca triloba
+p: saline and heavy metal stress
+p: traditional and non-traditional plant growth regulators

@@ -1,0 +1,6 @@
+Plant sex effects on insect herbivores and biological control in a Short Rotation Coppice willow
+
+m: insect herbivores
+m: Short Rotation Coppice willow
+rp: Plant sex effects
+meth: biological control

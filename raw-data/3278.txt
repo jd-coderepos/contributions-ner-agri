@@ -1,0 +1,8 @@
+Sphaeropsis sapinea and Botryosphaeria dothidea endophytic in Pinus spp. and Eucalyptus spp. in South Africa
+
+m: Sphaeropsis sapinea
+m: Pinus spp.
+m: Eucalyptus spp.
+m: Botryosphaeria dothidea
+p: endophytic
+loc: South Africa

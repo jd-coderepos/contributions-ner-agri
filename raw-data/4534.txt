@@ -1,0 +1,6 @@
+Acrylamide-forming potential of potatoes grown at different locations, and the ratio of free asparagine to reducing sugars at which free asparagine becomes a limiting factor for acrylamide formation
+
+rp: Acrylamide-forming potential of potatoes
+m: ratio of free asparagine to reducing sugars
+p: free asparagine becomes a limiting factor
+p: acrylamide formation

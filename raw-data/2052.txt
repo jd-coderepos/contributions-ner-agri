@@ -1,0 +1,7 @@
+Effect of environmental factors on seedling growth, bulb development and pharmacological properties of medicinal Eucomis autumnalis
+
+p: environmental factors
+rp: seedling growth
+rp: bulb development
+rp: pharmacological properties
+m: medicinal Eucomis autumnalis

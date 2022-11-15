@@ -1,0 +1,7 @@
+Genetic diversity in Puccinia triticina causing wheat leaf rust in South Africa 
+
+rp: Genetic diversity
+m: Puccinia triticina
+p: wheat leaf rust
+loc: South Africa
+f: Genetic diversity in Puccinia triticina causing wheat leaf rust in South Africa

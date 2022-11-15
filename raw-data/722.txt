@@ -1,0 +1,6 @@
+A coarse-grained biophysical model of sequence evolution and the population size dependence of the speciation rate
+
+t: coarse-grained biophysical model
+rp: sequence evolution
+p: population size dependence
+p: speciation rate

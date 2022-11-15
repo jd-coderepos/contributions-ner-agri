@@ -1,0 +1,5 @@
+The impact of UV radiation at high altitudes close to the equator on morphology and productivity of pea (Pisum sativum) in different seasons
+
+rp: UV radiation at high altitudes close to the equator
+p: morphology and productivity
+m: pea (Pisum sativum)

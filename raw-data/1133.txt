@@ -1,0 +1,5 @@
+Seasonal pharmacological properties and alkaloid content in Cyrtanthus contractus N.E. Br.
+
+rp: Seasonal pharmacological properties
+rp: alkaloid content
+m: Cyrtanthus contractus N.E. Br.

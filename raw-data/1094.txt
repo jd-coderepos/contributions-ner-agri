@@ -1,0 +1,7 @@
+An ultrastructural investigation of the surface microbiota present on the leaves and reproductive structures of the resurrection plant Myrothamnus flabellifolia
+
+meth: ultrastructural investigation
+m: surface microbiota
+m: leaves
+m: resurrection plant Myrothamnus flabellifolia
+p: reproductive structures

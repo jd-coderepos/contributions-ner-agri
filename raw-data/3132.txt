@@ -1,0 +1,5 @@
+Soil water threshold for the growth of Haloxylon ammodendron in the Ulan Buh desert in arid northwest China
+
+m: Soil water threshold
+rp: growth of Haloxylon ammodendron
+loc: Ulan Buh desert in arid northwest China

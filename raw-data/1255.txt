@@ -1,0 +1,5 @@
+Dynamics of floret development determining differences in spike fertility in an elite population of wheat
+
+rp: floret development
+p: spike fertility
+m: elite population of wheat

@@ -1,0 +1,5 @@
+Effects of an acute bout of aerobic exercise on immediate and subsequent three-day food intake and energy expenditure in active and inactive pre-menopausal women taking oral contraceptives
+
+meth: acute bout of aerobic exercise
+m: active and inactive pre-menopausal women taking oral contraceptives
+p: immediate and subsequent three-day food intake and energy expenditure

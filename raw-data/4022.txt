@@ -1,0 +1,6 @@
+Plant-derived smoke: Old technology with possibilities for economic applications in agriculture and horticulture
+
+s: Plant-derived smoke
+rp: economic applications
+p: agriculture
+p: horticulture

@@ -1,0 +1,6 @@
+Genotypic responses for yield and seed oil quality of two Brassica species under semi-arid environmental conditions
+
+p: Genotypic responses
+p: semi-arid environmental conditions
+rp: yield and seed oil quality
+m: Brassica species

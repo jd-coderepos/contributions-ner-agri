@@ -1,0 +1,5 @@
+The structure of a grass community in Burkea africana savanna during recovery from fire
+
+rp: structure of a grass community
+loc: Burkea africana savanna
+p: recovery from fire

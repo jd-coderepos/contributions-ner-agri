@@ -1,0 +1,6 @@
+Systematic studies in subfamily Celastroideae (Celastraceae) in southern Africa: reinstatement of the genus Gymnosporia
+
+meth: Systematic studies
+m: subfamily Celastroideae (Celastraceae)
+m: genus Gymnosporia
+loc: southern Africa

@@ -1,0 +1,5 @@
+Soil carbon stock changes due to edge effects in central Amazon forest fragments 
+
+meth: edge effects
+rp: Soil carbon stock changes
+loc: central Amazon forest fragments

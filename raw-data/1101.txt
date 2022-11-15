@@ -1,0 +1,7 @@
+Flavonoids from Rhamnus alaternus L. (Rhamnaceae): Kaempferol 3-O-β-isorhamninoside and rhamnocitrin 3-O-β-isorhamninoside protect against DNA damage in human lymphoblastoid cell and enhance antioxidant activity
+
+m: Kaempferol 3-O-β-isorhamninoside
+m: rhamnocitrin 3-O-β-isorhamninoside
+m: human lymphoblastoid cell
+rp: DNA damage
+p: antioxidant activity

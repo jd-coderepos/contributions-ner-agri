@@ -1,0 +1,6 @@
+Rebuilding the Brazilian rainforest: Agroforestry strategies for secondary forest succession
+
+meth: Rebuilding
+loc: Brazilian rainforest
+meth: Agroforestry strategies
+rp: secondary forest succession

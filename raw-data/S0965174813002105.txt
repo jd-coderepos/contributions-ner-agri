@@ -1,0 +1,6 @@
+The novel isoxazoline ectoparasiticide fluralaner: Selective inhibition of arthropod γ-aminobutyric acid- and l-glutamate-gated chloride channels and insecticidal/acaricidal activity 
+
+rp: isoxazoline ectoparasiticide fluralaner
+m: arthropod γ-aminobutyric acid- and l-glutamate-gated chloride channels
+meth: Selective inhibition
+meth: insecticidal/acaricidal activity

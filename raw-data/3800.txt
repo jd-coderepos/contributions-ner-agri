@@ -1,0 +1,4 @@
+"So, where do you come from?" The impact of assumed spatial population structure on estimates of recruitment
+
+p: assumed spatial population structure
+rp: estimates of recruitment

@@ -1,0 +1,7 @@
+The taxonomic implications of the ultrastucture and cell division of a stigma-containing Chroomonas sp. (Cryptophyceae) from Rocky Bay, Natal, South Africa
+
+loc: Rocky Bay, Natal, South Africa
+m: stigma-containing Chroomonas sp. (Cryptophyceae)
+rp: taxonomic implications
+p: ultrastucture
+p: cell division

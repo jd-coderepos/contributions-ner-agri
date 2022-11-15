@@ -1,0 +1,6 @@
+In vitro evidence of antimicrobial synergy between Salvia chamelaeagnea and Leonotis leonurus
+
+meth: In vitro
+rp: antimicrobial synergy
+m: Salvia chamelaeagnea
+m: Leonotis leonurus

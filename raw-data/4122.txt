@@ -1,0 +1,5 @@
+A taxonomic review of Cephalaria (Dipsacaceae) in the Cape Floristic Region
+
+rp: taxonomic review
+m: Cephalaria (Dipsacaceae)
+loc: Cape Floristic Region

@@ -1,0 +1,6 @@
+Can genomics and bioinformatics be applied to studies of non-model plants such as pearl millet ?
+
+meth: genomics
+meth: bioinformatics
+rp: non-model plants
+m: pearl millet

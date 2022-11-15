@@ -1,0 +1,6 @@
+Effects of artificially established depth to water table gradients and soil type on the growth of Cape fynbos and forest plants
+
+rp: growth of Cape fynbos and forest plants
+p: water table gradients
+p: soil type
+meth: artificially established depth

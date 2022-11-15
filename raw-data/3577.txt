@@ -1,0 +1,6 @@
+Quantification of sub-resolution porosity in carbonate rocks by applying high-salinity contrast brine using X-ray microtomography differential imaging
+
+rp: Quantification of sub-resolution porosity
+m: carbonate rocks
+m: high-salinity contrast brine
+meth: X-ray microtomography differential imaging

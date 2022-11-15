@@ -1,0 +1,5 @@
+Mission impossible: Discard management plans for the EU Mediterranean fisheries under the reformed Common Fisheries Policy
+
+p: management plans
+rp: EU Mediterranean fisheries
+meth: reformed Common Fisheries Policy

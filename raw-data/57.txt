@@ -1,0 +1,5 @@
+Leaf tensile properties of resurrection plants differ among species in their response to drying
+
+m: resurrection plants
+p: drying
+rp: Leaf tensile properties

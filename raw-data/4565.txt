@@ -1,0 +1,5 @@
+Barley lys3 mutants are unique amongst shrunken-endosperm mutants in having abnormally large embryos
+
+m: Barley lys3 mutants
+m: shrunken-endosperm mutants
+rp: abnormally large embryos

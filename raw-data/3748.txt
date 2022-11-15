@@ -1,0 +1,4 @@
+An updated kernel-based Turing model for studying the mechanisms of biological pattern formation
+
+s: updated kernel-based Turing model
+rp: biological pattern formation

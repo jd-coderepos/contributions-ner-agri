@@ -1,0 +1,5 @@
+Impact of increasing the proportion of healthier foods available on energy purchased in worksite cafeterias: A stepped wedge randomized controlled pilot trial
+
+rp: Impact of increasing the proportion of healthier foods
+m: worksite cafeterias
+rp: randomized controlled pilot trial

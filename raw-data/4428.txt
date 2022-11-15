@@ -1,0 +1,7 @@
+Biological nitrogen fixation (acetylene reduction) associated with blue-green algal (cyanobacterial) communities in the Beachwood Mangrove Nature Reserve. I. The effect of environmental factors on acetylene reduction activity
+
+rp: Biological nitrogen fixation (acetylene reduction)
+m: blue-green algal (cyanobacterial) communities
+loc: Beachwood Mangrove Nature Reserve
+p: environmental factors
+p: acetylene reduction activity

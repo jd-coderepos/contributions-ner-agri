@@ -1,0 +1,5 @@
+Aqueous extract of Plinia edulis leaves: Antioxidant activity and cytotoxicity to human breast cancer MCF-7 cell line
+
+m: Aqueous extract of Plinia edulis leaves
+m: human breast cancer MCF-7 cell line
+rp: Antioxidant activity and cytotoxicity

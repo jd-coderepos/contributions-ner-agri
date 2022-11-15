@@ -1,0 +1,1 @@
+Within a sample from a population, the distribution of the number of descendants of a subsample’s most recent common ancestor

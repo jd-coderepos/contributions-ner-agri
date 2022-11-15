@@ -1,0 +1,6 @@
+Potassium phosphate application primes wheat plants against the Russian wheat aphid
+
+meth: Potassium phosphate application
+m: wheat plants
+m: Russian wheat aphid
+f: Potassium phosphate application primes wheat plants against the Russian wheat aphid

@@ -1,0 +1,5 @@
+Antimalarial activity of Mitragyna ciliata (Aubrev and Pellegr) (Rubiaceae): Preliminary study
+
+rp: Antimalarial activity
+m: Mitragyna ciliata (Aubrev and Pellegr) (Rubiaceae)
+meth: Preliminary study

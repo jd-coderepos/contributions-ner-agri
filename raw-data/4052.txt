@@ -1,0 +1,6 @@
+Genetic diversity of vetiver isolates (Chrysopogon zizanioides/nigritanus) available in South Africa based on ITS, ndhF and rbcL sequencing analyses
+
+rp: Genetic diversity
+m: vetiver isolates (Chrysopogon zizanioides/nigritanus)
+loc: South Africa
+meth: ITS, ndhF and rbcL sequencing analyses

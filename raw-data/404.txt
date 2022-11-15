@@ -1,0 +1,6 @@
+Acetone leaf extracts of Breonadia salicina (Rubiaceae) and ursolic acid protect oranges against infection by Penicillium species
+
+m: Acetone leaf extracts of Breonadia salicina (Rubiaceae)
+m: ursolic acid
+m: oranges
+rp: infection by Penicillium species

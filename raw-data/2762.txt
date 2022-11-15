@@ -1,0 +1,5 @@
+Host control and nutrient trading in a photosynthetic symbiosis
+
+rp: Host control
+rp: nutrient trading
+p: photosynthetic symbiosis

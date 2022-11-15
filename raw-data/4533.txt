@@ -1,0 +1,5 @@
+Efficient identification of flavones, flavanones and their glycosides in routine analysis via off-line combination of sensitive NMR and HPLC experiments
+
+rp: identification of flavones, flavanones and their glycosides
+s: off-line combination of sensitive NMR and HPLC experiments
+meth: routine analysis

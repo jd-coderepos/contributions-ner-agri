@@ -1,0 +1,6 @@
+Fire frequency in the fynbos: Quantifying variation and dependency on fuel age
+
+rp: Fire frequency
+m: fynbos
+p: fuel age
+meth: Quantifying variation and dependency

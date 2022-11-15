@@ -1,0 +1,6 @@
+Bioactive constituents from roots of Salvia syriaca L.: Acetylcholinesterase inhibitory activity and molecular docking studies
+
+rp: Bioactive constituents
+m: roots of Salvia syriaca L.
+p: Acetylcholinesterase inhibitory activity
+meth: molecular docking studies

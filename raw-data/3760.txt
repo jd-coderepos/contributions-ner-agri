@@ -1,0 +1,4 @@
+Kinetic glomerular filtration rate equation can accommodate a changing body volume: Derivation and usage of the formula
+
+meth: Kinetic glomerular filtration rate equation
+p: changing body volume

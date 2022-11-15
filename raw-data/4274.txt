@@ -1,0 +1,6 @@
+South African Fungi 8. Three new species of Hymenagaricus from South Africa, with a revised key to South African taxa
+
+m: South African Fungi
+rp: South African taxa
+loc: South Africa
+f: Three new species of Hymenagaricus from South Africa

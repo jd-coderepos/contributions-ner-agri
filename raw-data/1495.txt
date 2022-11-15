@@ -1,0 +1,6 @@
+HPLC analysis of a bioactive chalcone and triterpene in the buds of Cleistocalyx operculatus
+
+meth: HPLC analysis
+m: bioactive chalcone
+m: triterpene
+m: buds of Cleistocalyx operculatus

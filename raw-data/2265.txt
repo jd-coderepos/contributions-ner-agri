@@ -1,0 +1,8 @@
+Effect of water stress and diclofop-methyl on photosynthesis, carotenoid and abscisic acid content of leaves of Avena byzantina and Avena fatua
+
+meth: water stress
+m: diclofop-methyl
+rp: photosynthesis
+rp: carotenoid and abscisic acid content of leaves
+m: Avena byzantina
+m: Avena fatua

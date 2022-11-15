@@ -1,0 +1,6 @@
+Morphological characterization of Cyclamen sp. grown naturally in Turkey: Part I
+
+meth: Morphological characterization
+m: Cyclamen sp.
+p: grown naturally
+loc: Turkey

@@ -1,0 +1,6 @@
+Osmoregulation, monitored by pressure–volume tissue water component analysis, in cultivars of Nicotiana tabacum L. of different drought tolerance
+
+rp: Osmoregulation
+meth: pressure–volume tissue water component analysis
+m: cultivars of Nicotiana tabacum L.
+p: different drought tolerance

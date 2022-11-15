@@ -1,0 +1,5 @@
+Above ground perennial plant biomass across an altitudinal and land-use gradient in Namaqualand, South Africa
+
+loc: Namaqualand, South Africa
+rp: Above ground perennial plant biomass
+p: altitudinal and land-use gradient

@@ -1,0 +1,6 @@
+Chlorogenic and phenolic acids are only very weak inhibitors of human salivary α-amylase and rat intestinal maltase activities
+
+m: Chlorogenic and phenolic acids
+m: human salivary α-amylase
+p: rat intestinal maltase activities
+f: Chlorogenic and phenolic acids are only very weak inhibitors of human salivary α-amylase and rat intestinal maltase activities

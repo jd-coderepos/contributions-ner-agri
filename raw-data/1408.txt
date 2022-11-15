@@ -1,0 +1,6 @@
+Edge effects on plant composition and functional type distribution in renosterveld fragments of the Tygerberg
+
+p: Edge effects
+rp: plant composition
+rp: functional type distribution
+loc: renosterveld fragments of the Tygerberg

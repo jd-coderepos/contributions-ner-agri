@@ -1,0 +1,5 @@
+Spore germination of eight homosporous ferns in a temperature gradient
+
+rp: Spore germination
+p: temperature gradient
+m: eight homosporous ferns

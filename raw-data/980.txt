@@ -1,0 +1,6 @@
+Fostering relations: first sex and marital timings for children raised by kin and non-kin carers
+
+p: first sex
+p: marital timings
+m: children
+rp: kin and non-kin carers

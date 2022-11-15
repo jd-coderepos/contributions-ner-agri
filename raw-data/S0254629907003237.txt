@@ -1,0 +1,5 @@
+Effect of NaCl on the growth and the ionic balance K+/Na+ of two populations of Lotus creticus (L.) (Papilionaceae)
+
+m: two populations of Lotus creticus (L.) (Papilionaceae)
+m: NaCl
+rp: growth and the ionic balance K+/Na+

@@ -1,0 +1,5 @@
+Effect of desiccation stress on Cd uptake in the lichen Peltigera membranacea
+
+rp: desiccation stress
+p: Cd uptake
+m: lichen Peltigera membranacea

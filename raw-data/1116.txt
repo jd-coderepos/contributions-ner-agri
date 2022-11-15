@@ -1,0 +1,7 @@
+Twentieth century changes in distribution of indigenous forest in TMNP: The role of land use and climate change
+
+p: Twentieth century changes
+p: distribution of indigenous forest
+loc: TMNP
+rp: land use
+rp: climate change

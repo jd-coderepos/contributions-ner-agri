@@ -1,0 +1,5 @@
+Diversity in Encephalartos woodii collections based on Random Amplified DNA markers (RAPD's) and Inter-Specific Sequence Repeats (ISSR's)
+
+rp: Diversity in Encephalartos woodii collections
+meth: Random Amplified DNA markers (RAPD's)
+meth: Inter-Specific Sequence Repeats (ISSR's)

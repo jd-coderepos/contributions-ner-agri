@@ -1,0 +1,6 @@
+Ploidy investigation of bananas (Musa spp.) from the National Banana Germplasm Collection at Rubona–Rwanda by flow cytometry
+
+rp: Ploidy investigation
+m: bananas (Musa spp.)
+loc: National Banana Germplasm Collection at Rubona–Rwanda
+meth: flow cytometry

@@ -1,0 +1,6 @@
+Impact of nitrogen flushing and oil choice on the progression of lipid oxidation in unwashed fried sliced potato crisps
+
+p: nitrogen flushing
+p: oil choice
+m: unwashed fried sliced potato crisps
+rp: progression of lipid oxidation

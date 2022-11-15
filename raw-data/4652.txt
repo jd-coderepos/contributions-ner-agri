@@ -1,0 +1,4 @@
+Controlling infectious disease through the targeted manipulation of contact network structure
+
+rp: Controlling infectious disease
+meth: targeted manipulation of contact network structure

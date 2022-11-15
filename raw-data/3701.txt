@@ -1,0 +1,5 @@
+Engineered biosynthesis of bacteriochlorophyll b in Rhodobacter sphaeroides
+
+rp: Engineered biosynthesis
+m: bacteriochlorophyll b
+m: Rhodobacter sphaeroides

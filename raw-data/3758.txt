@@ -1,0 +1,5 @@
+Reconstructing the hidden states in time course data of stochastic models
+
+s: Reconstructing the hidden states
+m: time course data
+meth: stochastic models

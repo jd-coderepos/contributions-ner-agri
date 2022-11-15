@@ -1,0 +1,5 @@
+Traditional phytotherapy of some remedies used in treatment of malaria in Meru district of Kenya 
+
+loc: Meru district of Kenya
+rp: treatment of malaria
+meth: Traditional phytotherapy

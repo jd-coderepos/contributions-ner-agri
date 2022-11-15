@@ -1,0 +1,5 @@
+Screening of Plectranthus species for antibacterial activity
+
+meth: Screening
+m: Plectranthus species
+rp: antibacterial activity

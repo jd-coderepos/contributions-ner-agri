@@ -1,0 +1,4 @@
+Cell diameter doesn't affect lipid productivity of Chlorococcum littorale
+
+f: Cell diameter doesn't affect lipid productivity of Chlorococcum littorale
+rp: lipid productivity of Chlorococcum littorale

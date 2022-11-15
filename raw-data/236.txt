@@ -1,0 +1,6 @@
+An updated age for the Xujiayao hominin from the Nihewan Basin, North China: Implications for Middle Pleistocene human evolution in East Asia
+
+m: Xujiayao hominin
+loc: Nihewan Basin, North China
+loc: East Asia
+rp: Middle Pleistocene human evolution

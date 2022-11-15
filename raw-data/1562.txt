@@ -1,0 +1,6 @@
+Diagnostic characters and geographic distribution of Alepidea species used in traditional medicine
+
+rp: Diagnostic characters
+rp: geographic distribution
+p: traditional medicine
+m: Alepidea species

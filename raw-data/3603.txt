@@ -1,0 +1,6 @@
+Gender-based constraints affecting biofortified cassava production, processing and marketing among men and women adopters in Oyo and Benue States, Nigeria
+
+p: Gender-based constraints
+rp: biofortified cassava production, processing and marketing
+loc: Oyo and Benue States, Nigeria
+m: men and women adopters

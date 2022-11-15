@@ -1,0 +1,6 @@
+Modeling sphingomyelin synthase 1 driven reaction at the Golgi apparatus can explain data by inclusion of a positive feedback mechanism
+
+t: Golgi apparatus
+s: Modeling sphingomyelin synthase 1 driven reaction
+meth: positive feedback mechanism
+f: Modeling sphingomyelin synthase 1 driven reaction at the Golgi apparatus can explain data by inclusion of a positive feedback mechanism

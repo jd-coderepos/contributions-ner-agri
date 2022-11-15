@@ -1,0 +1,5 @@
+Picky eating: Associations with child eating characteristics and food intake
+
+rp: Picky eating
+p: child eating characteristics
+p: food intake

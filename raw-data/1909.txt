@@ -1,0 +1,5 @@
+Seed dormancy pattern and germination preferences of the South African annual Papaver aculeatum
+
+rp: Seed dormancy pattern
+rp: germination preferences
+m: South African annual Papaver aculeatum

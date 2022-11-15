@@ -1,0 +1,6 @@
+Effect of boron on directionality of pollen tube growth in Petunia and Agapanthus
+
+m: boron
+rp: directionality of pollen tube growth
+m: Petunia
+m: Agapanthus

@@ -1,0 +1,6 @@
+Rapid prediction of single green coffee bean moisture and lipid content by hyperspectral imaging
+
+rp: Rapid prediction
+m: single green coffee bean moisture
+m: lipid content
+t: hyperspectral imaging

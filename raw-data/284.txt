@@ -1,0 +1,7 @@
+Seed production, seed banks and post-clearing resprouting of bugweed (Solanum mauritianum), an alien invasive weed in South Africa
+
+rp: Seed production
+rp: seed banks
+rp: post-clearing resprouting
+m: bugweed (Solanum mauritianum)
+loc: South Africa

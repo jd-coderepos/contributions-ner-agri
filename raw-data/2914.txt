@@ -1,0 +1,7 @@
+Desiccation sensitivity of seeds and changes in respiratory rate and pathways of mitochondria
+
+rp: Desiccation sensitivity
+m: seeds
+m: mitochondria
+p: respiratory rate
+p: pathways

@@ -1,0 +1,6 @@
+Morphometric analysis and taxonomic revision of the Memecylon natalense species-complex (Melastomataceae) in southern Africa
+
+rp: Morphometric analysis
+rp: taxonomic revision
+m: Memecylon natalense species-complex (Melastomataceae)
+loc: southern Africa

@@ -1,0 +1,6 @@
+Browsing intensity of herbaceous forbs across a semi-arid savanna catenal sequence 
+
+m: herbaceous forbs
+loc: semi-arid savanna
+m: catenal sequence
+rp: Browsing intensity

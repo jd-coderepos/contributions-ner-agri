@@ -1,0 +1,9 @@
+pH-induced gene regulation of solvent production by Clostridium acetobutylicum in continuous culture: Parameter estimation and sporulation modelling
+
+meth: pH-induced gene regulation
+meth: sporulation modelling
+rp: solvent production
+m: Clostridium acetobutylicum
+meth: Parameter estimation
+meth: sporulation modelling
+m: continuous culture

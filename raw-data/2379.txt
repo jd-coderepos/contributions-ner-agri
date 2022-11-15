@@ -1,0 +1,5 @@
+COX-1 and COX-2 inhibitory activity in extracts prepared from Eucomis species, with further reference to extracts from E. autumnalis autumnalis
+
+m: extracts prepared from Eucomis species
+m: extracts from E. autumnalis autumnalis
+rp: COX-1 and COX-2 inhibitory activity

@@ -1,0 +1,6 @@
+Mapping of beef, sheep and goat systems in Nairobi — A framework for policy making and the identification of structural vulnerabilities and deficiencies
+
+s: Mapping of beef, sheep and goat systems
+loc: Nairobi
+rp: policy making
+rp: identification of structural vulnerabilities and deficiencies

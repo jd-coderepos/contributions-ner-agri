@@ -1,0 +1,5 @@
+What is the functional significance of leaf size reduction in phosphate impoverished habitats?
+
+p: functional significance
+rp: leaf size reduction
+m: phosphate impoverished habitats

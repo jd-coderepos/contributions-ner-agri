@@ -1,0 +1,6 @@
+In vitro regeneration of recalcitrant embryonic axes: Effects on the biomass characteristics of resulting plants
+
+meth: In vitro regeneration
+m: recalcitrant embryonic axes
+m: resulting plants
+rp: biomass characteristics

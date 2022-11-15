@@ -1,0 +1,5 @@
+Ecotypes of wild rooibos (Aspalathus linearis (Burm. F) Dahlg., Fabaceae) are ecologically distinct
+
+rp: Ecotypes
+m: wild rooibos (Aspalathus linearis (Burm. F) Dahlg., Fabaceae)
+f: Ecotypes of wild rooibos (Aspalathus linearis (Burm. F) Dahlg., Fabaceae) are ecologically distinct

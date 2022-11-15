@@ -1,0 +1,5 @@
+Drying out in Africa: Physical and physiological seed characteristics of selected indigenous plant species 
+
+loc: Africa
+m: selected indigenous plant species
+rp: seed characteristics

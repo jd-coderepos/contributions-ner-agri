@@ -1,0 +1,7 @@
+The role of phytosphingosine-1-phosphate (Phyto-S1P) and its relationships with cytosolic pH and hydrogen peroxide (H2O2) during stomatal closure by darkness in broad bean
+
+m: phytosphingosine-1-phosphate (Phyto-S1P)
+m: hydrogen peroxide (H2O2)
+m: cytosolic pH
+rp: stomatal closure
+m: broad bean

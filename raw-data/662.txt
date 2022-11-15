@@ -1,0 +1,6 @@
+Forest ecosystem services derived by smallholder farmers in northwestern Madagascar: Storm hazard mitigation and participation in forest management
+
+sol: Forest ecosystem services derived by smallholder farmers
+loc: northwestern Madagascar
+rp: forest management
+rp: Storm hazard mitigation

@@ -1,0 +1,6 @@
+Survey of bovine burdens in trade cattle slaughtered abattoirs in North-central Nigeria : The associated predisposing factors and economic implication
+
+rp: bovine burdens
+m: trade cattle slaughtered abattoirs
+loc: North-central Nigeria
+p: economic implication

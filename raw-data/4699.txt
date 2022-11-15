@@ -1,0 +1,6 @@
+School-aged children based seasonal malaria chemoprevention using artesunate-amodiaquine in Mali
+
+m: School-aged children
+rp: seasonal malaria chemoprevention
+m: artesunate-amodiaquine
+loc: Mali

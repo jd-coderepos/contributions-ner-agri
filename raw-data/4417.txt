@@ -1,0 +1,5 @@
+Effects of density on the reproductive output of Protea lepidocarpodendron
+
+p: density
+rp: reproductive output
+m: Protea lepidocarpodendron
