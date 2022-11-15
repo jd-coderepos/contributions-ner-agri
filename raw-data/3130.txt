@@ -1,4 +1,4 @@
 Frankenia fruticosa (Frankeniaceae), a new dwarf shrub from the Knersvlakte, Western Cape
 
 loc: Knersvlakte, Western Cape
-l: Frankenia fruticosa (Frankeniaceae), a new dwarf shrub from the Knersvlakte, Western Cape
+f: Frankenia fruticosa (Frankeniaceae), a new dwarf shrub from the Knersvlakte, Western Cape

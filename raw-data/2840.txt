@@ -4,4 +4,4 @@ meth: Parental control
 rp: feeding in infancy
 m: infant weight
 m: appetite
-: feeding method
+m: feeding method
