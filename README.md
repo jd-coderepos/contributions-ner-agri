@@ -5,7 +5,7 @@
 ### 1) About
 
 This work proposes a standardized Agri-NER task by defining a set of seven _contribution-centric_ scholarly
-entities for Agriculture NER viz., _research problem_ , _material_ , _process_ , _location_ ,
+entities for Agriculture NER viz., _research problem_ , _resource_ , _process_ , _location_ ,
 _method_ , _solution_ and _technology_ . 
 
 The selected concepts were derived from the AGROVOC ontology [1].
@@ -20,7 +20,7 @@ Please note the numbers below reflect the total annotated entities. They do not 
 
 | NER | Count |
 | --- | --- |
-| material | 5,068 |
+| resource | 5,068 |
 | research problem | 4,314 |
 | process | 1,662 |
 | location | 1,578 |
@@ -32,7 +32,7 @@ Please note the numbers below reflect the total annotated entities. They do not 
 
 | NER | Count |
 | --- | --- |
-| material | 219 |
+| resource | 219 |
 | research problem | 174 |
 | location | 71 |
 | process | 54 |
@@ -44,7 +44,7 @@ Please note the numbers below reflect the total annotated entities. They do not 
 
 | NER | Count |
 | --- | --- |
-| material | 306 |
+| resource | 306 |
 | research problem | 250 |
 | process | 104 |
 | location | 96 |
