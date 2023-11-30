@@ -1,5 +1,5 @@
 Assembly of functional photosystem complexes in Rhodobacter sphaeroides incorporating carotenoids from the spirilloxanthin pathway
 
 rp: Assembly of functional photosystem complexes
-m: Rhodobacter sphaeroides
+r: Rhodobacter sphaeroides
 p: carotenoids from the spirilloxanthin pathway

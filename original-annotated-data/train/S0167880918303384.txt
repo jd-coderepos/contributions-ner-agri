@@ -2,6 +2,6 @@ On-farm evaluation and determination of sources of variability of soybean respon
 
 loc: northern Ghana
 meth: Bradyrhizobium inoculation
-m: phosphorus fertilizer
+r: phosphorus fertilizer
 meth: On-farm evaluation
 rp: soybean response

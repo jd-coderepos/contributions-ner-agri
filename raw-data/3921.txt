@@ -2,5 +2,5 @@ Litter dynamics across browsing-induced fenceline contrasts in succulent thicket
 
 rp: Litter dynamics
 p: browsing-induced fenceline contrasts
-m: succulent thicket
+r: succulent thicket
 loc: South Africa

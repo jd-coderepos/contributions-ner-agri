@@ -2,4 +2,4 @@ In vitro antioxidant and antidiabetic potential of Pentanisia prunelloides (Klot
 
 meth: In vitro
 rp: antioxidant and antidiabetic potential
-m: Pentanisia prunelloides (Klotzsch ex Eckl. & Zeyh.) Walp. Root extracts
+r: Pentanisia prunelloides (Klotzsch ex Eckl. & Zeyh.) Walp. Root extracts

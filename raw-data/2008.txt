@@ -2,4 +2,4 @@ In vitro propagation and secondary metabolite production of Boophone disticha
 
 meth: In vitro propagation
 rp: secondary metabolite production
-m: Boophone disticha
+r: Boophone disticha

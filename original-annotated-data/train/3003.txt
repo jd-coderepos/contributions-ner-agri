@@ -1,7 +1,7 @@
 Production of interspecific hybrids between Sesamum alatum Thonn and Sesamum indicum L. through ovule culture and screening for phyllody disease resistance
 
-m: Sesamum alatum Thonn
-m: Sesamum indicum L.
+r: Sesamum alatum Thonn
+r: Sesamum indicum L.
 meth: ovule culture and screening
 rp: phyllody disease resistance
 p: Production of interspecific hybrids

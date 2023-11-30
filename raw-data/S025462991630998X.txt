@@ -2,5 +2,5 @@ The phytosociology of the woody vegetation in the southern part of the Vredefort
 
 loc: southern part of the Vredefort Dome Area
 rp: phytosociology
-m: woody vegetation
+r: woody vegetation
 f: Communities of the plains, riverbanks and islands

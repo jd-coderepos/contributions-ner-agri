@@ -1,4 +1,4 @@
 Head-space volatiles of marula (Sclerocarya birrea subsp. caffra)
 
 rp: Head-space volatiles
-m: marula (Sclerocarya birrea subsp. caffra)
+r: marula (Sclerocarya birrea subsp. caffra)

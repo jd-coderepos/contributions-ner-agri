@@ -1,5 +1,5 @@
 Towards the identification of retrotransposon-based and ISSR molecular markers associated with populations resistant to ZYMV in melon
 
 meth: retrotransposon-based and ISSR molecular markers
-m: populations resistant to ZYMV
-m: melon
+r: populations resistant to ZYMV
+r: melon

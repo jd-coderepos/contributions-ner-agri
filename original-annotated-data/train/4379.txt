@@ -2,5 +2,5 @@ Autecological studies on Audouinia capitata (Bruniaceae). 6. Nutritional aspects
 
 meth: Autecological studies
 rp: Nutritional aspects
-m: Audouinia capitata (Bruniaceae)
-m: developing ovule
+r: Audouinia capitata (Bruniaceae)
+r: developing ovule

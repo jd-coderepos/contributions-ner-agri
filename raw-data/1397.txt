@@ -1,4 +1,4 @@
 Chemical analysis of five Hypoxis species
 
 rp: Chemical analysis
-m: five Hypoxis species
+r: five Hypoxis species

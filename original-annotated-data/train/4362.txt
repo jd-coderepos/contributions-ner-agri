@@ -3,4 +3,4 @@ Coupling SFE to uterotonic bioassay: an on-line investigation of the uterotonic 
 s: Coupling SFE to uterotonic bioassay
 meth: on-line investigation
 rp: uterotonic activity of compounds
-m: Grewia occidentalis (Tiliaceae)
+r: Grewia occidentalis (Tiliaceae)

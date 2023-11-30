@@ -1,6 +1,6 @@
 Wood and bark anatomy of Hypocalyptus support its isolated taxonomic position in Leguminosae
 
 rp: Wood and bark anatomy
-m: Hypocalyptus
-m: Leguminosae
+r: Hypocalyptus
+r: Leguminosae
 p: taxonomic position

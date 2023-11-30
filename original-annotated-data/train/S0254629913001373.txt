@@ -1,4 +1,4 @@
-The initial response of Frithia humilis Burgoyne, an endangered edaphic specialist, translocated to non-typical geologies 
+The initial response of Frithia humilis Burgoyne, an endangered edaphic specialist, translocated to non-typical geologies
 
-m: Frithia humilis Burgoyne
-m: non-typical geologies
+r: Frithia humilis Burgoyne
+r: non-typical geologies

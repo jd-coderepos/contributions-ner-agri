@@ -2,4 +2,4 @@ Larvicidal activity against Anopheles arabiensis of 10 South African plants that
 
 rp: Larvicidal activity
 p: Anopheles arabiensis
-m: 10 South African plants
+r: 10 South African plants

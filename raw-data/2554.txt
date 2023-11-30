@@ -1,7 +1,7 @@
 Targeting, out-scaling and prioritising climate-smart interventions in agricultural systems: Lessons from applying a generic framework to the livestock sector in sub-Saharan Africa
 
 s: Targeting, out-scaling and prioritising climate-smart interventions
-m: agricultural systems
+r: agricultural systems
 meth: generic framework
-m: livestock sector
+r: livestock sector
 loc: sub-Saharan Africa

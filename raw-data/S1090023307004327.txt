@@ -1,5 +1,5 @@
-Uterine diseases in cattle after parturition 
+Uterine diseases in cattle after parturition
 
-m: cattle
+r: cattle
 rp: Uterine diseases
 p: parturition

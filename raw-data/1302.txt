@@ -1,7 +1,7 @@
 Mitochondrial disease-related mutations at the cytochrome b-iron–sulfur protein (ISP) interface: Molecular effects on the large-scale motion of ISP and superoxide generation studied in Rhodobacter capsulatus cytochrome bc
 
 rp: Mitochondrial disease-related mutations
-m: cytochrome b-iron–sulfur protein (ISP) interface
-m: Rhodobacter capsulatus cytochrome bc
+r: cytochrome b-iron–sulfur protein (ISP) interface
+r: Rhodobacter capsulatus cytochrome bc
 p: large-scale motion of ISP
 p: superoxide generation

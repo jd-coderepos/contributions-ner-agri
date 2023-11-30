@@ -3,4 +3,4 @@ Kinetics and molecular docking of vasicine from Adhatoda vasica: An acetylcholin
 p: Kinetics and molecular docking
 rp: Alzheimer's disease
 s: acetylcholinesterase inhibitor
-m: vasicine from Adhatoda vasica
+r: vasicine from Adhatoda vasica

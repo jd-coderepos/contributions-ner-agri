@@ -1,5 +1,5 @@
 Variation in nodulation and growth of field-grown groundnut in Nampula, Mozambique
 
 p: Variation in nodulation and growth
-m: field-grown groundnut
+r: field-grown groundnut
 loc: Nampula, Mozambique

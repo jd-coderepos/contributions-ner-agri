@@ -1,4 +1,4 @@
 Cell-wall extension as a mode of action of coal-derived humates
 
 rp: Cell-wall extension
-m: coal-derived humates
+r: coal-derived humates

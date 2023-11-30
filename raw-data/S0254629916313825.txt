@@ -1,6 +1,6 @@
 A second species in Lachenalia subgen. Brachyscypha (Hyacinthaceae): Lachenalia barkeriana sp. nov. from southern Little Namaqualand
 
 loc: southern Little Namaqualand
-m: Lachenalia barkeriana sp. nov.
-m: Lachenalia subgen. Brachyscypha (Hyacinthaceae)
+r: Lachenalia barkeriana sp. nov.
+r: Lachenalia subgen. Brachyscypha (Hyacinthaceae)
 f: A second species in Lachenalia subgen. Brachyscypha (Hyacinthaceae): Lachenalia barkeriana sp. nov. from southern Little Namaqualand

@@ -1,7 +1,7 @@
 Ethylene- and dark-induced flower abscission in potted Plectranthus: Sensitivity, prevention by 1-MCP, and expression of ethylene biosynthetic genes
 
 rp: Ethylene- and dark-induced flower abscission
-m: potted Plectranthus
+r: potted Plectranthus
 p: Sensitivity
 p: expression of ethylene biosynthetic genes
 p: prevention by 1-MCP

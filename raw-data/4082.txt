@@ -1,5 +1,5 @@
 A new homoisoflavonoid and the bioactivities of some selected homoisoflavonoids from the inter-bulb surfaces of Scilla nervosa subsp. rigidifolia
 
 rp: bioactivities of some selected homoisoflavonoids
-m: inter-bulb surfaces
-m: Scilla nervosa subsp. rigidifolia
+r: inter-bulb surfaces
+r: Scilla nervosa subsp. rigidifolia

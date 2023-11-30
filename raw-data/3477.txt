@@ -1,4 +1,4 @@
 Taxonomic studies in the Acanthaceae: Peristrophe decorticans — a new species
 
 rp: Taxonomic studies
-m: Acanthaceae
+r: Acanthaceae

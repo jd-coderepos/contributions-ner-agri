@@ -2,5 +2,5 @@ Determination of cytotoxic activity and antimicrobial effects of selected medici
 
 rp: cytotoxic activity
 rp: antimicrobial effects
-m: selected medicinal plants
-m: clinical isolates of Campylobacter species and Entamoeba histolytica
+r: selected medicinal plants
+r: clinical isolates of Campylobacter species and Entamoeba histolytica

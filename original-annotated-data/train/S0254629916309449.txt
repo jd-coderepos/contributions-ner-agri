@@ -1,4 +1,4 @@
 The effects of exposure to different environments on the viability of Protea neriifolia seeds
 
-m: Protea neriifolia seeds
+r: Protea neriifolia seeds
 rp: effects of exposure to different environments

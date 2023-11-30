@@ -1,8 +1,8 @@
-Influence of lameness on follicular growth, ovulation, reproductive hormone concentrations and estrus behavior in dairy cows 
+Influence of lameness on follicular growth, ovulation, reproductive hormone concentrations and estrus behavior in dairy cows
 
 rp: lameness
 p: follicular growth
 p: ovulation
 p: reproductive hormone concentrations
-p: estrus behavior 
-m: dairy cows
+p: estrus behavior
+r: dairy cows

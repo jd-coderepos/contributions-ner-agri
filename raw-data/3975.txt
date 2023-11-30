@@ -2,4 +2,4 @@ Ethnobotany and pharmacognosy of three Cape herbal plants
 
 rp: Ethnobotany
 rp: pharmacognosy
-m: three Cape herbal plants
+r: three Cape herbal plants

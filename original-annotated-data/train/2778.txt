@@ -3,5 +3,5 @@ Comparative study of the reproductive performance and White Spot Syndrome Virus 
 meth: Comparative study
 p: reproductive performance
 rp: White Spot Syndrome Virus (WSSV) status
-m: black tiger shrimp (Penaeus monodon)
+r: black tiger shrimp (Penaeus monodon)
 loc: Bay of Bengal

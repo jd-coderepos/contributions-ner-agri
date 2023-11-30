@@ -1,6 +1,6 @@
 Taxonomic studies in the Acanthaceae: Testa microsculpturing in southern African species of Peristrophe
 
 rp: Taxonomic studies
-m: Acanthaceae
+r: Acanthaceae
 rp: Testa microsculpturing
-m: southern African species of Peristrophe
+r: southern African species of Peristrophe

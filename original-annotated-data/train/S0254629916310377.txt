@@ -1,5 +1,5 @@
 Dispersal and predation of alien Acacia seeds: effects of season and invading stand density
 
-m: alien Acacia seeds
+r: alien Acacia seeds
 p: Dispersal
 p: predation

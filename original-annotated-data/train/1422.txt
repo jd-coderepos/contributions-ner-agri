@@ -1,5 +1,5 @@
 In vitro cytotoxic and mutagenic evaluation of thirteen commercial herbal mixtures sold in KwaZulu-Natal, South Africa
 
 meth: In vitro cytotoxic and mutagenic evaluation
-m: thirteen commercial herbal mixtures
+r: thirteen commercial herbal mixtures
 loc: KwaZulu-Natal, South Africa

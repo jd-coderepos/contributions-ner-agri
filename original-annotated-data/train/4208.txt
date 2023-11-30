@@ -1,5 +1,5 @@
 The production of gibberellin-like substances by Colletotrichum gloeosporioides associated with lupin anthracnose
 
 rp: production of gibberellin-like substances
-m: Colletotrichum gloeosporioides
-m: lupin anthracnose
+r: Colletotrichum gloeosporioides
+r: lupin anthracnose

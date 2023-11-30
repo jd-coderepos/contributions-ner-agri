@@ -1,4 +1,4 @@
 Antibacterial and antifungal activities of the crude extract and compounds from Dorstenia turbinata (Moraceae)
 
 rp: Antibacterial and antifungal activities
-m: crude extract and compounds from Dorstenia turbinata (Moraceae)
+r: crude extract and compounds from Dorstenia turbinata (Moraceae)

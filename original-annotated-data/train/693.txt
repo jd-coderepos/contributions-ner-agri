@@ -1,5 +1,5 @@
 Left hung out to dry: How inadequate international protection can fuel trade in endemic species – The case of the earless monitor
 
 rp: inadequate international protection
-m: endemic species
+r: endemic species
 t: earless monitor

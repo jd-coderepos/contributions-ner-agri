@@ -1,5 +1,5 @@
-Transcriptomic and proteomic analyses of drought responsive genes and proteins in Agropyron mongolicum Keng 
+Transcriptomic and proteomic analyses of drought responsive genes and proteins in Agropyron mongolicum Keng
 
 meth: Transcriptomic and proteomic analyses
-m: Agropyron mongolicum Keng
+r: Agropyron mongolicum Keng
 rp: drought responsive genes and proteins

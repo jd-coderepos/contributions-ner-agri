@@ -1,4 +1,4 @@
 Can rooibos (Aspalathus linearis) tea have an effect on conventional antimicrobial therapies?
 
-m: rooibos (Aspalathus linearis) tea
+r: rooibos (Aspalathus linearis) tea
 rp: conventional antimicrobial therapies

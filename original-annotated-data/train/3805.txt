@@ -2,5 +2,5 @@ Greenhouse gas emissions from agricultural food production to supply Indian diet
 
 p: Greenhouse gas emissions
 p: agricultural food production
-m: Indian diets
+r: Indian diets
 rp: climate change mitigation

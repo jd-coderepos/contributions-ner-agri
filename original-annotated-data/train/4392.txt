@@ -2,4 +2,4 @@ The vegetation of the Kroonstad area: A description of the grassland communities
 
 rp: vegetation
 loc: Kroonstad area
-m: grassland communities
+r: grassland communities

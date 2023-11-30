@@ -1,5 +1,5 @@
 Antimycobacterial activity and possible mode of action of newly isolated neodiospyrin and other naphthoquinones from Euclea natalensis
 
 rp: Antimycobacterial activity
-m: newly isolated neodiospyrin and other naphthoquinones
-m: Euclea natalensis
+r: newly isolated neodiospyrin and other naphthoquinones
+r: Euclea natalensis

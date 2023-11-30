@@ -1,6 +1,6 @@
 Comparison of redox and ligand binding behaviour of yeast and bovine cytochrome c oxidases using FTIR spectroscopy
 
 rp: Comparison of redox and ligand binding behaviour
-m: yeast
-m: bovine cytochrome c oxidases
+r: yeast
+r: bovine cytochrome c oxidases
 t: FTIR spectroscopy

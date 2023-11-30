@@ -1,4 +1,4 @@
 Phytotoxic activity of Cleome arabica L. and its principal discovered active compounds
 
 rp: Phytotoxic activity
-m: Cleome arabica L. and its principal discovered active compounds
+r: Cleome arabica L. and its principal discovered active compounds

@@ -1,6 +1,6 @@
 Tillage intensity or landscape features: What matters most for wild bee diversity in vineyards?
 
 rp: wild bee diversity
-m: vineyards
+r: vineyards
 p: Tillage intensity
 p: landscape features

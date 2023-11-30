@@ -2,4 +2,4 @@ In vitro pharmacological evaluation of three Barleria species
 
 meth: In vitro
 rp: pharmacological evaluation
-m: three Barleria species
+r: three Barleria species

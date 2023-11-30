@@ -1,4 +1,4 @@
 Physiological and biochemical mechanisms of allelochemicals in aqueous extracts of diploid and mixoploid Trigonella foenum-graecum L.
 
 rp: Physiological and biochemical mechanisms of allelochemicals
-m: aqueous extracts of diploid and mixoploid Trigonella foenum-graecum L.
+r: aqueous extracts of diploid and mixoploid Trigonella foenum-graecum L.

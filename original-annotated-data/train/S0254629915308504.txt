@@ -1,4 +1,4 @@
 In vitro culture of Gladiolus carneus
 
-m: Gladiolus carneus
+r: Gladiolus carneus
 meth: In vitro culture

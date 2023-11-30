@@ -3,4 +3,4 @@ Morphology, phenology and agronomic traits of two wild Mexican common bean (Phas
 rp: Morphology
 rp: phenology
 rp: agronomic traits
-m: two wild Mexican common bean (Phaseolus vulgaris L.) populations
+r: two wild Mexican common bean (Phaseolus vulgaris L.) populations

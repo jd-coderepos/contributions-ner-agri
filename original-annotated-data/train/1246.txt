@@ -1,5 +1,5 @@
 Dispersal and climate warming determine range shift in model reptile populations
 
-rp: Dispersal and climate warming 
+rp: Dispersal and climate warming
 p: range shift
-m: model reptile populations
+r: model reptile populations

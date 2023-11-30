@@ -1,4 +1,4 @@
 Detection of L-canavanine in the Cancer bush (Lessertia frutescens L.), a reputed anti-HIV/AIDS medicinal plant
 
 rp: Detection of L-canavanine
-m: Cancer bush (Lessertia frutescens L.), a reputed anti-HIV/AIDS medicinal plant
+r: Cancer bush (Lessertia frutescens L.), a reputed anti-HIV/AIDS medicinal plant

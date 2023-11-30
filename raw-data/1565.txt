@@ -1,6 +1,6 @@
 Cytogenetic studies in the genus Tribolium (Poaceae: Danthonieae). II. A report on embryo sac development, with special reference to the occurrence of apomixis in diploid specimens
 
 meth: Cytogenetic studies
-m: genus Tribolium (Poaceae: Danthonieae)
+r: genus Tribolium (Poaceae: Danthonieae)
 rp: embryo sac development
-m: apomixis in diploid specimens
+r: apomixis in diploid specimens

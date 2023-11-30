@@ -1,5 +1,5 @@
 Sporolithon ptychoides Heydrich and S. episporum (Howe) Dawson: two crustose coralline red algae (Corallinales, Sporolithaceae) in South Africa
 
-m: Sporolithon ptychoides Heydrich
-m: S. episporum (Howe) Dawson
+r: Sporolithon ptychoides Heydrich
+r: S. episporum (Howe) Dawson
 loc: South Africa

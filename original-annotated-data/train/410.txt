@@ -1,4 +1,4 @@
 In vitro antifungal activity of the acetone extract and two isolated compounds from the weed, Pseudognaphalium luteoalbum
 
 p: In vitro antifungal activity
-m: weed, Pseudognaphalium luteoalbum
+r: weed, Pseudognaphalium luteoalbum

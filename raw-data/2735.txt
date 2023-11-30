@@ -1,4 +1,4 @@
 An anatomical investigation of the stem and leaf of the South African species of Lycium L. (Solanaceae)
 
 meth: anatomical investigation
-m: stem and leaf of the South African species of Lycium L. (Solanaceae)
+r: stem and leaf of the South African species of Lycium L. (Solanaceae)

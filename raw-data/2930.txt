@@ -3,4 +3,4 @@ Fertilization-induced changes in growth parameters and antimycobacterial activit
 p: Fertilization-induced changes
 rp: growth parameters
 rp: antimycobacterial activity
-m: Euclea natalensis (Ebenaceae)
+r: Euclea natalensis (Ebenaceae)

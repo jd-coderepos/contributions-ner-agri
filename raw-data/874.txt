@@ -2,5 +2,5 @@ Seasonal variations in tolerance to ion leakage following desiccation in the mos
 
 rp: Seasonal variations
 p: tolerance to ion leakage following desiccation
-m: moss Atrichum androgynum
+r: moss Atrichum androgynum
 loc: KwaZulu-Natal afromontane forest

@@ -1,4 +1,4 @@
 Comparison of two methods for estimating the size of the viable seed bank of two plant communities in the Strandveld of the west coast, South Africa
 
-m: viable seed bank of two plant communities
+r: viable seed bank of two plant communities
 loc: Strandveld of the west coast, South Africa

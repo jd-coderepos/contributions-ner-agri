@@ -1,4 +1,4 @@
 A new species of Sartidia (Graminae), endemic to ultramafic soils
 
 f: A new species of Sartidia (Graminae), endemic to ultramafic soils
-m: ultramafic soils
+r: ultramafic soils

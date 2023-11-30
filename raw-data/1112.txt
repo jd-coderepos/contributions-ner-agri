@@ -2,4 +2,4 @@ Effect of shoot apex removal on growth and yield of Cucurbita pepo vines
 
 rp: shoot apex removal
 p: growth and yield
-m: Cucurbita pepo vines
+r: Cucurbita pepo vines

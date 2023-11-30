@@ -1,4 +1,4 @@
 Antioxidant, α-amylase inhibitory and oxidative DNA damage protective property of Boerhaavia diffusa (Linn.) root
 
-m: Boerhaavia diffusa (Linn.) root
+r: Boerhaavia diffusa (Linn.) root
 rp: Antioxidant, α-amylase inhibitory and oxidative DNA damage protective property

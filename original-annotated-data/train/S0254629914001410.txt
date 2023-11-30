@@ -1,5 +1,5 @@
-A review of the Schizobasis group of Drimia Jacq. (Hyacinthaceae: Urgineoideae), and the new species D. sigmoidea from Western Cape, South Africa 
+A review of the Schizobasis group of Drimia Jacq. (Hyacinthaceae: Urgineoideae), and the new species D. sigmoidea from Western Cape, South Africa
 
-m: Schizobasis group of Drimia Jacq. (Hyacinthaceae: Urgineoideae)
-m: species D. sigmoidea
+r: Schizobasis group of Drimia Jacq. (Hyacinthaceae: Urgineoideae)
+r: species D. sigmoidea
 loc: Western Cape, South Africa

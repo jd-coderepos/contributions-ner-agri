@@ -1,4 +1,4 @@
 Antimicrobial activity of some plant extracts
 
 rp: Antimicrobial activity
-m: plant extracts
+r: plant extracts

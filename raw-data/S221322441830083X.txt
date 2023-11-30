@@ -1,6 +1,6 @@
-Genetic diversity of Toxoplasma gondii isolates obtained from free-living wild birds rescued in Southeastern Brazil 
+Genetic diversity of Toxoplasma gondii isolates obtained from free-living wild birds rescued in Southeastern Brazil
 
 rp: Genetic diversity
-m: Toxoplasma gondii isolates
-m: free-living wild birds
+r: Toxoplasma gondii isolates
+r: free-living wild birds
 loc: Southeastern Brazil

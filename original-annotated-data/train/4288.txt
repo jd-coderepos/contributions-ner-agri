@@ -2,4 +2,4 @@ Cytochemical localisation of adenosine triphosphatase activity in salt glands of
 
 rp: Cytochemical localisation
 p: adenosine triphosphatase activity
-m: salt glands of Sporobolus virginicus (L.) Kunth
+r: salt glands of Sporobolus virginicus (L.) Kunth

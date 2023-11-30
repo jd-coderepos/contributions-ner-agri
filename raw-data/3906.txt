@@ -1,4 +1,4 @@
 Fields of papaya and honey: The scent of beetle-pollinated Protea species
 
-m: Fields of papaya and honey
-m: beetle-pollinated Protea species
+r: Fields of papaya and honey
+r: beetle-pollinated Protea species

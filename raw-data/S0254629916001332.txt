@@ -1,5 +1,5 @@
-Phytochemical analysis and antioxidant activity of leaf extracts from Morella serrata (Lam.) Killick (Myricaceae)             
+Phytochemical analysis and antioxidant activity of leaf extracts from Morella serrata (Lam.) Killick (Myricaceae)
 
 meth: Phytochemical analysis
 rp: antioxidant activity
-m: leaf extracts from Morella serrata (Lam.) Killick (Myricaceae)
+r: leaf extracts from Morella serrata (Lam.) Killick (Myricaceae)

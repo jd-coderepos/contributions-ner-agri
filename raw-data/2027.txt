@@ -1,5 +1,5 @@
 Peppermint (Mentha piperita) inhibits microbial biofilms in vitro
 
-m: Peppermint (Mentha piperita)
-m: microbial biofilms
+r: Peppermint (Mentha piperita)
+r: microbial biofilms
 meth: in vitro

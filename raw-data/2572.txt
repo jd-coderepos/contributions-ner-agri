@@ -1,4 +1,4 @@
 Mucoadhesive polysaccharides modulate sodium retention, release and taste perception
 
-m: Mucoadhesive polysaccharides
+r: Mucoadhesive polysaccharides
 p: sodium retention, release and taste perception

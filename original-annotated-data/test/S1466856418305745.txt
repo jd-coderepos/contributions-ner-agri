@@ -1,6 +1,6 @@
-Reductions of Listeria monocytogenes on cold-smoked and raw salmon fillets by UV-C and pulsed UV light 
+Reductions of Listeria monocytogenes on cold-smoked and raw salmon fillets by UV-C and pulsed UV light
 
-m: cold-smoked and raw salmon fillets
+r: cold-smoked and raw salmon fillets
 meth: UV-C
 meth: pulsed UV light
 rp: Reductions of Listeria monocytogenes

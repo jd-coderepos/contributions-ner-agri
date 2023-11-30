@@ -1,4 +1,4 @@
 Pharmacological and phytochemical properties of Dombeya rotundifolia
 
 rp: Pharmacological and phytochemical properties
-m: Dombeya rotundifolia
+r: Dombeya rotundifolia

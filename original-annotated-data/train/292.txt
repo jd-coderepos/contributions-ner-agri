@@ -2,6 +2,6 @@ Antibacterial, anti-inflammatory and mutagenic effects of some medicinal plants 
 
 rp: Antibacterial, anti-inflammatory and mutagenic effects
 p: treatment of wounds and retained placenta
-m: livestock
-m: medicinal plants
+r: livestock
+r: medicinal plants
 loc: South Africa

@@ -1,4 +1,4 @@
 Seed germination requirements of Alectra sessiliflora
 
 rp: Seed germination
-m: Alectra sessiliflora
+r: Alectra sessiliflora

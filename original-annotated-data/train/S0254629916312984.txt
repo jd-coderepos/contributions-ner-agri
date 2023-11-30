@@ -2,5 +2,5 @@ The occurrence of seed-feeding Zulubius acaciaphagus (Hemiptera, Alydidae) and i
 
 loc: South Africa
 rp: occurrence of seed-feeding Zulubius acaciaphagus (Hemiptera, Alydidae)
-m: Acacia cyclops
-m: seed banks
+r: Acacia cyclops
+r: seed banks

@@ -1,5 +1,5 @@
 Ultrastructure of the conidiogenesis and conidia of Anguillospora pseudolongissima and Flagellospora penicillioides
 
 rp: Ultrastructure of the conidiogenesis and conidia
-m: Anguillospora pseudolongissima
-m: Flagellospora penicillioides
+r: Anguillospora pseudolongissima
+r: Flagellospora penicillioides

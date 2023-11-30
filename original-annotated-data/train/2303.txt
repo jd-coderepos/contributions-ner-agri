@@ -3,4 +3,4 @@ Partial dehydration and ABA induce tolerance to desiccation-induced ion leakage 
 meth: Partial dehydration
 meth: ABA
 rp: desiccation-induced ion leakage
-m: moss Atrichum androgynum
+r: moss Atrichum androgynum

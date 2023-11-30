@@ -1,4 +1,4 @@
 Embryo sac development in some South African Lippia species (Verbenaceae)
 
 rp: Embryo sac development
-m: South African Lippia species (Verbenaceae)
+r: South African Lippia species (Verbenaceae)

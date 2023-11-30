@@ -1,4 +1,4 @@
 The Gsp-1 genes encode the wheat arabinogalactan peptide
 
-m: Gsp-1 genes
-m: wheat arabinogalactan peptide
+r: Gsp-1 genes
+r: wheat arabinogalactan peptide

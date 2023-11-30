@@ -2,4 +2,4 @@ A proteomics-based identification of putative biomarkers for disease in bovine m
 
 meth: proteomics-based identification
 rp: putative biomarkers for disease
-m: bovine milk
+r: bovine milk

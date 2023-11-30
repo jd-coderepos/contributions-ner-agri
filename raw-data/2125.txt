@@ -1,5 +1,5 @@
 A review of the Litanthus group of Drimia Jacq. (Hyacinthaceae: Urgineoideae) with the description of a second species, Drimia stenocarpa, from Western Cape
 
-m: Litanthus group of Drimia Jacq. (Hyacinthaceae: Urgineoideae)
-m: Drimia stenocarpa
+r: Litanthus group of Drimia Jacq. (Hyacinthaceae: Urgineoideae)
+r: Drimia stenocarpa
 loc: Western Cape

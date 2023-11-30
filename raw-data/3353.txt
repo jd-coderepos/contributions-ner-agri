@@ -1,4 +1,4 @@
 An inventory of Vhavenda useful plants, Limpopo Province, South Africa
 
-m: Vhavenda useful plants
+r: Vhavenda useful plants
 loc: Limpopo Province, South Africa

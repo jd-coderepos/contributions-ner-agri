@@ -1,5 +1,5 @@
 Validated RP-UHPLC PDA and GC–MS methods for the analysis of psychoactive alkaloids in Sceletium tortuosum
 
-m: Sceletium tortuosum
+r: Sceletium tortuosum
 rp: psychoactive alkaloids
 s: Validated RP-UHPLC PDA and GC–MS methods

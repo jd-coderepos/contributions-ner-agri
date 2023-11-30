@@ -1,4 +1,4 @@
 Calcium-induced conformational changes in the regulatory domain of the human mitochondrial ATP-Mg/Pi carrier
 
 p: Calcium-induced conformational changes
-m: regulatory domain of the human mitochondrial ATP-Mg/Pi carrier
+r: regulatory domain of the human mitochondrial ATP-Mg/Pi carrier

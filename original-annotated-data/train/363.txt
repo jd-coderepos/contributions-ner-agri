@@ -1,6 +1,6 @@
 Germination dimorphism in Suaeda acuminata: A new combination of dormancy types for heteromorphic seeds
 
 rp: Germination dimorphism
-m: Suaeda acuminata
-m: heteromorphic seeds
+r: Suaeda acuminata
+r: heteromorphic seeds
 p: dormancy types

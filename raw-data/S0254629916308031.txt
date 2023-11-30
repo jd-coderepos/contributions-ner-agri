@@ -1,4 +1,4 @@
 Studies in Cyperaceae in southern Africa. 20: Changed status of Schoenoplectus corymbosus var. brachyceras and report of hybrids
 
 loc: Cyperaceae in southern Africa
-m: Schoenoplectus corymbosus var. brachyceras
+r: Schoenoplectus corymbosus var. brachyceras

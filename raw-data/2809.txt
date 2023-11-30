@@ -1,6 +1,6 @@
 Estimating and mitigating post-release mortality of European eel by combining citizen science with a catch-and-release angling experiment
 
 rp: Estimating and mitigating post-release mortality
-m: European eel
+r: European eel
 p: citizen science
 meth: catch-and-release angling experiment

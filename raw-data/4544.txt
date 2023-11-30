@@ -1,4 +1,4 @@
 Incidence of Shiga toxin-producing Escherichia coli serogroups in ruminant's meat
 
-m: Shiga toxin-producing Escherichia coli serogroups
-m: ruminant's meat
+r: Shiga toxin-producing Escherichia coli serogroups
+r: ruminant's meat

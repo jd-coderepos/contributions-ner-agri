@@ -2,4 +2,4 @@ Morphological and anatomical changes associated with gall formation on the leave
 
 p: Morphological and anatomical changes
 rp: gall formation
-m: leaves of Cussonia spicata
+r: leaves of Cussonia spicata

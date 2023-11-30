@@ -1,6 +1,6 @@
 Antimicrobial activity of extracts and fractions of Hermannia geniculata Eckl. & Zeyh. against selected bacteria and fungi
 
 rp: Antimicrobial activity
-m: extracts and fractions of Hermannia geniculata Eckl. & Zeyh.
-m: bacteria
-m: fungi
+r: extracts and fractions of Hermannia geniculata Eckl. & Zeyh.
+r: bacteria
+r: fungi

@@ -1,6 +1,6 @@
 The genus Eugenia (Myrtaceae) in southern Africa: Ontogeny and taxonomic value of the seed
 
-m: genus Eugenia (Myrtaceae)
-m: seed
+r: genus Eugenia (Myrtaceae)
+r: seed
 loc: southern Africa
 rp: Ontogeny and taxonomic value

@@ -1,5 +1,5 @@
 Biphasic short time heat degradation of the blue microalgae protein phycocyanin from Arthrospira platensis
 
 meth: Biphasic short time heat degradation
-m: blue microalgae protein phycocyanin
-m: Arthrospira platensis
+r: blue microalgae protein phycocyanin
+r: Arthrospira platensis

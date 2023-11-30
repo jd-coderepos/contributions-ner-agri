@@ -2,5 +2,5 @@ Diurnal pollination, primarily by a single species of rodent, documented in Prot
 
 rp: Diurnal pollination
 meth: modified camera traps
-m: single species of rodent
-m: Protea foliosa
+r: single species of rodent
+r: Protea foliosa

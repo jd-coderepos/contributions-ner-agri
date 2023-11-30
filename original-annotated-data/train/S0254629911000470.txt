@@ -1,10 +1,10 @@
 Inhibitory effect of Teucrium ramosissimum extracts on aflatoxin B1, benzo[a]pyrene, 4-nitro-o-phenylenediamine and sodium azide induced mutagenicity: Correlation with antioxidant activity
 
-m: Teucrium ramosissimum extracts
+r: Teucrium ramosissimum extracts
 p: mutagenicity
-m: aflatoxin B1
-m: benzo[a]pyrene
-m: 4-nitro-o-phenylenediamine
-m: sodium azide
+r: aflatoxin B1
+r: benzo[a]pyrene
+r: 4-nitro-o-phenylenediamine
+r: sodium azide
 p: Inhibitory effect
 p: antioxidant activity

@@ -1,8 +1,8 @@
 Colonization of decomposing leaves of Bruguiera gymnorrhiza (Rhizophoraceae) by fungi, and in vitro cellulolytic activity of the isolates
 
 rp: Colonization of decomposing leaves
-m: Bruguiera gymnorrhiza (Rhizophoraceae)
-m: fungi
+r: Bruguiera gymnorrhiza (Rhizophoraceae)
+r: fungi
 meth: in vitro
 p: cellulolytic activity
-m: isolates
+r: isolates

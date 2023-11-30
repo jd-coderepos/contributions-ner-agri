@@ -1,5 +1,5 @@
 Development of functional agricultural products and use of a new health claim system in Japan
 
-m: functional agricultural products
-m: health claim system
+r: functional agricultural products
+r: health claim system
 loc: Japan

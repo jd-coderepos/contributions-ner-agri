@@ -1,7 +1,7 @@
 A recombinant fusion protein containing a spider toxin specific for the insect voltage-gated sodium ion channel shows oral toxicity towards insects of different orders
 
-m: recombinant fusion protein
-m: spider toxin
+r: recombinant fusion protein
+r: spider toxin
 p: insect voltage-gated sodium ion
 rp: oral toxicity
-m: insects of different orders
+r: insects of different orders

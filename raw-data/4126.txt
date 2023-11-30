@@ -3,5 +3,5 @@ Cytotoxic, antimicrobial, antioxidant, antilipoxygenase activities and phenolic 
 rp: Cytotoxic, antimicrobial, antioxidant, antilipoxygenase activities
 p: phenolic composition
 rp: treating diarrhoea
-m: Ozoroa and Searsia species (Anacardiaceae)
+r: Ozoroa and Searsia species (Anacardiaceae)
 meth: South African traditional medicine

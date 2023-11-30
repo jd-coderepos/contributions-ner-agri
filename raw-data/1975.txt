@@ -1,5 +1,5 @@
 The population ecology of Securidaca longepedunculata Fresen. in Nylsvley Nature Reserve, Limpopo Province, RSA
 
 rp: population ecology
-m: Securidaca longepedunculata Fresen.
+r: Securidaca longepedunculata Fresen.
 loc: Nylsvley Nature Reserve, Limpopo Province, RSA

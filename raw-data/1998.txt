@@ -1,4 +1,4 @@
 Antimalarial compounds from Schefflera umbellifera
 
 rp: Antimalarial compounds
-m: Schefflera umbellifera
+r: Schefflera umbellifera

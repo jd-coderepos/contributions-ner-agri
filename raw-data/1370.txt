@@ -2,5 +2,5 @@ The promotion of tomato and okra seedling growth by foliar applications of smoke
 
 rp: tomato and okra seedling growth
 p: foliar applications
-m: smoke-isolated butenolide
-m: smoke–water
+r: smoke-isolated butenolide
+r: smoke–water

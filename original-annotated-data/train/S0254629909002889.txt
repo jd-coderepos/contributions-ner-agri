@@ -1,4 +1,4 @@
-Production of reactive oxygen species in excised, desiccated and cryopreserved explants of Trichilia dregeana Sond 
+Production of reactive oxygen species in excised, desiccated and cryopreserved explants of Trichilia dregeana Sond
 
-m: excised, desiccated and cryopreserved explants of Trichilia dregeana Sond
+r: excised, desiccated and cryopreserved explants of Trichilia dregeana Sond
 rp: reactive oxygen species

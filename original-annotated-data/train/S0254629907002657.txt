@@ -1,6 +1,6 @@
-A comparison of the responses of Eucalyptus grandis and E. grandis × camaldulensis to ABA pretreatment and desiccation in preparation for cryostorage 
+A comparison of the responses of Eucalyptus grandis and E. grandis × camaldulensis to ABA pretreatment and desiccation in preparation for cryostorage
 
-m: Eucalyptus grandis
-m: E. grandis × camaldulensis
+r: Eucalyptus grandis
+r: E. grandis × camaldulensis
 meth: ABA pretreatment and desiccation
 rp: preparation for cryostorage

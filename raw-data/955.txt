@@ -1,4 +1,4 @@
 Development of a reference material for Staphylococcus aureus enterotoxin A in cheese: Feasibility study, processing, homogeneity and stability assessment
 
-m: Staphylococcus aureus enterotoxin A
-m: cheese
+r: Staphylococcus aureus enterotoxin A
+r: cheese

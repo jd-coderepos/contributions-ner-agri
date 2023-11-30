@@ -1,6 +1,6 @@
 Antimicrobial activity of selected extracts from Hakea salicifolia and H. sericeae (Proteaceae) against Staphylococcus aureus multiresistant strains
 
 rp: Antimicrobial activity
-m: Hakea salicifolia
-m: H. sericeae (Proteaceae)
-m: Staphylococcus aureus multiresistant strains
+r: Hakea salicifolia
+r: H. sericeae (Proteaceae)
+r: Staphylococcus aureus multiresistant strains

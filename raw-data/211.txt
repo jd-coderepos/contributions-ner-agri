@@ -1,4 +1,4 @@
 Germination of seeds of Solanum mauritianum
 
 rp: Germination of seeds
-m: Solanum mauritianum
+r: Solanum mauritianum

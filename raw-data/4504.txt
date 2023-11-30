@@ -1,5 +1,5 @@
 Antidiabetic and hypolipidemic activities of Algerian Pistachia lentiscus L. leaves extract in alloxan-induced diabetic rats
 
 rp: Antidiabetic and hypolipidemic activities
-m: Algerian Pistachia lentiscus L. leaves extract
-m: alloxan-induced diabetic rats
+r: Algerian Pistachia lentiscus L. leaves extract
+r: alloxan-induced diabetic rats

@@ -1,5 +1,5 @@
 The non-African oil-flowers and their bees: A brief survey
 
-m: non-African oil-flowers
-m: bees
+r: non-African oil-flowers
+r: bees
 meth: brief survey

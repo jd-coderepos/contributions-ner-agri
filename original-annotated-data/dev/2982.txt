@@ -3,4 +3,4 @@ The effect of simulated gastrointestinal conditions on the antimicrobial activit
 p: simulated gastrointestinal conditions
 rp: antimicrobial activity
 rp: chemical composition
-m: indigenous South African plant extracts
+r: indigenous South African plant extracts

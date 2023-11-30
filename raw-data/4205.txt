@@ -1,4 +1,4 @@
 Responses to various manipulations, and storage potential, of seeds of the unique desert gymnosperm, Welwitschia mirabilis Hook. fil.
 
 rp: various manipulations, and storage potential, of seeds
-m: unique desert gymnosperm, Welwitschia mirabilis Hook. fil.
+r: unique desert gymnosperm, Welwitschia mirabilis Hook. fil.

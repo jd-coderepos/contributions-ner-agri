@@ -1,4 +1,4 @@
 Stereum species (Stereaceae) of South Africa
 
-m: Stereum species (Stereaceae)
+r: Stereum species (Stereaceae)
 loc: South Africa

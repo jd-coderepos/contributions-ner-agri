@@ -1,4 +1,4 @@
 Progress in the studies on the greenhouse gas emissions from reservoirs
 
 rp: greenhouse gas emissions
-m: reservoirs
+r: reservoirs

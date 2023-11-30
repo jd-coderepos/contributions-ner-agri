@@ -1,6 +1,6 @@
 Estimating N2 fixation in 26 chickpea (Cicer arentinum L.) genotypes using 15N natural abundance: Effect of genotype×environment interaction
 
 rp: Estimating N2 fixation
-m: 26 chickpea (Cicer arentinum L.) genotypes
-m: 15N natural abundance
+r: 26 chickpea (Cicer arentinum L.) genotypes
+r: 15N natural abundance
 p: genotype×environment interaction

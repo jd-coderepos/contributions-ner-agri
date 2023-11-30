@@ -1,4 +1,4 @@
 Anti-inflammatory activity of betulinic acid and its acetyl derivative from Melaleuca bracteata
 
 rp: Anti-inflammatory activity
-m: betulinic acid and its acetyl derivative from Melaleuca bracteata
+r: betulinic acid and its acetyl derivative from Melaleuca bracteata

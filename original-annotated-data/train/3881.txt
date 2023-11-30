@@ -1,5 +1,5 @@
 Temperature-dependent seed germination in Watsonia species related to geographic distribution
 
 rp: Temperature-dependent seed germination
-m: Watsonia species
+r: Watsonia species
 p: geographic distribution

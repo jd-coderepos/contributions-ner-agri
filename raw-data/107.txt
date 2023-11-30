@@ -1,6 +1,6 @@
 Seasonal trends in colonisation of Protea infructescences by Gondwanamyces and Ophiostoma spp.
 
 rp: Seasonal trends in colonisation
-m: Protea infructescences
-m: Ophiostoma spp.
-m: Gondwanamyces
+r: Protea infructescences
+r: Ophiostoma spp.
+r: Gondwanamyces

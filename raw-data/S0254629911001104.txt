@@ -1,4 +1,4 @@
 Improved tolerance toward low temperature in banana (Musa AAA Group Cavendish Williams)
 
-m: banana (Musa AAA Group Cavendish Williams)
+r: banana (Musa AAA Group Cavendish Williams)
 rp: Improved tolerance toward low temperature

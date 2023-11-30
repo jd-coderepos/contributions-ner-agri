@@ -2,4 +2,4 @@ Floristic composition of the southern Cape forests with an annotated check-list
 
 rp: Floristic composition
 loc: southern Cape forests
-m: annotated check-list
+r: annotated check-list

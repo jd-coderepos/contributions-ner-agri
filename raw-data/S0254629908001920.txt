@@ -1,4 +1,4 @@
 Allelopathic potential of Psychotria leiocarpa, a dominant understorey species of subtropical forests
 
-m: Psychotria leiocarpa
+r: Psychotria leiocarpa
 rp: Allelopathic potential

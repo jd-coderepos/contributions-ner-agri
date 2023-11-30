@@ -1,7 +1,7 @@
-Genetic management of indigenous fruit trees in southern Africa: A case study of Sclerocarya birrea based on nuclear and chloroplast variation 
+Genetic management of indigenous fruit trees in southern Africa: A case study of Sclerocarya birrea based on nuclear and chloroplast variation
 
 rp: Genetic management
-m: indigenous fruit trees
-m: Sclerocarya birrea
+r: indigenous fruit trees
+r: Sclerocarya birrea
 loc: southern Africa
 meth: nuclear and chloroplast variation

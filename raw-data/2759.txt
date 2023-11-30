@@ -1,6 +1,6 @@
 A model of crosslink kinetics in the expanding plant cell wall: Yield stress and enzyme action
 
 rp: crosslink kinetics
-m: expanding plant cell wall
+r: expanding plant cell wall
 p: Yield stress
 p: enzyme action

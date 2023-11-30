@@ -2,4 +2,4 @@ The taxonomic significance of anatomical characters of the leaf in the southern 
 
 rp: taxonomic significance
 p: anatomical characters
-m: leaf in the southern African species of Canthium s.l. (Rubiaceae)
+r: leaf in the southern African species of Canthium s.l. (Rubiaceae)

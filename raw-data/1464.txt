@@ -1,4 +1,4 @@
 A taxonomic revision of Petopentia (Apocynaceae: Periplocoideae)
 
 rp: taxonomic revision
-m: Petopentia (Apocynaceae: Periplocoideae)
+r: Petopentia (Apocynaceae: Periplocoideae)

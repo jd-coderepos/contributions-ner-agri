@@ -1,6 +1,6 @@
 Studies in the genus Lotononis (Crotalarieae, Fabaceae). VII. New taxa and new combinations in the section Oxydium
 
-m: genus Lotononis (Crotalarieae, Fabaceae)
-m: section Oxydium
+r: genus Lotononis (Crotalarieae, Fabaceae)
+r: section Oxydium
 rp: New taxa and new combinations
-m: section Oxydium
+r: section Oxydium

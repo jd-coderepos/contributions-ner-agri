@@ -1,5 +1,5 @@
 Concept for gene conservation strategy for the endangered Chinese yellowhorn, Xanthoceras sorbifolium, based on simulation of pairwise kinship coefficients
 
 rp: gene conservation strategy
-m: endangered Chinese yellowhorn, Xanthoceras sorbifolium
+r: endangered Chinese yellowhorn, Xanthoceras sorbifolium
 meth: simulation of pairwise kinship coefficients

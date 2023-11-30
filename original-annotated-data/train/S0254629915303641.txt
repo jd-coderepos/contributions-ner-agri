@@ -1,5 +1,5 @@
-ACKDAT: a digital spatial database of distributions of South African plant species and species assemblages 
+ACKDAT: a digital spatial database of distributions of South African plant species and species assemblages
 
 s: ACKDAT
 t: digital spatial database
-m: distributions of South African plant species and species assemblages
+r: distributions of South African plant species and species assemblages

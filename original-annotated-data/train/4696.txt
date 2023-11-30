@@ -2,4 +2,4 @@ The effect of rearing temperature on the survival and growth of early juvenile A
 
 p: rearing temperature
 p: survival and growth
-m: early juvenile Atlantic surfclams (Spisula solidissima)
+r: early juvenile Atlantic surfclams (Spisula solidissima)

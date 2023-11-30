@@ -2,5 +2,5 @@ Marine Cyanophytes from the Western Cape, South Africa: Nostocales and Stigonema
 
 rp: Marine Cyanophytes
 loc: Western Cape, South Africa
-m: Nostocales
-m: Stigonematales
+r: Nostocales
+r: Stigonematales

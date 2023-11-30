@@ -1,6 +1,6 @@
 Regulation of the reassembly of the photosynthetic complex by water and light in Xerophyta humilis
 
 rp: reassembly of the photosynthetic complex
-m: Xerophyta humilis
-m: water
-m: light
+r: Xerophyta humilis
+r: water
+r: light

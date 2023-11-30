@@ -2,5 +2,5 @@ Improvement of biomass and lipid yield under stress conditions by using diploid 
 
 rp: biomass
 rp: lipid yield
-m: diploid strains of Chlamydomonas reinhardtii
+r: diploid strains of Chlamydomonas reinhardtii
 p: stress conditions

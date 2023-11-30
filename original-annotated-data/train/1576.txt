@@ -1,5 +1,5 @@
 Pollination of Disa filicornis (Orchidaceae) through deception of mason-bees
 
 rp: Pollination
-m: Disa filicornis (Orchidaceae)
+r: Disa filicornis (Orchidaceae)
 s: deception of mason-bees

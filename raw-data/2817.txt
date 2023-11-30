@@ -1,6 +1,6 @@
 Sward lifting in compacted grassland: effects on soil structure, grass rooting and productivity
 
 rp: Sward lifting
-m: compacted grassland
+r: compacted grassland
 p: soil structur
 p: grass rooting and productivity

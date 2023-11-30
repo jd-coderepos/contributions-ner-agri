@@ -1,5 +1,5 @@
 Diaspore capitula in Hirpicium supports close evolutionary relationship to Gorteria (Asteraceae–Arctotideae)
 
-m: Diaspore capitula in Hirpicium
-m: Gorteria (Asteraceae–Arctotideae)
+r: Diaspore capitula in Hirpicium
+r: Gorteria (Asteraceae–Arctotideae)
 rp: close evolutionary relationship

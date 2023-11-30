@@ -1,4 +1,4 @@
 The effects of invasive pests and pathogens on strategies for forest diversification
 
-m: invasive pests and pathogens
+r: invasive pests and pathogens
 rp: forest diversification

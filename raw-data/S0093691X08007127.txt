@@ -1,6 +1,6 @@
-Influence of somatic cell count, body condition and lameness on follicular growth and ovulation in dairy cows 
+Influence of somatic cell count, body condition and lameness on follicular growth and ovulation in dairy cows
 
 p: somatic cell count, body condition and lameness
 rp: follicular growth
 rp: ovulation
-m: dairy cows
+r: dairy cows

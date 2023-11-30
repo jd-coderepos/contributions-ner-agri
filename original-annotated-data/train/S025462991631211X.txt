@@ -1,5 +1,5 @@
-The vegetation of the Karoo Nature Reserve, Cape Province. II. A preliminary systematic plant species list 
+The vegetation of the Karoo Nature Reserve, Cape Province. II. A preliminary systematic plant species list
 
-rp: vegetation 
+rp: vegetation
 loc: Karoo Nature Reserve, Cape Province
-m: systematic plant species list
+r: systematic plant species list

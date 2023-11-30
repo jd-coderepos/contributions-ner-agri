@@ -1,5 +1,5 @@
 Translocation of potassium and phosphate from ordinary and proteoid roots to shoots in the Proteaceae
 
 rp: Translocation of potassium and phosphate
-m: ordinary and proteoid roots to shoots
-m: Proteaceae
+r: ordinary and proteoid roots to shoots
+r: Proteaceae

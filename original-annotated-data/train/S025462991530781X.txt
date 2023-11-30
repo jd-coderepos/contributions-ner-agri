@@ -1,4 +1,4 @@
 An analysis of the flora of Legalameetse Nature Reserve, Northern Province
 
 loc: Legalameetse Nature Reserve, Northern Province
-m: flora
+r: flora

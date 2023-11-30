@@ -2,4 +2,4 @@ Antimicrobial activity and in vitro cytotoxicity of selected South African Helic
 
 rp: Antimicrobial activity
 rp: in vitro cytotoxicity
-m: selected South African Helichrysum species
+r: selected South African Helichrysum species

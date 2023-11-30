@@ -1,5 +1,5 @@
 A DNA barcode for the flora of the Kruger National Park (South Africa)
 
-m: DNA barcode
+r: DNA barcode
 rp: flora
 loc: Kruger National Park (South Africa)

@@ -1,4 +1,4 @@
 The palms of Madagascar
 
 loc: Madagascar
-m: palms
+r: palms

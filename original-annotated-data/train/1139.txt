@@ -1,4 +1,4 @@
 The potential for Eucalyptus radiata leaf essential oil use as a commercial antimicrobial
 
-m: Eucalyptus radiata leaf essential oil
+r: Eucalyptus radiata leaf essential oil
 rp: commercial antimicrobial

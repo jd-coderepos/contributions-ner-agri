@@ -2,5 +2,5 @@ Understanding variability in the benefits of N2-fixation in soybean-maize rotati
 
 rp: benefits of N2-fixation
 meth: soybean-maize rotations
-m: smallholder farmers’ fields
+r: smallholder farmers’ fields
 loc: Malawi

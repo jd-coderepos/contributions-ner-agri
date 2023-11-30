@@ -2,4 +2,4 @@ In vitro biological activities of South African Pelargonium (Geraniaceae) specie
 
 meth: In vitro
 rp: biological activities
-m: South African Pelargonium (Geraniaceae) species
+r: South African Pelargonium (Geraniaceae) species

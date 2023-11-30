@@ -1,4 +1,4 @@
 Comparative water potentials of 4-month-old and 40-year-old Cape fynbos plants
 
 rp: water potentials
-m: 4-month-old and 40-year-old Cape fynbos plants
+r: 4-month-old and 40-year-old Cape fynbos plants

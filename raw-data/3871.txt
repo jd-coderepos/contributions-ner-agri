@@ -1,4 +1,4 @@
 Monoamine oxidase inhibition by southern African traditional medicinal plants
 
 rp: Monoamine oxidase inhibition
-m: southern African traditional medicinal plants
+r: southern African traditional medicinal plants

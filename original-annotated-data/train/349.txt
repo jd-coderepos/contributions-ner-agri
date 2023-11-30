@@ -2,4 +2,4 @@ The evaluation of the effect of seed coating on the germination of three perenni
 
 rp: seed coating
 p: germination of three perennial grass seed types
-m: growth mediums
+r: growth mediums

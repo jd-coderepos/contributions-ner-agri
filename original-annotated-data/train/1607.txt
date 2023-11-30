@@ -1,6 +1,6 @@
 The seedfly Ophiomyia lantanae and other factors responsible for reducing germination in Lantana camara forms found in Natal
 
-m: seedfly Ophiomyia lantanae
+r: seedfly Ophiomyia lantanae
 rp: reducing germination
-m: Lantana camara forms
+r: Lantana camara forms
 loc: Natal

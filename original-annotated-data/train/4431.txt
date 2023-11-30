@@ -1,4 +1,4 @@
 In vitro propagation of Lapeirousia silenoides
 
 meth: In vitro propagation
-m: Lapeirousia silenoides
+r: Lapeirousia silenoides

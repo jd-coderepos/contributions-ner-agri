@@ -1,6 +1,6 @@
 The potential use of plants to combat helminth parasites in animal production in South Africa
 
 s: potential use of plants
-m: helminth parasites
+r: helminth parasites
 rp: animal production
 loc: South Africa

@@ -1,4 +1,4 @@
 Heavy metals in medicinal plant products — An African perspective
 
-m: Heavy metals
-m: medicinal plant products
+r: Heavy metals
+r: medicinal plant products

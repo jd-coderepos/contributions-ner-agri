@@ -1,4 +1,4 @@
 Impact of postharvest ripening strategies on ‘Hass’ avocado fatty acid profiles
 
 rp: postharvest ripening strategies
-m: ‘Hass’ avocado fatty acid profiles
+r: ‘Hass’ avocado fatty acid profiles

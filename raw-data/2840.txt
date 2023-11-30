@@ -2,6 +2,6 @@ Parental control over feeding in infancy. Influence of infant weight, appetite a
 
 meth: Parental control
 rp: feeding in infancy
-m: infant weight
-m: appetite
-m: feeding method
+r: infant weight
+r: appetite
+r: feeding method

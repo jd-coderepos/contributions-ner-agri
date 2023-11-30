@@ -2,6 +2,6 @@ Effect of anions on dispersion of a kaolinitic soil clay: A combined study of dy
 
 rp: Effect of anions
 p: dispersion
-m: kaolinitic soil clay
+r: kaolinitic soil clay
 meth: dynamic light scattering
 meth: test tube experiments

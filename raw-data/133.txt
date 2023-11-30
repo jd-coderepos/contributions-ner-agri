@@ -1,4 +1,4 @@
 Evaluation of antimicrobial properties of Nauclea latifolia fruit extracts
 
 rp: Evaluation of antimicrobial properties
-m: Nauclea latifolia fruit extracts
+r: Nauclea latifolia fruit extracts

@@ -1,4 +1,4 @@
-Epipelic marine Cyanophytes of Bazaruto Island, lnhambane, Mozambique 
+Epipelic marine Cyanophytes of Bazaruto Island, lnhambane, Mozambique
 
-m: Epipelic marine Cyanophytes
+r: Epipelic marine Cyanophytes
 loc: Bazaruto Island, lnhambane, Mozambique

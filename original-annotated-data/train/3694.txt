@@ -1,6 +1,6 @@
 Biases in wildlife and conservation research, using felids and canids as a case study
 
 rp: Biases in wildlife and conservation research
-m: felids
-m: canids
+r: felids
+r: canids
 meth: case study

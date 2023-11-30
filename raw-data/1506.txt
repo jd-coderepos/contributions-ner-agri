@@ -1,4 +1,4 @@
 General applicability of in vitro storage technology to the conservation and maintenance of plant germplasm
 
 meth: in vitro storage technology
-m: plant germplasm
+r: plant germplasm

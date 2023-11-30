@@ -1,5 +1,5 @@
 Techniques for in vitro seed germination in Pistacia species
 
 rp: seed germination
-m: Pistacia species
+r: Pistacia species
 meth: in vitro

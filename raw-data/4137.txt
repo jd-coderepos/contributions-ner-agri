@@ -3,4 +3,4 @@ Low temperature and water dehydration increase the levels of asiaticoside and ma
 p: Low temperature
 p: water dehydration
 rp: levels of asiaticoside and madecassoside
-m: Centella asiatica (L.) Urban
+r: Centella asiatica (L.) Urban

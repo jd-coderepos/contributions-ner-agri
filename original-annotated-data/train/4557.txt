@@ -2,5 +2,5 @@ Participatory evaluation guides the development and selection of farmers’ pref
 
 meth: Participatory evaluation
 rp: development and selection of farmers’ preferred rice varieties
-m: salt- and flood-affected coastal deltas
+r: salt- and flood-affected coastal deltas
 loc: South and Southeast Asia

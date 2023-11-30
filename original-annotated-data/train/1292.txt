@@ -2,5 +2,5 @@ Complimentary analysis of metacommunity nestedness and diversity partitioning hi
 
 meth: metacommunity nestedness
 meth: diversity partitioning
-m: highland lake fish assemblages
+r: highland lake fish assemblages
 rp: holistic conservation strategy

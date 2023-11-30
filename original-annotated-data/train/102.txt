@@ -1,5 +1,5 @@
 Antibacterial properties of Curtisia dentata leaves and some triterpenes/active principles isolated from them
 
 rp: Antibacterial properties
-m: Curtisia dentata leaves
+r: Curtisia dentata leaves
 p: triterpenes/active principles

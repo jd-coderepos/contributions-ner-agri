@@ -1,5 +1,5 @@
 Nuclear and chloroplast DNA-based phylogenies of Chrysanthemoides Tourn. ex Medik. (Calenduleae; Asteraceae) reveal extensive incongruence and generic paraphyly, but support the recognition of infraspecific taxa in C. monilifera
 
 rp: Nuclear and chloroplast DNA-based phylogenies
-m: Chrysanthemoides Tourn. ex Medik. (Calenduleae; Asteraceae)
+r: Chrysanthemoides Tourn. ex Medik. (Calenduleae; Asteraceae)
 p: infraspecific taxa in C. monilifera

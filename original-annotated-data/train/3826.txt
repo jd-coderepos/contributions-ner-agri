@@ -1,4 +1,4 @@
 Emodin, an antibacterial anthraquinone from the roots of Cassia occidentalis
 
-m: Emodin, an antibacterial anthraquinone
-m: roots of Cassia occidentalis
+r: Emodin, an antibacterial anthraquinone
+r: roots of Cassia occidentalis

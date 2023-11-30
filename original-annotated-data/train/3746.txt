@@ -1,4 +1,4 @@
 Scaling of morphogenetic patterns in reaction-diffusion systems
 
 rp: Scaling of morphogenetic patterns
-m: reaction-diffusion systems
+r: reaction-diffusion systems

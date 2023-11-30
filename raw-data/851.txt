@@ -1,6 +1,6 @@
 Antimicrobial and antioxidant efficacy of Citrus limon L. peel extracts used for skin diseases by Xhosa tribe of Amathole District, Eastern Cape, South Africa
 
 p: Antimicrobial and antioxidant efficacy
-m: Citrus limon L. peel extracts
+r: Citrus limon L. peel extracts
 rp: skin diseases
 loc: Amathole District, Eastern Cape, South Africa

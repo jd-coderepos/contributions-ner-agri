@@ -1,5 +1,5 @@
 The preservation of biofilms on macroalgae by osmium vapour
 
 rp: preservation of biofilms
-m: macroalgae
-m: osmium vapour
+r: macroalgae
+r: osmium vapour

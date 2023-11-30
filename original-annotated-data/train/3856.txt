@@ -1,4 +1,4 @@
 How savanna grasses decompose?
 
-m: savanna grasses
+r: savanna grasses
 p: decompose

@@ -1,4 +1,4 @@
 In vitro propagation of Drosera natalensis
 
 meth: In vitro propagation
-m: Drosera natalensis
+r: Drosera natalensis

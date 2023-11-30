@@ -4,4 +4,4 @@ meth: salt and alkali stresses
 rp: seed germination
 rp: germination recovery
 rp: seedling growth
-m: halophyte Spartina alterniflora (Poaceae)
+r: halophyte Spartina alterniflora (Poaceae)

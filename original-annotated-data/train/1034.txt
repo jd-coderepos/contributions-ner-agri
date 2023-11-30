@@ -1,5 +1,5 @@
 Nitrogen fixation by the savanna tree Philenoptera violacea (Klotzsch) Schrire (Apple leaf) of different ages in a semi-arid riparian landscape
 
 rp: Nitrogen fixation
-m: savanna tree Philenoptera violacea (Klotzsch) Schrire (Apple leaf)
+r: savanna tree Philenoptera violacea (Klotzsch) Schrire (Apple leaf)
 loc: semi-arid riparian landscape

@@ -1,4 +1,4 @@
 Aromatic metabolites from the coelomic fluid of Eisenia earthworm species
 
-m: Aromatic metabolites
-m: coelomic fluid of Eisenia earthworm species
+r: Aromatic metabolites
+r: coelomic fluid of Eisenia earthworm species

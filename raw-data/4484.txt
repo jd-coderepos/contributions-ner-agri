@@ -1,6 +1,6 @@
 Growth characteristics of selected plant species on asbestos tailings from Msauli Mine, eastern Transvaal
 
 rp: Growth characteristics
-m: selected plant species
+r: selected plant species
 p: asbestos tailings
 loc: Msauli Mine, eastern Transvaal

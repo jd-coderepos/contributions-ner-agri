@@ -2,4 +2,4 @@ An access and benefit-sharing awareness survey for botanic gardens: Are they pre
 
 s: access and benefit-sharing awareness survey
 meth: Nagoya Protocol
-m: botanic gardens
+r: botanic gardens

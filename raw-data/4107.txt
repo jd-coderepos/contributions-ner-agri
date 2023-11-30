@@ -1,7 +1,7 @@
 Antimicrobial and antioxidant activities of extracts and ten compounds from three Cameroonian medicinal plants: Dissotis perkinsiae (Melastomaceae), Adenocarpus mannii (Fabaceae) and Barteria fistulosa (Passifloraceae)
 
 rp: Antimicrobial and antioxidant activities
-m: extracts and ten compounds from three Cameroonian medicinal plants
-m: Dissotis perkinsiae (Melastomaceae)
-m: Adenocarpus mannii (Fabaceae)
-m: Barteria fistulosa (Passifloraceae)
+r: extracts and ten compounds from three Cameroonian medicinal plants
+r: Dissotis perkinsiae (Melastomaceae)
+r: Adenocarpus mannii (Fabaceae)
+r: Barteria fistulosa (Passifloraceae)

@@ -1,5 +1,5 @@
 Energy-dense snacks can have the same expected satiation as sugar-containing beverages
 
-m: Energy-dense snacks
-m: sugar-containing beverages
+r: Energy-dense snacks
+r: sugar-containing beverages
 rp: satiation

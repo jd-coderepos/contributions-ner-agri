@@ -1,4 +1,4 @@
 Regeneration of Ornithogalum in vitro
 
-m: Ornithogalum
+r: Ornithogalum
 meth: in vitro

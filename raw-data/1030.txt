@@ -2,5 +2,5 @@ Genetic resources, chromosome engineering, and crop improvement series, Grain le
 
 rp: chromosome engineering
 rp: crop improvement
-m: Genetic resources
-m: Grain legumes
+r: Genetic resources
+r: Grain legumes

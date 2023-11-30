@@ -1,5 +1,5 @@
 Selection of indigenous yeast strains for the production of sparkling wines from native Apulian grape varieties
 
 rp: Selection of indigenous yeast strains
-m: native Apulian grape varieties
+r: native Apulian grape varieties
 p: production of sparkling wines

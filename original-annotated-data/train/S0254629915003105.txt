@@ -1,5 +1,5 @@
 Molecular phylogeny of the ‘Cape snow’ genus Syncarpha (Asteraceae: Gnaphalieae) reveals a need for generic re-delimitation
 
 rp: Molecular phylogeny
-m: ‘Cape snow’ genus Syncarpha (Asteraceae: Gnaphalieae)
+r: ‘Cape snow’ genus Syncarpha (Asteraceae: Gnaphalieae)
 p: generic re-delimitation

@@ -2,4 +2,4 @@ An integrative and dynamic approach for monographing species-rich plant groups â
 
 rp: monographing species-rich plant groups
 p: global synthesis
-m: angiosperm order Caryophyllales
+r: angiosperm order Caryophyllales

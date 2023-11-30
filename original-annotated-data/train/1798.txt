@@ -2,5 +2,5 @@ Evaluation of depuration procedures to mitigate the off-flavor compounds geosmin
 
 p: depuration procedures
 rp: mitigate the off-flavor compounds geosmin and 2-methylisoborneol
-m: Atlantic salmon Salmo salar
+r: Atlantic salmon Salmo salar
 t: recirculating aquaculture systems

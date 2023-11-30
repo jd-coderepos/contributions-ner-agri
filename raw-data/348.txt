@@ -1,4 +1,4 @@
 The role of cytokinins in seed germination
 
-m: cytokinins
+r: cytokinins
 rp: seed germination

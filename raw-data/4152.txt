@@ -1,4 +1,4 @@
 A systematic study of Inulanthera (Asteraceae, Anthemideae)
 
 meth: systematic study
-m: Inulanthera (Asteraceae, Anthemideae)
+r: Inulanthera (Asteraceae, Anthemideae)

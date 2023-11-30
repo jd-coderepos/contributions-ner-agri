@@ -1,5 +1,5 @@
 Cellular level distributions of Scots pine heartwood and knot heartwood extractives revealed by Raman spectroscopy imaging
 
 rp: Cellular level distributions
-m: Scots pine heartwood and knot heartwood extractives
+r: Scots pine heartwood and knot heartwood extractives
 t: Raman spectroscopy imaging

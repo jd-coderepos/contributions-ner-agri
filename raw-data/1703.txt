@@ -1,5 +1,5 @@
 Ischemic A/D transition of mitochondrial complex I and its role in ROS generation
 
 meth: Ischemic A/D transition
-m: mitochondrial complex I
+r: mitochondrial complex I
 rp: ROS generation

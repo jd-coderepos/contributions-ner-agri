@@ -1,6 +1,6 @@
 Traditional dairy products can supply beneficial microorganisms able to survive in the gastrointestinal tract
 
-m: dairy products
-m: gastrointestinal tract
+r: dairy products
+r: gastrointestinal tract
 rp: supply beneficial microorganisms
 f: Traditional dairy products can supply beneficial microorganisms able to survive in the gastrointestinal tract

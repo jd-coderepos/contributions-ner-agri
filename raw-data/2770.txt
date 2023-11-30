@@ -1,5 +1,5 @@
 Understanding the transmission dynamics of respiratory syncytial virus using multiple time series and nested models
 
 rp: transmission dynamics
-m: respiratory syncytial virus
+r: respiratory syncytial virus
 meth: multiple time series and nested models

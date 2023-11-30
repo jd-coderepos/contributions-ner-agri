@@ -1,5 +1,5 @@
 Characters of leaf epidermis in Solanum (clade Brevantherum) species from Atlantic Forest of Northeastern Brazil
 
 rp: Characters of leaf epidermis
-m: Solanum (clade Brevantherum) species
+r: Solanum (clade Brevantherum) species
 loc: Atlantic Forest of Northeastern Brazil

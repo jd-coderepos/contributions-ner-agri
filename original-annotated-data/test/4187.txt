@@ -2,5 +2,5 @@ Kinetic studies of tyrosinase inhibitory activity of 19 essential oils extracted
 
 meth: Kinetic studies
 rp: tyrosinase inhibitory activity
-m: 19 essential oils
-m: endemic and exotic medicinal plants
+r: 19 essential oils
+r: endemic and exotic medicinal plants

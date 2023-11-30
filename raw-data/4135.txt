@@ -1,5 +1,5 @@
 Analysis of nitrogen seed reserves of ten tree species of the tropical dry forest
 
 rp: Analysis of nitrogen seed reserves
-m: tree species
+r: tree species
 loc: tropical dry forest

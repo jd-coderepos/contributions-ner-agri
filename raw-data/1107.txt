@@ -1,4 +1,4 @@
 Rapid in vitro micropropagation of Agapanthus praecox
 
 meth: Rapid in vitro micropropagation
-m: Agapanthus praecox
+r: Agapanthus praecox

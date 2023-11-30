@@ -2,4 +2,4 @@ A novel processing-based classification and conventional food grouping to estima
 
 s: processing-based classification and conventional food grouping
 rp: estimate milk product consumption
-m: Finnish children
+r: Finnish children

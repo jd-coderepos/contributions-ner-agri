@@ -1,4 +1,4 @@
 Antiplasmodial and antibacterial agent(s) from Vernonia angulifolia DC
 
-m: Vernonia angulifolia DC
+r: Vernonia angulifolia DC
 rp: Antiplasmodial and antibacterial agent(s)

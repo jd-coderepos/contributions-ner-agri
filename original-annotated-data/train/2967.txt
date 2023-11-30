@@ -3,5 +3,5 @@ Pollen viability, pollen germination and pollen tube growth in Jatropha curcas -
 rp: Pollen viability
 rp: pollen germination
 rp: pollen tube growth
-m: Jatropha curcas
-m: biodiesel
+r: Jatropha curcas
+r: biodiesel

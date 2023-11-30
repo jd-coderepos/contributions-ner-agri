@@ -1,4 +1,4 @@
 What is primitive in Mesembryanthemaceae? An analysis of evolutionary polarity of character states
 
-m: Mesembryanthemaceae
+r: Mesembryanthemaceae
 p: evolutionary polarity

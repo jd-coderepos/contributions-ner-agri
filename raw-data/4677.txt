@@ -1,4 +1,4 @@
 Identification, assessment of diseases and agronomic parameters of Curcuma amada Roxb (Mango ginger)
 
 rp: Identification, assessment of diseases and agronomic parameters
-m: Curcuma amada Roxb (Mango ginger)
+r: Curcuma amada Roxb (Mango ginger)

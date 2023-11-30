@@ -1,5 +1,5 @@
 The vegetation of the Ea land type in north-western KwaZulu-Natal
 
 rp: vegetation
-m: Ea land type
+r: Ea land type
 loc: north-western KwaZulu-Natal

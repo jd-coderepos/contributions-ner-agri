@@ -1,5 +1,5 @@
 The metabolism of possible cytokinin precursors supplied to excised maize roots
 
-m: excised maize roots
+r: excised maize roots
 rp: metabolism
-m: cytokinin precursors
+r: cytokinin precursors

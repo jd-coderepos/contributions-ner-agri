@@ -1,6 +1,6 @@
 Phytochemical and in vitro antimicrobial and genotoxic activity in the brown algae Dictyopteris membranacea
 
 meth: Phytochemical
-meth: in vitro 
+meth: in vitro
 rp: antimicrobial and genotoxic activity
-m: brown algae Dictyopteris membranacea
+r: brown algae Dictyopteris membranacea

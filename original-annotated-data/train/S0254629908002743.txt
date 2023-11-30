@@ -1,5 +1,5 @@
 Phylogenetic relationships in the genus Lichtensteinia (Apiaceae) based on morphological, anatomical and DNA sequence data
 
-m: genus Lichtensteinia (Apiaceae)
+r: genus Lichtensteinia (Apiaceae)
 p: Phylogenetic relationships
-m: morphological, anatomical and DNA sequence data
+r: morphological, anatomical and DNA sequence data

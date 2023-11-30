@@ -1,6 +1,6 @@
 Differences in gluten protein composition between old and modern durum wheat genotypes in relation to 20th century breeding in Italy
 
 rp: gluten protein composition
-m: old and modern durum wheat genotypes
+r: old and modern durum wheat genotypes
 meth: 20th century breeding
 loc: Italy

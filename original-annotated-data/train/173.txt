@@ -1,6 +1,6 @@
 Endometrial expression of the insulin-like growth factor system during uterine involution in the postpartum dairy cow
 
 rp: Endometrial expression
-m: insulin-like growth factor system
+r: insulin-like growth factor system
 p: uterine involution
-m: postpartum dairy cow
+r: postpartum dairy cow

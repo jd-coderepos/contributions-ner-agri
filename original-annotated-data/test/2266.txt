@@ -2,4 +2,4 @@ Studies in Cyperaceae in southern Africa. 25: Schoenoplectus tabernaemontani
 
 rp: Studies in Cyperaceae
 loc: southern Africa
-m: Schoenoplectus tabernaemontani
+r: Schoenoplectus tabernaemontani

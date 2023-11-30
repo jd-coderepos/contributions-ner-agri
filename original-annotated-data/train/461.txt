@@ -1,5 +1,5 @@
 Isolation of the major germination cue from plant-derived smoke
 
 rp: germination cue
-m: plant-derived smoke
+r: plant-derived smoke
 meth: Isolation

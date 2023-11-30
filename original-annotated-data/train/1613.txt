@@ -1,5 +1,5 @@
 Localisation of coastal trapped waves by longshore variations in bottom topography
 
 rp: Localisation of coastal trapped waves
-m: bottom topography
+r: bottom topography
 p: longshore variations

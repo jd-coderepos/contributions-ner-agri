@@ -1,4 +1,4 @@
 Towards a new classification system for legumes: Progress report from the 6th International Legume Conference
 
 rp: classification system for legumes
-m: 6th International Legume Conference
+r: 6th International Legume Conference

@@ -1,7 +1,7 @@
 Morphological and biochemical comparison of Hippophae rhamnoides, Elaeagnus umbellata and Crataegus oxyacantha intra- and interspecifically
 
 rp: Morphological and biochemical comparison
-m: Hippophae rhamnoides
-m: Elaeagnus umbellata
-m: Crataegus oxyacantha
+r: Hippophae rhamnoides
+r: Elaeagnus umbellata
+r: Crataegus oxyacantha
 meth: intra- and interspecifically

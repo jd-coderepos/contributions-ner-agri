@@ -1,5 +1,5 @@
 Evaluation of Padina boergesenii (Phaeophyceae) as a bioindicator of heavy metals: some preliminary results from Mauritius
 
-m: Padina boergesenii (Phaeophyceae)
+r: Padina boergesenii (Phaeophyceae)
 rp: bioindicator of heavy metals
 loc: Mauritius

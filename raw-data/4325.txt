@@ -2,4 +2,4 @@ Chemical and DNA fingerprinting of ikhathazo (Alepidea, Apiaceae): Applications 
 
 rp: Chemical and DNA fingerprinting
 p: conservation and monitoring of trade
-m: ikhathazo (Alepidea, Apiaceae)
+r: ikhathazo (Alepidea, Apiaceae)

@@ -1,4 +1,4 @@
 Cytokinins in green and yellow leaflets of Schefflera arboricola
 
-m: Cytokinins
-m: green and yellow leaflets of Schefflera arboricola
+r: Cytokinins
+r: green and yellow leaflets of Schefflera arboricola

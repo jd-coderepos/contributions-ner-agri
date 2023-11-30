@@ -1,4 +1,4 @@
 Notes on cercosporoid fungi occurring on Dodonaea spp.
 
-m: cercosporoid fungi
-m: Dodonaea spp.
+r: cercosporoid fungi
+r: Dodonaea spp.

@@ -1,5 +1,5 @@
 Taxonomic studies in the Acanthaceae: The Peristrophe grandibracteata complex
 
 meth: Taxonomic studies
-m: Acanthaceae
+r: Acanthaceae
 rp: Peristrophe grandibracteata complex

@@ -1,5 +1,5 @@
 Reproductive ecology of Aloe plicatilis, a fynbos tree aloe endemic to the Cape Winelands, South Africa
 
 rp: Reproductive ecology
-m: Aloe plicatilis, a fynbos tree aloe
+r: Aloe plicatilis, a fynbos tree aloe
 loc: Cape Winelands, South Africa

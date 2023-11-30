@@ -1,4 +1,4 @@
 A new record of rodent pollination in the holoparasitic genus Cytinus
 
 rp: rodent pollination
-m: holoparasitic genus Cytinus
+r: holoparasitic genus Cytinus

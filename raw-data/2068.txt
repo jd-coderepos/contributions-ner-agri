@@ -2,6 +2,6 @@ Diversity and distribution of co-infecting Botryosphaeriaceae from Eucalyptus gr
 
 p: Diversity and distribution
 rp: co-infecting Botryosphaeriaceae
-m: Eucalyptus grandis
-m: Syzygium cordatum
+r: Eucalyptus grandis
+r: Syzygium cordatum
 loc: South Africa

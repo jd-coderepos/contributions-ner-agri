@@ -2,4 +2,4 @@ Pharmacological properties and in vitro shoot production of Barleria argillicola
 
 rp: Pharmacological properties
 rp: in vitro shoot production
-m: Barleria argillicola
+r: Barleria argillicola

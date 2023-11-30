@@ -1,8 +1,8 @@
 Stimulatory effects of smoke–water and a smoke-derived butenolide on seed germination and seedling vigour of some Acacia species
 
 p: Stimulatory effects
-m: smoke–water
-m: smoke-derived butenolide
-m: Acacia species
+r: smoke–water
+r: smoke-derived butenolide
+r: Acacia species
 rp: seed germination
 rp: seedling vigour

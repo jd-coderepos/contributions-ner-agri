@@ -1,5 +1,5 @@
 A report on the use of thiabendazole for the control of fungal pathogens of cultivated mushrooms
 
-m: thiabendazole
-m: cultivated mushrooms
+r: thiabendazole
+r: cultivated mushrooms
 rp: control of fungal pathogens

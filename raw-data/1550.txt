@@ -1,6 +1,6 @@
 Effect of nitrogen and phosphate on the growth productivity and biochemicals of Stevia rebaudiana
 
-m: nitrogen
-m: phosphate
+r: nitrogen
+r: phosphate
 rp: growth productivity and biochemicals
-m: Stevia rebaudiana
+r: Stevia rebaudiana

@@ -1,4 +1,4 @@
 Chromosome numbers of various Disa species and their interspecific and complex hybrids
 
 rp: Chromosome numbers
-m: Disa species and their interspecific and complex hybrids
+r: Disa species and their interspecific and complex hybrids

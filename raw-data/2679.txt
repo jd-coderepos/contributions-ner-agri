@@ -1,5 +1,5 @@
 Pentastomids of wild snakes in the Australian tropics
 
 rp: Pentastomids
-m: wild snakes
+r: wild snakes
 loc: Australian tropics

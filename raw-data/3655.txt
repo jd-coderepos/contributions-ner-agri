@@ -1,6 +1,6 @@
 The effect of epidural injection speed on epidural pressure and distribution of solution in anesthetized dogs
 
-m: epidural injection speed
-m: anesthetized dogs
+r: epidural injection speed
+r: anesthetized dogs
 p: epidural pressure
 p: distribution of solution

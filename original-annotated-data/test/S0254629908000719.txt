@@ -1,6 +1,6 @@
-Taxonomic value of floral morphology in the genus Cryptolepis (Apocynaceae, Periplocoideae) in southern Africa 
+Taxonomic value of floral morphology in the genus Cryptolepis (Apocynaceae, Periplocoideae) in southern Africa
 
 loc: southern Africa
-m: genus Cryptolepis (Apocynaceae, Periplocoideae)
+r: genus Cryptolepis (Apocynaceae, Periplocoideae)
 p: Taxonomic value
 rp: floral morphology

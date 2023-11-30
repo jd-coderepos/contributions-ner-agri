@@ -3,7 +3,7 @@ pH-induced gene regulation of solvent production by Clostridium acetobutylicum i
 meth: pH-induced gene regulation
 meth: sporulation modelling
 rp: solvent production
-m: Clostridium acetobutylicum
+r: Clostridium acetobutylicum
 meth: Parameter estimation
 meth: sporulation modelling
-m: continuous culture
+r: continuous culture

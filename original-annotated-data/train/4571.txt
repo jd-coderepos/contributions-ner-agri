@@ -1,5 +1,5 @@
 Understanding climate resilience in Ghanaian cocoa communities – Advancing a biocultural perspective
 
 rp: climate resilience
-m: Ghanaian cocoa communities
+r: Ghanaian cocoa communities
 meth: biocultural perspective

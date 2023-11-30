@@ -3,5 +3,5 @@ Corrigendum to “Histopathological Characterization of Tail Injury and Traumati
 meth: Histopathological Characterization
 rp: Tail Injury
 rp: Traumatic Neuroma Development
-m: Piglets
+r: Piglets
 p: Tail Docking

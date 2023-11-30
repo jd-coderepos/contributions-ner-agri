@@ -1,5 +1,5 @@
 Sex and bugs and starch degradation
 
-m: bugs
+r: bugs
 p: starch degradation
 p: Sex

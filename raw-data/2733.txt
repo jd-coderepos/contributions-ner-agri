@@ -1,5 +1,5 @@
 ‘Candidatus Aquirickettsiella gammari’ (Gammaproteobacteria: Legionellales: Coxiellaceae): A bacterial pathogen of the freshwater crustacean Gammarus fossarum (Malacostraca: Amphipoda)
 
-m: freshwater crustacean Gammarus fossarum (Malacostraca: Amphipoda)
-m: ‘Candidatus Aquirickettsiella gammari’ (Gammaproteobacteria: Legionellales: Coxiellaceae)
-m: bacterial pathogen
+r: freshwater crustacean Gammarus fossarum (Malacostraca: Amphipoda)
+r: ‘Candidatus Aquirickettsiella gammari’ (Gammaproteobacteria: Legionellales: Coxiellaceae)
+r: bacterial pathogen

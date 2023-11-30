@@ -2,4 +2,4 @@ Variation in zooplankton prey distribution determines marine foraging distributi
 
 p: Variation in zooplankton prey distribution
 rp: marine foraging distributions
-m: breeding Cassin's Auklet
+r: breeding Cassin's Auklet

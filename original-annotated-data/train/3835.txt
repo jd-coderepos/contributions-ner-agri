@@ -1,4 +1,4 @@
 Benzo[c]phenanthridine alkaloids from stem bark of the Forest Knobwood, Zanthoxylum davyi (Rutaceae)
 
-m: Benzo[c]phenanthridine alkaloids
-m: stem bark of the Forest Knobwood, Zanthoxylum davyi (Rutaceae)
+r: Benzo[c]phenanthridine alkaloids
+r: stem bark of the Forest Knobwood, Zanthoxylum davyi (Rutaceae)

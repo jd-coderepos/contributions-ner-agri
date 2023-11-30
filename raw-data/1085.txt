@@ -1,4 +1,4 @@
 South African plant extracts in combating potentially pathogenic oral microorganisms
 
-m: South African plant extracts
+r: South African plant extracts
 rp: pathogenic oral microorganisms

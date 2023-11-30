@@ -1,4 +1,4 @@
 Phosphate stable oxygen isotope variability within a temperate agricultural soil
 
 p: Phosphate stable oxygen isotope variability
-m: temperate agricultural soil
+r: temperate agricultural soil

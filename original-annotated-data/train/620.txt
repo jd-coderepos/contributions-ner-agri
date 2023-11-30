@@ -1,5 +1,5 @@
 Trans-α-glucosylation of stevioside by the mutant glucansucrase enzyme Gtf180-ΔN-Q1140E improves its taste profile
 
 rp: Trans-α-glucosylation
-m: stevioside
-m: mutant glucansucrase enzyme Gtf180-ΔN-Q1140E
+r: stevioside
+r: mutant glucansucrase enzyme Gtf180-ΔN-Q1140E

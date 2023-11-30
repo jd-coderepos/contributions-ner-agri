@@ -1,5 +1,5 @@
 A taxonomic survey of the genus Montagnea (Gasteromycetes) with special reference to South Africa
 
 rp: taxonomic survey
-m: genus Montagnea (Gasteromycetes)
+r: genus Montagnea (Gasteromycetes)
 loc: South Africa

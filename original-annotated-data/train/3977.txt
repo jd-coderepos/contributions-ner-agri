@@ -3,6 +3,6 @@ Micropropagation of sugarcane (Saccharum spp. hybrids) in vitro: A comparison be
 p: Micropropagation
 meth: in vitro
 rp: plant production
-m: sugarcane (Saccharum spp. hybrids)
+r: sugarcane (Saccharum spp. hybrids)
 t: semi-solid and liquid RITA® temporary immersion culture systems
 rp: genotypic and phenotypic fidelity

@@ -1,6 +1,6 @@
-Dierama luteoalbidum: Liquid culture provides an efficient system for the ex situ conservation of an endangered and horticulturally valuable plant
+Dierama luteoalbidur: Liquid culture provides an efficient system for the ex situ conservation of an endangered and horticulturally valuable plant
 
-m: Dierama luteoalbidum
+r: Dierama luteoalbidum
 meth: ex situ conservation
-m: Liquid culture
+r: Liquid culture
 rp: endangered and horticulturally valuable plant

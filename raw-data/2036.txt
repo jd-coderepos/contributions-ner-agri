@@ -1,4 +1,4 @@
 Antifungal, acetylcholinesterase inhibition, antioxidant and phytochemical properties of three Barleria species
 
 rp: Antifungal, acetylcholinesterase inhibition, antioxidant and phytochemical properties
-m: Barleria species
+r: Barleria species

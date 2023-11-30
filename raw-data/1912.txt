@@ -3,4 +3,4 @@ Structural and metabolic changes associated with desiccation and rehydration of 
 rp: Structural and metabolic changes
 p: desiccation
 p: rehydration
-m: roots of a dicot horticultural plant, Ranunculus asiaticus
+r: roots of a dicot horticultural plant, Ranunculus asiaticus

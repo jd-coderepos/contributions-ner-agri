@@ -2,7 +2,7 @@ Stem girdling indicates prioritized carbon allocation to the root system at the 
 
 meth: Stem girdling
 rp: prioritized carbon allocation
-m: root system
-m: Norway spruce
+r: root system
+r: Norway spruce
 p: radial stem growth
 p: drought conditions

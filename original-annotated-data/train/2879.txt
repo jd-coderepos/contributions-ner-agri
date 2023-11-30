@@ -2,4 +2,4 @@ Using stable water isotopes to determine the depth of water used by different si
 
 meth: stable water isotopes
 rp: depth of water
-m: different sizes of savanna trees
+r: different sizes of savanna trees

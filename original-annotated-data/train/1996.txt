@@ -2,4 +2,4 @@ A quantitative evaluation of the distylous syndrome in Sebaea grandis (Gentianac
 
 meth: quantitative evaluation
 rp: distylous syndrome
-m: Sebaea grandis (Gentianaceae)
+r: Sebaea grandis (Gentianaceae)

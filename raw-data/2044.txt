@@ -1,6 +1,6 @@
 Unisexual flowers as a robust synapomorphy in Cariceae (Cyperaceae)? Evidence for bisexual flowers in Schoenoxiphium
 
 rp: Unisexual flowers
-m: Cariceae (Cyperaceae)
+r: Cariceae (Cyperaceae)
 p: synapomorphy
-m: bisexual flowers in Schoenoxiphium
+r: bisexual flowers in Schoenoxiphium

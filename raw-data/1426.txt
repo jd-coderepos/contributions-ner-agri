@@ -2,4 +2,4 @@ Preliminary studies on the in vitro pharmacology of Leucosidea sericea
 
 meth: Preliminary studies
 rp: in vitro pharmacology
-m: Leucosidea sericea
+r: Leucosidea sericea

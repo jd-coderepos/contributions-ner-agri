@@ -1,5 +1,5 @@
 The effect of temperature in moringa seed phytochemical compounds and carbohydrate mobilization
 
 rp: effect of temperature
-m: moringa seed phytochemical compounds
+r: moringa seed phytochemical compounds
 p: carbohydrate mobilization

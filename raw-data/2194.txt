@@ -2,4 +2,4 @@ Effect of water stress on antimicrobial activity of selected medicinal plant spe
 
 meth: water stress
 rp: antimicrobial activity
-m: selected medicinal plant species
+r: selected medicinal plant species

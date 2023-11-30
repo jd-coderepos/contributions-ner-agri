@@ -1,5 +1,5 @@
 The genus Rubus in South Africa. III. The occurrence of apomixis and sexuality
 
-m: genus Rubus
+r: genus Rubus
 loc: South Africa
 p: apomixis and sexuality

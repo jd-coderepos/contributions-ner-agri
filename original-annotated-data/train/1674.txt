@@ -1,4 +1,4 @@
 The genomics of insecticide resistance : insights from recent studies in African vectors
 
 rp: genomics of insecticide resistance
-m: African vectors
+r: African vectors

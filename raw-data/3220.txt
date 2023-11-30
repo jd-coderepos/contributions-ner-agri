@@ -1,4 +1,4 @@
 Isolation, characterisation and antifungal activity of β-1,3-glucanase from seeds of Jatropha curcas
 
 rp: Isolation, characterisation and antifungal activity
-m: β-1,3-glucanase from seeds of Jatropha curcas
+r: β-1,3-glucanase from seeds of Jatropha curcas

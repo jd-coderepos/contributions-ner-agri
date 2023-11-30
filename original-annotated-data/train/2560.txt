@@ -2,4 +2,4 @@ Phosphate acceptance map: A novel approach to match phosphorus content of biosol
 
 s: Phosphate acceptance map
 rp: match phosphorus content of biosolids
-m: land and crop requirements
+r: land and crop requirements

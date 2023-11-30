@@ -1,5 +1,5 @@
 Microbial Fuel Cell-driven caustic potash production from wastewater for carbon sequestration
 
 meth: Microbial Fuel Cell-driven caustic potash production
-m: wastewater
+r: wastewater
 rp: carbon sequestration

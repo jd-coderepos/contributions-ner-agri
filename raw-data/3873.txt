@@ -3,4 +3,4 @@ In vitro pharmacological investigation of extracts from some trees used in Sudan
 meth: In vitro
 rp: Sudanese traditional medicine
 meth: pharmacological investigation
-m: extracts from some trees
+r: extracts from some trees

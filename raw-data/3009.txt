@@ -1,4 +1,4 @@
 Isolation and identification of a novel anti-diabetic compound from Euclea undulata Thunb
 
 rp: Isolation and identification of a novel anti-diabetic compound
-m: Euclea undulata Thunb
+r: Euclea undulata Thunb

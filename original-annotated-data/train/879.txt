@@ -1,5 +1,5 @@
 Vegetation analysis of railway reserves in the Potchefstroom municipal area, North West Province, South Africa
 
 rp: Vegetation analysis
-m: railway reserves
+r: railway reserves
 loc: Potchefstroom municipal area, North West Province, South Africa

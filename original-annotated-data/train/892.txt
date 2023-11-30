@@ -1,4 +1,4 @@
 Abscisic acid biosynthesis in vascular plants is a constitutive process
 
 rp: Abscisic acid biosynthesis
-m: vascular plants
+r: vascular plants

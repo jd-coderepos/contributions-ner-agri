@@ -1,5 +1,5 @@
 Lunasin in cereal seeds: What is the origin?
 
-m: Lunasin
-m: cereal seeds
+r: Lunasin
+r: cereal seeds
 rp: origin

@@ -1,4 +1,4 @@
 Leaf anatomy of some southern African Pavetta species
 
 rp: Leaf anatomy
-m: southern African Pavetta species
+r: southern African Pavetta species

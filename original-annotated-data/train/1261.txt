@@ -2,5 +2,5 @@ How third places foster and shape community cohesion, economic development and s
 
 p: economic development
 p: community cohesion
-m: social capital
+r: social capital
 loc: pubs in rural Ireland

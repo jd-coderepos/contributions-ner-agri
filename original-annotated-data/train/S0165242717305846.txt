@@ -1,5 +1,5 @@
 Antibodies to in silico selected GPI-anchored Theileria parva proteins neutralize sporozoite infection in vitro
 
 meth: in vitro
-m: in silico selected GPI-anchored Theileria parva proteins
-m: Antibodies
+r: in silico selected GPI-anchored Theileria parva proteins
+r: Antibodies

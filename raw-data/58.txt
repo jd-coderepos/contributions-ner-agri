@@ -1,4 +1,4 @@
 Head-space volatiles of Gethyllis afra and G. ciliaris fruits (“kukumakranka”)
 
 rp: Head-space volatiles
-m: Gethyllis afra and G. ciliaris fruits (“kukumakranka”)
+r: Gethyllis afra and G. ciliaris fruits (“kukumakranka”)

@@ -1,4 +1,4 @@
 Floral polymorphism and the tradeoffs of attracting pollinating and florivorous insects
 
 rp: Floral polymorphism
-m: pollinating and florivorous insects
+r: pollinating and florivorous insects

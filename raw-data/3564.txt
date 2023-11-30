@@ -1,4 +1,4 @@
 Stability of Lactobacillus rhamnosus GG in prebiotic edible films
 
 rp: Stability of Lactobacillus rhamnosus GG
-m: prebiotic edible films
+r: prebiotic edible films

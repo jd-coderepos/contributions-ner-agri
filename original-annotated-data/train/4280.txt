@@ -1,5 +1,5 @@
 Pestalotiopsis leaf spot disease of Proteaceae in Zimbabwe
 
 rp: Pestalotiopsis leaf spot disease
-m: Proteaceae
+r: Proteaceae
 loc: Zimbabwe

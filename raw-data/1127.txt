@@ -2,4 +2,4 @@ Chemical composition, antioxidant and macromolecule damage protective effects of
 
 rp: Chemical composition
 rp: antioxidant and macromolecule damage protective effects
-m: Picrorhiza kurroa Royle ex Benth
+r: Picrorhiza kurroa Royle ex Benth

@@ -1,4 +1,4 @@
-An investigation of the shelf-life (storage) of Bacillus isolates on seeds 
+An investigation of the shelf-life (storage) of Bacillus isolates on seeds
 
 rp: shelf-life (storage)
-m: Bacillus isolates on seeds
+r: Bacillus isolates on seeds

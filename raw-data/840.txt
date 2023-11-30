@@ -2,5 +2,5 @@ Ethnobotanical survey of invasive plant species used by traditional healers for 
 
 meth: Ethnobotanical survey
 rp: treatment of various diseases
-m: invasive plant species
+r: invasive plant species
 loc: Capricorn district, Limpopo Province

@@ -1,4 +1,4 @@
 New taxa of Stapelia L. (Asclepiadaceae) from the Cape Province
 
-m: Stapelia L. (Asclepiadaceae)
+r: Stapelia L. (Asclepiadaceae)
 loc: Cape Province

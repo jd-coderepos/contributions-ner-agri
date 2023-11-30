@@ -1,4 +1,4 @@
 Pharmacological activities of the South African tree aloe (Aloe barberae)
 
 rp: Pharmacological activities
-m: South African tree aloe (Aloe barberae)
+r: South African tree aloe (Aloe barberae)

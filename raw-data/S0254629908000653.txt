@@ -1,4 +1,4 @@
 Polyphasic taxonomy reveals numerous new fungal tree pathogens in the Cryphonectriaceae
 
-m: new fungal tree pathogens in the Cryphonectriaceae
+r: new fungal tree pathogens in the Cryphonectriaceae
 rp: Polyphasic taxonomy

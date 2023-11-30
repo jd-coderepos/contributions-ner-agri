@@ -2,4 +2,4 @@ Developmental processes associated with indirect organogenesis in a Eucalyptus g
 
 p: Developmental processes
 rp: indirect organogenesis
-m: Eucalyptus grandis×urophylla
+r: Eucalyptus grandis×urophylla

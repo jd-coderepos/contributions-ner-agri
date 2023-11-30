@@ -1,5 +1,5 @@
 Structure and tetrasporangial reproduction in Acrocystis (Rhodomelaceae, Rhodophyta), newly reported for South Africa
 
 rp: Structure and tetrasporangial reproduction
-m: Acrocystis (Rhodomelaceae, Rhodophyta),
+r: Acrocystis (Rhodomelaceae, Rhodophyta),
 loc: South Africa

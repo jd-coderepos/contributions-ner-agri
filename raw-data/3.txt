@@ -2,4 +2,4 @@ Mapped aboveground carbon stocks to advance forest conservation and recovery in 
 
 sol: Mapped aboveground carbon stocks
 rp: forest conservation and recovery
-m: Malaysian Borneo
+r: Malaysian Borneo

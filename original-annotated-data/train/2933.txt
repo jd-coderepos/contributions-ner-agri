@@ -2,4 +2,4 @@ Comparative study of constitutive and inducible promoters in tobacco
 
 meth: Comparative study
 p: constitutive and inducible promoters
-m: tobacco
+r: tobacco

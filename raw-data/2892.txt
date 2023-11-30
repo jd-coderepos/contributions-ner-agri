@@ -1,5 +1,5 @@
 Reducing the harvesting impact on Harpagophytum procumbens populations in the Omaheke Region, eastern Namibia
 
 rp: harvesting impact
-m: Harpagophytum procumbens populations
+r: Harpagophytum procumbens populations
 loc: Omaheke Region, eastern Namibia

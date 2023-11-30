@@ -1,6 +1,6 @@
 A baseline database for Aloe pillansii in southern Africa to enable quantitative conservation status assessments
 
 s: baseline database
-m: Aloe pillansii
+r: Aloe pillansii
 loc: southern Africa
 rp: quantitative conservation status assessments

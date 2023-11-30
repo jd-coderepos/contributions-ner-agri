@@ -1,4 +1,4 @@
 Systematic studies of African Apiaceae: A progress report
 
-m: African Apiaceae
+r: African Apiaceae
 meth: Systematic studies

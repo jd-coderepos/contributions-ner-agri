@@ -2,4 +2,4 @@ In vitro propagation and preliminary results of Agrobacterium-mediated genetic t
 
 meth: In vitro propagation
 p: Agrobacterium-mediated genetic transformation
-m: Cordyline fruticosa
+r: Cordyline fruticosa

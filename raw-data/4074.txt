@@ -1,5 +1,5 @@
 Small mammal pollinators attracted by potato scent of the South African Pineapple Lily, Eucomis regia (Hyacinthaceae)
 
 rp: Small mammal pollinators
-m: potato scent
-m: South African Pineapple Lily, Eucomis regia (Hyacinthaceae)
+r: potato scent
+r: South African Pineapple Lily, Eucomis regia (Hyacinthaceae)

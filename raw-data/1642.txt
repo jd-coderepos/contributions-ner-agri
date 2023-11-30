@@ -1,5 +1,5 @@
 A CRISPR/Cas9 mediated point mutation in the alpha 6 subunit of the nicotinic acetylcholine receptor confers resistance to spinosad in Drosophila melanogaster
 
 meth: CRISPR/Cas9 mediated point mutation
-m: alpha 6 subunit of the nicotinic acetylcholine receptor
-m: spinosad in Drosophila melanogaster
+r: alpha 6 subunit of the nicotinic acetylcholine receptor
+r: spinosad in Drosophila melanogaster

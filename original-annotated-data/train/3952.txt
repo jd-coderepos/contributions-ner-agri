@@ -2,4 +2,4 @@ Primary assessment of Thecaphora anther-smut infection of CFR Oxalis
 
 meth: Primary assessment
 rp: Thecaphora anther-smut infection
-m: CFR Oxalis
+r: CFR Oxalis

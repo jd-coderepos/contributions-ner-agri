@@ -1,5 +1,5 @@
 Mental representation of domestic cooking operations among Japanese consumers
 
-rp: Mental representation 
+rp: Mental representation
 meth: domestic cooking operations
-m: Japanese consumers
+r: Japanese consumers

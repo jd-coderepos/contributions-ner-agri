@@ -2,6 +2,6 @@ In vitro antimycobacterial activity of extracts from plants used in traditional 
 
 meth: In vitro
 rp: antimycobacterial activity
-m: extracts from plants
+r: extracts from plants
 p: traditional medicine
 p: TB and related symptoms

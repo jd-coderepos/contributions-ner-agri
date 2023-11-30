@@ -1,5 +1,5 @@
 Stress metabolic alterations in in vitro Cyrtanthus regenerants
 
-m: Cyrtanthus regenerants
+r: Cyrtanthus regenerants
 meth: in vitro
 rp: Stress metabolic alterations

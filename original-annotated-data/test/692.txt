@@ -1,6 +1,6 @@
 Safeguarding villagers’ access to foods from timber trees: Insights for policy from an inhabited logging concession in Gabon
 
-m: timber trees
+r: timber trees
 sol: Safeguarding villagers’ access to foods
 loc: Gabon
 rp: policy from an inhabited logging concession

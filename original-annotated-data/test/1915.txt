@@ -3,4 +3,4 @@ Understanding interactions among drying, cooling rate and survival of cryopreser
 rp: drying
 rp: cooling rate
 rp: survival
-m: cryopreserved axes of recalcitrant-seeded species
+r: cryopreserved axes of recalcitrant-seeded species

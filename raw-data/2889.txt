@@ -1,5 +1,5 @@
 Pollination of southern African species of Plectranthus (Lamiaceae) by flies with moderate proboscid lengths (Acroceridae, Tabanidae and Nemestrinidae)
 
 rp: Pollination
-m: southern African species of Plectranthus (Lamiaceae)
-m: flies with moderate proboscid lengths (Acroceridae, Tabanidae and Nemestrinidae)
+r: southern African species of Plectranthus (Lamiaceae)
+r: flies with moderate proboscid lengths (Acroceridae, Tabanidae and Nemestrinidae)

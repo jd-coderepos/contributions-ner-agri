@@ -1,7 +1,7 @@
 Effect of glyphosate on Macrophomina phaseolina in vitro and its effect on disease severity of soybean in the field
 
-m: glyphosate
-m: Macrophomina phaseolina
+r: glyphosate
+r: Macrophomina phaseolina
 meth: in vitro
 rp: disease severity of soybean
-m: field
+r: field

@@ -1,4 +1,4 @@
 Antimicrobial components of the methanolic extract from the stem bark of Garcinia smeathmannii Oliver (Clusiaceae)
 
 rp: Antimicrobial components
-m: methanolic extract from the stem bark of Garcinia smeathmannii Oliver (Clusiaceae)
+r: methanolic extract from the stem bark of Garcinia smeathmannii Oliver (Clusiaceae)

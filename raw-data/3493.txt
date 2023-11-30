@@ -1,6 +1,6 @@
 Effects of dry heat on seed germination in selected indigenous and alien legume species in South Africa
 
-m: dry heat
+r: dry heat
 rp: seed germination
-m: selected indigenous and alien legume species
+r: selected indigenous and alien legume species
 loc: South Africa

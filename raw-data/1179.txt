@@ -1,6 +1,6 @@
 Effect of pyridine nucleotides on the catalytic activity of a carthamin-synthesizing enzyme from dyer’s saffron (Carthamus tinctorius L.) seedlings
 
-m: pyridine nucleotides
+r: pyridine nucleotides
 p: catalytic activity
-m: carthamin-synthesizing enzyme
-m: dyer’s saffron (Carthamus tinctorius L.) seedlings
+r: carthamin-synthesizing enzyme
+r: dyer’s saffron (Carthamus tinctorius L.) seedlings

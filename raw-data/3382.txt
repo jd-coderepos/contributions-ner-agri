@@ -2,4 +2,4 @@ Phenolic compounds characterization, carbohydrate digestive enzyme inhibitory an
 
 rp: Phenolic compounds characterization
 rp: carbohydrate digestive enzyme inhibitory and antioxidant activities
-m: Hieracium pannosum Boiss
+r: Hieracium pannosum Boiss

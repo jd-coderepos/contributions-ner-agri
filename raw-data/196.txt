@@ -1,4 +1,4 @@
 Challenges for transboundary management of a European brown bear population
 
 rp: transboundary management
-m: European brown bear population
+r: European brown bear population

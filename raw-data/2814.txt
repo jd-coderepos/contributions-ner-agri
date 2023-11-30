@@ -1,7 +1,7 @@
 The progestin norethindrone affects sex differentiation and alters transcriptional profiles of genes along the hypothalamic–pituitary–gonadal and hypothalamic–pituitary–adrenal axes in juvenile zebrafish Dario renio
 
-m: progestin norethindrone
+r: progestin norethindrone
 rp: sex differentiation
 rp: alters transcriptional profiles of genes
-m: hypothalamic–pituitary–gonadal and hypothalamic–pituitary–adrenal axes
-m: juvenile zebrafish Dario renio
+r: hypothalamic–pituitary–gonadal and hypothalamic–pituitary–adrenal axes
+r: juvenile zebrafish Dario renio

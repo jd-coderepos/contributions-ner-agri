@@ -1,5 +1,5 @@
 Genes controlling mimetic colour pattern variation in butterflies
 
-m: butterflies
+r: butterflies
 rp: mimetic colour pattern variation
-m: Genes
+r: Genes

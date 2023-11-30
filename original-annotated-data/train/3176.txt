@@ -2,5 +2,5 @@ A review of the taxonomy and phylogenetic relationships of Gerbera section Gerbe
 
 meth: review
 rp: taxonomy and phylogenetic relationships
-m: Gerbera section Gerbera (Asteraceae: Mutisieae)
+r: Gerbera section Gerbera (Asteraceae: Mutisieae)
 loc: Cape Floristic Region

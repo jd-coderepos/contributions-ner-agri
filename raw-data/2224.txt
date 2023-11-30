@@ -1,5 +1,5 @@
 Vegetation of mesas and surrounding plains in the southeastern Nama Karoo, South Africa
 
 rp: Vegetation
-m: mesas and surrounding plains
+r: mesas and surrounding plains
 loc: southeastern Nama Karoo, South Africa

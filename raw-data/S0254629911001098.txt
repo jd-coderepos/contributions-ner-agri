@@ -1,5 +1,5 @@
 Optimisation of pollen viability tests for Acacia podalyriifolia and two ploidys of Acacia mearnsii
 
-m: Acacia podalyriifolia
-m: two ploidys of Acacia mearnsii
+r: Acacia podalyriifolia
+r: two ploidys of Acacia mearnsii
 rp: pollen viability tests

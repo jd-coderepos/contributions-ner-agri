@@ -1,5 +1,5 @@
 Effect of sugar starvation on plasma membrane properties of sugarbeet cell suspensions
 
 meth: sugar starvation
-m: plasma membrane properties
+r: plasma membrane properties
 rp: sugarbeet cell suspensions

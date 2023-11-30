@@ -2,4 +2,4 @@ Assessment of organic fertilizer and spacing on the growth parameters of Moringa
 
 meth: Assessment of organic fertilizer and spacing
 rp: growth parameters
-m: Moringa oleifera Lam
+r: Moringa oleifera Lam

@@ -2,5 +2,5 @@ Splash and grab: Biomechanics of peridiole ejection and function of the funicula
 
 p: Biomechanics
 rp: function of the funicular cord
-m: bird's nest fungi
+r: bird's nest fungi
 rp: peridiole ejection

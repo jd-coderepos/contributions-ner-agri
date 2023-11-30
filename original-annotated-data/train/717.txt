@@ -1,6 +1,6 @@
 The effect of leaf age and decapitation of the cane apex on the translocation of assimilates in the weed, Rubus cuneifolius
 
 rp: leaf age and decapitation
-m: weed, Rubus cuneifolius
-m: cane apex
+r: weed, Rubus cuneifolius
+r: cane apex
 p: translocation of assimilates

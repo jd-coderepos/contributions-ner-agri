@@ -1,4 +1,4 @@
 Bioactive Molecules and Medicinal Plants
 
-m: Bioactive Molecules
-m: Medicinal Plants
+r: Bioactive Molecules
+r: Medicinal Plants

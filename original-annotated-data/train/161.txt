@@ -1,6 +1,6 @@
 The genus Eugenia (Myrtaceae) in southern Africa: Structure and taxonomic value of bark
 
 loc: southern Africa
-m: genus Eugenia (Myrtaceae)
-m: bark
+r: genus Eugenia (Myrtaceae)
+r: bark
 p: Structure and taxonomic value

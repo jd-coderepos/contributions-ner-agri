@@ -1,5 +1,5 @@
 The use of plants in traditional medicine: potential genotoxic risks
 
-m: plants
+r: plants
 meth: traditional medicine
 rp: potential genotoxic risks

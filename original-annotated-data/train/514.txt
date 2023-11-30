@@ -1,5 +1,5 @@
 Assessing the invasiveness of Berberis aristata and B. julianae (Berberidaceae) in South Africa: Management options and legal recommendations
 
 rp: Assessing the invasiveness
-m: Berberis aristata and B. julianae (Berberidaceae)
+r: Berberis aristata and B. julianae (Berberidaceae)
 loc: South Africa

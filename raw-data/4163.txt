@@ -3,6 +3,6 @@ Phytochemical investigation and in vitro antibacterial activity of essential oil
 meth: Phytochemical investigation
 meth: in vitro
 rp: antibacterial activity
-m: essential oils
-m: Cleome droserifolia (Forssk.) Delile
-m: C. trinervia Fresen. (Cleomaceae)
+r: essential oils
+r: Cleome droserifolia (Forssk.) Delile
+r: C. trinervia Fresen. (Cleomaceae)

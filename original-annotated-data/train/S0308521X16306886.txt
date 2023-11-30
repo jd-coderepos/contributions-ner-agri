@@ -1,5 +1,5 @@
 Next generation crop models: A modular approach to model early vegetative and reproductive development of the common bean (Phaseolus vulgaris L)
 
 s: Next generation crop models
-m: common bean (Phaseolus vulgaris L)
+r: common bean (Phaseolus vulgaris L)
 rp: early vegetative and reproductive development

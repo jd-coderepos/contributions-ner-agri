@@ -1,4 +1,4 @@
 Post-fire regeneration in a sand plain lowland fynbos community
 
 rp: Post-fire regeneration
-m: sand plain lowland fynbos community
+r: sand plain lowland fynbos community

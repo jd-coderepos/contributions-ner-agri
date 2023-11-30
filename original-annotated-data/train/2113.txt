@@ -1,4 +1,4 @@
 Exploring the tempo of species diversification in legumes
 
 rp: species diversification
-m: legumes
+r: legumes

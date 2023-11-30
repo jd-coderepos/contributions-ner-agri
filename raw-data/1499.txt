@@ -1,4 +1,4 @@
 Guide to the Aloes of South Africa
 
 loc: South Africa
-m: Aloes
+r: Aloes

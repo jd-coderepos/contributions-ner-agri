@@ -1,5 +1,5 @@
 Use of Lippia scaberrima essential oil in postharvest management of subtropical fruits
 
-m: Lippia scaberrima essential oil
+r: Lippia scaberrima essential oil
 rp: postharvest management
-m: subtropical fruits
+r: subtropical fruits

@@ -3,6 +3,6 @@ Colonizing a desert wetland: Population history of the Nile crocodile in south-c
 rp: Colonizing a desert wetland
 rp: Population history
 p: biotic signature
-m: Nile crocodile
-m: ancient palaeo-lake
+r: Nile crocodile
+r: ancient palaeo-lake
 loc: south-central Africa

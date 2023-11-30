@@ -1,5 +1,5 @@
-Sterilization of wheat seeds for tissue culture purposes 
+Sterilization of wheat seeds for tissue culture purposes
 
-meth: Sterilization 
-m: wheat seeds
+meth: Sterilization
+r: wheat seeds
 rp: tissue culture

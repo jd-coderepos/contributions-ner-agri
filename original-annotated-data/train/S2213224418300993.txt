@@ -1,4 +1,4 @@
-Prevalence of Capillaria plica in Danish wild carnivores 
+Prevalence of Capillaria plica in Danish wild carnivores
 
-m: Capillaria plica
-m: Danish wild carnivores
+r: Capillaria plica
+r: Danish wild carnivores

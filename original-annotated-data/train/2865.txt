@@ -2,5 +2,5 @@ In vitro evidence of antimicrobial synergy between Salvia chamelaeagnea and Leon
 
 meth: In vitro
 rp: antimicrobial synergy
-m: Salvia chamelaeagnea
-m: Leonotis leonurus
+r: Salvia chamelaeagnea
+r: Leonotis leonurus

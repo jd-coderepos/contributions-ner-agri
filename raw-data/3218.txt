@@ -1,6 +1,6 @@
 Effect of winter chilling and paclobutrazol on floral bud production in Eucalyptus nitens
 
 meth: winter chilling
-m: paclobutrazol
+r: paclobutrazol
 rp: floral bud production
-m: Eucalyptus nitens
+r: Eucalyptus nitens

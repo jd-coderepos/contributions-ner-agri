@@ -1,4 +1,4 @@
-Chemotaxonomic significance of alkaloids in the genus Spartidium (Fabaceae — Crotalarieae) 
+Chemotaxonomic significance of alkaloids in the genus Spartidium (Fabaceae — Crotalarieae)
 
 rp: Chemotaxonomic significance of alkaloids
-m: genus Spartidium (Fabaceae — Crotalarieae)
+r: genus Spartidium (Fabaceae — Crotalarieae)

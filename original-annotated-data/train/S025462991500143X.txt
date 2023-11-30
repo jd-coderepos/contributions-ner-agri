@@ -2,4 +2,4 @@ Phytochemical and pharmacological evaluations of different organs of Scadoxus pu
 
 rp: plant part substitution
 meth: Phytochemical and pharmacological evaluations
-m: Scadoxus puniceus
+r: Scadoxus puniceus

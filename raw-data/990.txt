@@ -1,6 +1,6 @@
 Cercopithifilaria rugosicauda Onchocercidae) in a roe deer and ticks from southern Italy
 
-m: Cercopithifilaria rugosicauda Onchocercidae)
+r: Cercopithifilaria rugosicauda Onchocercidae)
 loc: southern Italy
-m: roe deer
-m: ticks
+r: roe deer
+r: ticks

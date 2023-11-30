@@ -1,6 +1,6 @@
-Genetic variation in the threatened medicinal tree Prunus africana in Cameroon and Kenya: Implications for current management and evolutionary history 
+Genetic variation in the threatened medicinal tree Prunus africana in Cameroon and Kenya: Implications for current management and evolutionary history
 
-m: threatened medicinal tree Prunus africana
+r: threatened medicinal tree Prunus africana
 loc: Cameroon
 loc: Kenya
 rp: Genetic variation

@@ -1,5 +1,5 @@
 Absolute values only show part of the whole: Evidence of P limitation in legumes in the CFR from N:P ratios
 
 rp: P limitation
-m: legumes
-m: CFR from N:P ratios
+r: legumes
+r: CFR from N:P ratios

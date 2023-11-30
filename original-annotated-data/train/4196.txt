@@ -1,4 +1,4 @@
 A novel alkylamide from the leaves of Acmella caulirhiza (Asteraceae), a traditional surface analgesic
 
-m: alkylamide
-m: leaves of Acmella caulirhiza (Asteraceae), a traditional surface analgesic
+r: alkylamide
+r: leaves of Acmella caulirhiza (Asteraceae), a traditional surface analgesic

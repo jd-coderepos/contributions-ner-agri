@@ -2,5 +2,5 @@ CO2 dark fixation in CAM enhances water uptake during the night
 
 meth: CO2 dark fixation
 rp: water uptake
-m: CAM
-m: night
+r: CAM
+r: night

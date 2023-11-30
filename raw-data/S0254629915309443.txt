@@ -1,5 +1,5 @@
 The effects of deflowering and defruiting on growth and senescence of Bidens pilosa L.
 
-m: Bidens pilosa L.
+r: Bidens pilosa L.
 meth: deflowering
 meth: defruiting

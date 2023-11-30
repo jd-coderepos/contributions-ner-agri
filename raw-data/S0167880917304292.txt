@@ -1,6 +1,6 @@
-Sustainable intensification through rotations with grain legumes in Sub-Saharan Africa: A review 
+Sustainable intensification through rotations with grain legumes in Sub-Saharan Africa: A review
 
 loc: Sub-Saharan Africa
-m: grain legumes
+r: grain legumes
 rp: Sustainable intensification
 meth: rotations

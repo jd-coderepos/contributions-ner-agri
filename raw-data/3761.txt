@@ -1,5 +1,5 @@
 Bluetongue and Epizootic Haemorrhagic Disease virus in local breeds of cattle in Kenya
 
 rp: Bluetongue and Epizootic Haemorrhagic Disease virus
-m: local breeds of cattle
+r: local breeds of cattle
 loc: Kenya

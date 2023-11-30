@@ -1,4 +1,4 @@
 Insulinaemic and glycaemic responses to three forages in ponies
 
 p: Insulinaemic and glycaemic responses
-m: three forages in ponies
+r: three forages in ponies

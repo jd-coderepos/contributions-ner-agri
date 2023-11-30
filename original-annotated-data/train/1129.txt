@@ -1,5 +1,5 @@
 Sesquiterpene rich essential oil of Vernonia cinerea Less. from India
 
 rp: Sesquiterpene rich essential oil
-m: Vernonia cinerea Less.
+r: Vernonia cinerea Less.
 loc: India

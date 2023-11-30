@@ -1,5 +1,5 @@
 Optimising methods for community-based sea cucumber ranching: Experimental releases of cultured juvenile Holothuria scabra into seagrass meadows in Papua New Guinea
 
 rp: community-based sea cucumber ranching
-m: cultured juvenile Holothuria scabra
+r: cultured juvenile Holothuria scabra
 loc: seagrass meadows in Papua New Guinea

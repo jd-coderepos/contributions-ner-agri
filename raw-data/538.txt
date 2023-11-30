@@ -1,4 +1,4 @@
 Variation in antibacterial activity of Schotia species
 
 rp: antibacterial activity
-m: Schotia species
+r: Schotia species

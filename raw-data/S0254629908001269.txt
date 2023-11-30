@@ -1,5 +1,5 @@
-DNA transfer between plant and microbes 
+DNA transfer between plant and microbes
 
 rp: DNA transfer
-m: plant
-m: microbes
+r: plant
+r: microbes

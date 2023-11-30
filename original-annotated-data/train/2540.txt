@@ -2,6 +2,6 @@ Herbicide options for effective weed management in dry direct-seeded rice under 
 
 s: Herbicide options
 rp: effective weed management
-m: dry direct-seeded rice
+r: dry direct-seeded rice
 meth: scented rice-wheat rotation
 loc: western Indo-Gangetic Plains

@@ -1,8 +1,8 @@
 Gall formation in crofton weed. Differences between normal stem tissue and gall tissue with respect to cytokinin levels and requirements for in vitro culture
 
 rp: Gall formation
-m: crofton weed
-m: normal stem tissue
-m: gall tissue
+r: crofton weed
+r: normal stem tissue
+r: gall tissue
 p: cytokinin levels and requirements
 meth: in vitro culture

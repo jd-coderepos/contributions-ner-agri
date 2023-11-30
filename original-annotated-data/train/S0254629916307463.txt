@@ -1,4 +1,4 @@
 A taxonomic revision of the Pelargonium pinnatum species complex (Geraniaceae)
 
-m: Pelargonium pinnatum species complex (Geraniaceae)
+r: Pelargonium pinnatum species complex (Geraniaceae)
 rp: taxonomic revision

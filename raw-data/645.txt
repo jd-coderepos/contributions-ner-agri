@@ -2,5 +2,5 @@ Development of a ‘millimanipulation’ device to study the removal of soft sol
 
 sol: Development of a ‘millimanipulation’ device
 rp: removal of soft solid fouling layers
-m: solid substrates
-m: cooked lard deposits
+r: solid substrates
+r: cooked lard deposits

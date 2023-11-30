@@ -3,4 +3,4 @@ Index insurances for grasslands – A review for Europe and North-America
 loc: Europe
 loc: North-America
 rp: Index insurances
-m: grasslands
+r: grasslands

@@ -1,5 +1,5 @@
 Effects of silicon (Si) on growth, quality and ionic homeostasis of aloe under salt stress
 
-m: silicon (Si)
+r: silicon (Si)
 rp: growth, quality and ionic homeostasis of aloe
 p: salt stress

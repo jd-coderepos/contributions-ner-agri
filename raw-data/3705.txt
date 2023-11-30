@@ -1,5 +1,5 @@
 Corrigendum to “Formation of a cytoplasmic salt bridge network in the matrix state is a fundamental step in the transport mechanism of the mitochondrial ADP/ATP carrier” [Biochim. Biophys. Acta 1857 (2016) 14–22]
 
 p: Formation of a cytoplasmic salt bridge network
-m: matrix state
+r: matrix state
 rp: transport mechanism of the mitochondrial ADP/ATP carrier

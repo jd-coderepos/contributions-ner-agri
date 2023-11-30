@@ -1,5 +1,5 @@
 Ectoparasites of the critically endangered insular cavy, Cavia intermedia (Rodentia: Caviidae), southern Brazil
 
-m: Ectoparasites
+r: Ectoparasites
 rp: critically endangered insular cavy, Cavia intermedia (Rodentia: Caviidae)
 loc: southern Brazil

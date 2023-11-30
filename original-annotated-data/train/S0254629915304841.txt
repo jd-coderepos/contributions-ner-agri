@@ -1,4 +1,4 @@
 Effect of artificially induced stress conditions on the growth of the medicinal plant Hypoxis hemerocallidea
 
-m: medicinal plant Hypoxis hemerocallidea
+r: medicinal plant Hypoxis hemerocallidea
 rp: artificially induced stress conditions

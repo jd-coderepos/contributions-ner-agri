@@ -1,5 +1,5 @@
 Description, classification and ordination of the dominant vegetation communities, Cathedral Peak, KwaZulu-Natal Drakensberg
 
 rp: Description, classification and ordination
-m: dominant vegetation communities
+r: dominant vegetation communities
 loc: Cathedral Peak, KwaZulu-Natal Drakensberg

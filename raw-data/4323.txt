@@ -4,5 +4,5 @@ meth: Bradyrhizobium inoculation
 meth: phosphorus fertilization
 p: carbon accumulation and yield
 rp: water use efficiency
-m: two cowpea varieties
+r: two cowpea varieties
 loc: Mozambique

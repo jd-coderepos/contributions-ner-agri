@@ -1,4 +1,4 @@
 Associations between the biophysics of water and desiccation stress in Vitellaria paradoxa seeds
 
 rp: Associations between the biophysics of water and desiccation stress
-m: Vitellaria paradoxa seeds
+r: Vitellaria paradoxa seeds

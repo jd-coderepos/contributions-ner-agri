@@ -1,4 +1,4 @@
 Inclusion of red meat in healthful dietary patterns
 
-m: red meat
+r: red meat
 rp: healthful dietary patterns

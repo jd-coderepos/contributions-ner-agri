@@ -1,4 +1,4 @@
-Evaluation of phenolic compounds, antioxidant and antimicrobial activities from transgenic hairy root cultures of gherkin (Cucumis anguria L.) 
+Evaluation of phenolic compounds, antioxidant and antimicrobial activities from transgenic hairy root cultures of gherkin (Cucumis anguria L.)
 
-m: transgenic hairy root cultures of gherkin (Cucumis anguria L.)
+r: transgenic hairy root cultures of gherkin (Cucumis anguria L.)
 rp: Evaluation of phenolic compounds, antioxidant and antimicrobial activities

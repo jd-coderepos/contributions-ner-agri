@@ -1,4 +1,4 @@
 Sex-ratio variation in the gynodioecious shrub Gnidia wikstroemiana (Thymelaeaceae)
 
 rp: Sex-ratio variation
-m: gynodioecious shrub Gnidia wikstroemiana (Thymelaeaceae)
+r: gynodioecious shrub Gnidia wikstroemiana (Thymelaeaceae)

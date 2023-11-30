@@ -1,4 +1,4 @@
 The pollination biology of Solanum mauritianum
 
 rp: pollination biology
-m: Solanum mauritianum
+r: Solanum mauritianum

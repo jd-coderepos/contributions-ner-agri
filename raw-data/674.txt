@@ -1,6 +1,6 @@
 Secondary metabolism in Trichoderma – Chemistry meets genomics
 
 rp: Secondary metabolism
-m: Trichoderma
+r: Trichoderma
 p: Chemistry
 p: genomics

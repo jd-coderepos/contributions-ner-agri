@@ -1,5 +1,5 @@
 Testimonies of precognition and encounters with psychiatry in letters to J. B. Priestley
 
 rp: psychiatry
-m: letters to J. B. Priestley
-m: Testimonies of precognition
+r: letters to J. B. Priestley
+r: Testimonies of precognition

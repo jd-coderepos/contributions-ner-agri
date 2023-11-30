@@ -2,5 +2,5 @@ Use of filter papers to determine seroprevalence of Toxoplasma gondii among hunt
 
 p: filter papers
 rp: seroprevalence of Toxoplasma gondii
-m: hunted ungulates
+r: hunted ungulates
 loc: remote Peruvian Amazon

@@ -2,4 +2,4 @@ Comprehensive analysis of affiliative and agonistic social networks in lactating
 
 meth: Comprehensive analysis
 rp: affiliative and agonistic social networks
-m: lactating dairy cattle groups
+r: lactating dairy cattle groups

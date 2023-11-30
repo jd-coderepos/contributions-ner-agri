@@ -1,5 +1,5 @@
 Peracetic acid is a suitable disinfectant for recirculating fish-microalgae integrated multi-trophic aquaculture systems
 
-m: Peracetic acid
+r: Peracetic acid
 p: disinfectant
 t: recirculating fish-microalgae integrated multi-trophic aquaculture systems

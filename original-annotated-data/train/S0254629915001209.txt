@@ -2,4 +2,4 @@ Ectopic expression of a phytocystatin leads to enhanced drought tolerance in soy
 
 rp: Ectopic expression of a phytocystatin
 p: enhanced drought tolerance
-m: soybean
+r: soybean

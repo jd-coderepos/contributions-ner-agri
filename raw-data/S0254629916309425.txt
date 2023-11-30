@@ -1,5 +1,5 @@
 Acacias and korhaans: an artificially assembled seed dispersal system
 
 s: artificially assembled seed dispersal system
-m: Acacias
-m: korhaans
+r: Acacias
+r: korhaans

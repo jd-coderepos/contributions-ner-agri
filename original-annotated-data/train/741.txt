@@ -1,7 +1,7 @@
 Analysis of enterotoxigenic Bacillus cereus strains from dried foods using whole genome sequencing, multi-locus sequence analysis and toxin gene prevalence and distribution using endpoint PCR analysis
 
 rp: enterotoxigenic Bacillus cereus strains
-m: dried foods
+r: dried foods
 p: toxin gene prevalence and distribution
 meth: whole genome sequencing
 meth: multi-locus sequence analysis

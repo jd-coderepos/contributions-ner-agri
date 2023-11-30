@@ -1,4 +1,4 @@
 Utilisation of key descriptors from protein sequence data to aid bioprocess route selection
 
-m: protein sequence data
+r: protein sequence data
 rp: bioprocess route selection

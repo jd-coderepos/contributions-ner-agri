@@ -1,6 +1,6 @@
 Evaluation of reticuloruminal pH measurements from individual cattle: Sampling strategies for the assessment of herd status
 
-m: reticuloruminal pH measurements
-m: individual cattle
+r: reticuloruminal pH measurements
+r: individual cattle
 p: Sampling strategies
 rp: assessment of herd status

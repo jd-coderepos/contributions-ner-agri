@@ -1,6 +1,6 @@
-Symbiotic N2 fixation, C assimilation and water-use efficiency (WUE) of five Rhizobium-inoculated Kersting's groundnut (Macrotyloma geocarpum) landraces measured using 15N and 13C isotopic techniques 
+Symbiotic N2 fixation, C assimilation and water-use efficiency (WUE) of five Rhizobium-inoculated Kersting's groundnut (Macrotyloma geocarpum) landraces measured using 15N and 13C isotopic techniques
 
-m: five Rhizobium-inoculated Kersting's groundnut (Macrotyloma geocarpum) landraces
+r: five Rhizobium-inoculated Kersting's groundnut (Macrotyloma geocarpum) landraces
 p: Symbiotic N2 fixation
 p: C assimilation
 p: water-use efficiency (WUE)

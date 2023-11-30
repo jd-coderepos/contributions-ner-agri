@@ -1,5 +1,5 @@
-Release from soil pathogens plays an important role in the success of invasive Carpobrotus in the Mediterranean 
+Release from soil pathogens plays an important role in the success of invasive Carpobrotus in the Mediterranean
 
 rp: Release from soil pathogens
-m: invasive Carpobrotus
+r: invasive Carpobrotus
 loc: Mediterranean

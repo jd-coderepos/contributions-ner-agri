@@ -1,4 +1,4 @@
 Memory-vitalizing effect of twenty-five medicinal and edible plants and their isolated compounds
 
 rp: Memory-vitalizing effect
-m: twenty-five medicinal and edible plants and their isolated compounds
+r: twenty-five medicinal and edible plants and their isolated compounds

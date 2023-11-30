@@ -3,5 +3,5 @@ Closing system-wide yield gaps to increase food production and mitigate GHGs amo
 s: Closing system-wide yield gaps
 rp: food production
 rp: mitigate GHGs
-m: mixed crop–livestock smallholders
+r: mixed crop–livestock smallholders
 loc: Sub-Saharan Africa

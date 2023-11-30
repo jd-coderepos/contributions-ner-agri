@@ -1,5 +1,5 @@
 Changes in the arabinoxylan fraction of wheat grain during alcohol production
 
 rp: Changes in the arabinoxylan fraction
-m: wheat grain
+r: wheat grain
 p: alcohol production

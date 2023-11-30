@@ -1,5 +1,5 @@
-Anticancer activity and mechanism of action of plant extracts on squamous cell carcinoma 
+Anticancer activity and mechanism of action of plant extracts on squamous cell carcinoma
 
 rp: squamous cell carcinoma
-m: plant extracts
+r: plant extracts
 p: Anticancer activity

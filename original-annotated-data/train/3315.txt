@@ -1,6 +1,6 @@
 A survey of the polysaccharide reserves in geophytes native to the winter-rainfall region of South Africa
 
 meth: survey
-m: polysaccharide reserves
-m: geophytes
+r: polysaccharide reserves
+r: geophytes
 loc: winter-rainfall region of South Africa

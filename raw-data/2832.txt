@@ -1,6 +1,6 @@
 Mapping the structural requirements of inducers and substrates for decarboxylation of weak acid preservatives by the food spoilage mould Aspergillus niger
 
-m: structural requirements of inducers and substrates
+r: structural requirements of inducers and substrates
 rp: decarboxylation of weak acid preservatives
-m: weak acid preservatives
-m: food spoilage mould Aspergillus niger
+r: weak acid preservatives
+r: food spoilage mould Aspergillus niger

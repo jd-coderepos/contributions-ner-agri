@@ -1,7 +1,7 @@
 Hepatoprotective properties and biotransformation of berberine and berberrubine by cell suspension cultures of Dodonaea viscosa and Ocimum basilicum
 
-m: berberine
-m: berberrubine
-m: cell suspension cultures of Dodonaea viscosa and Ocimum basilicum
+r: berberine
+r: berberrubine
+r: cell suspension cultures of Dodonaea viscosa and Ocimum basilicum
 rp: biotransformation
 rp: Hepatoprotective properties

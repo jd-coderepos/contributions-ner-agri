@@ -1,4 +1,4 @@
 Shoot apical meristem injection: A novel and efficient method to obtain transformed cucumber plants
 
 s: Shoot apical meristem injection
-m: cucumber plants
+r: cucumber plants

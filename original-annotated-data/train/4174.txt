@@ -2,4 +2,4 @@ In vitro modulation of the innate immune response and phagocytosis by three Hypo
 
 meth: In vitro modulation
 rp: innate immune response and phagocytosis
-m: three Hypoxis spp. and their phytosterols
+r: three Hypoxis spp. and their phytosterols

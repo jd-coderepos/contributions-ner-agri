@@ -2,4 +2,4 @@ Genetic variation in N-use efficiency and associated traits in Indian wheat cult
 
 rp: Genetic variation
 p: N-use efficiency and associated traits
-m: Indian wheat cultivars
+r: Indian wheat cultivars

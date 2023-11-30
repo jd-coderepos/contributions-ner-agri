@@ -1,8 +1,8 @@
 MEF13 Requires MORF3 and MORF8 for RNA Editing at Eight Targets in Mitochondrial mRNAs in Arabidopsis thaliana
 
-m: MEF13
-m: MORF3
-m: MORF8
+r: MEF13
+r: MORF3
+r: MORF8
 rp: RNA Editing
-m: Mitochondrial mRNAs
-m: Arabidopsis thaliana
+r: Mitochondrial mRNAs
+r: Arabidopsis thaliana

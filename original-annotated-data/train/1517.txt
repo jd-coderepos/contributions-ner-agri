@@ -1,5 +1,5 @@
 Salvia chamelaeagnea can be micropropagated and its callus induced to produce rosmarinic acid
 
-m: Salvia chamelaeagnea
-m: rosmarinic acid
+r: Salvia chamelaeagnea
+r: rosmarinic acid
 p: micropropagated

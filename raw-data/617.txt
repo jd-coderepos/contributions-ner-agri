@@ -1,4 +1,4 @@
 Hibiscus sabdariffa L. – A phytochemical and pharmacological review
 
-m: Hibiscus sabdariffa L.
+r: Hibiscus sabdariffa L.
 meth: phytochemical and pharmacological review

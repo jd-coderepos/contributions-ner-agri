@@ -1,4 +1,4 @@
 Analysis of the germination rate, mitotic index and karyotype of Chromolaena barranquillensis (Hieron.) R.M. King & H. Rob.—Asteraceae
 
 rp: germination rate, mitotic index and karyotype
-m: Chromolaena barranquillensis (Hieron.) R.M. King & H. Rob.—Asteraceae
+r: Chromolaena barranquillensis (Hieron.) R.M. King & H. Rob.—Asteraceae

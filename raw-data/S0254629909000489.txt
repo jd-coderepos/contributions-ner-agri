@@ -1,4 +1,4 @@
-Grassland ecology along an urban–rural gradient using GIS techniques in Klerksdorp, South Africa 
+Grassland ecology along an urban–rural gradient using GIS techniques in Klerksdorp, South Africa
 
 loc: Klerksdorp, South Africa
 meth: GIS techniques

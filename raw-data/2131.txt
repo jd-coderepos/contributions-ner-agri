@@ -1,5 +1,5 @@
 Central cell degeneration leads to three-celled female gametophyte in Zeylanidium lichenoides Engl. (Podostemaceae)
 
 rp: Central cell degeneration
-m: three-celled female gametophyte
-m: Zeylanidium lichenoides Engl. (Podostemaceae)
+r: three-celled female gametophyte
+r: Zeylanidium lichenoides Engl. (Podostemaceae)

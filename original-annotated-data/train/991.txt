@@ -1,5 +1,5 @@
 Molecular characterization and prevalence of Halarachne halichoeri in threatened southern sea otters (Enhydra nereis)
 
 meth: Molecular characterization
-m: Halarachne halichoeri
-m: threatened southern sea otters (Enhydra nereis)
+r: Halarachne halichoeri
+r: threatened southern sea otters (Enhydra nereis)

@@ -1,6 +1,6 @@
 Seasonal allocation of biomass and resources in the geophytic species Haemanthus pubescens subspecies pubescens in lowland coastal fynbos, South Africa
 
 rp: Seasonal allocation
-m: biomass and resources
-m: geophytic species Haemanthus pubescens subspecies pubescens
+r: biomass and resources
+r: geophytic species Haemanthus pubescens subspecies pubescens
 loc: lowland coastal fynbos, South Africa

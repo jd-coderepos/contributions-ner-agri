@@ -1,5 +1,5 @@
 Tooth wear, Neanderthal facial morphology and the anterior dental loading hypothesis
 
-m: Tooth wear
+r: Tooth wear
 p: Neanderthal facial morphology
 p: anterior dental loading hypothesis

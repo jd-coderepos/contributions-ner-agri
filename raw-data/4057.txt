@@ -1,6 +1,6 @@
 Anti-inflammatory and mutagenic evaluation of medicinal plants used by Venda people against venereal and related diseases
 
 rp: Anti-inflammatory and mutagenic evaluation
-m: medicinal plants
-m: Venda people
+r: medicinal plants
+r: Venda people
 p: venereal and related diseases

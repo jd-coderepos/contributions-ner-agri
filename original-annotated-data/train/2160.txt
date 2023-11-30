@@ -2,4 +2,4 @@ Impact of long-term cadmium exposure on mineral content of Solanum lycopersicum 
 
 rp: long-term cadmium exposure
 p: fruit production
-m: mineral content of Solanum lycopersicum plants
+r: mineral content of Solanum lycopersicum plants

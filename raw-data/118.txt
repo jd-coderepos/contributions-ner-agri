@@ -1,6 +1,6 @@
 Corrections to "The population dynamics and life-history attributes of a Pterocarpus angolensis DC. population in the Northern Province, South Africa" South African Journal of Botany, 1996, Vol. 62(3), pp. 160-166
 
-m: Pterocarpus angolensis DC. population
+r: Pterocarpus angolensis DC. population
 loc: Northern Province, South Africa
 rp: population dynamics
 rp: life-history attributes

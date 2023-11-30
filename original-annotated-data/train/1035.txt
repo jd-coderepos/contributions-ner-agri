@@ -1,5 +1,5 @@
 Hypoxis (Hypoxidaceae) in southern Africa: Taxonomic notes
 
-m: Hypoxis (Hypoxidaceae)
+r: Hypoxis (Hypoxidaceae)
 loc: southern Africa
 meth: Taxonomic notes

@@ -1,6 +1,6 @@
 Flooding and its influence on diazotroph populations and soil nitrogen levels in the Okavango Delta
 
 rp: Flooding
-m: diazotroph populations
+r: diazotroph populations
 rp: soil nitrogen levels
 loc: Okavango Delta

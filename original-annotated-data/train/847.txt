@@ -1,6 +1,6 @@
 Phytotoxicity of Tagetes erecta L. and Tagetes patula L. on plant germination and growth
 
 rp: Phytotoxicity
-m: Tagetes erecta L.
-m: Tagetes patula L.
+r: Tagetes erecta L.
+r: Tagetes patula L.
 p: plant germination and growth

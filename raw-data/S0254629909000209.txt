@@ -1,5 +1,5 @@
 Seeds, seedlings and phosphorus
 
-m: Seeds
-m: seedlings
-m: phosphorus
+r: Seeds
+r: seedlings
+r: phosphorus

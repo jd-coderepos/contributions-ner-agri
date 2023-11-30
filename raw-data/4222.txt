@@ -1,4 +1,4 @@
 Allozyme variation in five populations of mopane, Colophospermum mopane (Fabaceae)
 
 rp: Allozyme variation
-m: five populations of mopane, Colophospermum mopane (Fabaceae)
+r: five populations of mopane, Colophospermum mopane (Fabaceae)

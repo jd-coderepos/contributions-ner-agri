@@ -1,4 +1,4 @@
 Estimation of the variance effective population size in age structured populations
 
-m: age structured populations
+r: age structured populations
 rp: variance effective population size

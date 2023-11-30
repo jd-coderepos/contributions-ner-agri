@@ -1,5 +1,5 @@
 First report of moth pollination in Struthiola ciliata (Thymelaeaceae) in southern Africa
 
 rp: moth pollination
-m: Struthiola ciliata (Thymelaeaceae)
+r: Struthiola ciliata (Thymelaeaceae)
 loc: southern Africa

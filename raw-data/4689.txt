@@ -1,5 +1,5 @@
 Soil aggregate-associated heavy metals subjected to different types of land use in subtropical China
 
-m: Soil aggregate-associated heavy metals
+r: Soil aggregate-associated heavy metals
 meth: different types of land use
 loc: subtropical China

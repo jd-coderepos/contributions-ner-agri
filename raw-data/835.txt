@@ -1,5 +1,5 @@
 Anatomy of the leaf and bark of Warburgia salutaris (Canellaceae), an important medicinal plant from South Africa
 
 rp: Anatomy of the leaf and bark
-m: Warburgia salutaris (Canellaceae)
+r: Warburgia salutaris (Canellaceae)
 loc: South Africa

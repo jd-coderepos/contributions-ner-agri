@@ -1,6 +1,6 @@
 Comparative antibacterial activity of two Helichrysum species used in male circumcision in South Africa.
 
 rp: antibacterial activity
-m: two Helichrysum species
+r: two Helichrysum species
 p: male circumcision
 loc: South Africa

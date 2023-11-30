@@ -3,5 +3,5 @@ Partial clarification of signaling pathway of taxanes increase biosynthesis by l
 meth: Partial clarification
 rp: signaling pathway of taxanes
 p: biosynthesis
-m: hazel (Corylus avellana) cells
+r: hazel (Corylus avellana) cells
 meth: low intensity ultrasound treatment

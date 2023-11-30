@@ -2,4 +2,4 @@ Comparison of antimicrobial resistant genes in chicken gut microbiome grown on o
 
 rp: Comparison of antimicrobial resistant genes
 p: organic and conventional diet
-m: chicken gut microbiome
+r: chicken gut microbiome

@@ -1,4 +1,4 @@
 Saving the gene pool for the future: Seed banks as archives
 
 rp: gene pool
-m: Seed banks
+r: Seed banks

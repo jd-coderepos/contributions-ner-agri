@@ -1,8 +1,8 @@
 Biological nitrogen fixation and molecular diversity of rhizobia isolated from root nodules of wild legumes: Polhillia, Wiborgia and Wiborgiella species of the South African Cape fynbos
 
 loc: South African Cape fynbos
-m: Polhillia, Wiborgia and Wiborgiella species
-m: root nodules of wild legumes
+r: Polhillia, Wiborgia and Wiborgiella species
+r: root nodules of wild legumes
 rp: Biological nitrogen fixation
 rp: molecular diversity
-m: rhizobia
+r: rhizobia

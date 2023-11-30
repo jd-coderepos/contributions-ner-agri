@@ -1,5 +1,5 @@
 Phytotoxicity of volatiles from fresh and dry leaves of two Asteraceae shrubs: Evaluation of seasonal effects
 
 rp: Phytotoxicity of volatiles
-m: fresh and dry leaves of two Asteraceae shrubs
+r: fresh and dry leaves of two Asteraceae shrubs
 p: seasonal effects

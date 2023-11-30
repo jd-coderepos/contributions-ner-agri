@@ -1,4 +1,4 @@
 Alkaloids from three ethnomedicinal Haemanthus species: H. albiflos, H. deformis and H. pauculifolius (Amaryllidaceae)
 
-m: H. albiflos, H. deformis and H. pauculifolius (Amaryllidaceae)
-m: Alkaloids
+r: H. albiflos, H. deformis and H. pauculifolius (Amaryllidaceae)
+r: Alkaloids

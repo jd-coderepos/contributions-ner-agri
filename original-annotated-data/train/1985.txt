@@ -1,5 +1,5 @@
 Sexual and vegetative regeneration of three leguminous tree species in South African savannas
 
 rp: Sexual and vegetative regeneration
-m: leguminous tree species
+r: leguminous tree species
 loc: South African savannas

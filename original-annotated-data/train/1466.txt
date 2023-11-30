@@ -3,4 +3,4 @@ Molecular cloning and expression analysis of zinc finger-homeodomain transcripti
 meth: Molecular cloning
 meth: expression analysis
 rp: zinc finger-homeodomain transcription factor TaZFHD1
-m: wheat
+r: wheat

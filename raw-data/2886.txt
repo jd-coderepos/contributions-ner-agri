@@ -1,4 +1,4 @@
 Why do we have vegetation or why don't the foliovores eat all their food?
 
-m: vegetation
-m: foliovores
+r: vegetation
+r: foliovores

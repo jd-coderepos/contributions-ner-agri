@@ -4,4 +4,4 @@ meth: In vitro
 rp: plant regeneration
 rp: phenolic compound production
 rp: pharmacological activities
-m: Coleonema pulchellum
+r: Coleonema pulchellum

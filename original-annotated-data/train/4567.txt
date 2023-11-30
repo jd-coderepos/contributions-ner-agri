@@ -1,5 +1,5 @@
 Narratives of transition/non-transition towards low carbon futures within English rural communities
 
-m: Narratives of transition/non-transition
+r: Narratives of transition/non-transition
 rp: low carbon futures
-m: English rural communities
+r: English rural communities

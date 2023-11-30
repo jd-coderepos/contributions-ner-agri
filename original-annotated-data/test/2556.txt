@@ -1,6 +1,6 @@
 Agricultural household effects of fertilizer price changes for smallholder farmers in central Malawi
 
 loc: central Malawi
-m: smallholder farmers
+r: smallholder farmers
 rp: fertilizer price changes
 p: Agricultural household effects

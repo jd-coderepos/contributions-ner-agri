@@ -2,4 +2,4 @@ Seed characteristics in Cactaceae: Useful diagnostic features for screening spec
 
 rp: screening species for invasiveness
 p: screening species for invasiveness
-m: diagnostic features
+r: diagnostic features

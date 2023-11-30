@@ -1,5 +1,5 @@
 Amatoxins and phallotoxins in indigenous and introduced South African Amanita species
 
-m: Amatoxins
-m: phallotoxins
-m: indigenous and introduced South African Amanita species
+r: Amatoxins
+r: phallotoxins
+r: indigenous and introduced South African Amanita species

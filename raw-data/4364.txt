@@ -2,6 +2,6 @@ Optimization of extraction techniques and quantification of swertiamarin and man
 
 rp: Optimization of extraction techniques and quantification
 meth: RP-UFLC method
-m: swertiamarin
-m: mangiferin
-m: eleven Swertia species
+r: swertiamarin
+r: mangiferin
+r: eleven Swertia species

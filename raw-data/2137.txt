@@ -2,4 +2,4 @@ Allelopathic effects of lichen secondary metabolites and their naturally occurri
 
 p: Allelopathic effects
 rp: lichen secondary metabolites and their naturally occurring mixtures
-m: cultures of aposymbiotically grown lichen photobiont Trebouxia erici (Chlorophyta)
+r: cultures of aposymbiotically grown lichen photobiont Trebouxia erici (Chlorophyta)

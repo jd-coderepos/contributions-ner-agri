@@ -4,4 +4,4 @@ rp: Sand ridge morphology
 rp: bedform migration patterns
 p: bathymetry
 p: backscatter
-m: inner-continental shelf offshore of Assateague Island, USA
+r: inner-continental shelf offshore of Assateague Island, USA

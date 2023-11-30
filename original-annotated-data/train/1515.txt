@@ -1,5 +1,5 @@
 Disruptive effects of exogenous proline on chloroplast and mitochondrial ultrastructure in Arabidopsis leaves
 
-m: chloroplast and mitochondrial ultrastructure
+r: chloroplast and mitochondrial ultrastructure
 rp: exogenous proline
-m: Arabidopsis leaves
+r: Arabidopsis leaves

@@ -2,4 +2,4 @@ Antifungal activity and phytochemical screening of the crude extracts of Khaya i
 
 rp: Antifungal activity
 rp: phytochemical screening
-m: crude extracts of Khaya ivorensis Juss (Meliaceae) and Tetracera potatoria L. (Dilleniaceae)
+r: crude extracts of Khaya ivorensis Juss (Meliaceae) and Tetracera potatoria L. (Dilleniaceae)

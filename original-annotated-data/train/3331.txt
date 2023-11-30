@@ -1,6 +1,6 @@
 Effects of exogenous salicylic acid on Impatiens walleriana L. grown in vitro under polyethylene glycol-imposed drought
 
 rp: Effects of exogenous salicylic acid
-m: Impatiens walleriana L.
+r: Impatiens walleriana L.
 meth: in vitro
 p: polyethylene glycol-imposed drought

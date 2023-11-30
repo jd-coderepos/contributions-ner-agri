@@ -2,4 +2,4 @@ Control of clustered action potential firing in a mathematical model of entorhin
 
 p: clustered action potential firing
 meth: mathematical model
-m: entorhinal cortex stellate cells
+r: entorhinal cortex stellate cells

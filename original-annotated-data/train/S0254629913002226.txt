@@ -1,5 +1,5 @@
 Germination responses of Croton macrostachyus (Euphorbiaceae) to various physico-chemical pretreatment conditions
 
 rp: Germination responses
-m: Croton macrostachyus (Euphorbiaceae)
+r: Croton macrostachyus (Euphorbiaceae)
 s: various physico-chemical pretreatment conditions

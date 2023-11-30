@@ -2,5 +2,5 @@ Transport and metabolism of 8[14C] t-zeatin in dormant shoots of grape during co
 
 p: Transport and metabolism
 meth: cold storage
-m: 8[14C] t-zeatin
-m: dormant shoots of grape
+r: 8[14C] t-zeatin
+r: dormant shoots of grape

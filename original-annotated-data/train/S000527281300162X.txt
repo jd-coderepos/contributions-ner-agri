@@ -1,4 +1,4 @@
-The role of protein-bound water molecules in microbial rhodopsins 
+The role of protein-bound water molecules in microbial rhodopsins
 
-m: protein-bound water molecules
-m: microbial rhodopsins
+r: protein-bound water molecules
+r: microbial rhodopsins

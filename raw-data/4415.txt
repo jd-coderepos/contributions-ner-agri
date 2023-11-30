@@ -2,4 +2,4 @@ Effects of disturbance by fire and tillage on the water relations of selected mo
 
 p: disturbance by fire and tillage
 rp: water relations
-m: selected mountain fynbos species
+r: selected mountain fynbos species

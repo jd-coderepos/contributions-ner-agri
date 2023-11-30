@@ -3,4 +3,4 @@ The effect of salinity and temperature on electromagnetic wave attenuation in br
 p: salinity
 p: temperature
 rp: electromagnetic wave attenuation
-m: brine
+r: brine

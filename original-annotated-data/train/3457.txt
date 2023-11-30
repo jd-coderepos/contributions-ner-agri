@@ -1,4 +1,4 @@
 Pollination of Ziziphus mucronata subsp. mucronata (Rhamnaceae)
 
 rp: Pollination
-m: Ziziphus mucronata subsp. mucronata (Rhamnaceae)
+r: Ziziphus mucronata subsp. mucronata (Rhamnaceae)

@@ -1,7 +1,7 @@
 Micropropagation of Romulea minutiflora, Sisyrinchium laxum and Tritonia gladiolaris — Iridaceae with ornamental potential
 
 rp: Micropropagation
-m: Romulea minutiflora
-m: Sisyrinchium laxum
-m: Tritonia gladiolaris
-m: Iridaceae
+r: Romulea minutiflora
+r: Sisyrinchium laxum
+r: Tritonia gladiolaris
+r: Iridaceae

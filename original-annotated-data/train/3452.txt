@@ -1,6 +1,6 @@
 Cytotaxonomic studies in Themeda triandra Forssk.: Part III: Sexual and apomictic embryo sac development in 53 collections
 
 rp: Cytotaxonomic studies
-m: Themeda triandra Forssk.
-m: 53 collections
+r: Themeda triandra Forssk.
+r: 53 collections
 p: Sexual and apomictic embryo sac development

@@ -1,5 +1,5 @@
 Utilising volunteered geographic information to assess resident's flood evacuation shelters. Case study: Jakarta
 
-m: volunteered geographic information
+r: volunteered geographic information
 rp: resident's flood evacuation shelters
 loc: Jakarta

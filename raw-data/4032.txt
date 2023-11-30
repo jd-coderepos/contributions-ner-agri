@@ -1,5 +1,5 @@
 Water use strategies of seedlings of three Malagasy Adansonia species under drought
 
 rp: Water use strategies
-m: seedlings of three Malagasy Adansonia species
+r: seedlings of three Malagasy Adansonia species
 p: drought

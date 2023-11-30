@@ -1,4 +1,4 @@
 Pappea capensis: monoecious, dioecious or androdioecious?
 
-m: Pappea capensis
+r: Pappea capensis
 rp: monoecious, dioecious or androdioecious

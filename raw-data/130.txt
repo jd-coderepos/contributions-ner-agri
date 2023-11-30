@@ -2,7 +2,7 @@ Phytochemical constituents of Prunus persica, Prunus armeniaca and Ziziphus mucr
 
 rp: Phytochemical constituents
 rp: antioxidant activity
-m: Prunus persica
-m: Prunus armeniaca
-m: Ziziphus mucronata
-m: methanolic extracts
+r: Prunus persica
+r: Prunus armeniaca
+r: Ziziphus mucronata
+r: methanolic extracts

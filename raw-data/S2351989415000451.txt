@@ -1,5 +1,5 @@
 Shoaling behaviour of Lates japonicus revealed through a digital camera logger
 
-m: Lates japonicus
+r: Lates japonicus
 rp: Shoaling behaviour
 t: digital camera logger

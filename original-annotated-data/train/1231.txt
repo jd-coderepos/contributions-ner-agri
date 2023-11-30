@@ -1,6 +1,6 @@
 A partial revision of the genus Aristea (Iridaceae) in South Africa, Swaziland, Lesotho, Transkei and Ciskei
 
-m: genus Aristea (Iridaceae)
+r: genus Aristea (Iridaceae)
 loc: South Africa
 loc: Swaziland
 loc: Lesotho

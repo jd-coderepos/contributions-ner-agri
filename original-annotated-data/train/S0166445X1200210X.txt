@@ -1,5 +1,5 @@
 Molecular and physiological responses to long-term sublethal ammonia exposure in Atlantic salmon (Salmo salar)
 
-m: Atlantic salmon (Salmo salar)
+r: Atlantic salmon (Salmo salar)
 rp: long-term sublethal ammonia exposure
 p: Molecular and physiological responses

@@ -1,7 +1,7 @@
 Influences of polyunsaturated fatty acids (PUFAs) on growth and secondary metabolite accumulation in Panax ginseng C.A. Meyer adventitious roots cultured in air-lift bioreactors
 
-m: polyunsaturated fatty acids (PUFAs)
-m: Panax ginseng C.A. Meyer adventitious roots
+r: polyunsaturated fatty acids (PUFAs)
+r: Panax ginseng C.A. Meyer adventitious roots
 meth: cultured
-m: air-lift bioreactors
+r: air-lift bioreactors
 rp: growth and secondary metabolite accumulation

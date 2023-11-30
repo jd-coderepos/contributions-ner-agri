@@ -3,4 +3,4 @@ Kinetics of α-amylase and α-glucosidase inhibitory potential of Eucalyptus obl
 rp: Kinetics of α-amylase
 rp: α-glucosidase inhibitory potential
 meth: in vitro assessment
-m: Eucalyptus obliqua L.Her. (Myrtaceae) Blakely ethanolic leaf
+r: Eucalyptus obliqua L.Her. (Myrtaceae) Blakely ethanolic leaf

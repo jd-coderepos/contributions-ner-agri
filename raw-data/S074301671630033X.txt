@@ -1,4 +1,4 @@
 A review of the rural-digital policy agenda from a community resilience perspective
 
 rp: community resilience perspective
-m: rural-digital policy agenda
+r: rural-digital policy agenda

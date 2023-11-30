@@ -1,4 +1,4 @@
 Pollen morphology of Periploca (Periplocaceae)
 
 rp: Pollen morphology
-m: Periploca (Periplocaceae)
+r: Periploca (Periplocaceae)

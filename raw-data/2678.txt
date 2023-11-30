@@ -3,4 +3,4 @@ Influence of alkalinity and temperature on photosynthetic biogas upgrading effic
 p: alkalinity
 p: temperature
 rp: photosynthetic biogas upgrading efficiency
-m: high rate algal ponds
+r: high rate algal ponds

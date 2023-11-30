@@ -1,5 +1,5 @@
 Low thicket communities of rocky outcrops in the northern Orange Free State
 
 rp: Low thicket communities
-m: rocky outcrops
+r: rocky outcrops
 loc: northern Orange Free State

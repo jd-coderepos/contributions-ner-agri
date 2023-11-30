@@ -1,5 +1,5 @@
-Improvement of Pisum sativum salt stress tolerance by bio-priming their seeds using Typha angustifolia leaves aqueous extract 
+Improvement of Pisum sativum salt stress tolerance by bio-priming their seeds using Typha angustifolia leaves aqueous extract
 
 rp: Pisum sativum salt stress tolerance
-m: Typha angustifolia leaves aqueous extract
+r: Typha angustifolia leaves aqueous extract
 meth: bio-priming

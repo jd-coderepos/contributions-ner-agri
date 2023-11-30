@@ -1,4 +1,4 @@
 Phytoliths of pteridophytes
 
 rp: Phytoliths
-m: pteridophytes
+r: pteridophytes

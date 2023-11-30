@@ -2,5 +2,5 @@ Preliminary investigations on the chemical composition of the scale-boundary and
 
 meth: Preliminary investigations
 rp: chemical composition
-m: scale-boundary and cyst wall
-m: Pyramimonas pseudoparkeae (Prasinophyceae)
+r: scale-boundary and cyst wall
+r: Pyramimonas pseudoparkeae (Prasinophyceae)

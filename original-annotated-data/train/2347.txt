@@ -1,4 +1,4 @@
 Antimycobacterial, antiplasmodial and toxicological effect of oleanolic acid and its derivative from Syzygium aromaticum Linn (Myrtaceae)
 
 rp: Antimycobacterial, antiplasmodial and toxicological effect
-m: oleanolic acid and its derivative from Syzygium aromaticum Linn (Myrtaceae)
+r: oleanolic acid and its derivative from Syzygium aromaticum Linn (Myrtaceae)

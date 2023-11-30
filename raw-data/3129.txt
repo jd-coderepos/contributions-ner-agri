@@ -2,4 +2,4 @@ A mismatch between germination requirements and environmental conditions: Niche 
 
 rp: germination requirements
 rp: environmental conditions
-m: xeric subtropical thicket canopy species
+r: xeric subtropical thicket canopy species

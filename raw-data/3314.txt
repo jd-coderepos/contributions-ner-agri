@@ -1,5 +1,5 @@
 Productivity and sustainable use of Phragmites in the Fuyeni reedbed — Hluhluwe-Umfolozi Park — Management guidelines for harvest
 
 rp: Productivity and sustainable use
-m: Phragmites
+r: Phragmites
 loc: Fuyeni reedbed — Hluhluwe-Umfolozi Park

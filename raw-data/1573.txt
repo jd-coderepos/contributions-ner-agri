@@ -1,7 +1,7 @@
 Fruit polymorphism in ephemeral species of Namaqualand. II. Anatomical differences between polymorphic diaspores of Arctotis fastuosa and Ursinia cakilefolia
 
 rp: Fruit polymorphism
-m: ephemeral species 
+r: ephemeral species
 loc: Namaqualand
-m: polymorphic diaspores of Arctotis fastuosa and Ursinia cakilefolia
+r: polymorphic diaspores of Arctotis fastuosa and Ursinia cakilefolia
 p: Anatomical differences

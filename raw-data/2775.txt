@@ -2,4 +2,4 @@ Gaussian process approximations for fast inference from infectious disease data
 
 meth: Gaussian process approximations
 p: fast inference
-m: infectious disease data
+r: infectious disease data

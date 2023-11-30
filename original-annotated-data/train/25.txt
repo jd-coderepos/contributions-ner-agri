@@ -1,5 +1,5 @@
 Methane and nitrous oxide emissions from conventional and modified rice cultivation systems in South India
 
-m: Methane and nitrous oxide emissions
+r: Methane and nitrous oxide emissions
 loc: South India
 t: conventional and modified rice cultivation systems

@@ -1,4 +1,4 @@
 Desiccation sensitivity of excised embryonic axes of selected Amaryllid species
 
 rp: Desiccation sensitivity
-m: excised embryonic axes of selected Amaryllid species
+r: excised embryonic axes of selected Amaryllid species

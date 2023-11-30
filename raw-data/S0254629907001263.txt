@@ -1,4 +1,4 @@
 Isolation of an antiplasmodially active sesquiterpene lactone from South African indigenous medicinal plant Warbugia salutaris
 
-m: South African indigenous medicinal plant Warbugia salutaris
+r: South African indigenous medicinal plant Warbugia salutaris
 rp: Isolation of an antiplasmodially active sesquiterpene lactone

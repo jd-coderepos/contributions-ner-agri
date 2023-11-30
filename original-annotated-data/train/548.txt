@@ -1,7 +1,7 @@
 Autecological studies on Audouinia capitata (Bruniaceae). 4. Seed production, seed banks and seedling recruitment
 
 rp: Autecological studies
-m: Audouinia capitata (Bruniaceae)
+r: Audouinia capitata (Bruniaceae)
 p: Seed production
-m: seed banks
+r: seed banks
 p: seedling recruitment

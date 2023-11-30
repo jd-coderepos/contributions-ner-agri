@@ -2,4 +2,4 @@ Dietary nucleotide supplementation enhances immune responses and survival to Str
 
 s: Dietary nucleotide supplementation
 rp: immune responses and survival to Streptococcus iniae
-m: hybrid tilapia fed diet containing low fish meal
+r: hybrid tilapia fed diet containing low fish meal

@@ -1,6 +1,6 @@
 Catalytically-relevant electron transfer between two hemes b L in the hybrid cytochrome bc 1-like complex containing a fusion of Rhodobacter sphaeroides and capsulatus cytochromes b
 
 p: Catalytically-relevant electron transfer
-m: fusion of Rhodobacter sphaeroides and capsulatus cytochromes b
-m: hybrid cytochrome bc 1-like complex
-m: hemes b L
+r: fusion of Rhodobacter sphaeroides and capsulatus cytochromes b
+r: hybrid cytochrome bc 1-like complex
+r: hemes b L

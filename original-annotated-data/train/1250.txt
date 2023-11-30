@@ -2,5 +2,5 @@ Multi-trait analysis of post-harvest storage in rocket salad (Diplotaxis tenuifo
 
 meth: Multi-trait analysis
 rp: post-harvest storage
-m: rocket salad (Diplotaxis tenuifolia)
-m: sensorial, volatile and nutritional data
+r: rocket salad (Diplotaxis tenuifolia)
+r: sensorial, volatile and nutritional data

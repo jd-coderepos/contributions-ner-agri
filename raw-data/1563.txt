@@ -1,7 +1,7 @@
 Competitive ability of two grass species: Anthephora pubescens and Eragrostis curvula. 1. Yield and biomass allocation
 
 rp: Competitive ability of two grass species
-m: Anthephora pubescens
-m: Eragrostis curvula
+r: Anthephora pubescens
+r: Eragrostis curvula
 p: biomass allocation
 p: Yield

@@ -1,4 +1,4 @@
 Multiplexed microsatellite markers for seven Metarhizium species
 
 t: Multiplexed microsatellite markers
-m: Metarhizium species
+r: Metarhizium species

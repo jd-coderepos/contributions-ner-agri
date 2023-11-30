@@ -1,6 +1,6 @@
 Extraction and activity of polyphenoloxidase and peroxidase from senescing leaves of Protea neriifoiia
 
 p: Extraction and activity
-m: polyphenoloxidase
-m: peroxidase
-m: senescing leaves of Protea neriifoiia
+r: polyphenoloxidase
+r: peroxidase
+r: senescing leaves of Protea neriifoiia

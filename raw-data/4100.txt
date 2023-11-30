@@ -2,6 +2,6 @@ Antimycobacterial activity of ellagitannin and ellagic acid derivate rich crude 
 
 rp: Antimycobacterial activity
 rp: treatment of infectious diseases
-m: ellagitannin and ellagic acid derivate rich crude extracts
-m: fractions of five selected species of Terminalia
+r: ellagitannin and ellagic acid derivate rich crude extracts
+r: fractions of five selected species of Terminalia
 meth: African traditional medicine

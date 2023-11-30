@@ -1,6 +1,6 @@
 Associations between plant growth forms and surface rockiness explain plant diversity patterns across an Afro-montane grassland landscape
 
-m: plant growth forms
-m: surface rockiness
+r: plant growth forms
+r: surface rockiness
 rp: plant diversity patterns
 loc: Afro-montane grassland landscape

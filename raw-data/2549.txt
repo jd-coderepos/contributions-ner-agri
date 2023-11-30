@@ -1,6 +1,6 @@
 Growth and foliar nutrition of Spiraea alba Du Roi and Spiraea tomentosa L. in response to root zone pH
 
 rp: Growth and foliar nutrition
-m: Spiraea alba Du Roi
-m: Spiraea tomentosa L.
-m: root zone pH
+r: Spiraea alba Du Roi
+r: Spiraea tomentosa L.
+r: root zone pH

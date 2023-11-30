@@ -2,4 +2,4 @@ Morphometric analysis of vegetative characters of Encephalartos woodii, E. natal
 
 meth: Morphometric analysis
 rp: vegetative characters
-m: Encephalartos woodii, E. natalensis
+r: Encephalartos woodii, E. natalensis

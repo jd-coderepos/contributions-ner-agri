@@ -2,5 +2,5 @@ Occurrence and seasonality of internal parasite infection in elephants, Loxodont
 
 p: Occurrence and seasonality
 rp: internal parasite infection
-m: elephants, Loxodonta africana
+r: elephants, Loxodonta africana
 loc: Okavango Delta, Botswana

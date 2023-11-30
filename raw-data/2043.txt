@@ -1,5 +1,5 @@
 Uncovering the cycad taxa (Encephalartos species) traded for traditional medicine in Johannesburg and Durban, South Africa
 
-m: cycad taxa (Encephalartos species)
+r: cycad taxa (Encephalartos species)
 rp: traditional medicine
 loc: Johannesburg and Durban, South Africa

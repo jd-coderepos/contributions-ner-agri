@@ -1,4 +1,4 @@
-Dynamics of some forests in Kwa Zulu-Natal, South Africa, based on ordinations and size-class distributions 
+Dynamics of some forests in Kwa Zulu-Natal, South Africa, based on ordinations and size-class distributions
 
 loc: forests in Kwa Zulu-Natal, South Africa
 p: ordinations

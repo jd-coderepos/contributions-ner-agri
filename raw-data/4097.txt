@@ -1,7 +1,7 @@
 Impact of genotype, plant growth regulators and activated charcoal on embryogenesis induction in microspore culture of pepper (Capsicum annuum L.)
 
-m: genotype
-m: plant growth regulators
-m: activated charcoal
+r: genotype
+r: plant growth regulators
+r: activated charcoal
 rp: embryogenesis induction
-m: microspore culture of pepper (Capsicum annuum L.)
+r: microspore culture of pepper (Capsicum annuum L.)

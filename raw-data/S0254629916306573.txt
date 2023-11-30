@@ -1,5 +1,5 @@
 Cytogenetic studies in the genus Tribolium (Poaceae: Danthonieae). III. Section Tribolium
 
-m: genus Tribolium (Poaceae: Danthonieae)
+r: genus Tribolium (Poaceae: Danthonieae)
 rp: Cytogenetic studies
-m: Section Tribolium
+r: Section Tribolium

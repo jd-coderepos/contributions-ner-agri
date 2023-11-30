@@ -2,4 +2,4 @@ RAPD assessment of clonal identity of somatic seedlings derived from vegetative 
 
 meth: RAPD assessment
 rp: clonal identity of somatic seedlings
-m: vegetative shoot apices of mature Pinus patula trees
+r: vegetative shoot apices of mature Pinus patula trees

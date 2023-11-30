@@ -2,5 +2,5 @@ Endemic type of animal trypanosomiasis is not associated with lower genotype var
 
 p: animal trypanosomiasis
 p: lower genotype variability
-m: Trypanosoma congolense isolates circulating in livestock
+r: Trypanosoma congolense isolates circulating in livestock
 f: Endemic type of animal trypanosomiasis is not associated with lower genotype variability of Trypanosoma congolense isolates circulating in livestock

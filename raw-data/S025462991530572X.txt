@@ -1,4 +1,4 @@
-The generic status of Oxyanthus gossweileri (Rubiaceae) from Angola 
+The generic status of Oxyanthus gossweileri (Rubiaceae) from Angola
 
-m: Oxyanthus gossweileri (Rubiaceae)
+r: Oxyanthus gossweileri (Rubiaceae)
 loc: Angola

@@ -2,4 +2,4 @@ Dynamics of floret development determining differences in spike fertility in an 
 
 rp: floret development
 p: spike fertility
-m: elite population of wheat
+r: elite population of wheat

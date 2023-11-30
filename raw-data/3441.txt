@@ -1,4 +1,4 @@
 Flowers of the Natal Drakensberg The lily, iris and orchid families and their allies
 
 loc: Natal Drakensberg
-m: lily, iris and orchid families and their allies
+r: lily, iris and orchid families and their allies

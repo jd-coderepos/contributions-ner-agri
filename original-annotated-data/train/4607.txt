@@ -1,5 +1,5 @@
 Tc-cAPX, a cytosolic ascorbate peroxidase of Theobroma cacao L. engaged in the interaction with Moniliophthora perniciosa, the causing agent of witches' broom disease
 
-m: Tc-cAPX, a cytosolic ascorbate peroxidase of Theobroma cacao L.
-m: Moniliophthora perniciosa
+r: Tc-cAPX, a cytosolic ascorbate peroxidase of Theobroma cacao L.
+r: Moniliophthora perniciosa
 rp: witches' broom disease

@@ -1,4 +1,4 @@
 The major alkaloids of the genus Argyrolobium
 
-m: genus Argyrolobium
+r: genus Argyrolobium
 rp: major alkaloids

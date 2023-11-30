@@ -1,5 +1,5 @@
-Azolla filiculoides as a biofertiliser of wheat under dry-land soil conditions 
+Azolla filiculoides as a biofertiliser of wheat under dry-land soil conditions
 
 meth: dry-land soil conditions
-m: Azolla filiculoides
+r: Azolla filiculoides
 rp: biofertiliser of wheat

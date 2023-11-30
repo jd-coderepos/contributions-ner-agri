@@ -1,5 +1,5 @@
-Headspace volatiles of the edible fruit pulp of Parinari curatellifolia growing in Malawi using solid phase microextraction 
+Headspace volatiles of the edible fruit pulp of Parinari curatellifolia growing in Malawi using solid phase microextraction
 
-m: edible fruit pulp of Parinari curatellifolia
+r: edible fruit pulp of Parinari curatellifolia
 loc: Malawi
 meth: solid phase microextraction

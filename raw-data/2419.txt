@@ -1,5 +1,5 @@
 Ecological status of grass species in the red turfveld of the Springbok Flats Turf Thornveld, Transvaal
 
 rp: Ecological status
-m: grass species
+r: grass species
 loc: red turfveld of the Springbok Flats Turf Thornveld, Transvaal

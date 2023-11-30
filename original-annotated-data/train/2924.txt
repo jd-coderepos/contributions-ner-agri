@@ -1,6 +1,6 @@
 Infection of the cones and seeds of Welwitschia mirabilis by Aspergillus niger var. phoenicis in the Namib-Naukluft Park
 
 rp: Infection of the cones and seeds
-m: Welwitschia mirabilis
-m: Aspergillus niger var. phoenicis
+r: Welwitschia mirabilis
+r: Aspergillus niger var. phoenicis
 loc: Namib-Naukluft Park

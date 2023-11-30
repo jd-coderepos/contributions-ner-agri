@@ -1,6 +1,6 @@
-Ethnobotany, phytochemistry and pharmacology of Podocarpus sensu latissimo (s.l.) 
+Ethnobotany, phytochemistry and pharmacology of Podocarpus sensu latissimo (s.l.)
 
 rp: Ethnobotany
 rp: phytochemistry
 rp: pharmacology
-m: Podocarpus sensu latissimo (s.l.)
+r: Podocarpus sensu latissimo (s.l.)

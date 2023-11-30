@@ -1,4 +1,4 @@
 An overview of the vegetation of the Vrede–Memel–Warden area, north-eastern Orange Free State
 
 loc: Vrede–Memel–Warden area, north-eastern Orange Free State
-m: vegetation
+r: vegetation

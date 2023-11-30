@@ -2,4 +2,4 @@ Early responses of Bassia diffusa (Thunb.) Kuntze to submergence for different s
 
 rp: salinity treatments
 meth: submergence
-m: Bassia diffusa (Thunb.) Kuntze
+r: Bassia diffusa (Thunb.) Kuntze

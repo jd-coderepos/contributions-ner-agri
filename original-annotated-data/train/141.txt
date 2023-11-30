@@ -1,5 +1,5 @@
 Effects of watering regime on growth and competitive ability of nursery-grown Cape fynbos and forest plants
 
 rp: watering regime
-m: nursery-grown Cape fynbos and forest plants
+r: nursery-grown Cape fynbos and forest plants
 p: growth and competitive ability

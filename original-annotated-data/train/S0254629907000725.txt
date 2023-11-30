@@ -1,5 +1,5 @@
-Down-regulation of neutral invertase activity in sugarcane cell suspension cultures leads to increased sucrose accumulation 
+Down-regulation of neutral invertase activity in sugarcane cell suspension cultures leads to increased sucrose accumulation
 
-m: sugarcane cell suspension cultures
+r: sugarcane cell suspension cultures
 meth: Down-regulation of neutral invertase activity
-f: Down-regulation of neutral invertase activity in sugarcane cell suspension cultures leads to increased sucrose accumulation 
+f: Down-regulation of neutral invertase activity in sugarcane cell suspension cultures leads to increased sucrose accumulation

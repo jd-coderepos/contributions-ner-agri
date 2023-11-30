@@ -1,7 +1,7 @@
 Effects of BA and TDZ on postharvest quality and expression of laccase and aquaporin genes in cut rose ‘Sparkle’
 
-m: BA
-m: TDZ
-m: cut rose ‘Sparkle’
+r: BA
+r: TDZ
+r: cut rose ‘Sparkle’
 rp: postharvest quality
 rp: expression of laccase and aquaporin genes

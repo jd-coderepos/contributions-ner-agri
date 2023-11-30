@@ -1,4 +1,4 @@
 Comparative study on proximate, functional, mineral and anti-nutrient composition of fermented, defatted and protein isolate of Parkia biglobosa seed
 
 p: proximate, functional, mineral and anti-nutrient composition
-m: fermented, defatted and protein isolate of Parkia biglobosa seed
+r: fermented, defatted and protein isolate of Parkia biglobosa seed

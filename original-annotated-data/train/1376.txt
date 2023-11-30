@@ -1,5 +1,5 @@
 The effects of cryopreservation of recalcitrant excised Amaryllis belladonna embryonic axes on the vigour of recovered seedlings
 
 meth: cryopreservation
-m: recalcitrant excised Amaryllis belladonna embryonic axes
+r: recalcitrant excised Amaryllis belladonna embryonic axes
 rp: vigour of recovered seedlings

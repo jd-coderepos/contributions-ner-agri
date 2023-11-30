@@ -1,4 +1,4 @@
 Optimising heavy metal adsorbance by dried seaweeds
 
 rp: Optimising heavy metal adsorbance
-m: dried seaweeds
+r: dried seaweeds

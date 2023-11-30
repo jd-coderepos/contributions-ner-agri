@@ -1,5 +1,5 @@
 Studies in Cyperaceae in southern Africa: II. A new species of Fuirena Rottb.
 
-m: Cyperaceae
+r: Cyperaceae
 loc: southern Africa
 f: A new species of Fuirena Rottb.

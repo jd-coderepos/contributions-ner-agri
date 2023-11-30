@@ -1,7 +1,7 @@
-Stump harvesting in Picea abies stands: Soil surface disturbance and biomass distribution of the harvested stumps and roots 
+Stump harvesting in Picea abies stands: Soil surface disturbance and biomass distribution of the harvested stumps and roots
 
 rp: Stump harvesting
-m: Picea abies stands
+r: Picea abies stands
 p: Soil surface disturbance
 p: biomass distribution
-m: harvested stumps and roots
+r: harvested stumps and roots

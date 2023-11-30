@@ -2,5 +2,5 @@ A comparison of the antimicrobial activity and in vitro toxicity of a medicinall
 
 p: antimicrobial activity
 p: in vitro toxicity
-m: medicinally useful biotype of invasive Chromolaena odorata (Asteraceae)
+r: medicinally useful biotype of invasive Chromolaena odorata (Asteraceae)
 meth: traditional medicine

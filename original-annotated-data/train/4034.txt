@@ -1,5 +1,5 @@
 Inhibitory effect of lemongrass oil and its major constituents on Candida biofilm and germ tube formation
 
 rp: Inhibitory effect of lemongrass oil and its major constituents
-m: Candida biofilm
+r: Candida biofilm
 p: germ tube formation

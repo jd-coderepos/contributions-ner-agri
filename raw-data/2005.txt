@@ -1,7 +1,7 @@
 Woody vegetation structure in conserved versus communal land in a biodiversity hotspot: A case study in Maputaland, South Africa
 
 rp: Woody vegetation structure
-m: conserved versus communal land
-m: biodiversity hotspot
+r: conserved versus communal land
+r: biodiversity hotspot
 loc: Maputaland, South Africa
 meth: case study

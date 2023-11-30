@@ -1,5 +1,5 @@
 Phytoremediation of cadmium-contaminated soils using Leonotis leonurus
 
 rp: Phytoremediation
-m: cadmium-contaminated soils
-m: Leonotis leonurus
+r: cadmium-contaminated soils
+r: Leonotis leonurus

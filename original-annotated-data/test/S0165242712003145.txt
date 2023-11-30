@@ -1,5 +1,5 @@
-Potential evidence for biotype-specific chemokine profile following BVDV infection of bovine macrophages 
+Potential evidence for biotype-specific chemokine profile following BVDV infection of bovine macrophages
 
-m: biotype-specific chemokine profile
-m: bovine macrophages
+r: biotype-specific chemokine profile
+r: bovine macrophages
 rp: BVDV infection

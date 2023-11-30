@@ -4,4 +4,4 @@ p: Sodium nitroprusside, ferricyanide, nitrite and nitrate decrease
 p: thermo-dormancy
 rp: lettuce seed germination
 meth: nitric oxide-dependent manner
-m: light
+r: light

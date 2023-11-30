@@ -1,4 +1,4 @@
 Fungal endophytes in germinated seeds of the common bean, Phaseolus vulgaris
 
 rp: Fungal endophytes
-m: germinated seeds of the common bean, Phaseolus vulgaris
+r: germinated seeds of the common bean, Phaseolus vulgaris

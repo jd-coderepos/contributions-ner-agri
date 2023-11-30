@@ -1,7 +1,7 @@
 Glycinebetaine, an osmolyte of interest to improve water stress tolerance in sunflower (Helianthus annuus L.): water relations and yield
 
-m: Glycinebetaine
+r: Glycinebetaine
 rp: water stress tolerance
-m: sunflower (Helianthus annuus L.)
+r: sunflower (Helianthus annuus L.)
 p: water relations
 p: yield

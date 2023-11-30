@@ -1,4 +1,4 @@
 Study on solids translational and rotational motions in rotating cans
 
 rp: solids translational and rotational motions
-m: rotating cans
+r: rotating cans

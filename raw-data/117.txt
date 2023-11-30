@@ -1,4 +1,4 @@
 A chemotaxonomic reappraisal of the Section Ciconium Pelargonium (Geraniaceae)
 
 meth: chemotaxonomic reappraisal
-m: Section Ciconium Pelargonium (Geraniaceae)
+r: Section Ciconium Pelargonium (Geraniaceae)

@@ -1,6 +1,6 @@
 The immune-enhancing activity of Cervus nippon mantchuricus extract (NGE) in RAW264.7 macrophage cells and immunosuppressed mice
 
 rp: immune-enhancing activity
-m: Cervus nippon mantchuricus extract (NGE)
-m: RAW264.7 macrophage cells
-m: immunosuppressed mice
+r: Cervus nippon mantchuricus extract (NGE)
+r: RAW264.7 macrophage cells
+r: immunosuppressed mice

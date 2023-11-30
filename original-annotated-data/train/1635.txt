@@ -2,4 +2,4 @@ Rethinking inspection in slaughterhouses: Opportunities and challenges arising f
 
 rp: inspection in slaughterhouses
 t: shared risk management system
-m: poultry slaughterhouses
+r: poultry slaughterhouses

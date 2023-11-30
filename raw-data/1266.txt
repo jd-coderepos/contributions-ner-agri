@@ -1,5 +1,5 @@
 Influence of lactococcal surface properties on cell retention and distribution in cheese curd
 
-m: lactococcal surface properties
+r: lactococcal surface properties
 rp: cell retention and distribution
-m: cheese curd
+r: cheese curd

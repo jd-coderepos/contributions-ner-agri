@@ -1,4 +1,4 @@
 Evaluation of nine South African medicinal plants against attenuated Bacillus anthracis strain
 
-m: nine South African medicinal plants
-m: attenuated Bacillus anthracis strain
+r: nine South African medicinal plants
+r: attenuated Bacillus anthracis strain

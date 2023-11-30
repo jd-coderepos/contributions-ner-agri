@@ -1,5 +1,5 @@
 Seed germination and cryostorage of Musa acuminata subsp. burmannica from Western Ghats
 
 rp: Seed germination and cryostorage
-m: Musa acuminata subsp. burmannica
+r: Musa acuminata subsp. burmannica
 loc: Western Ghats

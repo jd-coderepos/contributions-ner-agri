@@ -1,4 +1,4 @@
 Breeding Research on Aromatic and Medicinal Plants
 
 rp: Breeding Research
-m: Aromatic and Medicinal Plants
+r: Aromatic and Medicinal Plants

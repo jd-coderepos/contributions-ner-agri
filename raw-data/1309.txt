@@ -1,5 +1,5 @@
 Decomposition of beech (Fagus sylvatica) and pine (Pinus nigra) litter along an Alpine elevation gradient: Decay and nutrient release
 
 rp: Decomposition of beech (Fagus sylvatica) and pine (Pinus nigra) litter
-m: Alpine elevation gradient
+r: Alpine elevation gradient
 p: Decay and nutrient release

@@ -1,5 +1,5 @@
 Natural history and information overload: The case of Linnaeus
 
-m: Linnaeus
+r: Linnaeus
 rp: Natural history
 p: information overload

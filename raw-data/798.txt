@@ -1,6 +1,6 @@
 Pursuing imazapyr herbicide tolerance in sugarcane: Screening plants produced in vitro through somaclonal variation and mutagenesis
 
 rp: imazapyr herbicide tolerance
-m: sugarcane
+r: sugarcane
 p: somaclonal variation and mutagenesis
 meth: Screening plants produced in vitro

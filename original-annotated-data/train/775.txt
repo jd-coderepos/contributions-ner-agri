@@ -2,4 +2,4 @@ Pollination biology and fecundity differences in rare and common members of the 
 
 rp: Pollination biology
 rp: fecundity differences
-m: rare and common members of the Apocynaceae
+r: rare and common members of the Apocynaceae

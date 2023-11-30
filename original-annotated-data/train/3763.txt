@@ -1,5 +1,5 @@
 Metapopulation inbreeding dynamics, effective size and subpopulation differentiation—A general analytical approach for diploid organisms
 
-m: diploid organisms
+r: diploid organisms
 rp: Metapopulation inbreeding dynamics, effective size and subpopulation differentiation
 meth: analytical approach

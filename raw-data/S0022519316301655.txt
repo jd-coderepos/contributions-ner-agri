@@ -1,4 +1,4 @@
-The steady-state assumption in oscillating and growing systems 
+The steady-state assumption in oscillating and growing systems
 
 rp: steady-state assumption
-m: oscillating and growing systems
+r: oscillating and growing systems

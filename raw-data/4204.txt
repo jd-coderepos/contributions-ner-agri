@@ -1,6 +1,6 @@
 Effect of storage on antibacterial and COX-1 anti-inflammatory activity of three plants used as traditional medicines in Lesotho
 
 rp: antibacterial and COX-1 anti-inflammatory activity
-m: three plants
+r: three plants
 p: traditional medicines
 loc: Lesotho

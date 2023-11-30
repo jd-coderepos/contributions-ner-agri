@@ -1,8 +1,8 @@
-Non-destructive analysis of sucrose, caffeine and trigonelline on single green coffee beans by hyperspectral imaging 
+Non-destructive analysis of sucrose, caffeine and trigonelline on single green coffee beans by hyperspectral imaging
 
-m: single green coffee beans
+r: single green coffee beans
 t: hyperspectral imaging
 meth: Non-destructive analysis
-m: sucrose
-m: caffeine
-m: trigonelline
+r: sucrose
+r: caffeine
+r: trigonelline

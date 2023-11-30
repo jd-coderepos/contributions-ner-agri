@@ -1,7 +1,7 @@
 Studies in Cyperaceae in southern Africa 22: spikelet structure in African species of Carpha R.Br.
 
-m: Cyperaceae
-m: African species
+r: Cyperaceae
+r: African species
 loc: southern Africa
 loc: Carpha R.Br.
 rp: spikelet structure

@@ -1,4 +1,4 @@
 A new Disa species (Orchidaceae) from the southern Cape
 
-m: Disa species (Orchidaceae)
+r: Disa species (Orchidaceae)
 loc: southern Cape

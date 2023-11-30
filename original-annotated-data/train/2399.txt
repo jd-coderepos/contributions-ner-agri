@@ -1,4 +1,4 @@
 A revised list of South African Erysiphaceae (powdery mildews) and their host plants
 
-m: South African Erysiphaceae (powdery mildews) and their host plants
+r: South African Erysiphaceae (powdery mildews) and their host plants
 meth: revised list

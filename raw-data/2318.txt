@@ -1,5 +1,5 @@
 Litter production in three mangrove stands of Mida Creek, Kenya
 
 rp: Litter production
-m: mangrove stands
+r: mangrove stands
 loc: Mida Creek, Kenya

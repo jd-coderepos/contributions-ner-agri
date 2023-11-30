@@ -1,4 +1,4 @@
 Understanding glycation kinetics of individual peptides in protein hydrolysates
 
 rp: glycation kinetics
-m: individual peptides in protein hydrolysates
+r: individual peptides in protein hydrolysates

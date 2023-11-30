@@ -3,5 +3,5 @@ Linking root traits to superior phosphorus uptake and utilization efficiency in 
 rp: root traits
 p: phosphorus uptake
 p: utilization efficiency
-m: Fabales
+r: Fabales
 loc: Core Cape Subregion, South Africa

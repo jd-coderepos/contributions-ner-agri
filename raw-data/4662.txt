@@ -2,4 +2,4 @@ Improved DNA/protein delivery in microalgae – A simple and reliable method for
 
 rp: DNA/protein delivery
 rp: prediction of optimal electroporation settings
-m: microalgae
+r: microalgae

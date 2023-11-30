@@ -1,5 +1,5 @@
 The use of plants in traditional medicine: potential genotoxic risks
 
-m: plants
+r: plants
 rp: traditional medicine
 p: potential genotoxic risks

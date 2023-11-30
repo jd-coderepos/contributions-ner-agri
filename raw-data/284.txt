@@ -3,5 +3,5 @@ Seed production, seed banks and post-clearing resprouting of bugweed (Solanum ma
 rp: Seed production
 rp: seed banks
 rp: post-clearing resprouting
-m: bugweed (Solanum mauritianum)
+r: bugweed (Solanum mauritianum)
 loc: South Africa

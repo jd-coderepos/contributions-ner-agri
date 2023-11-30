@@ -1,5 +1,5 @@
 Cytogenetic studies in the genus Tribolium (Poaceae: Danthonieae) I. A taxonomical overview
 
 meth: Cytogenetic studies
-m: genus Tribolium (Poaceae: Danthonieae)
+r: genus Tribolium (Poaceae: Danthonieae)
 rp: taxonomical overview

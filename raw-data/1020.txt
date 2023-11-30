@@ -1,7 +1,7 @@
 Subunit vaccines based on intimin and Efa-1 polypeptides induce humoral immunity in cattle but do not protect against intestinal colonisation by enterohaemorrhagic Escherichia coli O157:H7 or O26:H-
 
 rp: humoral immunity in cattle
-m: Subunit vaccines
-m: intimin and Efa-1 polypeptides
+r: Subunit vaccines
+r: intimin and Efa-1 polypeptides
 rp: intestinal colonisation
-m: enterohaemorrhagic Escherichia coli O157:H7 or O26:H-
+r: enterohaemorrhagic Escherichia coli O157:H7 or O26:H-

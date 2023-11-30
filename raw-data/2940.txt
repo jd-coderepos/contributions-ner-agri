@@ -1,4 +1,4 @@
 Difficulties encountered during the micropropagation of Boophone disticha (L.f.) Herb (Amaryllidaceae)
 
 meth: micropropagation
-m: Boophone disticha (L.f.) Herb (Amaryllidaceae)
+r: Boophone disticha (L.f.) Herb (Amaryllidaceae)

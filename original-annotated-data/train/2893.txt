@@ -1,4 +1,4 @@
 What is an optimal site for seedling establishment?
 
-m: optimal site
+r: optimal site
 rp: seedling establishment

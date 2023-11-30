@@ -1,4 +1,4 @@
 The hydrophilic vegetation of the Vredefort – Kroonstad – Lindley – Heilbron area, northern Orange Free State
 
-m: hydrophilic vegetation
+r: hydrophilic vegetation
 loc: Vredefort – Kroonstad – Lindley – Heilbron area, northern Orange Free State

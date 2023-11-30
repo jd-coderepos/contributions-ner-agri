@@ -1,4 +1,4 @@
 Development and characterization of genomic microsatellite markers in Prosopis cineraria
 
 rp: genomic microsatellite markers
-m: Prosopis cineraria
+r: Prosopis cineraria

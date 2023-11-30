@@ -1,5 +1,5 @@
 Some biochemical properties of cytokinin oxidase/dehydrogenase in Cucurbita pepo L. (zucchini) leaves
 
-m: Cucurbita pepo L. (zucchini) leaves
-m: cytokinin oxidase/dehydrogenase
+r: Cucurbita pepo L. (zucchini) leaves
+r: cytokinin oxidase/dehydrogenase
 rp: biochemical properties

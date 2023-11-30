@@ -2,4 +2,4 @@ Nama-karoo veld types revisited: a numerical analysis of original Acocks’ fiel
 
 rp: Nama-karoo veld types
 meth: numerical analysis
-m: original Acocks’ field data
+r: original Acocks’ field data

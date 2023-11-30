@@ -1,5 +1,5 @@
 Responses of the mangrove Rhizophora mucronata to high salinities and low osmotic potentials
 
 rp: Responses of the mangrove Rhizophora mucronata
-m: high salinities
+r: high salinities
 p: low osmotic potentials

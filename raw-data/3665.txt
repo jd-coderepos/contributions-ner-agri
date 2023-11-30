@@ -2,5 +2,5 @@ A Host KH RNA-Binding Protein Is a Susceptibility Factor Targeted by an RXLR Eff
 
 p: Late Blight Disease
 meth: RXLR Effector
-m: Host KH RNA-Binding Protein
+r: Host KH RNA-Binding Protein
 p: Susceptibility Factor

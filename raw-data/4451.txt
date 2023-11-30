@@ -1,4 +1,4 @@
 Seed germination of Hypoxis hemerocallidea
 
 rp: Seed germination
-m: Hypoxis hemerocallidea
+r: Hypoxis hemerocallidea

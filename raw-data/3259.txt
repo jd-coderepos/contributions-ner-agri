@@ -2,4 +2,4 @@ Antibacterial activity and isolation of active compounds from fruit of the tradi
 
 rp: Antibacterial activity
 rp: isolation of active compounds
-m: fruit of the traditional African medicinal tree Kigelia africana
+r: fruit of the traditional African medicinal tree Kigelia africana

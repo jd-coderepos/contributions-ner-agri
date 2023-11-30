@@ -3,4 +3,4 @@ Energy conversion, redox catalysis and generation of reactive oxygen species by 
 rp: Energy conversion
 rp: redox catalysis
 rp: generation of reactive oxygen species
-m: respiratory complex I
+r: respiratory complex I

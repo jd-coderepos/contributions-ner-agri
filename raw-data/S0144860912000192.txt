@@ -1,5 +1,5 @@
-Impact of depuration of earthy-musty off-flavors on fillet quality of Atlantic salmon, Salmo salar, cultured in a recirculating aquaculture system 
+Impact of depuration of earthy-musty off-flavors on fillet quality of Atlantic salmon, Salmo salar, cultured in a recirculating aquaculture system
 
 rp: fillet quality of Atlantic salmon, Salmo salar
-m: recirculating aquaculture system
+r: recirculating aquaculture system
 p: depuration of earthy-musty off-flavors

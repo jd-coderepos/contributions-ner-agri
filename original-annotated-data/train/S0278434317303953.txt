@@ -3,5 +3,5 @@ Genetic diversity pattern of microeukaryotic communities and its relationship wi
 loc: Dongshan Bay, southeast China
 meth: PCR-DGGE
 meth: T-RFLP
-m: microeukaryotic communities
+r: microeukaryotic communities
 rp: Genetic diversity pattern

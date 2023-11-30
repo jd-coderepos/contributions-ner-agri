@@ -1,5 +1,5 @@
 Characterization of quaternary ammonium compounds in Flourensia xerophytic communities and response to UV-B radiation
 
-m: quaternary ammonium compounds
-m: Flourensia xerophytic communities
+r: quaternary ammonium compounds
+r: Flourensia xerophytic communities
 p: UV-B radiation

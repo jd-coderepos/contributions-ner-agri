@@ -1,5 +1,5 @@
 The prevalence and perceived efficacy of medicinal plants used for stomach ailments in the Amathole District Municipality, Eastern Cape, South Africa
 
-m: medicinal plants
+r: medicinal plants
 rp: stomach ailments
 loc: Amathole District Municipality, Eastern Cape, South Africa

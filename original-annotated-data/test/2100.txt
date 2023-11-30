@@ -1,4 +1,4 @@
 RAPD and SSR genetic diversity analysis of Moringa oleifera
 
 rp: RAPD and SSR genetic diversity analysis
-m: Moringa oleifera
+r: Moringa oleifera

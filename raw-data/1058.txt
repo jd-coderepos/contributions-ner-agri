@@ -1,6 +1,6 @@
 Chemical diversity of floral volatiles in Apocynaceae with different pollination systems
 
 rp: Chemical diversity
-m: floral volatiles
-m: Apocynaceae
+r: floral volatiles
+r: Apocynaceae
 p: pollination systems

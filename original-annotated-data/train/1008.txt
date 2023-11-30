@@ -1,6 +1,6 @@
 Seed germination in Citrullus lanatus. Part 2. The involvement of phytochrome and ethylene in controlling light sensitivity
 
 rp: Seed germination
-m: Citrullus lanatus.
-m: phytochrome and ethylene
+r: Citrullus lanatus.
+r: phytochrome and ethylene
 p: light sensitivity

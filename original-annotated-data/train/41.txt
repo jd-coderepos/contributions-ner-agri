@@ -2,5 +2,5 @@ Preventing flower abscission in potted Plectranthus plants and discovery of diff
 
 rp: Preventing flower abscission
 p: differential regulation
-m: potted Plectranthus plants
+r: potted Plectranthus plants
 meth: dark-induced abscission

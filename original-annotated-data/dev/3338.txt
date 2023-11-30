@@ -1,5 +1,5 @@
 Systematics of the southern African genus Ixia L. (Iridaceae): 5. Synopsis of section Ixia, including five new species
 
 meth: Systematics
-m: southern African genus Ixia L. (Iridaceae)
-m: section Ixia, including five new species
+r: southern African genus Ixia L. (Iridaceae)
+r: section Ixia, including five new species

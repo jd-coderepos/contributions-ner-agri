@@ -2,4 +2,4 @@ A comparison of direct (flow cytometry) and indirect (stomatal guard cell length
 
 p: direct (flow cytometry) and indirect (stomatal guard cell lengths and chloroplast numbers) techniques
 rp: measure of ploidy
-m: black wattle, Acacia mearnsii (de Wild)
+r: black wattle, Acacia mearnsii (de Wild)

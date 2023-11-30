@@ -2,5 +2,5 @@ Edible oleogels for the oral delivery of lipid soluble molecules: Composition an
 
 s: Edible oleogels
 meth: oral delivery
-m: lipid soluble molecules
+r: lipid soluble molecules
 p: Composition and structural design considerations

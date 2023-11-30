@@ -1,6 +1,6 @@
 Ethnobotanical profile of medicinal plants used in the treatment of toothache in the Blouberg Local Municipality, Limpopo Province, South Africa
 
-m: Ethnobotanical profile
+r: Ethnobotanical profile
 rp: treatment of toothache
-m: medicinal plants
+r: medicinal plants
 loc: Blouberg Local Municipality, Limpopo Province, South Africa

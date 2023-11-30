@@ -2,7 +2,7 @@ Intraspecific variation in sensitivity to ultraviolet-B radiation in endogenous 
 
 rp: Intraspecific variation in sensitivity
 p: ultraviolet-B radiation
-m: endogenous hormones
+r: endogenous hormones
 rp: photosynthetic characteristics
-m: 10 wheat cultivars
+r: 10 wheat cultivars
 meth: field conditions

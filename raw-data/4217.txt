@@ -1,6 +1,6 @@
 Evaluation of induced polyploidy in Acacia mearnsii through stomatal counts and guard cell measurements
 
 rp: Evaluation of induced polyploidy
-m: Acacia mearnsii
+r: Acacia mearnsii
 meth: stomatal counts
 meth: guard cell measurements

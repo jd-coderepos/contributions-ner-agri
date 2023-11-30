@@ -2,6 +2,6 @@ Modelling twentieth century global ocean circulation and iceberg flux at 48°N: 
 
 p: global ocean circulation
 p: iceberg flux
-m: 48°N
+r: 48°N
 loc: west Greenland
 rp: iceberg discharge

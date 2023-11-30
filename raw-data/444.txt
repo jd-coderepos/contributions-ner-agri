@@ -1,7 +1,7 @@
 Ethnobotanical survey of medicinal plants prescribed by traditional healers for the treatment of chest and coughing related diseases in the Eastern Cape
 
 rp: Ethnobotanical survey
-m: medicinal plants
-m: traditional healers
+r: medicinal plants
+r: traditional healers
 loc: Eastern Cape
 rp: treatment of chest and coughing related diseases

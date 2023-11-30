@@ -1,6 +1,6 @@
 First record of pollination in the Afro-Eurasian Dipcadi Medik. (Hyacinthaceae): pollination of D. brevifoliumi by the owlet moth Syngrapha circumflexa (Noctuidae)
 
 rp: pollination
-m: Afro-Eurasian Dipcadi Medik. (Hyacinthaceae)
-m: owlet moth Syngrapha circumflexa (Noctuidae)
-m: D. brevifoliumi
+r: Afro-Eurasian Dipcadi Medik. (Hyacinthaceae)
+r: owlet moth Syngrapha circumflexa (Noctuidae)
+r: D. brevifoliumi

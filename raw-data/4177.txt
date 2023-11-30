@@ -1,6 +1,6 @@
 Z-venusol, from Gunnera perpensa, induces apoptotic cell death in breast cancer cells in vitro
 
-m: Z-venusol, from Gunnera perpensa
-m: breast cancer cells
+r: Z-venusol, from Gunnera perpensa
+r: breast cancer cells
 p: apoptotic cell death
 meth: in vitro

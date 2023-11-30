@@ -2,4 +2,4 @@ Identifying inhibitory effects of lignocellulosic by-products on growth of lacti
 
 meth: rapid small-scale screening method
 rp: inhibitory effects of lignocellulosic by-products
-m: lactic acid producing micro-organisms
+r: lactic acid producing micro-organisms

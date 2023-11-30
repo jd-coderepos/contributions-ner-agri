@@ -1,5 +1,5 @@
 Space and habitat use by wild Bactrian camels in the Transaltai Gobi of southern Mongolia
 
 rp: Space and habitat use
-m: wild Bactrian camels
+r: wild Bactrian camels
 loc: Transaltai Gobi of southern Mongolia

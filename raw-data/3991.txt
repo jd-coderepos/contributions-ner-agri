@@ -2,6 +2,6 @@ Validating the in vitro antimicrobial activity of Artemisia afra in polyherbal c
 
 meth: in vitro
 rp: antimicrobial activity
-m: Artemisia afra
-m: polyherbal combinations
+r: Artemisia afra
+r: polyherbal combinations
 p: respiratory infections

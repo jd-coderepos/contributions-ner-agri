@@ -1,6 +1,6 @@
 Nutritional value of toasted pea , Cajanus seed and its utilization in the diet of Clarias gariepinus (Burchell, fingerlings
 
 rp: Nutritional value
-m: toasted pea
-m: Cajanus seed
-m: Clarias gariepinus (Burchell, fingerlings
+r: toasted pea
+r: Cajanus seed
+r: Clarias gariepinus (Burchell, fingerlings

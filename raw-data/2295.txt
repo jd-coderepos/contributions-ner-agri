@@ -1,3 +1,3 @@
 Endophyllum osteospermi, a new combination for Aecidium osteospermi (Basidiomycetes - Uredinales - Pucciniaceae)
 
-m: Aecidium osteospermi (Basidiomycetes - Uredinales - Pucciniaceae)
+r: Aecidium osteospermi (Basidiomycetes - Uredinales - Pucciniaceae)

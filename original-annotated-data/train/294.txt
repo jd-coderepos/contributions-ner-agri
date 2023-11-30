@@ -1,6 +1,6 @@
 A gene of unknown function, specifically found in seeds, is upregulated during desiccation in vegetative tissues of Xerophyta humilis
 
-p: upregulated 
+p: upregulated
 meth: desiccation
-m: vegetative tissues of Xerophyta humilis
+r: vegetative tissues of Xerophyta humilis
 f: A gene of unknown function, specifically found in seeds, is upregulated during desiccation in vegetative tissues of Xerophyta humilis

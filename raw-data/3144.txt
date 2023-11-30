@@ -2,4 +2,4 @@ A review of factors associated with decline and death of mangroves, with particu
 
 meth: review of factors
 rp: decline and death of mangroves
-m: fungal pathogens
+r: fungal pathogens

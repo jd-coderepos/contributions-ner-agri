@@ -2,4 +2,4 @@ Can neap-spring tidal cycles modulate biogeochemical fluxes in the abyssal near-
 
 rp: neap-spring tidal cycles
 p: biogeochemical fluxes
-m: abyssal near-seafloor water column
+r: abyssal near-seafloor water column

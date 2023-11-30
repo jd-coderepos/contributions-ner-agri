@@ -3,4 +3,4 @@ Morphological changes and the associated fungal colonization during decompositio
 rp: Morphological changes
 rp: fungal colonization
 p: decomposition of leaves of a mangrove
-m: Bruguiera gymnorrhiza (Rhizophoraceae)
+r: Bruguiera gymnorrhiza (Rhizophoraceae)

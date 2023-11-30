@@ -1,5 +1,5 @@
 Consumer acceptance of insect-based foods in the Netherlands: Academic and commercial implications
 
 rp: Consumer acceptance
-m: insect-based foods
+r: insect-based foods
 loc: Netherlands

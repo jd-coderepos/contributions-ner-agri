@@ -2,6 +2,6 @@ Chlorophyll fluorescence and CO2 assimilation of desiccation-tolerant cyanobacte
 
 rp: Chlorophyll fluorescence
 rp: CO2 assimilation
-m: desiccation-tolerant cyanobacterial crustaceous layer of tropical inselberg rock surfaces
+r: desiccation-tolerant cyanobacterial crustaceous layer of tropical inselberg rock surfaces
 p: one and four-year air-dried stage
 meth: rehydration

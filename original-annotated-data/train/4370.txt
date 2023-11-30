@@ -1,5 +1,5 @@
 Differences in response between nitrate- and ammonium-fed maize to salinity stress and its amelioration by potassium
 
 p: salinity stress
-m: nitrate- and ammonium-fed maize
+r: nitrate- and ammonium-fed maize
 meth: amelioration by potassium

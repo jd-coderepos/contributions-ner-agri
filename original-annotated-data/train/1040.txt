@@ -1,5 +1,5 @@
 How is carbon allocation of African Savanna trees affected by atmospheric CO2 change?
 
 p: carbon allocation
-m: African Savanna trees
+r: African Savanna trees
 rp: atmospheric CO2 change

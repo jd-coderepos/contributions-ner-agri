@@ -1,6 +1,6 @@
 The identification of the coralloid root endophytes of the southern African cycads and the ability of the isolates to fix dinitrogen
 
 rp: identification of the coralloid root endophytes
-m: southern African cycads
-m: isolates
+r: southern African cycads
+r: isolates
 p: fix dinitrogen

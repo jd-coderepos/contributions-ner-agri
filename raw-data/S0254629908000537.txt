@@ -1,4 +1,4 @@
 Breeding systems in African Lycium (Solanaceae)
 
 rp: Breeding systems
-m: African Lycium (Solanaceae)
+r: African Lycium (Solanaceae)

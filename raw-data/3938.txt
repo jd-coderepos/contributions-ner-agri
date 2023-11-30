@@ -1,5 +1,5 @@
 An overview of the biological properties of volatile compounds - examples from the South African flora
 
 rp: biological properties
-m: volatile compounds
-m: South African flora
+r: volatile compounds
+r: South African flora

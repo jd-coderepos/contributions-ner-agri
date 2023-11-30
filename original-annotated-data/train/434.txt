@@ -1,5 +1,5 @@
 Phytochemical and pharmacological evaluations of different organs of Scadoxus puniceus: Motivation for plant part substitution
 
-meth: Phytochemical and pharmacological evaluations 
-m: different organs of Scadoxus puniceus
+meth: Phytochemical and pharmacological evaluations
+r: different organs of Scadoxus puniceus
 rp: plant part substitution

@@ -1,4 +1,4 @@
 Coincidence of High Nature Value farmlands with bird and butterfly diversity
 
-m: High Nature Value farmlands
+r: High Nature Value farmlands
 rp: bird and butterfly diversity

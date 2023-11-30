@@ -1,6 +1,6 @@
 Water sources for cyanobacteria below desert rocks in the Negev Desert determined by conductivity
 
-m: Water sources
-m: cyanobacteria below desert rocks
+r: Water sources
+r: cyanobacteria below desert rocks
 loc: Negev Desert
 p: conductivity

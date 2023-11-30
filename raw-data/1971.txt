@@ -1,4 +1,4 @@
 Identifying trees on the East Coast of South Africa
 
-m: trees
+r: trees
 loc: East Coast of South Africa

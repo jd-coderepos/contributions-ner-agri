@@ -1,6 +1,6 @@
 Detecting threat to Encephalartos transvenosus (Limpopo cycad) in Limpopo Province in South Africa through the indigenous knowledge
 
 rp: Detecting threat
-m: Encephalartos transvenosus (Limpopo cycad)
+r: Encephalartos transvenosus (Limpopo cycad)
 loc: Limpopo Province in South Africa
-m: indigenous knowledge
+r: indigenous knowledge

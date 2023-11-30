@@ -1,5 +1,5 @@
 Hopliine beetle pollination in annual Wahlenbergia species (Campanulaceae) from western South Africa, and the new species W. melanops
 
 rp: Hopliine beetle pollination
-m: annual Wahlenbergia species (Campanulaceae)
+r: annual Wahlenbergia species (Campanulaceae)
 loc: western South Africa

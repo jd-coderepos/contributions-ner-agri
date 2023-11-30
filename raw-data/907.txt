@@ -1,4 +1,4 @@
 In vitro antifungal activity of some South African medicinal plants
 
 rp: In vitro antifungal activity
-m: South African medicinal plants
+r: South African medicinal plants

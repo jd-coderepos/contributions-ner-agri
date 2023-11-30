@@ -1,7 +1,7 @@
 Synergistic effects of dietary nano selenium and vitamin C on growth, feeding, and physiological parameters of mahseer fish (Tor putitora)
 
 rp: Synergistic effects
-m: dietary nano selenium
-m: vitamin C
-m: mahseer fish (Tor putitora)
+r: dietary nano selenium
+r: vitamin C
+r: mahseer fish (Tor putitora)
 p: growth, feeding, and physiological parameters

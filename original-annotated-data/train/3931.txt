@@ -2,4 +2,4 @@ What is the functional significance of leaf size reduction in phosphate impoveri
 
 p: functional significance
 rp: leaf size reduction
-m: phosphate impoverished habitats
+r: phosphate impoverished habitats

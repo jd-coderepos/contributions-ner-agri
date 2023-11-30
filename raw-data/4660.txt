@@ -1,5 +1,5 @@
 Biodiversity and distribution of microzooplankton in Spirulina (Arthrospira) platensis mass cultures throughout China
 
 rp: Biodiversity and distribution of microzooplankton
-m: Spirulina (Arthrospira) platensis mass cultures
+r: Spirulina (Arthrospira) platensis mass cultures
 loc: China

@@ -1,4 +1,4 @@
-Diurnal and circadian patterns of gene expression in the developing xylem of Eucalyptus trees 
+Diurnal and circadian patterns of gene expression in the developing xylem of Eucalyptus trees
 
 rp: gene expression
-m: developing xylem of Eucalyptus trees
+r: developing xylem of Eucalyptus trees

@@ -2,4 +2,4 @@ Identification of targets of monoclonal antibodies that inhibit adhesion and gro
 
 rp: targets of monoclonal antibodies
 p: inhibit adhesion and growth
-m: Mycoplasma mycoides subspecies mycoides
+r: Mycoplasma mycoides subspecies mycoides

@@ -3,4 +3,4 @@ Variety more than quantity of fruit and vegetable intake varies by socioeconomic
 rp: fruit and vegetable intake
 p: socioeconomic status
 p: financial hardship
-m: EPIC cohort
+r: EPIC cohort

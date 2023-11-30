@@ -1,5 +1,5 @@
 Response of soybean nodules to exogenously applied caffeic acid during NaCl-induced salinity
 
-m: soybean nodules
+r: soybean nodules
 meth: exogenously applied caffeic acid
 p: NaCl-induced salinity

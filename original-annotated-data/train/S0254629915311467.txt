@@ -1,4 +1,4 @@
-In vitro regeneration of the Kalahari devil’s claw, Harpagophytum procumbens, an important medicinal plant 
+In vitro regeneration of the Kalahari devil’s claw, Harpagophytum procumbens, an important medicinal plant
 
 meth: In vitro regeneration
-m: Kalahari devil’s claw, Harpagophytum procumbens
+r: Kalahari devil’s claw, Harpagophytum procumbens

@@ -2,5 +2,5 @@ Surveillance guidelines for disease elimination: A case study of canine rabies
 
 meth: Surveillance guidelines
 rp: disease elimination
-m: canine rabies
+r: canine rabies
 meth: case study

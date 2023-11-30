@@ -2,6 +2,6 @@ Effect of cadmium uptake and accumulation on growth and antibacterial activity o
 
 p: cadmium uptake and accumulation
 rp: growth and antibacterial activity
-m: Merwilla plumbea
+r: Merwilla plumbea
 loc: South Africa
-m: medicinal plant
+r: medicinal plant

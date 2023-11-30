@@ -1,4 +1,4 @@
 Nuclear division and septation in macroconidia of Fusarium crookwellense
 
 rp: Nuclear division and septation
-m: macroconidia of Fusarium crookwellense
+r: macroconidia of Fusarium crookwellense

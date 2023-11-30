@@ -1,5 +1,5 @@
 Cysteine protease expression and activity in soybean nodules during development and stress
 
 rp: Cysteine protease expression and activity
-m: soybean nodules
+r: soybean nodules
 p: development and stress

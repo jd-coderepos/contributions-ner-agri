@@ -2,4 +2,4 @@ Sink or source—The potential of coffee agroforestry systems to sequester atmos
 
 rp: coffee agroforestry systems
 meth: sequester atmospheric CO2
-m: soil organic carbon
+r: soil organic carbon

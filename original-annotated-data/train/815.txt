@@ -1,5 +1,5 @@
 Pharmacological and mutagenic activities of Bowiea volubilis: Can garden-grown plant material substitute for muthi market-sourced ones?
 
 rp: Pharmacological and mutagenic activities
-m: Bowiea volubilis
-m: garden-grown plant material
+r: Bowiea volubilis
+r: garden-grown plant material

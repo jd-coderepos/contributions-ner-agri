@@ -1,6 +1,6 @@
 Comparative analyses of flavonoid content in Moringa oleifera and Moringa ovalifolia with the aid of UHPLC-qTOF-MS fingerprinting
 
-m: flavonoid content
-m: Moringa oleifera
-m: Moringa ovalifolia
+r: flavonoid content
+r: Moringa oleifera
+r: Moringa ovalifolia
 t: UHPLC-qTOF-MS fingerprinting

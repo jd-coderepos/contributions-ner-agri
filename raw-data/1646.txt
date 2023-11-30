@@ -1,5 +1,5 @@
 Three-gene based phylogeny of the Urostyloidea (Protista, Ciliophora, Hypotricha), with notes on classification of some core taxa
 
 meth: Three-gene based phylogeny
-m: Urostyloidea (Protista, Ciliophora, Hypotricha)
-m: core taxa
+r: Urostyloidea (Protista, Ciliophora, Hypotricha)
+r: core taxa

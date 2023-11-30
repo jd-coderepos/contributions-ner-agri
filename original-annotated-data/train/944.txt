@@ -1,4 +1,4 @@
 Two new species of Parmelia (Lichenes) from southern Africa
 
-m: Parmelia (Lichenes)
+r: Parmelia (Lichenes)
 loc: southern Africa

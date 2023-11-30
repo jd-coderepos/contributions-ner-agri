@@ -1,4 +1,4 @@
 Genomic relationships in Thinopyrum
 
 rp: Genomic relationships
-m: Thinopyrum
+r: Thinopyrum

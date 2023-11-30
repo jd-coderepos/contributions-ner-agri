@@ -1,5 +1,5 @@
 Genetic distance of inbred lines of Chinese cabbage and its relationship to heterosis
 
 rp: Genetic distance
-m: inbred lines of Chinese cabbage
+r: inbred lines of Chinese cabbage
 p: heterosis

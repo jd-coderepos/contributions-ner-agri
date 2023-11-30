@@ -1,4 +1,4 @@
 A method for assessing land-use impacts on biodiversity in a landscape
 
-m: biodiversity in a landscape
+r: biodiversity in a landscape
 rp: assessing land-use impacts

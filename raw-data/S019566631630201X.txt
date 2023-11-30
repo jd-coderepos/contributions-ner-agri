@@ -1,6 +1,6 @@
 Appetitive traits and relationships with BMI in adults: Development of the Adult Eating Behaviour Questionnaire
 
 meth: Adult Eating Behaviour Questionnaire
-m: adults
+r: adults
 rp: Appetitive traits
 rp: relationships with BMI

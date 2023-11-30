@@ -1,4 +1,4 @@
 Fingerprinting Pennisetum purpureum Schumach varieties and cultivars using AFLP analysis
 
 meth: AFLP analysis
-m: Fingerprinting Pennisetum purpureum Schumach varieties and cultivars
+r: Fingerprinting Pennisetum purpureum Schumach varieties and cultivars

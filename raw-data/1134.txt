@@ -2,4 +2,4 @@ The effect of storage and processing on antimicrobial activity of Tulbaghia viol
 
 p: storage and processing
 rp: antimicrobial activity
-m: Tulbaghia violacea
+r: Tulbaghia violacea

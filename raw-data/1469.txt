@@ -1,5 +1,5 @@
 The impact of Tunisian Capparidaceae species on cytological, physiological and biochemical mechanisms in lettuce
 
-m: Tunisian Capparidaceae species
-m: lettuce
+r: Tunisian Capparidaceae species
+r: lettuce
 rp: cytological, physiological and biochemical mechanisms

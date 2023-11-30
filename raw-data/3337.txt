@@ -1,4 +1,4 @@
 Antioxidant and anti-inflammatory activities of Frankenia triandra (J. Rémy) extracts
 
 rp: Antioxidant and anti-inflammatory activities
-m: Frankenia triandra (J. Rémy) extracts
+r: Frankenia triandra (J. Rémy) extracts

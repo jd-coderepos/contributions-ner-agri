@@ -2,4 +2,4 @@ In vitro assessment of antibiotic-resistance reversal of a methanol extract from
 
 meth: In vitro assessment
 rp: antibiotic-resistance reversal
-m: methanol extract from Rosa canina L
+r: methanol extract from Rosa canina L

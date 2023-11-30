@@ -4,4 +4,4 @@ p: environmental factors
 rp: seedling growth
 rp: bulb development
 rp: pharmacological properties
-m: medicinal Eucomis autumnalis
+r: medicinal Eucomis autumnalis

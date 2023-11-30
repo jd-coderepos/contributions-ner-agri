@@ -1,4 +1,4 @@
 Design, dimensioning, and performance of a research facility for studies on the requirements of fish in RAS environments
 
 rp: fish in RAS environments
-m: research facility
+r: research facility

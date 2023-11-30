@@ -1,7 +1,7 @@
 Effects of recovery environment modifications on Eucalyptus grandis in vitro axillary buds injured during cryopreservation
 
 rp: recovery environment modifications
-m: Eucalyptus grandis
+r: Eucalyptus grandis
 meth: in vitro
-m: axillary buds
+r: axillary buds
 p: cryopreservation

@@ -1,4 +1,4 @@
 Lack of reward promotes outcrossing: Nectar supplementation experiment with Disa pulchra (Orchidaceae)
 
 rp: Nectar supplementation experiment
-m: Disa pulchra (Orchidaceae)
+r: Disa pulchra (Orchidaceae)

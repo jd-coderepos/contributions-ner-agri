@@ -1,5 +1,5 @@
 Predicting the ligand-binding properties of Borrelia burgdorferi s.s. Bmp proteins in light of the conserved features of related Borrelia proteins
 
 rp: Predicting the ligand-binding properties
-m: Borrelia burgdorferi s.s. Bmp proteins
-m: Borrelia proteins
+r: Borrelia burgdorferi s.s. Bmp proteins
+r: Borrelia proteins

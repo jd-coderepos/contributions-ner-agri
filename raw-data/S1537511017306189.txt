@@ -1,6 +1,6 @@
-Modelled performance of energy saving air treatment devices to mitigate heat stress for confined livestock buildings in Central Europe 
+Modelled performance of energy saving air treatment devices to mitigate heat stress for confined livestock buildings in Central Europe
 
 t: energy saving air treatment devices
 loc: Central Europe
 rp: mitigate heat stress
-m: confined livestock buildings
+r: confined livestock buildings

@@ -1,5 +1,5 @@
 Bioactivity of the selected medicinal plants against Candida albicans
 
-m: Candida albicans
-m: selected medicinal plants
+r: Candida albicans
+r: selected medicinal plants
 meth: Bioactivity

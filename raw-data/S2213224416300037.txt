@@ -1,6 +1,6 @@
 Morphological and molecular characterization of Eimeria purpureicephali n. sp. (Apicomplexa:Eimeriidae) in a red-capped parrot (Purpureicephalus spurius, Kuhl, 1820) in Western Australia
 
-m: Eimeria purpureicephali n. sp. (Apicomplexa:Eimeriidae)
-m: red-capped parrot (Purpureicephalus spurius, Kuhl, 1820)
+r: Eimeria purpureicephali n. sp. (Apicomplexa:Eimeriidae)
+r: red-capped parrot (Purpureicephalus spurius, Kuhl, 1820)
 loc: Western Australia
 meth: Morphological and molecular characterization

@@ -1,6 +1,6 @@
 YUCCA type auxin biosynthesis genes encoding flavin monooxygenases in melon: Genome-wide identification and developmental expression analysis
 
 p: YUCCA type auxin biosynthesis genes encoding flavin monooxygenases
-m: melon
+r: melon
 rp: Genome-wide identification
 rp: developmental expression analysis

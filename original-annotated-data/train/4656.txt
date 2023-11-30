@@ -2,5 +2,5 @@ Enhancing plasma membrane NADPH oxidase activity increases current output by dia
 
 rp: plasma membrane NADPH oxidase activity
 p: current output
-m: diatoms
-m: biophotovoltaic devices
+r: diatoms
+r: biophotovoltaic devices

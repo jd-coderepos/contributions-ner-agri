@@ -2,4 +2,4 @@ Effect of sugar starvation on plasma membrane properties of sugarbeet cell suspe
 
 rp: sugar starvation
 p: plasma membrane properties
-m: sugarbeet cell suspensions
+r: sugarbeet cell suspensions

@@ -2,4 +2,4 @@ Optimizing germination in Atriplex nummularia (Lind.) for commercial cultivation
 
 rp: Optimizing germination
 p: commercial cultivation
-m: Atriplex nummularia (Lind.)
+r: Atriplex nummularia (Lind.)

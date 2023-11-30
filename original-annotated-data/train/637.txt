@@ -1,5 +1,5 @@
 Logics of rurality: Political rhetoric about the Swedish North
 
 rp: rurality
-m: Political rhetoric
+r: Political rhetoric
 loc: Swedish North

@@ -1,5 +1,5 @@
 A new method for rapid mounting of monitor sections of plant material embedded in Spurr’s resin
 
 meth: rapid mounting
-m: monitor sections of plant material
-m: Spurr’s resin
+r: monitor sections of plant material
+r: Spurr’s resin

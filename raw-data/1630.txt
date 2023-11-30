@@ -1,5 +1,5 @@
 Evaluation of resistance to cassava mosaic disease in selected African cassava cultivars using combined molecular and greenhouse grafting tools
 
 rp: cassava mosaic disease
-m: selected African cassava cultivars
+r: selected African cassava cultivars
 meth: combined molecular and greenhouse grafting tools

@@ -1,5 +1,5 @@
 Preliminary observations on spatial patterns of niche-related parameters in Vaal River phytoplankton
 
 rp: Preliminary observations on spatial patterns
-m: niche-related parameters
-m: Vaal River phytoplankton
+r: niche-related parameters
+r: Vaal River phytoplankton

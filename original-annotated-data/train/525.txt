@@ -1,5 +1,5 @@
 Insects associated with malformation symptoms of common karee in the Free State, South Africa
 
-m: Insects
+r: Insects
 rp: malformation symptoms of common karee
 loc: Free State, South Africa

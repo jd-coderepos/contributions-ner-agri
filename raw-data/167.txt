@@ -1,5 +1,5 @@
 Carotenoid retention in biofortified maize using different post-harvest storage and packaging methods
 
 rp: Carotenoid retention
-m: biofortified maize
+r: biofortified maize
 meth: post-harvest storage and packaging methods

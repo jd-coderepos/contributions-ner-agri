@@ -2,5 +2,5 @@ Semi-stochastic models for Salmonella infection within finishing pig units in th
 
 meth: Semi-stochastic models
 rp: Salmonella infection
-m: pig units
+r: pig units
 loc: UK

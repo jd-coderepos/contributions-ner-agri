@@ -1,5 +1,5 @@
-KEAP1 and done? Targeting the NRF2 pathway with sulforaphane 
+KEAP1 and done? Targeting the NRF2 pathway with sulforaphane
 
-m: KEAP1
-m: sulforaphane
+r: KEAP1
+r: sulforaphane
 rp: Targeting the NRF2 pathway

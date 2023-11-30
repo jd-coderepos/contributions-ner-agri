@@ -1,4 +1,4 @@
 In vitro propagation of some Cyrtanthus species
 
-m: Cyrtanthus species
+r: Cyrtanthus species
 meth: In vitro propagation

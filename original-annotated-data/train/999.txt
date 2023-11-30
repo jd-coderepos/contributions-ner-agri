@@ -3,5 +3,5 @@ Rapid integrated survey to determine prevalence and co-distribution patterns of 
 meth: Rapid integrated survey
 rp: determine prevalence
 rp: co-distribution patterns
-m: lymphatic filariasis and onchocerciasis
+r: lymphatic filariasis and onchocerciasis
 loc: Loa loa area

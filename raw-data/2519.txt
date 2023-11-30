@@ -1,4 +1,4 @@
 Name changes: Pelargonium nanum (Geraniaceae) and its synonyms
 
-m: Pelargonium nanum (Geraniaceae)
+r: Pelargonium nanum (Geraniaceae)
 rp: Name changes

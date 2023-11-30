@@ -3,4 +3,4 @@ In vitro 5-lipoxygenase inhibition and anti-oxidant activity of Eriocephalus L. 
 meth: In vitro
 rp: 5-lipoxygenase inhibition
 rp: anti-oxidant activity
-m: Eriocephalus L. (Asteraceae) species
+r: Eriocephalus L. (Asteraceae) species

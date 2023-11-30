@@ -1,5 +1,5 @@
 Lupane triterpenoid and alkaloid isolates from Cyrtanthus breviflorus (Amaryllidaceae)
 
-m: Lupane triterpenoid
-m: alkaloid isolates
-m: Cyrtanthus breviflorus (Amaryllidaceae)
+r: Lupane triterpenoid
+r: alkaloid isolates
+r: Cyrtanthus breviflorus (Amaryllidaceae)

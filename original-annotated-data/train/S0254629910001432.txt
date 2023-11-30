@@ -1,5 +1,5 @@
-South African Lippia herbal infusions: Total phenolic content, antioxidant and antibacterial activities 
+South African Lippia herbal infusions: Total phenolic content, antioxidant and antibacterial activities
 
-m: South African Lippia herbal infusions
+r: South African Lippia herbal infusions
 p: Total phenolic content
 p: antioxidant and antibacterial activities

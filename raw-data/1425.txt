@@ -1,5 +1,5 @@
 A small-scale RNA isolation protocol useful for high-throughput extractions from recalcitrant plants
 
 s: small-scale RNA isolation protocol
-m: recalcitrant plants
+r: recalcitrant plants
 rp: high-throughput extractions

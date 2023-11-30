@@ -1,5 +1,5 @@
 Water velocity in commercial RAS culture tanks for Atlantic salmon smolt production
 
 rp: Atlantic salmon smolt production
-m: commercial RAS culture tanks
+r: commercial RAS culture tanks
 p: Water velocity

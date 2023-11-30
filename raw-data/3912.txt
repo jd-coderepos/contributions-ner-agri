@@ -1,6 +1,6 @@
 Both root and shoot-derived factors plays a role in the chilling-induced inhibition of symbiotic nitrogen fixation in soybean
 
-m: root and shoot-derived factors
+r: root and shoot-derived factors
 meth: chilling-induced inhibition
 rp: symbiotic nitrogen fixation
-m: soybean
+r: soybean

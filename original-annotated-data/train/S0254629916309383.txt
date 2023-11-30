@@ -1,5 +1,5 @@
-Intra-ovarian trichomes in Bequaertiodendron magalismontanum: location, origin, structure and possible function in the reproductive process 
+Intra-ovarian trichomes in Bequaertiodendron magalismontanur: location, origin, structure and possible function in the reproductive process
 
 rp: reproductive process
-m: Bequaertiodendron magalismontanum
-m: Intra-ovarian trichomes
+r: Bequaertiodendron magalismontanum
+r: Intra-ovarian trichomes

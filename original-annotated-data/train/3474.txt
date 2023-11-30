@@ -1,4 +1,4 @@
 Corrections to “Genomic relationships in Thinopyrum” S. Afr. J. Bot., 1988, 54(6): 542
 
 rp: Genomic relationships
-m: Thinopyrum
+r: Thinopyrum

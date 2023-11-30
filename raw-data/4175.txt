@@ -2,6 +2,6 @@ Antimycobacterial activity against different pathogens and selectivity index of 
 
 rp: Antimycobacterial activity
 rp: tuberculosis and respiratory ailments
-m: pathogens
+r: pathogens
 p: selectivity index of fourteen medicinal plants
 loc: southern Africa

@@ -1,4 +1,4 @@
-Forest and fynbos are alternative states on the same nutrient poor geological substrate 
+Forest and fynbos are alternative states on the same nutrient poor geological substrate
 
 f: Forest and fynbos are alternative states on the same nutrient poor geological substrate
-m: nutrient poor geological substrate
+r: nutrient poor geological substrate

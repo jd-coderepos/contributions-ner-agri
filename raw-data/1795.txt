@@ -2,5 +2,5 @@ Suitability mapping framework for solar photovoltaic pumps for smallholder farme
 
 meth: Suitability mapping framework
 loc: sub-Saharan Africa
-m: smallholder farmers
+r: smallholder farmers
 rp: solar photovoltaic pumps

@@ -1,5 +1,5 @@
 A metabolomic analysis of plants with anti-viral activity
 
 meth: metabolomic analysis
-m: plants
+r: plants
 rp: anti-viral activity

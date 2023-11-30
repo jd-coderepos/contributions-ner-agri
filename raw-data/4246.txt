@@ -1,4 +1,4 @@
 Floral biology of Zantedeschia aethiopica (L.) Spreng. (Araceae)
 
 rp: Floral biology
-m: Zantedeschia aethiopica (L.) Spreng. (Araceae)
+r: Zantedeschia aethiopica (L.) Spreng. (Araceae)

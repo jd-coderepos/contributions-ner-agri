@@ -2,5 +2,5 @@ Comparing the effects of high vs. low nitrate on the health, performance, and we
 
 rp: effects of high vs. low nitrate
 p: health, performance, and welfare
-m: juvenile rainbow trout Oncorhynchus mykiss
-m: water recirculating aquaculture systems
+r: juvenile rainbow trout Oncorhynchus mykiss
+r: water recirculating aquaculture systems

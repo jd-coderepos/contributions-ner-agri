@@ -1,6 +1,6 @@
 Proteome response of Phaeodactylum tricornutum, during lipid accumulation induced by nitrogen depletion
 
 rp: Proteome response
-m: Phaeodactylum tricornutum
+r: Phaeodactylum tricornutum
 p: lipid accumulation
 p: nitrogen depletion

@@ -1,4 +1,4 @@
 The effect of seaweed concentrate on seedling transplants
 
-m: seaweed concentrate
-m: seedling transplants
+r: seaweed concentrate
+r: seedling transplants

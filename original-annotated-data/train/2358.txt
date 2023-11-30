@@ -2,4 +2,4 @@ In vitro anti-mycobacterial activity of fractions, isolated compounds and deriva
 
 meth: In vitro
 rp: anti-mycobacterial activity
-m: fractions, isolated compounds and derivatives from Curtisia dentata (Burm.f) C.A. Sm leaves
+r: fractions, isolated compounds and derivatives from Curtisia dentata (Burm.f) C.A. Sm leaves

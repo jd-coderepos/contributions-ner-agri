@@ -1,4 +1,4 @@
 Phosphate absorption by excised ordinary and proteoid roots of Protea compacta R. Br.
 
 rp: Phosphate absorption
-m: excised ordinary and proteoid roots of Protea compacta R. Br.
+r: excised ordinary and proteoid roots of Protea compacta R. Br.

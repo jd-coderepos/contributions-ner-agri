@@ -3,5 +3,5 @@ The effects of parent density and season of burn on the regeneration of Leucaden
 loc: Kogelberg
 p: parent density
 p: season of burn
-m: Leucadendron laureolum (Proteaceae)
+r: Leucadendron laureolum (Proteaceae)
 meth: regeneration

@@ -1,6 +1,6 @@
 Taxonomic notes on the genus Albertisia (Menispermaceae) in South Africa and Mozambique
 
 rp: Taxonomic notes
-m: genus Albertisia (Menispermaceae)
+r: genus Albertisia (Menispermaceae)
 loc: South Africa
 loc: Mozambique

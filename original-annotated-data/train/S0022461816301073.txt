@@ -1,4 +1,4 @@
 Seasonal translocation of assimilates in the weed, Rubus cuneifolius
 
-m: assimilates in the weed, Rubus cuneifolius
+r: assimilates in the weed, Rubus cuneifolius
 rp: Seasonal translocation

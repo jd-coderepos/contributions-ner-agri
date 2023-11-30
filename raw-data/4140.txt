@@ -1,5 +1,5 @@
 A revision of the genus Sargassum (Fucales, Phaeophyceae) in South Africa
 
 meth: revision
-m: genus Sargassum (Fucales, Phaeophyceae)
+r: genus Sargassum (Fucales, Phaeophyceae)
 loc: South Africa

@@ -1,6 +1,6 @@
 In-vitro antioxidative potential of different fractions from Prunus dulcis seeds: Vis a vis antiproliferative and antibacterial activities of active compounds
 
 p: In-vitro antioxidative potential
-m: different fractions from Prunus dulcis seeds
-m: active compounds
+r: different fractions from Prunus dulcis seeds
+r: active compounds
 rp: Vis a vis antiproliferative and antibacterial activities

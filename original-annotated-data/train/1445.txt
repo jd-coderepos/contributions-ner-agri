@@ -1,6 +1,6 @@
 Overexpression of the acerola (Malpighia glabra) monodehydroascorbate reductase gene in transgenic tobacco plants results in increased ascorbate levels and enhanced tolerance to salt stress
 
 rp: Overexpression of the acerola (Malpighia glabra) monodehydroascorbate reductase gene
-m: transgenic tobacco plants
+r: transgenic tobacco plants
 p: increased ascorbate levels
 p: enhanced tolerance to salt stress

@@ -1,4 +1,4 @@
 Isolation of anti-Candida albicans compounds from Markhamia obtusifolia (Baker) Sprague (Bignoniaceae)
 
 rp: Isolation of anti-Candida albicans compounds
-m: Markhamia obtusifolia (Baker) Sprague (Bignoniaceae)
+r: Markhamia obtusifolia (Baker) Sprague (Bignoniaceae)

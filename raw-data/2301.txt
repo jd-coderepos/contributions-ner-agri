@@ -2,4 +2,4 @@ A convenient thin layer chromatographic technique for chemotaxonomic application
 
 s: thin layer chromatographic technique
 rp: chemotaxonomic application
-m: Maytenus (Celastraceae)
+r: Maytenus (Celastraceae)

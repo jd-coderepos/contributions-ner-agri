@@ -1,5 +1,5 @@
 Identification of hydroxylcinnamoyl tartaric acid esters in Bidens pilosa by UPLC-tandem mass spectrometry
 
 rp: hydroxylcinnamoyl tartaric acid esters
-m: Bidens pilosa
+r: Bidens pilosa
 meth: UPLC-tandem mass spectrometry

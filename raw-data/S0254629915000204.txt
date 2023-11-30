@@ -1,5 +1,5 @@
-The occurrence of triterpenoids from Euphorbia gummifera inside the fairy circles of Garub in the southern Namibian pro-desert 
+The occurrence of triterpenoids from Euphorbia gummifera inside the fairy circles of Garub in the southern Namibian pro-desert
 
 rp: occurrence of triterpenoids
-m: Euphorbia gummifera
+r: Euphorbia gummifera
 loc: southern Namibian pro-desert

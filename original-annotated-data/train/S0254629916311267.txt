@@ -2,4 +2,4 @@ Interactions between nitrogen metabolism and photosynthesis in nitrogen-limited 
 
 p: nitrogen metabolism
 p: photosynthesis
-m: nitrogen-limited Monoraphidium falcatus
+r: nitrogen-limited Monoraphidium falcatus

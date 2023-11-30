@@ -3,7 +3,7 @@ Diurnal changes in photosynthesis in Sclerocarya birrea from South Africa and Is
 loc: Wenshan, Yunnan Province, China
 loc: South Africa
 loc: Israel
-m: Sclerocarya birrea
+r: Sclerocarya birrea
 p: introduction and acclimatization
 p: Diurnal changes
 rp: photosynthesis

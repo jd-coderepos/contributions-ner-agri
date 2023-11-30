@@ -2,5 +2,5 @@ Soil aggregate breakdown and carbon release along a chronosequence of recovering
 
 rp: Soil aggregate breakdown
 rp: carbon release
-m: chronosequence of recovering landslide scars
-m: subtropical watershed
+r: chronosequence of recovering landslide scars
+r: subtropical watershed

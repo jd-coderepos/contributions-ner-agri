@@ -1,5 +1,5 @@
 Observations of the effects of drought on evergreen and deciduous species in the eastern Cape forests
 
 rp: drought
-m: evergreen and deciduous species
+r: evergreen and deciduous species
 loc: eastern Cape forests

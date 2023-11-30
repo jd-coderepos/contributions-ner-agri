@@ -1,4 +1,4 @@
 Comparison of desiccation-induced gene expression in vegetative tissue and seed of the resurrection plant, Xerophyta humilis
 
 rp: desiccation-induced gene expression
-m: vegetative tissue and seed of the resurrection plant, Xerophyta humilis
+r: vegetative tissue and seed of the resurrection plant, Xerophyta humilis

@@ -2,4 +2,4 @@ Radiation-induced genome alterations in Vigna unguiculata
 
 meth: Radiation-induced
 rp: genome alterations
-m: Vigna unguiculata
+r: Vigna unguiculata

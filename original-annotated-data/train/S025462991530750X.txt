@@ -1,4 +1,4 @@
-Distribution, uses and exploitation patterns of Flagellaria guineensis Schumach. with particular reference to Port St Johns, South Africa 
+Distribution, uses and exploitation patterns of Flagellaria guineensis Schumach. with particular reference to Port St Johns, South Africa
 
-m: Flagellaria guineensis Schumach.
+r: Flagellaria guineensis Schumach.
 loc: Port St Johns, South Africa

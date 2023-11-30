@@ -3,4 +3,4 @@ Effects of environmental factors on Cucumis melo L. subsp. agrestis var. agresti
 p: environmental factors
 rp: seed germination
 rp: seedling emergence
-m: Cucumis melo L. subsp. agrestis var. agrestis (Naudin) Pangalo
+r: Cucumis melo L. subsp. agrestis var. agrestis (Naudin) Pangalo

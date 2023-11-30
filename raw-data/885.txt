@@ -2,5 +2,5 @@ Seasonal gas exchange responses under three different temperature treatments in 
 
 rp: Seasonal gas exchange responses
 p: temperature treatments
-m: leaf-succulent
-m: drought-deciduous shrub from the Succulent Karoo
+r: leaf-succulent
+r: drought-deciduous shrub from the Succulent Karoo

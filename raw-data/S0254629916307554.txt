@@ -2,4 +2,4 @@ The phytosociology of the Villiers - Grootvlei area, South Africa. 2. The plant 
 
 loc: Villiers - Grootvlei area, South Africa
 p: phytosociology
-m: plant communities of the Ba Land Type
+r: plant communities of the Ba Land Type

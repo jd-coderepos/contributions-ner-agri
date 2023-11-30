@@ -1,7 +1,7 @@
 Soluble sugars in light-sensitive Grand Rapids lettuce seeds treated with red light, gibberellic acid and a plant-derived smoke extract
 
 rp: Soluble sugars
-m: light-sensitive Grand Rapids lettuce seeds
+r: light-sensitive Grand Rapids lettuce seeds
 p: red light
-m: gibberellic acid
-m: plant-derived smoke extract
+r: gibberellic acid
+r: plant-derived smoke extract

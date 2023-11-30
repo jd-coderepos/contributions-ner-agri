@@ -2,5 +2,5 @@ Early activation of cell wall strengthening-related transcription in cotton by a
 
 meth: Early activation
 p: cell wall strengthening-related transcription
-m: cotton
+r: cotton
 t: Verticillium elicitor

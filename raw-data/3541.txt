@@ -1,6 +1,6 @@
 Resistance of Bt-maize (MON810) against the stem borers Busseola fusca (Fuller) and Chilo partellus (Swinhoe) and its yield performance in Kenya
 
 rp: Resistance of Bt-maize (MON810)
-m: stem borers Busseola fusca (Fuller)
-m: Chilo partellus (Swinhoe)
+r: stem borers Busseola fusca (Fuller)
+r: Chilo partellus (Swinhoe)
 loc: Kenya

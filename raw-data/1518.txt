@@ -1,5 +1,5 @@
 Diversity and distribution of seagrasses around Inhaca Island, southern Mozambique
 
 p: Diversity and distribution
-m: seagrasses
+r: seagrasses
 loc: Inhaca Island, southern Mozambique

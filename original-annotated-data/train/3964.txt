@@ -3,4 +3,4 @@ Hyper-specialization for long-billed bird pollination in a guild of South Africa
 meth: Hyper-specialization
 rp: long-billed bird pollination
 p: Malachite Sunbird pollination syndrome
-m: South African plants
+r: South African plants

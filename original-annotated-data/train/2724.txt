@@ -1,5 +1,5 @@
 Endangered winter-run Chinook salmon rely on diverse rearing habitats in a highly altered landscape
 
 rp: diverse rearing habitats
-m: Endangered winter-run Chinook salmon
-m: highly altered landscape
+r: Endangered winter-run Chinook salmon
+r: highly altered landscape

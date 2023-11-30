@@ -1,8 +1,8 @@
 Studies in Cyperaceae in southern Africa 26: Glume epidermal silica deposits as a character in generic delimitation of Costularia and Cyathocoma as distinct from Tetraria and other allies
 
 rp: Studies in Cyperaceae
-m: Glume epidermal silica deposits
+r: Glume epidermal silica deposits
 p: generic delimitation
-m: Costularia and Cyathocoma
-m: Tetraria and other allies
+r: Costularia and Cyathocoma
+r: Tetraria and other allies
 loc: southern Africa

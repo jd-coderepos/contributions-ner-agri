@@ -1,4 +1,4 @@
 A re-evaluation of the structure of the mango ovule in comparison with those of a few other Anacardiaceae species
 
-m: mango ovule
-m: Anacardiaceae species
+r: mango ovule
+r: Anacardiaceae species

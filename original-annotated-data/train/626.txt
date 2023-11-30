@@ -1,5 +1,5 @@
 The blue water footprint of the world's artificial reservoirs for hydroelectricity, irrigation, residential and industrial water supply, flood protection, fishing and recreation
 
 rp: blue water footprint
-m: world's artificial reservoirs
+r: world's artificial reservoirs
 p: hydroelectricity, irrigation, residential and industrial water supply, flood protection, fishing and recreation

@@ -1,4 +1,4 @@
 Status of the southern African Anapalina and Antholyza (Iridaceae) genera, based solely on characters for bird pollination, and a new species of Tritoniopsis
 
-m: southern African Anapalina and Antholyza (Iridaceae) genera
+r: southern African Anapalina and Antholyza (Iridaceae) genera
 rp: bird pollination

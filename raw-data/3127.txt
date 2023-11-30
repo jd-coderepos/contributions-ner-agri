@@ -3,5 +3,5 @@ Ultraviolet radiation-induced generation of reactive oxygen species, DNA damage 
 meth: Ultraviolet radiation-induced generation
 p: reactive oxygen species
 rp: DNA damage and induction
-m: UV-absorbing compounds
-m: cyanobacterium Rivularia sp. HKAR-4
+r: UV-absorbing compounds
+r: cyanobacterium Rivularia sp. HKAR-4

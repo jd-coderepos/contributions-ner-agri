@@ -3,5 +3,5 @@ Ethnobotany, ethnopharmacology and toxicity of Jatropha curcas L. (Euphorbiaceae
 rp: Ethnobotany
 rp: ethnopharmacology
 rp: toxicity
-m: Jatropha curcas L. (Euphorbiaceae)
+r: Jatropha curcas L. (Euphorbiaceae)
 meth: review

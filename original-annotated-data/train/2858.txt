@@ -1,6 +1,6 @@
 Development of Indica Basmati rice harboring two insecticidal genes for sustainable resistance against lepidopteran insects
 
 rp: Development of Indica Basmati rice
-m: two insecticidal genes
-m: lepidopteran insects
+r: two insecticidal genes
+r: lepidopteran insects
 p: sustainable resistance

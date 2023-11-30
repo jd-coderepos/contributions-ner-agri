@@ -1,4 +1,4 @@
 Medicinal Plants Traded on South Africa's Eastern Seaboard
 
-m: Medicinal Plants
+r: Medicinal Plants
 loc: South Africa's Eastern Seaboard

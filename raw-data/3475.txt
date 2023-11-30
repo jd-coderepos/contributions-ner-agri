@@ -1,6 +1,6 @@
 Studies on serpentine flora : Preliminary analyses of soils and vegetation associated with serpentinite rock formations in the south-eastern Transvaal
 
 rp: serpentine flora
-m: soils and vegetation
+r: soils and vegetation
 rp: serpentinite rock formations
 loc: south-eastern Transvaal

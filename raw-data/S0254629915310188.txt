@@ -1,6 +1,6 @@
-Systematic studies in subfamily Celastroideae (Celastraceae) in southern Africa: two new species of Gymnosporia from the Maputaland Centre of Endemism 
+Systematic studies in subfamily Celastroideae (Celastraceae) in southern Africa: two new species of Gymnosporia from the Maputaland Centre of Endemism
 
-m: subfamily Celastroideae (Celastraceae)
+r: subfamily Celastroideae (Celastraceae)
 loc: southern Africa
 loc: Maputaland Centre of Endemism
 rp: species of Gymnosporia

@@ -2,4 +2,4 @@ Pericarp and seed coat structure in Tapirira guianensis (Spondiadeae: Anacardiac
 
 rp: Pericarp
 rp: seed coat structure
-m: Tapirira guianensis (Spondiadeae: Anacardiaceae)
+r: Tapirira guianensis (Spondiadeae: Anacardiaceae)

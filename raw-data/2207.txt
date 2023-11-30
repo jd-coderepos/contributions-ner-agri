@@ -1,5 +1,5 @@
 Effect of rootstock on salinity tolerance of sweet almond (cv. Mazzetto)
 
-m: rootstock
-m: sweet almond (cv. Mazzetto)
+r: rootstock
+r: sweet almond (cv. Mazzetto)
 rp: salinity tolerance

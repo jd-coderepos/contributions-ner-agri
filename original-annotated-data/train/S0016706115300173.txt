@@ -1,4 +1,4 @@
-Mapping topsoil physical properties at European scale using the LUCAS database 
+Mapping topsoil physical properties at European scale using the LUCAS database
 
 rp: Mapping topsoil physical properties at European scale
-m: LUCAS database
+r: LUCAS database

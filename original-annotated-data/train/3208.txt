@@ -1,5 +1,5 @@
 Indigenous edible plant use by contemporary Khoe-San descendants of South Africa's Cape South Coast
 
 rp: Indigenous edible plant use
-m: contemporary Khoe-San descendants
+r: contemporary Khoe-San descendants
 loc: South Africa's Cape South Coast

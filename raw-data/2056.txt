@@ -1,6 +1,6 @@
 Unusual morphological and anatomical features of two woody Madagascan endemics, Streptocarpus papangae and S. suffruticosus (Gesneriaceae), and their potential taxonomic value
 
 rp: morphological and anatomical features
-m: Streptocarpus papangae
-m: S. suffruticosus (Gesneriaceae)
+r: Streptocarpus papangae
+r: S. suffruticosus (Gesneriaceae)
 rp: taxonomic value

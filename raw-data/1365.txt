@@ -2,4 +2,4 @@ Stapeliads of southern Africa and Madagascar
 
 loc: southern Africa
 loc: Madagascar
-m: Stapeliads
+r: Stapeliads

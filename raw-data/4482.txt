@@ -1,4 +1,4 @@
 A simple relationship for estimating the intensity of fires in natural vegetation
 
 rp: intensity of fires
-m: natural vegetation
+r: natural vegetation

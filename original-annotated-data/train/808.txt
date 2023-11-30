@@ -1,6 +1,6 @@
 Overexpression of Suaeda salsa stroma ascorbate peroxidase in Arabidopsis chloroplasts enhances salt tolerance of plants
 
 p: Overexpression
-m: Suaeda salsa stroma ascorbate peroxidase
-m: Arabidopsis chloroplasts
+r: Suaeda salsa stroma ascorbate peroxidase
+r: Arabidopsis chloroplasts
 rp: salt tolerance of plants

@@ -3,4 +3,4 @@ Sap flow and water use in African baobab (Adansonia digitata L.) seedlings in re
 rp: Sap flow
 p: drought stress
 rp: water use
-m: African baobab (Adansonia digitata L.) seedlings
+r: African baobab (Adansonia digitata L.) seedlings

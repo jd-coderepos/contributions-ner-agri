@@ -1,4 +1,4 @@
 The contribution of alliaceous and cruciferous vegetables to dietary sulphur intake
 
-m: alliaceous and cruciferous vegetables
+r: alliaceous and cruciferous vegetables
 rp: dietary sulphur intake

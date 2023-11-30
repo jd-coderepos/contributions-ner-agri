@@ -1,5 +1,5 @@
 Indigenous plant species used by Bapedi healers to treat sexually transmitted infections: Their distribution, harvesting, conservation and threats
 
-m: Indigenous plant species
+r: Indigenous plant species
 rp: sexually transmitted infections
 p: distribution, harvesting, conservation and threats

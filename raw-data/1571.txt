@@ -1,7 +1,7 @@
 A phytosociological analysis of the Albizio harveyi – Eucleetum divinori from sodic bottomland clay soils of the Manyeleti Game Reserve, Gazankulu, South Africa
 
 meth: phytosociological analysis
-m: Albizio harveyi
-m: Eucleetum divinori
-m: sodic bottomland clay soils
+r: Albizio harveyi
+r: Eucleetum divinori
+r: sodic bottomland clay soils
 loc: Manyeleti Game Reserve, Gazankulu, South Africa

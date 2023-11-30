@@ -2,5 +2,5 @@ Effects of intensity and height of shading on the tiller initiation of six grass
 
 p: intensity and height of shading
 rp: tiller initiation
-m: six grass species
+r: six grass species
 loc: Highland sourveld of Natal

@@ -1,5 +1,5 @@
 Determination of phospholipid concentrations in breast milk and serum using a high performance liquid chromatography–mass spectrometry–multiple reaction monitoring method
 
 rp: phospholipid concentrations
-m: breast milk and serum
+r: breast milk and serum
 meth: high performance liquid chromatography–mass spectrometry–multiple reaction monitoring method

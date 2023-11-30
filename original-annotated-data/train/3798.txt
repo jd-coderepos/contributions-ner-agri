@@ -1,5 +1,5 @@
 Elasmobranch capture by commercial small-scale fisheries in the Bijagós Archipelago, Guinea Bissau
 
 rp: Elasmobranch capture
-m: commercial small-scale fisheries
+r: commercial small-scale fisheries
 loc: Bijagós Archipelago, Guinea Bissau

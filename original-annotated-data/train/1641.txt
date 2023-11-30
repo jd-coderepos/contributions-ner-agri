@@ -1,6 +1,6 @@
 An atypical residue in the pore of Varroa destructor GABA-activated RDL receptors affects picrotoxin block and thymol modulation
 
 rp: atypical residue
-m: pore of Varroa destructor GABA-activated RDL receptors
+r: pore of Varroa destructor GABA-activated RDL receptors
 p: picrotoxin block
 p: thymol modulation

@@ -1,4 +1,4 @@
 Interaction of osmotic and temperature stress on transgenic soybean
 
 p: osmotic and temperature stress
-m: transgenic soybean
+r: transgenic soybean

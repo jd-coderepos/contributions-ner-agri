@@ -1,5 +1,5 @@
 The healing power of Chinese herbs and medicinal recipes, 2005, Joseph P. Hou and Youyu Jin, The Haworth Integrative Healing Press (An Imprint of the Haworth Press, Inc.), $ 69.95 Soft cover ISBN-13: 978-0-7890-2202-8, $ 115.95 Hard cover ISBN-13: 978-0-7890-2201-1, E-mail: orders@haworthpress.com
 
 rp: healing power
-m: Chinese herbs
-m: medicinal recipes
+r: Chinese herbs
+r: medicinal recipes

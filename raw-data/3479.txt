@@ -1,5 +1,5 @@
 Further studies on the use of phenolic acids in the chemotaxonomy of the genus Sarcocaulon
 
 meth: Further studies
-m: phenolic acids
+r: phenolic acids
 rp: chemotaxonomy of the genus Sarcocaulon

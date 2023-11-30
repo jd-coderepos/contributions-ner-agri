@@ -1,6 +1,6 @@
 Conservation implications of wildlife translocations ; The state's ability to act as conservation units for wildebeest populations in South Africa
 
 p: Conservation implications
-m: wildebeest populations
+r: wildebeest populations
 rp: wildlife translocations
 loc: South Africa

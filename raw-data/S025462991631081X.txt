@@ -1,4 +1,4 @@
 The occurrence of prostaglandin F2α in procaryotic organisms
 
 rp: occurrence of prostaglandin F2α
-m: procaryotic organisms
+r: procaryotic organisms

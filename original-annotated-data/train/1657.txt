@@ -1,5 +1,5 @@
 Optic flow-based collision-free strategies: From insects to robots
 
 s: Optic flow-based collision-free strategies
-m: insects
-m: robots
+r: insects
+r: robots

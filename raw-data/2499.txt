@@ -2,4 +2,4 @@ Is there allelopathic self-inhibition of generative regeneration within Widdring
 
 p: allelopathic self-inhibition
 rp: generative regeneration
-m: Widdringtonia cedarbergensis stands
+r: Widdringtonia cedarbergensis stands

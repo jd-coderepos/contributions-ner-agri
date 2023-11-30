@@ -1,5 +1,5 @@
 Water activity in liquid food systems: A molecular scale interpretation
 
 rp: Water activity
-m: liquid food systems
+r: liquid food systems
 s: molecular scale interpretation

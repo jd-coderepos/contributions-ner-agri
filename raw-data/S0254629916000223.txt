@@ -1,5 +1,5 @@
-Chemical constituents and biological activities of Callicarpa maingayi leaves 
+Chemical constituents and biological activities of Callicarpa maingayi leaves
 
-m: Callicarpa maingayi leaves
+r: Callicarpa maingayi leaves
 rp: Chemical constituents
 rp: biological activities

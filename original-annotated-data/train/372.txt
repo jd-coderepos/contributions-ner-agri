@@ -1,5 +1,5 @@
 Germination and growth requirements of Rogeria longiflora – Medicinal plant of the Namib Desert
 
 rp: Germination and growth requirements
-m: Rogeria longiflora
+r: Rogeria longiflora
 loc: Namib Desert

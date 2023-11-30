@@ -1,4 +1,4 @@
-An analysis of the flowering plants and ferns of the Cape of Good Hope Nature Reserve 
+An analysis of the flowering plants and ferns of the Cape of Good Hope Nature Reserve
 
-m: flowering plants and ferns
+r: flowering plants and ferns
 loc: Cape of Good Hope Nature Reserve

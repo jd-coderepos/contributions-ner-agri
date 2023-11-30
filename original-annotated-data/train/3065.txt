@@ -2,5 +2,5 @@ A review of chromosome cytology in Hyacinthaceae subfamilies Urgineoideae and Hy
 
 meth: review
 rp: chromosome cytology
-m: Hyacinthaceae subfamilies Urgineoideae and Hyacinthoideae (tribes Hyacintheae, Massonieae, Pseudoprospereae)
+r: Hyacinthaceae subfamilies Urgineoideae and Hyacinthoideae (tribes Hyacintheae, Massonieae, Pseudoprospereae)
 loc: sub-Saharan Africa

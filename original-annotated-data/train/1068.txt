@@ -2,6 +2,6 @@ Antimicrobial activity and mutagenic effects of twelve traditional medicinal pla
 
 rp: Antimicrobial activity
 rp: mutagenic effects
-m: gastro-intestinal tract
-m: twelve traditional medicinal plants
+r: gastro-intestinal tract
+r: twelve traditional medicinal plants
 loc: South Africa

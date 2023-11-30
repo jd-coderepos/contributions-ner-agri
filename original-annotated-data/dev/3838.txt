@@ -3,6 +3,6 @@ Trichomes, essential oil composition and biological activities of Salvia albicau
 rp: Trichomes
 rp: essential oil composition
 rp: biological activities
-m: Salvia albicaulis Benth.
-m: S. dolomitica Codd
+r: Salvia albicaulis Benth.
+r: S. dolomitica Codd
 loc: Cape region of South Africa

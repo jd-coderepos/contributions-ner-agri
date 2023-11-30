@@ -4,5 +4,5 @@ rp: germination
 rp: seedling vigour
 rp: lipid peroxidation
 rp: proline metabolism
-m: Catharanthus roseus seedlings
+r: Catharanthus roseus seedlings
 p: salt stress

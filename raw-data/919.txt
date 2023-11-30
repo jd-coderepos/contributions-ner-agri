@@ -2,5 +2,5 @@ Isolation and structure elucidation of xanthotoxin, a phototoxic furanocoumarin,
 
 rp: Isolation
 rp: structure elucidation
-m: xanthotoxin, a phototoxic furanocoumarin
-m: Peucedanum galbanum
+r: xanthotoxin, a phototoxic furanocoumarin
+r: Peucedanum galbanum

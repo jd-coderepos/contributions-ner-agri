@@ -2,4 +2,4 @@ Numerical taxonomic study of Acacia senegal (Fabaceae) in the cattle corridor of
 
 loc: cattle corridor of Uganda
 meth: Numerical taxonomic study
-m: Acacia senegal (Fabaceae)
+r: Acacia senegal (Fabaceae)

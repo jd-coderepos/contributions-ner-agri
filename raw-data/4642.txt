@@ -2,4 +2,4 @@ Computational analysis of the effects of light gradients and neighbouring specie
 
 meth: Computational analysis
 rp: effects of light gradients and neighbouring species
-m: foliar nitrogen
+r: foliar nitrogen

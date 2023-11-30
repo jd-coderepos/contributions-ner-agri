@@ -1,5 +1,5 @@
 Terrestrial-focused protected areas are effective for conservation of freshwater fish diversity in Lake Tanganyika
 
-m: Terrestrial-focused protected areas
+r: Terrestrial-focused protected areas
 rp: conservation of freshwater fish diversity
 loc: Lake Tanganyika

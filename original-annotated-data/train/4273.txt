@@ -1,6 +1,6 @@
 Systematic studies in subfamily Celastroideae (Celastraceae) in southern Africa: The genus Putterlickia
 
 meth: Systematic studies
-m: subfamily Celastroideae (Celastraceae)
-m: genus Putterlickia
+r: subfamily Celastroideae (Celastraceae)
+r: genus Putterlickia
 loc: southern Africa

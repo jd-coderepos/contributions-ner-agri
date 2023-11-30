@@ -1,4 +1,4 @@
 An ethnobotanical survey of southern African Menispermaceae
 
 meth: ethnobotanical survey
-m: southern African Menispermaceae
+r: southern African Menispermaceae

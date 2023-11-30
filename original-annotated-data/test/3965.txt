@@ -1,6 +1,6 @@
 Confirmation of hawkmoth pollination in Habenaria epipactidea: Leg placement of pollinaria and crepuscular scent emission
 
 rp: hawkmoth pollination
-m: Habenaria epipactidea
+r: Habenaria epipactidea
 p: Leg placement of pollinaria
 p: crepuscular scent emission

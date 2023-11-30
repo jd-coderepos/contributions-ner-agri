@@ -2,5 +2,5 @@ Traditional medicinal uses and essential oil composition of leaves and rhizomes 
 
 rp: Traditional medicinal uses
 rp: essential oil composition
-m: leaves and rhizomes of korarima (Aframomum corrorima (Braun) P.C.M. Jansen)
+r: leaves and rhizomes of korarima (Aframomum corrorima (Braun) P.C.M. Jansen)
 loc: southern Ethiopia

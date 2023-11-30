@@ -4,4 +4,4 @@ p: variety
 p: year of cultivation
 rp: accumulation of free asparagine
 p: sulphur supply
-m: grain of commercial wheat varieties
+r: grain of commercial wheat varieties

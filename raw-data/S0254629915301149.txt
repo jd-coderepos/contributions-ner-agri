@@ -1,4 +1,4 @@
-Effects of vegetation control on Eucalyptus grandis x E. camaldulensis volume and economics 
+Effects of vegetation control on Eucalyptus grandis x E. camaldulensis volume and economics
 
-m: Eucalyptus grandis x E. camaldulensis
+r: Eucalyptus grandis x E. camaldulensis
 rp: vegetation control

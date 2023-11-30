@@ -3,5 +3,5 @@ Does organic farming enhance biodiversity in Mediterranean vineyards? A case stu
 meth: organic farming
 rp: biodiversity
 loc: Mediterranean vineyards
-m: bats
-m: arachnids
+r: bats
+r: arachnids

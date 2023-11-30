@@ -1,5 +1,5 @@
 Development of carpels and ovules in Psychotria carthagenensis (Psychotrieae) and Rudgea macrophylla (Palicoureeae) (Rubioideae, Rubiaceae)
 
 rp: Development of carpels and ovules
-m: Psychotria carthagenensis (Psychotrieae)
-m: Rudgea macrophylla (Palicoureeae) (Rubioideae, Rubiaceae)
+r: Psychotria carthagenensis (Psychotrieae)
+r: Rudgea macrophylla (Palicoureeae) (Rubioideae, Rubiaceae)

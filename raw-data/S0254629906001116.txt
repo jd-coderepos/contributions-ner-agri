@@ -1,4 +1,4 @@
-3-Benzyl-4-chromanones (homoisoflavanones) from bulbs of the ethnomedicinal geophyte Ledebouria revoluta (Hyacinthaceae) 
+3-Benzyl-4-chromanones (homoisoflavanones) from bulbs of the ethnomedicinal geophyte Ledebouria revoluta (Hyacinthaceae)
 
-m: bulbs of the ethnomedicinal geophyte Ledebouria revoluta (Hyacinthaceae)
-m: 3-Benzyl-4-chromanones (homoisoflavanones)
+r: bulbs of the ethnomedicinal geophyte Ledebouria revoluta (Hyacinthaceae)
+r: 3-Benzyl-4-chromanones (homoisoflavanones)

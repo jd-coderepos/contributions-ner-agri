@@ -1,4 +1,4 @@
 A taxonomic account of Stomatostemma (Periplocaceae)
 
 rp: taxonomic account
-m: Stomatostemma (Periplocaceae)
+r: Stomatostemma (Periplocaceae)

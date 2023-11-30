@@ -1,5 +1,5 @@
 Wood anatomy of the tribe Podalyrieae (Fabaceae, Papilionoideae): Diversity and evolutionary trends
 
 rp: Wood anatomy
-m: tribe Podalyrieae (Fabaceae, Papilionoideae)
+r: tribe Podalyrieae (Fabaceae, Papilionoideae)
 p: Diversity and evolutionary trends

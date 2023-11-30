@@ -2,4 +2,4 @@ The variation in antimicrobial and antioxidant activities of acetone leaf extrac
 
 rp: antimicrobial and antioxidant activities
 p: selection of trees
-m: acetone leaf extracts of 12 Moringa oleifera (Moringaceae) trees
+r: acetone leaf extracts of 12 Moringa oleifera (Moringaceae) trees

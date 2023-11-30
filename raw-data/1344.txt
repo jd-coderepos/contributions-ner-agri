@@ -3,5 +3,5 @@ Critical review of the impacts of grazing intensity on soil organic carbon stora
 meth: Critical review
 rp: grazing intensity
 p: soil organic carbon storage
-m: soil quality indicators
-m: extensively managed grasslands
+r: soil quality indicators
+r: extensively managed grasslands

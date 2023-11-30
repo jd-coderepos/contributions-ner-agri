@@ -1,5 +1,5 @@
 Plant defence against pathogenic bacteria: A focus on Pectobacterium–potato interactions
 
 rp: Plant defence
-m: pathogenic bacteria
+r: pathogenic bacteria
 p: Pectobacterium–potato interactions

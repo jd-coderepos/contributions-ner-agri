@@ -1,4 +1,4 @@
 Bioactive sesquiterpene lactones isolated from the shoots of Arctotis arctotoides
 
-m: Bioactive sesquiterpene lactones
-m: shoots of Arctotis arctotoides
+r: Bioactive sesquiterpene lactones
+r: shoots of Arctotis arctotoides

@@ -2,4 +2,4 @@ Does species richness and diversity of serpentine vegetation differ from the sur
 
 p: species richness and diversity
 rp: serpentine vegetation
-m: non-serpentine vegetation
+r: non-serpentine vegetation

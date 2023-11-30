@@ -1,4 +1,4 @@
 Understanding Medicinal Plants: Their Chemistry and Therapeutic Action, Bryan A. Hanson, 2005, Haworth Herbal Press, New York, Price: $ 44.95 Soft cover, 307 pages, A5 size, referenced and indexed, ISBN 0-7890-1552-8, Website: www.harworthpress.com
 
-m: Medicinal Plants
+r: Medicinal Plants
 p: Chemistry and Therapeutic Action

@@ -1,5 +1,5 @@
 Spatial pattern of genetic variation in Elytropappus rhinocerotis (Asteraceae) from the Cape provinces of South Africa
 
 rp: Spatial pattern of genetic variation
-m: Elytropappus rhinocerotis (Asteraceae)
+r: Elytropappus rhinocerotis (Asteraceae)
 loc: Cape provinces of South Africa

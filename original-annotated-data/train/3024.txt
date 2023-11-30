@@ -1,5 +1,5 @@
 Revision of Arctotis sect. Anomalae (Asteraceae: Arctotideae), including the description of a new species from Northern Cape Province, South Africa
 
 meth: Revision
-m: Arctotis sect. Anomalae (Asteraceae: Arctotideae)
+r: Arctotis sect. Anomalae (Asteraceae: Arctotideae)
 loc: Northern Cape Province, South Africa

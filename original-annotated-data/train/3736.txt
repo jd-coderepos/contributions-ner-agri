@@ -1,5 +1,5 @@
 The reproductive phenology of three mistletoe species in the Loskop Dam Nature Reserve, South Africa
 
 rp: reproductive phenology
-m: three mistletoe species
+r: three mistletoe species
 loc: Loskop Dam Nature Reserve, South Africa

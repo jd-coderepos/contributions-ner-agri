@@ -1,5 +1,5 @@
 Some effects of the cyclones Domoina and Imboa on mangrove communities in the St Lucia Estuary
 
-m: cyclones Domoina and Imboa
-m: mangrove communities
+r: cyclones Domoina and Imboa
+r: mangrove communities
 loc: St Lucia Estuary

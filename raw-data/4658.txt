@@ -1,6 +1,6 @@
 The role of starch as transient energy buffer in synchronized microalgal growth in Acutodesmus obliquus
 
-m: starch
-m: Acutodesmus obliquus
+r: starch
+r: Acutodesmus obliquus
 p: transient energy buffer
 rp: synchronized microalgal growth

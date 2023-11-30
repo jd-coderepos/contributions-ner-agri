@@ -1,6 +1,6 @@
 Regulation of photosynthetic activity by sucrose and hexose in leaves of sugarcane
 
 rp: Regulation of photosynthetic activity
-m: sucrose
-m: hexose
-m: leaves of sugarcane
+r: sucrose
+r: hexose
+r: leaves of sugarcane

@@ -1,7 +1,7 @@
 Sexual mimicry in sympatric orchid species promotes outcrossing, multiple paternity and reproductive isolation
 
 rp: Sexual mimicry
-m: sympatric orchid species
+r: sympatric orchid species
 p: outcrossing
 p: multiple paternity
 p: reproductive isolation

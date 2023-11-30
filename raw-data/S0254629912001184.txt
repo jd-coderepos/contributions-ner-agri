@@ -1,5 +1,5 @@
-Peroxidase activity and total phenol content in citrus cuttings treated with different copper sources 
+Peroxidase activity and total phenol content in citrus cuttings treated with different copper sources
 
 rp: Peroxidase activity
 rp: total phenol content
-m: citrus cuttings treated with different copper sources
+r: citrus cuttings treated with different copper sources

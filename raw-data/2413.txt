@@ -1,4 +1,4 @@
 Absorption and persistence of 2,4,5-TP in Packham's Triumph pear trees
 
 rp: Absorption and persistence of 2,4,5-TP
-m: Packham's Triumph pear trees
+r: Packham's Triumph pear trees

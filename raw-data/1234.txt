@@ -1,4 +1,4 @@
 Lectotypification of the genus Delosperma (Mesembryanthemaceae)
 
 rp: Lectotypification
-m: genus Delosperma (Mesembryanthemaceae)
+r: genus Delosperma (Mesembryanthemaceae)

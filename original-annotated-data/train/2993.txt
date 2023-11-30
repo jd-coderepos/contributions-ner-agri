@@ -1,4 +1,4 @@
 Phenylethanoid glycosides from Lippia javanica
 
-m: Phenylethanoid glycosides
-m: Lippia javanica
+r: Phenylethanoid glycosides
+r: Lippia javanica

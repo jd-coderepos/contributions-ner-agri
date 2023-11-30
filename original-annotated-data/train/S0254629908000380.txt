@@ -1,4 +1,4 @@
-Effect of provenance on chilling sensitivity of recalcitrant seeds, putatively of a single species 
+Effect of provenance on chilling sensitivity of recalcitrant seeds, putatively of a single species
 
-m: recalcitrant seeds
+r: recalcitrant seeds
 rp: chilling sensitivity

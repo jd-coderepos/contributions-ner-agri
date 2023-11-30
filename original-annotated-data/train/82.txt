@@ -1,4 +1,4 @@
 The isolation of high quality RNA from the fruit of avocado (Persea americana Mill.)
 
 rp: isolation of high quality RNA
-m: fruit of avocado (Persea americana Mill.)
+r: fruit of avocado (Persea americana Mill.)

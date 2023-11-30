@@ -1,5 +1,5 @@
 Higher-order structure and epidemic dynamics in clustered networks
 
-m: clustered networks
+r: clustered networks
 rp: Higher-order structure
 rp: epidemic dynamics

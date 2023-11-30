@@ -1,5 +1,5 @@
 16-O-methylcafestol is present in ground roast Arabica coffees: Implications for authenticity testing
 
-m: 16-O-methylcafestol
-m: ground roast Arabica coffees
+r: 16-O-methylcafestol
+r: ground roast Arabica coffees
 rp: authenticity testing

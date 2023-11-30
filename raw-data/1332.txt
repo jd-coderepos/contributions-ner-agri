@@ -1,4 +1,4 @@
 Environmental and physiological factors shape the gut microbiota of Atlantic salmon parr (Salmo salar L.)
 
 p: Environmental and physiological factors
-m: gut microbiota of Atlantic salmon parr (Salmo salar L.)
+r: gut microbiota of Atlantic salmon parr (Salmo salar L.)

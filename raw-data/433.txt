@@ -3,5 +3,5 @@ Symbiotic N2 fixation, C assimilation and water-use efficiency (WUE) of five Rhi
 rp: Symbiotic N2 fixation
 rp: C assimilation
 rp: water-use efficiency (WUE)
-m: five Rhizobium-inoculated Kersting's groundnut (Macrotyloma geocarpum) landraces
+r: five Rhizobium-inoculated Kersting's groundnut (Macrotyloma geocarpum) landraces
 meth: 15N and 13C isotopic techniques

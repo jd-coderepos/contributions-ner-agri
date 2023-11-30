@@ -1,5 +1,5 @@
 Complete hierarchies of SIR models on arbitrary networks with exact and approximate moment closure
 
 rp: hierarchies of SIR models
-m: arbitrary networks
+r: arbitrary networks
 meth: exact and approximate moment closure

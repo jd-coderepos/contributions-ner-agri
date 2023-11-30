@@ -1,5 +1,5 @@
 Perceptions of traditional healers on the management of sexually transmitted diseases in Mutale Local Municipality, Limpopo Province, South Africa
 
-m: traditional healers
+r: traditional healers
 rp: sexually transmitted diseases
 loc: Mutale Local Municipality, Limpopo Province, South Africa

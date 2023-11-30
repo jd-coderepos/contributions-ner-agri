@@ -2,4 +2,4 @@ Rapid propagation of Mondia whitei by embryonic cell suspension culture in vitro
 
 rp: Rapid propagation of Mondia whitei
 meth: in vitro
-m: embryonic cell suspension culture
+r: embryonic cell suspension culture

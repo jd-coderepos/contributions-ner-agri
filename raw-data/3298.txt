@@ -3,5 +3,5 @@ Seedling survival, post-harvest recovery and growth rates of the woodrose-produc
 rp: Seedling survival
 rp: post-harvest recovery
 rp: growth rates
-m: woodrose-producing mistletoe Erianthemum dregei (Loranthaceae)
-m: Sclerocarya birrea
+r: woodrose-producing mistletoe Erianthemum dregei (Loranthaceae)
+r: Sclerocarya birrea

@@ -1,4 +1,4 @@
 Desiccation sensitivity of white and black (red) oak embryonic axes
 
 rp: Desiccation sensitivity
-m: white and black (red) oak embryonic axes
+r: white and black (red) oak embryonic axes

@@ -2,5 +2,5 @@ Modulation of antioxidant enzyme activities and metabolites ratios by nitric oxi
 
 rp: antioxidant enzyme activities
 rp: metabolites ratios
-m: nitric oxide
-m: short-term salt stressed soybean root nodules
+r: nitric oxide
+r: short-term salt stressed soybean root nodules

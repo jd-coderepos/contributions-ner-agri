@@ -1,4 +1,4 @@
 New species of hyphomycetes associated with Eucalyptus
 
-m: Eucalyptus
+r: Eucalyptus
 f: New species of hyphomycetes associated with Eucalyptus

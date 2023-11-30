@@ -1,4 +1,4 @@
 Size at maturity and molting probability across latitude in female Cancer pagurus
 
 rp: maturity and molting probability
-m: latitude in female Cancer pagurus
+r: latitude in female Cancer pagurus

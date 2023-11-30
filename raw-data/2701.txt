@@ -1,4 +1,4 @@
 Characterisation of the active/de-active transition of mitochondrial complex I
 
 rp: Characterisation of the active/de-active transition
-m: mitochondrial complex I
+r: mitochondrial complex I

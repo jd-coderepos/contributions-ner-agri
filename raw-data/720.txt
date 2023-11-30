@@ -1,6 +1,6 @@
 Contributions to the floral morphology and embryology of Pavetta gardeniifolia A. Rich. Part 3. Microsporogenesis and pollen structure
 
 rp: floral morphology and embryology
-m: Pavetta gardeniifolia A. Rich
+r: Pavetta gardeniifolia A. Rich
 p: Microsporogenesis
 p: pollen structure

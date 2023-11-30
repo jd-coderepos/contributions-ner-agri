@@ -1,5 +1,5 @@
 Vivipary and pseudovivipary in the Poaceae, including the first record of pseudovivipary in Digitaria (Panicoideae: Paniceae)
 
-m: Digitaria (Panicoideae: Paniceae)
+r: Digitaria (Panicoideae: Paniceae)
 rp: Vivipary and pseudovivipary
-m: Poaceae
+r: Poaceae

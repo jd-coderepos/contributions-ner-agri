@@ -1,4 +1,4 @@
 Alkaloids from Cyrtanthus falcatus
 
-m: Cyrtanthus falcatus
+r: Cyrtanthus falcatus
 rp: Alkaloids

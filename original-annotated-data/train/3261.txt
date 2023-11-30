@@ -1,4 +1,4 @@
 A new shape of plastid starch grains from laticifers of Anthostema (Euphorbiaceae)
 
 rp: new shape of plastid starch grains
-m: laticifers of Anthostema (Euphorbiaceae)
+r: laticifers of Anthostema (Euphorbiaceae)

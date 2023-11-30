@@ -2,4 +2,4 @@ Logistic regression for clustered data from environmental monitoring programs
 
 meth: Logistic regression
 meth: environmental monitoring programs
-m: clustered data
+r: clustered data

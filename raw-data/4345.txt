@@ -3,4 +3,4 @@ Combining pollination ecology and fine-scale spatial genetic structure analysis 
 p: pollination ecology
 meth: fine-scale spatial genetic structure analysis
 rp: reproductive strategy
-m: insular threatened orchid
+r: insular threatened orchid

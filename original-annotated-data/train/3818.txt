@@ -1,7 +1,7 @@
 Visual exposure to large and small portion sizes and perceptions of portion size normality: Three experimental studies
 
 meth: Visual exposure
-m: large and small portion sizes
+r: large and small portion sizes
 rp: portion size normality
 p: perceptions
 meth: experimental studies

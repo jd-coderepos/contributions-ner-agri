@@ -1,4 +1,4 @@
 A morphometric study of Ficinia indica complex (Cyperaceae)
 
 meth: morphometric study
-m: Ficinia indica complex (Cyperaceae)
+r: Ficinia indica complex (Cyperaceae)

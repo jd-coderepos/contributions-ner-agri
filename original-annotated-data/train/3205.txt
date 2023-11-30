@@ -1,6 +1,6 @@
 Proline enhances growth, productivity and anatomy of two varieties of Lupinus termis L. grown under salt stress
 
-m: Proline
-m: two varieties of Lupinus termis L.
+r: Proline
+r: two varieties of Lupinus termis L.
 rp: growth, productivity and anatomy
 meth: salt stress

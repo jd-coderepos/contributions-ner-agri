@@ -1,5 +1,5 @@
 Alkaloids from Croton echinocarpus Baill.: Anti-HIV potential
 
-m: Alkaloids
-m: Croton echinocarpus Baill.
+r: Alkaloids
+r: Croton echinocarpus Baill.
 rp: Anti-HIV potential

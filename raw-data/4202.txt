@@ -1,5 +1,5 @@
 Allozyme variation in Barleria saxatilis (Acanthaceae) is lower than in two congeneric endemics
 
 rp: Allozyme variation
-m: Barleria saxatilis (Acanthaceae)
+r: Barleria saxatilis (Acanthaceae)
 p: congeneric endemics

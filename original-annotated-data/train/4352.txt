@@ -3,4 +3,4 @@ In vitro and In vivo wound healing studies of methanolic fraction of Centella as
 meth: In vitro
 meth: In vivo
 rp: wound healing studies
-m: methanolic fraction of Centella asiatica extract
+r: methanolic fraction of Centella asiatica extract

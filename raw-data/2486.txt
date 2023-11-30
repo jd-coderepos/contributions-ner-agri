@@ -2,4 +2,4 @@ A note on auxotelic cones and basitonic branching in Encephalartos
 
 rp: auxotelic cones
 rp: basitonic branching
-m: Encephalartos
+r: Encephalartos

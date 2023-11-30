@@ -1,5 +1,5 @@
 Population dynamics of Millettia stuhlmannii Taub. population of Ha-Makhuvha, Vhembe district in Limpopo Province
 
 rp: Population dynamics
-m: Millettia stuhlmannii Taub. population
+r: Millettia stuhlmannii Taub. population
 loc: Ha-Makhuvha, Vhembe district in Limpopo Province

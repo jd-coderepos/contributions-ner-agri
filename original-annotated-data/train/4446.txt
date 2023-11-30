@@ -1,4 +1,4 @@
 The major alkaloids of the genus Melolobium
 
 rp: major alkaloids
-m: genus Melolobium
+r: genus Melolobium

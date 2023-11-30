@@ -1,5 +1,5 @@
 Inulin enrichment of gluten free breads: Interaction between inulin and yeast
 
 rp: Inulin enrichment of gluten free breads
-m: inulin
-m: yeast
+r: inulin
+r: yeast

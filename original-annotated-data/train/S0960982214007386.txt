@@ -1,4 +1,4 @@
-Influence of prior information on pain involves biased perceptual decision-making 
+Influence of prior information on pain involves biased perceptual decision-making
 
 rp: pain
 s: biased perceptual decision-making

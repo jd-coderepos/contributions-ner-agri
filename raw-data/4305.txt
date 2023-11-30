@@ -2,4 +2,4 @@ The effect of seasons on yield and quality of carrageenan from Tanzanian red alg
 
 p: effect of seasons
 rp: yield and quality of carrageenan
-m: Tanzanian red alga Eucheuma denticulatum (Gigartinales, Rhodophyta)
+r: Tanzanian red alga Eucheuma denticulatum (Gigartinales, Rhodophyta)

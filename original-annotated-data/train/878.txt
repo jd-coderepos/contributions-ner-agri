@@ -1,5 +1,5 @@
 In vitro formation of adventitious buds on mature embryos of Pinus elliottii Engelm. × P. caribaea Morelet hybrids
 
 meth: In vitro formation
-m: adventitious buds
-m: mature embryos of Pinus elliottii Engelm. × P. caribaea Morelet hybrids
+r: adventitious buds
+r: mature embryos of Pinus elliottii Engelm. × P. caribaea Morelet hybrids

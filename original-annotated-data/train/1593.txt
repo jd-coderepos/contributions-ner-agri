@@ -3,4 +3,4 @@ The influence of impaction and sulphuric acid scarification on electrolyte and c
 p: impaction
 p: sulphuric acid scarification
 rp: electrolyte and carbohydrate leakage
-m: Aspalathus linearis seeds
+r: Aspalathus linearis seeds

@@ -2,6 +2,6 @@ Comparison of germination rates and fruit traits of indigenous Solanum giganteum
 
 rp: germination rates
 rp: fruit traits
-m: indigenous Solanum giganteum
-m: invasive Solanum mauritianum
+r: indigenous Solanum giganteum
+r: invasive Solanum mauritianum
 loc: South Africa

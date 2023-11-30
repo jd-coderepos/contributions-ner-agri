@@ -3,4 +3,4 @@ Osmotic priming effects on emergence of Physalis angulata and the influence of a
 meth: Osmotic priming effects
 p: abiotic stresses
 rp: emergence of Physalis angulata
-m: physalin content
+r: physalin content

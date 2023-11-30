@@ -1,4 +1,4 @@
 A quick and robust biomass estimation method for plants of diverse growth forms
 
-m: plants of diverse growth forms
+r: plants of diverse growth forms
 rp: biomass estimation method

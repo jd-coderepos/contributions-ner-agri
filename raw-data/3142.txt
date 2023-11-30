@@ -2,5 +2,5 @@ Variation in phytochemical constituents and allelopathic potential of Nigella sa
 
 rp: Variation in phytochemical constituents
 rp: allelopathic potential
-m: Nigella sativa
+r: Nigella sativa
 p: developmental stages

@@ -2,4 +2,4 @@ Spatial and temporal variation of fungal endophytic richness and diversity assoc
 
 p: Spatial and temporal variation
 rp: fungal endophytic richness and diversity
-m: phyllosphere of olive cultivars
+r: phyllosphere of olive cultivars

@@ -3,5 +3,5 @@ Variations in seed size and shape in relation to depth of burial in the soil and
 rp: seed size and shape
 p: depth of burial in the soil
 p: pre- dispersal predation
-m: Acacia nilotica
-m: Dichrostachys cinerea
+r: Acacia nilotica
+r: Dichrostachys cinerea

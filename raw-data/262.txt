@@ -4,4 +4,4 @@ p: temperature
 p: pre-chilling
 p: light
 rp: seed germination
-m: Withania somnifera
+r: Withania somnifera

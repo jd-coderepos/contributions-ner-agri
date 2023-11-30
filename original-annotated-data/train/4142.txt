@@ -1,6 +1,6 @@
 Effect of cadmium and aluminum on growth, metabolite content and biological activity in Drimia elata (Jacq.) Hyacinthaceae
 
-m: cadmium
-m: aluminum
-m: Drimia elata (Jacq.) Hyacinthaceae
+r: cadmium
+r: aluminum
+r: Drimia elata (Jacq.) Hyacinthaceae
 rp: growth, metabolite content and biological activity

@@ -1,7 +1,7 @@
 Consumption of thylakoid-rich spinach extract reduces hunger, increases satiety and reduces cravings for palatable food in overweight women
 
 p: Consumption of thylakoid-rich spinach extract
-m: overweight women
+r: overweight women
 p: reduces hunger
 p: increases satiety
 p: reduces cravings

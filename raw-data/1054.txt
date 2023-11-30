@@ -4,4 +4,4 @@ s: Growth media effects
 rp: symbiotic nitrogen fixation
 rp: shoot physiology
 rp: nodule numbers
-m: soybean
+r: soybean

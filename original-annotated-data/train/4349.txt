@@ -1,6 +1,6 @@
 Rodents and baboons reduce seed cone production of Protea neriifolia
 
-m: Rodents
-m: baboons
+r: Rodents
+r: baboons
 rp: seed cone production
-m: Protea neriifolia
+r: Protea neriifolia

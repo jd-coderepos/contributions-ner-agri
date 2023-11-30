@@ -2,6 +2,6 @@ The differential display technique using short primers is not suited for the rou
 
 meth: differential display technique
 t: short primers
-m: differentially expressed sequences
-m: sugarcane
+r: differentially expressed sequences
+r: sugarcane
 p: routine isolation

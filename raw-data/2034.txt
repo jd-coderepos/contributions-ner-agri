@@ -2,4 +2,4 @@ How do fires kill plants? The hydraulic death hypothesis and Cape Proteaceae “
 
 rp: fires kill plants
 p: hydraulic death hypothesis
-m: Cape Proteaceae “fire-resisters”
+r: Cape Proteaceae “fire-resisters”

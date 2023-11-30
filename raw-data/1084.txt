@@ -1,4 +1,4 @@
 Do symbiotic plant microbes play a role in the synthesis of the toxic compounds of Dichapetalum cymosum?
 
-m: plant microbes
-m: toxic compounds of Dichapetalum cymosum
+r: plant microbes
+r: toxic compounds of Dichapetalum cymosum

@@ -1,4 +1,4 @@
 A taxonomic account of Agathelpis, Globulariopsis and Gosela (Selaginaceae)
 
 rp: taxonomic account
-m: Agathelpis, Globulariopsis and Gosela (Selaginaceae)
+r: Agathelpis, Globulariopsis and Gosela (Selaginaceae)

@@ -2,4 +2,4 @@ The relationship between storage conditions and seed gerxnination in two species
 
 rp: storage conditions
 rp: seed gerxnination
-m: two species of Sesbania
+r: two species of Sesbania

@@ -1,6 +1,6 @@
 Genetic Resources, Chromosome Engineering, And Crop Improvement: Vegetable Crops, Volume 3, Ram J. Singh (Ed.), Taylor and Francis Group, Boca Raton, London, New York, 6000 Broken Sound Parkway NW, Suite 300 Boca Raton FL 33487-2742, CRC Press, 2006. Recommended price $159.99. ISBN: 0-8493-9646-8, Hardcover, pp 352. Webmail: www.taylorandfrancis.com.
 
-m: Vegetable Crops
+r: Vegetable Crops
 rp: Genetic Resources
 rp: Chromosome Engineering
 rp: Crop Improvement

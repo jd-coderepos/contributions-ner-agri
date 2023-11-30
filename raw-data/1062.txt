@@ -1,5 +1,5 @@
 Tutti Frutti in Lepidium — Comparative analysis of fruit dehiscence/indehiscence in Brassicaceae
 
 rp: fruit dehiscence/indehiscence
-m: Brassicaceae
-m: Lepidium
+r: Brassicaceae
+r: Lepidium

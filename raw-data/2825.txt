@@ -3,4 +3,4 @@ Tillage intensity or landscape features: What matters most for wild bee diversit
 meth: Tillage intensity
 meth: landscape features
 rp: wild bee diversity
-m: vineyards
+r: vineyards

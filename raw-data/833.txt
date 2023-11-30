@@ -1,6 +1,6 @@
 The seed ecology of an ornamental wattle in South Africa — Why has Acacia elata not invaded a greater area?
 
 rp: seed ecology
-m: ornamental wattle
+r: ornamental wattle
 loc: South Africa
-m: Acacia elata
+r: Acacia elata

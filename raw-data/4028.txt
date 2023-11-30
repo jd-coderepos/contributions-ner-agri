@@ -1,4 +1,4 @@
 Isolation of di(2-ethylhexyl) phthalate from a commercial South African cognate herbal mixture
 
 rp: Isolation of di(2-ethylhexyl) phthalate
-m: commercial South African cognate herbal mixture
+r: commercial South African cognate herbal mixture

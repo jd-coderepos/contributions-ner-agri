@@ -1,5 +1,5 @@
 Optimal ground preparation treatments for restoring lowland Sand Fynbos vegetation on old fields
 
 sol: Optimal ground preparation treatments
-m: old fields
+r: old fields
 rp: restoring lowland Sand Fynbos vegetation

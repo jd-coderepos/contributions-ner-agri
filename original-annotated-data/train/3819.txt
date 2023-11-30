@@ -1,8 +1,8 @@
 Negative stereotypes of the Scottish diet: A qualitative analysis of deep-fried Mars bar references in bestselling newspapers in Scotland, 2011–14
 
 rp: Negative stereotypes
-m: Scottish diet
+r: Scottish diet
 meth: qualitative analysis
-m: deep-fried Mars bar references
-m: bestselling newspapers
+r: deep-fried Mars bar references
+r: bestselling newspapers
 loc: Scotland

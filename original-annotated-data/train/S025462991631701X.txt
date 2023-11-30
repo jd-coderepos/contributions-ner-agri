@@ -2,5 +2,5 @@ A quantitative approach to the structural analysis and classification of the veg
 
 loc: Manyeleti Game Reserve
 meth: quantitative approach
-m: vegetation
+r: vegetation
 rp: structural analysis and classification

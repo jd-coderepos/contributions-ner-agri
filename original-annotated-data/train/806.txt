@@ -1,5 +1,5 @@
 Transient gene expression assays in rose tissues using a Bio-Rad Helios® hand-held gene gun
 
 s: Transient gene expression assays
-m: rose tissues
+r: rose tissues
 meth: Bio-Rad Helios® hand-held gene gun

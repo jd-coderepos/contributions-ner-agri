@@ -1,4 +1,4 @@
 Micropropagation of Scilla nervosa (Hyacinthaceae), a southern African medicinal bulb
 
 rp: Micropropagation
-m: Scilla nervosa (Hyacinthaceae), a southern African medicinal bulb
+r: Scilla nervosa (Hyacinthaceae), a southern African medicinal bulb

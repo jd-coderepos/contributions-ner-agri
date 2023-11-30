@@ -2,5 +2,5 @@ A preliminary investigation of the potential to determine the age of individual 
 
 meth: preliminary investigation
 rp: age of individual trees of Breonadia salicina (Rubiaceae)
-m: relating xylem vessel diameter and area
-m: rainfall and temperature data
+r: relating xylem vessel diameter and area
+r: rainfall and temperature data

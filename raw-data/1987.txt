@@ -2,5 +2,5 @@ Dormancy and germination characteristics of the trimorphic achenes of Garhadiolu
 
 rp: Dormancy
 rp: germination characteristics
-m: trimorphic achenes of Garhadiolus papposus (Asteraceae)
+r: trimorphic achenes of Garhadiolus papposus (Asteraceae)
 loc: Junggar Desert, China

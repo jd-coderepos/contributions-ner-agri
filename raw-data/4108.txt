@@ -3,5 +3,5 @@ In vitro cytotoxicity and genotoxicity of five Ochna species (Ochnaceae) with ex
 meth: In vitro
 rp: cytotoxicity
 rp: genotoxicity
-m: five Ochna species (Ochnaceae)
+r: five Ochna species (Ochnaceae)
 p: antibacterial activity

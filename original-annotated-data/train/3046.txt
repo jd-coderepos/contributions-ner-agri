@@ -1,4 +1,4 @@
 Physical and chemical characteristics of Aloe ferox leaf gel
 
 p: Physical and chemical characteristics
-m: Aloe ferox leaf gel
+r: Aloe ferox leaf gel

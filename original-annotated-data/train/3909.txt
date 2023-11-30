@@ -1,6 +1,6 @@
 A novel phenolic compound and an alternative biosynthetic pathway for flavonoids in Helichrysum aureonitens
 
-m: phenolic compound
+r: phenolic compound
 p: biosynthetic pathway
-m: flavonoids
-m: Helichrysum aureonitens
+r: flavonoids
+r: Helichrysum aureonitens

@@ -4,4 +4,4 @@ rp: Identification of transcription factors
 p: early blight resistance
 p: invasion in host tissue
 meth: microarray expression profiling
-m: tomato
+r: tomato

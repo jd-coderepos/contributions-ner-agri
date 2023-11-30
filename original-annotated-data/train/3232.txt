@@ -2,5 +2,5 @@ Flavour volatile compound analysis in strawberry (Fragaria x ananassa Duch.) fru
 
 rp: Flavour volatile compound analysis
 rp: identifying volatile compounds
-m: strawberry (Fragaria x ananassa Duch.) fruits
+r: strawberry (Fragaria x ananassa Duch.) fruits
 meth: mass spectrometer techniques

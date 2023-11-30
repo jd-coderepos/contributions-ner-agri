@@ -1,6 +1,6 @@
 Are fleshy fruits of alien shrubs a preferred food resource for avian frugivores in the Cape Floristic Region?
 
-m: fleshy fruits of alien shrubs
-m: avian frugivores
+r: fleshy fruits of alien shrubs
+r: avian frugivores
 loc: Cape Floristic Region
 rp: preferred food resource

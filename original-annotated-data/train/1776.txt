@@ -2,4 +2,4 @@ Economic epidemiology of avian influenza on smallholder poultry farms
 
 p: Economic epidemiology
 rp: avian influenza
-m: smallholder poultry farms
+r: smallholder poultry farms

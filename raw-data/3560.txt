@@ -1,5 +1,5 @@
 Phosphate acceptance map: A novel approach to match phosphorus content of biosolids with land and crop requirements
 
 s: Phosphate acceptance map
-m: phosphorus content of biosolids
-m: land and crop requirements
+r: phosphorus content of biosolids
+r: land and crop requirements

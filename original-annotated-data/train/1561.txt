@@ -3,4 +3,4 @@ Tuber ontogeny, morphology and vegetative reproduction of Gloriosa superba L.
 rp: Tuber ontogeny
 p: morphology
 rp: vegetative reproduction
-m: Gloriosa superba L.
+r: Gloriosa superba L.

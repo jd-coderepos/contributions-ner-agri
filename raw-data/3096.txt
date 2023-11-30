@@ -1,5 +1,5 @@
 Seed physiological asepcts of selected species of the Kavango Woodland, Namibia
 
 rp: Seed physiological asepcts
-m: selected species
+r: selected species
 loc: Kavango Woodland, Namibia

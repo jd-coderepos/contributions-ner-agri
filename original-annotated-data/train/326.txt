@@ -2,4 +2,4 @@ Implications of inbreeding depression for invasion in Lilium formosanum
 
 p: inbreeding depression
 rp: invasion
-m: Lilium formosanum
+r: Lilium formosanum

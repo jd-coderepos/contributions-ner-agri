@@ -2,5 +2,5 @@ Stimulation of in vitro pollen germination in Audouinia capitata by the simultan
 
 meth: in vitro
 rp: pollen germination
-m: Audouinia capitata
+r: Audouinia capitata
 p: simultaneous use of several carbohydrates

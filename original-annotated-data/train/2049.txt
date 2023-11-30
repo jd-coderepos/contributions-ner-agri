@@ -2,4 +2,4 @@ Seasonal variation in the cyclooxygenase inhibitory activities of four South Afr
 
 p: Seasonal variation
 rp: cyclooxygenase inhibitory activities
-m: South African medicinal bulbs
+r: South African medicinal bulbs

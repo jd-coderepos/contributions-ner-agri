@@ -1,5 +1,5 @@
 Reconsideration of the status of Lavrania, Larryleachia and Notechidnopsis (Asclepiadoideae-Ceropegieae)
 
-m: Lavrania
-m: Larryleachia
-m: Notechidnopsis (Asclepiadoideae-Ceropegieae)
+r: Lavrania
+r: Larryleachia
+r: Notechidnopsis (Asclepiadoideae-Ceropegieae)

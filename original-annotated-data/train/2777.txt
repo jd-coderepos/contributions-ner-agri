@@ -2,5 +2,5 @@ Mortality associated with Weissellosis (Weissella sp.) in USA farmed rainbow tro
 
 rp: Mortality associated with Weissellosis (Weissella sp.)
 loc: USA
-m: farmed rainbow trout
+r: farmed rainbow trout
 p: control by vaccination

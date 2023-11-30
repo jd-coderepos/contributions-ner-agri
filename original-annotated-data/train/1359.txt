@@ -1,4 +1,4 @@
 Micropropagation of Hoslundia opposita Vahl—a valuable medicinal plant
 
 rp: Micropropagation
-m: Hoslundia opposita Vahl—a valuable medicinal plant
+r: Hoslundia opposita Vahl—a valuable medicinal plant

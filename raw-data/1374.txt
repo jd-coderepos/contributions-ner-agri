@@ -3,4 +3,4 @@ Seedling survival after desiccation when rehydrated with NaCl solutions, in some
 rp: Seedling survival
 meth: desiccation
 meth: rehydrated with NaCl solutions
-m: annual and perennial desert halophytes
+r: annual and perennial desert halophytes

@@ -1,4 +1,4 @@
 Growth inhibition of plant pathogenic bacteria and fungi by extracts from selected South African plant species
 
 rp: Growth inhibition
-m: plant pathogenic bacteria and fungi by extracts from selected South African plant species
+r: plant pathogenic bacteria and fungi by extracts from selected South African plant species

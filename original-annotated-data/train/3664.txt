@@ -1,5 +1,5 @@
 Green infrastructure in strategic spatial plans: Evidence from European urban regions
 
 rp: Green infrastructure
-m: strategic spatial plans
+r: strategic spatial plans
 loc: European urban regions

@@ -1,5 +1,5 @@
 Growth, physiology, and leaf ion concentration responses to long-term flooding with fresh or saline water of Populus euphratica
 
 p: Growth, physiology, and leaf ion concentration responses
-m: fresh or saline water of Populus euphratica
+r: fresh or saline water of Populus euphratica
 rp: long-term flooding

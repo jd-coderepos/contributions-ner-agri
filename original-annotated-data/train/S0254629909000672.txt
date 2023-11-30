@@ -1,4 +1,4 @@
 The leaf anatomy of ethnobotanically important Pteronia species
 
-m: Pteronia species
+r: Pteronia species
 rp: leaf anatomy

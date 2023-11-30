@@ -1,4 +1,4 @@
 Short-term changes in plasma membrane properties of starved sugarbeet cell suspensions and callus
 
 rp: plasma membrane properties
-m: starved sugarbeet cell suspensions and callus
+r: starved sugarbeet cell suspensions and callus

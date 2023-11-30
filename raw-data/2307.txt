@@ -1,4 +1,4 @@
 Optimised DNA isolation from Acacia karroo (Fabaceae)
 
 rp: DNA isolation
-m: Acacia karroo (Fabaceae)
+r: Acacia karroo (Fabaceae)

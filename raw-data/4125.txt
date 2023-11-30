@@ -2,4 +2,4 @@ Evaluation of anthraquinones from Himalayan rhubarb (Rheum emodi Wall. ex Meissn
 
 rp: Evaluation of anthraquinones
 p: antiproliferative agents
-m: Himalayan rhubarb (Rheum emodi Wall. ex Meissn.)
+r: Himalayan rhubarb (Rheum emodi Wall. ex Meissn.)

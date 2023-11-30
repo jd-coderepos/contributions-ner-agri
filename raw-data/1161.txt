@@ -1,4 +1,4 @@
 Germ-furrow morphology and storage conditions determine the degree of viability of Pinus caribaea pollen
 
 s: Germ-furrow morphology and storage conditions
-m: Pinus caribaea pollen
+r: Pinus caribaea pollen

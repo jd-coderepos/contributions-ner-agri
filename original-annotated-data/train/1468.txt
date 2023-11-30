@@ -1,5 +1,5 @@
 Two anti-staphylococcal triterpenoid acids isolated from Psiloxylon mauritianum (Bouton ex Hook.f.) Baillon, an endemic traditional medicinal plant of Mauritius
 
-m: anti-staphylococcal triterpenoid acids
-m: Psiloxylon mauritianum (Bouton ex Hook.f.) Baillon, an endemic traditional medicinal plant
+r: anti-staphylococcal triterpenoid acids
+r: Psiloxylon mauritianum (Bouton ex Hook.f.) Baillon, an endemic traditional medicinal plant
 loc: Mauritius

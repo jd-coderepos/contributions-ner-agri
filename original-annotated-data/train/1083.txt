@@ -4,5 +4,5 @@ t: UV-B radiation
 p: growth
 p: photosynthesis
 p: lipid peroxidation
-m: antioxidant enzymes
-m: three cyanobacteria
+r: antioxidant enzymes
+r: three cyanobacteria

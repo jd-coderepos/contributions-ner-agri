@@ -1,6 +1,6 @@
-Molecular responses to toxicological stressors: Profiling microRNAs in wild Atlantic salmon (Salmo salar) exposed to acidic aluminum-rich water 
+Molecular responses to toxicological stressors: Profiling microRNAs in wild Atlantic salmon (Salmo salar) exposed to acidic aluminum-rich water
 
-m: wild Atlantic salmon (Salmo salar)
+r: wild Atlantic salmon (Salmo salar)
 s: Profiling microRNAs
-m: acidic aluminum-rich water
+r: acidic aluminum-rich water
 rp: Molecular responses to toxicological stressors

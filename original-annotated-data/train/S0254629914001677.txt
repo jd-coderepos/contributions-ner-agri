@@ -1,5 +1,5 @@
 Effect of high salinity on Atriplex portulacoides: Growth, leaf water relations and solute accumulation in relation with osmotic adjustment
 
-m: Atriplex portulacoide
+r: Atriplex portulacoide
 rp: high salinity
 meth: osmotic adjustment

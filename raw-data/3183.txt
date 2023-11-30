@@ -1,9 +1,9 @@
 Variation in growth and nodulation of cowpea (Vignaunguiculata), blackgram (Vignamungo), mungbean (Vignaradiata), groundnut (Arachishypogaea) and Bambara groundnut (Vignasubterranean) grown at low and high rainfall areas of South Africa
 
 rp: Variation in growth and nodulation
-m: cowpea (Vignaunguiculata)
-m: blackgram (Vignamungo)
-m: mungbean (Vignaradiata)
-m: groundnut (Arachishypogaea)
-m: Bambara groundnut (Vignasubterranean)
+r: cowpea (Vignaunguiculata)
+r: blackgram (Vignamungo)
+r: mungbean (Vignaradiata)
+r: groundnut (Arachishypogaea)
+r: Bambara groundnut (Vignasubterranean)
 loc: South Africa

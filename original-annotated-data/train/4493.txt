@@ -1,5 +1,5 @@
 Maize roots, adenine and cytokinin biosynthesis: Lack of a positive correlation
 
 p: positive correlation
-m: Maize roots
+r: Maize roots
 rp: adenine and cytokinin biosynthesis

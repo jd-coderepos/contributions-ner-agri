@@ -1,5 +1,5 @@
 Studies on the development of gametophytes and endosperm in Jamesbrittenia microphylla (Scrophulariaceae) with reference to its systematic position
 
 rp: development of gametophytes and endosperm
-m: Jamesbrittenia microphylla (Scrophulariaceae)
+r: Jamesbrittenia microphylla (Scrophulariaceae)
 p: systematic position

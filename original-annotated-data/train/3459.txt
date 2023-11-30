@@ -1,4 +1,4 @@
 New records of four synanthropic plants found in southern Africa
 
-m: four synanthropic plants
+r: four synanthropic plants
 loc: southern Africa

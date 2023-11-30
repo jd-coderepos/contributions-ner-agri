@@ -1,5 +1,5 @@
 Lemma micromorphological characters in the Chloridoideae (Poaceae) optimized on a molecular phylogeny
 
 rp: Lemma micromorphological characters
-m: Chloridoideae (Poaceae)
+r: Chloridoideae (Poaceae)
 p: molecular phylogeny

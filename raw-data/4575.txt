@@ -1,5 +1,5 @@
 Fructans redistribution prior to sprouting in stored onion bulbs is a potential marker for dormancy break
 
 p: Fructans redistribution
-p: sprouting in stored onion bulbs 
+p: sprouting in stored onion bulbs
 rp: potential marker for dormancy break

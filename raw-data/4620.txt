@@ -1,4 +1,4 @@
 From grid to field: Assessing quality of gridded weather data for agricultural applications
 
-m: gridded weather data
+r: gridded weather data
 rp: agricultural applications

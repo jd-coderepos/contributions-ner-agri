@@ -1,4 +1,4 @@
 Phytochemical characterization of South African bush tea (Athrixia phylicoides DC.)
 
 rp: Phytochemical characterization
-m: South African bush tea (Athrixia phylicoides DC.)
+r: South African bush tea (Athrixia phylicoides DC.)

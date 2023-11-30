@@ -2,4 +2,4 @@ Isoeugenitol, a cyclooxygenase-1 inhibitor from Gethyllis ciliaris
 
 f: Isoeugenitol, a cyclooxygenase-1 inhibitor from Gethyllis ciliaris
 p: cyclooxygenase-1 inhibitor
-m: Gethyllis ciliaris
+r: Gethyllis ciliaris

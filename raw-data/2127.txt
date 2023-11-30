@@ -4,4 +4,4 @@ meth: Ultraviolet radiation-induced generation
 rp: reactive oxygen species
 rp: DNA damage
 rp: induction of UV-absorbing compounds
-m: cyanobacterium Rivularia sp. HKAR-4
+r: cyanobacterium Rivularia sp. HKAR-4

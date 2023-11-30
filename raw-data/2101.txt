@@ -2,5 +2,5 @@ Abundance and species composition of non-geniculate coralline red algae epiphyti
 
 rp: Abundance and species composition
 p: non-geniculate coralline red algae epiphytic
-m: South African populations
+r: South African populations
 loc: rocky shore seagrass Thalassodendron leptocaule M.C. Duarte, Bandeira & Romeiras

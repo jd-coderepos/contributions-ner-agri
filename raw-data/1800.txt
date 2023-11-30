@@ -2,4 +2,4 @@ Survey of large circular and octagonal tanks operated at Norwegian commercial sm
 
 meth: Survey
 rp: large circular and octagonal tanks
-m: Norwegian commercial smolt and post-smolt sites
+r: Norwegian commercial smolt and post-smolt sites

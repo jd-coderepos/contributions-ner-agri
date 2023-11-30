@@ -1,4 +1,4 @@
 Bark anatomical descriptions of Lannea schweinfurthii var. stuhlmannii (Engl.) Kokwaro
 
 rp: Bark anatomical descriptions
-m: Lannea schweinfurthii var. stuhlmannii (Engl.) Kokwaro
+r: Lannea schweinfurthii var. stuhlmannii (Engl.) Kokwaro

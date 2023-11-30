@@ -3,4 +3,4 @@ Efficiency of different marker systems for genotype fingerprinting and for genet
 meth: different marker systems
 rp: genotype fingerprinting
 rp: genetic diversity studies
-m: barley (Hordeum vulgare L.)
+r: barley (Hordeum vulgare L.)

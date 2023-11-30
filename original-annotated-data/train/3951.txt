@@ -1,5 +1,5 @@
 Induction of the defence responses and resistance to wheat leaf rust by plant extracts
 
 p: defence responses and resistance
-m: wheat leaf rust
-m: plant extracts
+r: wheat leaf rust
+r: plant extracts

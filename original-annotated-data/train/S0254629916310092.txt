@@ -1,6 +1,6 @@
-Autecological studies on Audouinia capitata (Bruniaceae). I. Plant-derived smoke as a seed germination cue 
+Autecological studies on Audouinia capitata (Bruniaceae). I. Plant-derived smoke as a seed germination cue
 
 rp: Autecological studies
-m: Audouinia capitata (Bruniaceae)
-m: Plant-derived smoke
+r: Audouinia capitata (Bruniaceae)
+r: Plant-derived smoke
 p: seed germination cue

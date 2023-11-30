@@ -1,7 +1,7 @@
 Short note on the effects of ethanolic extracts of selected South African seaweeds on the growth of commercially important plant pathogens, Rhizoctonia solani Kühn and Verticillium sp.
 
-m: ethanolic extracts
-m: South African seaweeds
+r: ethanolic extracts
+r: South African seaweeds
 rp: growth of commercially important plant pathogens
-m: Rhizoctonia solani Kühn
-m: Verticillium sp.
+r: Rhizoctonia solani Kühn
+r: Verticillium sp.

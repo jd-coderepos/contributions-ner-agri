@@ -1,6 +1,6 @@
 Uptake of elemental or sulfate-S from fall- or spring-applied co-granulated fertilizer by corn—A stable isotope and modeling study
 
 p: Uptake of elemental or sulfate-S
-m: fall- or spring-applied co-granulated fertilizer
-m: corn—A stable isotope
+r: fall- or spring-applied co-granulated fertilizer
+r: corn—A stable isotope
 meth: modeling study

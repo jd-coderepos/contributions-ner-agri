@@ -1,6 +1,6 @@
 Three species of Hydrolithon (Rhodophyta, Corallinaceae): Hydrolithon onkodes (Heydrich) Penrose and Woelkerling, Hydrolithon superficiale sp. nov., and H. samoënse (Foslie) comb. nov. from South Africa
 
 loc: South Africa
-m: Hydrolithon onkodes (Heydrich) Penrose and Woelkerling
-m: Hydrolithon superficiale sp. nov.
-m: H. samoënse (Foslie) comb. nov.
+r: Hydrolithon onkodes (Heydrich) Penrose and Woelkerling
+r: Hydrolithon superficiale sp. nov.
+r: H. samoënse (Foslie) comb. nov.

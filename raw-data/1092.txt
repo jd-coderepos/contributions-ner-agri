@@ -1,5 +1,5 @@
 Effects of partial dehydration of recalcitrant Haemanthus montanus zygotic embryos on vigour of recovered seedlings
 
 rp: partial dehydration
-m: recalcitrant Haemanthus montanus zygotic embryos
-m: recovered seedlings
+r: recalcitrant Haemanthus montanus zygotic embryos
+r: recovered seedlings

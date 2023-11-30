@@ -2,4 +2,4 @@ Essential oil composition and in vitro antimicrobial and anti-inflammatory activ
 
 rp: Essential oil composition
 p: in vitro antimicrobial and anti-inflammatory activity
-m: South African Vitex species
+r: South African Vitex species

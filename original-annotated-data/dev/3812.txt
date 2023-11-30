@@ -1,5 +1,5 @@
 Extreme resistance to weak-acid preservatives in the spoilage yeast Zygosaccharomyces bailii
 
 rp: Extreme resistance
-m: weak-acid preservatives
-m: spoilage yeast Zygosaccharomyces bailii
+r: weak-acid preservatives
+r: spoilage yeast Zygosaccharomyces bailii

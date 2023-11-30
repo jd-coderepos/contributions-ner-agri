@@ -1,5 +1,5 @@
 Multistage wet lipid extraction from fresh water stressed Neochloris oleoabundans slurry – Experiments and modelling
 
 rp: Multistage wet lipid extraction
-m: fresh water stressed Neochloris oleoabundans slurry
+r: fresh water stressed Neochloris oleoabundans slurry
 meth: Experiments and modelling

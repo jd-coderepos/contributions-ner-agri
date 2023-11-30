@@ -1,6 +1,6 @@
 Evidence of repeated migrations through the African arid corridor as revealed by a molecular phylogeny of southern African members of the genus Zygophyllum
 
 p: repeated migrations
-m: African arid corridor
-m: southern African members of the genus Zygophyllum
+r: African arid corridor
+r: southern African members of the genus Zygophyllum
 meth: molecular phylogeny

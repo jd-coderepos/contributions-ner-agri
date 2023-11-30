@@ -2,4 +2,4 @@ The adaptive significance of leaf size and shape variation in Jamesbrittenia (Sc
 
 p: adaptive significance
 rp: leaf size and shape variation
-m: Jamesbrittenia (Scrophulariaceae: Manuleae)
+r: Jamesbrittenia (Scrophulariaceae: Manuleae)

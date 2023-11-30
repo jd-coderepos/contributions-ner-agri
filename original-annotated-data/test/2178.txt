@@ -1,5 +1,5 @@
 Phylogenetic hypothesis for the southern African genus Tulbaghia L. (Amaryllidaceae, Allioideae) based on plastid and nuclear DNA sequences
 
 rp: Phylogenetic hypothesis
-m: plastid and nuclear DNA sequences
-m: southern African genus Tulbaghia L. (Amaryllidaceae, Allioideae)
+r: plastid and nuclear DNA sequences
+r: southern African genus Tulbaghia L. (Amaryllidaceae, Allioideae)

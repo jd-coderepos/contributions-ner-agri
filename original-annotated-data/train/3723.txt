@@ -1,7 +1,7 @@
 Combined use of the entomopathogenic fungus, Metarhizium brunneum, and the mosquito predator, Toxorhynchites brevipalpis, for control of mosquito larvae: Is this a risky biocontrol strategy?
 
-m: entomopathogenic fungus
-m: Metarhizium brunneum
-m: mosquito predator, Toxorhynchites brevipalpis
+r: entomopathogenic fungus
+r: Metarhizium brunneum
+r: mosquito predator, Toxorhynchites brevipalpis
 rp: control of mosquito larvae
 p: risky biocontrol strategy

@@ -1,5 +1,5 @@
 Unraveling the intricate biodiversity of the benthic harpacticoid genus Nannopus (Copepoda, Harpacticoida, Nannopodidae) in Korean waters
 
 rp: intricate biodiversity
-m: benthic harpacticoid genus Nannopus (Copepoda, Harpacticoida, Nannopodidae)
+r: benthic harpacticoid genus Nannopus (Copepoda, Harpacticoida, Nannopodidae)
 loc: Korean waters

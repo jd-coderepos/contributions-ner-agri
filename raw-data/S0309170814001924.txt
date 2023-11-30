@@ -1,5 +1,5 @@
 Scale dependent dynamic capillary pressure effect for two-phase flow in porous media
 
 p: two-phase flow
-m: porous media
+r: porous media
 meth: Scale dependent dynamic capillary pressure effect

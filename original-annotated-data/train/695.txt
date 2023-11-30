@@ -1,5 +1,5 @@
 A study of the digestive enzyme activities in scaleless carp (Gymnocypris przewalskii) on the Qinghai-Tibetan Plateau
 
 rp: digestive enzyme activities
-m: scaleless carp (Gymnocypris przewalskii)
+r: scaleless carp (Gymnocypris przewalskii)
 loc: Qinghai-Tibetan Plateau

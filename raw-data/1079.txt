@@ -1,5 +1,5 @@
 Results of a disease investigation of Aloe dichotoma in Goegap Nature Reserve, South Africa
 
 rp: disease investigation
-m: Aloe dichotoma
+r: Aloe dichotoma
 loc: Goegap Nature Reserve, South Africa

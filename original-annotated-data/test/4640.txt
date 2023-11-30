@@ -1,5 +1,5 @@
 Forage species in predator diets: Synthesis of data from the California Current
 
 rp: Forage species
-m: predator diets
-m: data from the California Current
+r: predator diets
+r: data from the California Current

@@ -1,5 +1,5 @@
 Revision of Pseudocercosporella-like species causing eyespot disease of wheat
 
-m: Pseudocercosporella-like species
-m: wheat
+r: Pseudocercosporella-like species
+r: wheat
 p: eyespot disease

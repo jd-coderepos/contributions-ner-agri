@@ -2,4 +2,4 @@ Does micropropagation influence the antimicrobial properties of Bowiea volubilis
 
 p: micropropagation
 rp: antimicrobial properties
-m: Bowiea volubilis
+r: Bowiea volubilis

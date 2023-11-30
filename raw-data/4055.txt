@@ -1,4 +1,4 @@
 Characterising the germination niche of two common savanna trees
 
 rp: germination niche
-m: two common savanna trees
+r: two common savanna trees

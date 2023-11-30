@@ -1,7 +1,7 @@
 Peripherally acting α-adrenoceptor antagonist MK-467 with intramuscular medetomidine and butorphanol in dogs: A prospective, randomised, clinical trial
 
-m: Peripherally acting α-adrenoceptor antagonist MK-467
-m: dogs
-m: intramuscular medetomidine
-m: butorphanol
+r: Peripherally acting α-adrenoceptor antagonist MK-467
+r: dogs
+r: intramuscular medetomidine
+r: butorphanol
 rp: clinical trial

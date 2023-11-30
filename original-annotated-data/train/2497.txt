@@ -1,6 +1,6 @@
 Cytotaxonomic studies in Themeda triandra Forsk. Part II. Aneuploidy in a diploid population
 
 rp: Cytotaxonomic studies
-m: Themeda triandra Forsk.
-m: diploid population
+r: Themeda triandra Forsk.
+r: diploid population
 p: Aneuploidy

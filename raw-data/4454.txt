@@ -3,4 +3,4 @@ The effects of pruning on shoot production and basal increment of Acacia tortili
 meth: pruning
 rp: shoot production
 rp: basal increment
-m: Acacia tortilis
+r: Acacia tortilis

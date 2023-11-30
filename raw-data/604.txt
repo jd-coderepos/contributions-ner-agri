@@ -1,6 +1,6 @@
 Effects of nitrogen on egg-laying inhibition and ovicidal response in planthopper-resistant rice varieties
 
-m: nitrogen
+r: nitrogen
 rp: egg-laying inhibition
 rp: ovicidal response
-m: planthopper-resistant rice varieties
+r: planthopper-resistant rice varieties

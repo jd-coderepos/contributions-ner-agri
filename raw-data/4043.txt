@@ -1,4 +1,4 @@
 Quality assessment of Tulbaghia rhizomes
 
 rp: Quality assessment
-m: Tulbaghia rhizomes
+r: Tulbaghia rhizomes

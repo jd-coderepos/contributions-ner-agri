@@ -1,5 +1,5 @@
 Plant growth promotion by Bradyrhizobium japonicum under heavy metal stress
 
 rp: Plant growth promotion
-m: Bradyrhizobium japonicum
+r: Bradyrhizobium japonicum
 p: heavy metal stress

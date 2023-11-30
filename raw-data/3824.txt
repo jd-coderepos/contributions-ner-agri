@@ -1,4 +1,4 @@
 Potential low-cost micropropagation of pineapple (Ananas comosus)
 
 rp: low-cost micropropagation
-m: pineapple (Ananas comosus)
+r: pineapple (Ananas comosus)

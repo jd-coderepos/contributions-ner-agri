@@ -1,4 +1,4 @@
 Two new Phaeophleospora species associated with leaf spots of Proteaceae
 
-m: Phaeophleospora species
-m: leaf spots of Proteaceae
+r: Phaeophleospora species
+r: leaf spots of Proteaceae

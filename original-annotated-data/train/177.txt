@@ -1,5 +1,5 @@
 Phenolics and essential mineral profile of organic acid pretreated unripe banana flour
 
-m: Phenolics
-m: organic acid pretreated unripe banana flour
-m: essential mineral profile
+r: Phenolics
+r: organic acid pretreated unripe banana flour
+r: essential mineral profile

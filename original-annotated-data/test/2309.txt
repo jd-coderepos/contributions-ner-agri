@@ -1,5 +1,5 @@
 Patterns of fruit morphology in Bolboschoenus (Cyperaceae) and their global distribution
 
 rp: Patterns of fruit morphology
-m: Bolboschoenus (Cyperaceae)
+r: Bolboschoenus (Cyperaceae)
 p: global distribution

@@ -1,4 +1,4 @@
 A model of episodic, abiotic dispersal for oaks (Quercus robur)
 
-m: oaks (Quercus robur)
+r: oaks (Quercus robur)
 meth: model of episodic, abiotic dispersal

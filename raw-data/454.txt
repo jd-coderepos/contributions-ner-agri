@@ -1,6 +1,6 @@
 Shoot regeneration from leaf explants of Withania coagulans (Stocks) Dunal and genetic stability evaluation of regenerates with RAPD and ISSR markers
 
 rp: Shoot regeneration
-m: leaf explants of Withania coagulans (Stocks) Dunal
-m: regenerates with RAPD and ISSR markers
+r: leaf explants of Withania coagulans (Stocks) Dunal
+r: regenerates with RAPD and ISSR markers
 rp: genetic stability evaluation

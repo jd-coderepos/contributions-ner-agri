@@ -1,6 +1,6 @@
 The CREW Programme: Volunteer amateur botanists making significant contributions to the taxonomy and conservation of threatened plants
 
 s: CREW Programme
-m: Volunteer amateur botanists
+r: Volunteer amateur botanists
 rp: taxonomy and conservation
-m: threatened plants
+r: threatened plants

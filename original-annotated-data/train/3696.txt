@@ -2,7 +2,7 @@ Genetic diversity and population structure in Physalis peruviana and related tax
 
 rp: Genetic diversity
 rp: population structure
-m: Physalis peruviana and related taxa
-m: InDels
-m: SNPs
+r: Physalis peruviana and related taxa
+r: InDels
+r: SNPs
 meth: COSII and IRG markers

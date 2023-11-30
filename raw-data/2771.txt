@@ -4,5 +4,5 @@ p: pH-induced gene regulation
 meth: sporulation modelling
 meth: Parameter estimation
 rp: solvent production
-m: Clostridium acetobutylicum
-m: continuous culture
+r: Clostridium acetobutylicum
+r: continuous culture

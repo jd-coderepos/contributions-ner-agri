@@ -1,4 +1,4 @@
 A taxonomic study of the type section of the genus Lebeckia Thunb. (Fabaceae, Crotalarieae)
 
 rp: taxonomic study
-m: type section of the genus Lebeckia Thunb. (Fabaceae, Crotalarieae)
+r: type section of the genus Lebeckia Thunb. (Fabaceae, Crotalarieae)

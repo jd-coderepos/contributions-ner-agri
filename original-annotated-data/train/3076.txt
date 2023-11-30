@@ -1,5 +1,5 @@
 Identification of compounds from the plant species Alepidea amatymbica active against HIV
 
 rp: Identification of compounds
-m: plant species Alepidea amatymbica
+r: plant species Alepidea amatymbica
 p: HIV

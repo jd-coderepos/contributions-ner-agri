@@ -1,5 +1,5 @@
 A new species of Combretum from Venda and taxonomic notes on the section Angustimarginata (Combretaceae)
 
-m: section Angustimarginata (Combretaceae)
+r: section Angustimarginata (Combretaceae)
 loc: Venda
 meth: taxonomic notes

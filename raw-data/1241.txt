@@ -1,7 +1,7 @@
 Comparison of the influence of citric acid and acetic acid as simulant for acidic food on the release of alloy constituents from stainless steel AISI 201
 
-m: citric acid
-m: acetic acid
-m: stainless steel AISI
+r: citric acid
+r: acetic acid
+r: stainless steel AISI
 rp: simulant for acidic food
 p: release of alloy constituents

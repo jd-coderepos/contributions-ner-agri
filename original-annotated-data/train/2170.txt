@@ -1,5 +1,5 @@
 Proteaceae nectar sources for nectarivorous birds at landscape level
 
-m: Proteaceae nectar sources
-m: nectarivorous birds
+r: Proteaceae nectar sources
+r: nectarivorous birds
 meth: landscape level

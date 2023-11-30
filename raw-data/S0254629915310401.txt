@@ -1,5 +1,5 @@
-Bufadienolides in in vitro derived Drimia robusta plants 
+Bufadienolides in in vitro derived Drimia robusta plants
 
-m: Bufadienolides
-m: Drimia robusta plants
+r: Bufadienolides
+r: Drimia robusta plants
 meth: in vitro

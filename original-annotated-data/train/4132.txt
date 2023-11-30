@@ -1,6 +1,6 @@
 A survey of plants responsible for causing allergic contact dermatitis in the Amathole District, Eastern Cape, South Africa
 
 meth: survey
-m: plants
+r: plants
 rp: allergic contact dermatitis
 loc: Amathole District, Eastern Cape, South Africa

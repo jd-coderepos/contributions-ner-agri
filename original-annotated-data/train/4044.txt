@@ -1,6 +1,6 @@
 A single dominant gene confers resistance to Fusarium oxysporum f. sp. melonis race 1 in West Indian Gherkin (Cucumis anguria L.) accessions
 
-m: Fusarium oxysporum f. sp. melonis race 1
-m: West Indian Gherkin (Cucumis anguria L.) accessions
+r: Fusarium oxysporum f. sp. melonis race 1
+r: West Indian Gherkin (Cucumis anguria L.) accessions
 rp: resistance
-m: single dominant gene
+r: single dominant gene

@@ -4,4 +4,4 @@ rp: ethnobotany
 rp: leaf anatomy
 rp: essential oil variation
 rp: biological activity
-m: Pteronia incana (Asteraceae)
+r: Pteronia incana (Asteraceae)

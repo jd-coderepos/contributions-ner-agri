@@ -1,4 +1,4 @@
 Modulated gene expression in newly synthesized auto-tetraploid of Papaver somniferum L.
 
 rp: Modulated gene expression
-m: auto-tetraploid of Papaver somniferum L.
+r: auto-tetraploid of Papaver somniferum L.

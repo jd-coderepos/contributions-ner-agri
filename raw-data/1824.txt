@@ -1,6 +1,6 @@
 Cowpea (Vigna unguiculata L. Walp) hosts several widespread bradyrhizobial root nodule symbionts across contrasting agro-ecological production areas in Kenya
 
-m: Cowpea (Vigna unguiculata L. Walp)
-m: bradyrhizobial root nodule symbionts
+r: Cowpea (Vigna unguiculata L. Walp)
+r: bradyrhizobial root nodule symbionts
 rp: contrasting agro-ecological production areas
 loc: Kenya

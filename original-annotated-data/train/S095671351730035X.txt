@@ -2,5 +2,5 @@ Assessment of critical steps of a GC/MS based indirect analytical method for the
 
 rp: determination of fatty acid esters
 meth: GC/MS based indirect analytical method
-m: monochloropropanediols (MCPDEs)
-m: glycidol (GEs)
+r: monochloropropanediols (MCPDEs)
+r: glycidol (GEs)

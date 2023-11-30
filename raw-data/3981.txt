@@ -1,5 +1,5 @@
 Plant communities of the area leased for mining purposes by Impala Platinum, Rustenburg
 
 rp: Plant communities
-m: area leased for mining purposes
+r: area leased for mining purposes
 loc: Impala Platinum, Rustenburg

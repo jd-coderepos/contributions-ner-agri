@@ -2,7 +2,7 @@ Mapping trace element deficiency by cokriging from regional geochemical soil dat
 
 rp: Mapping trace element deficiency
 meth: cokriging
-m: regional geochemical soil
-m: cobalt
+r: regional geochemical soil
+r: cobalt
 rp: grazing sheep
 loc: Ireland

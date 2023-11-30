@@ -1,6 +1,6 @@
-Detection of host plant volatiles in melolonthid beetles, Pegylis sommeri and Schizonycha affinis (Coleoptera: Scarabaeidae) 
+Detection of host plant volatiles in melolonthid beetles, Pegylis sommeri and Schizonycha affinis (Coleoptera: Scarabaeidae)
 
 rp: host plant volatiles
-m: melolonthid beetles
-m: Pegylis sommeri
-m: Schizonycha affinis (Coleoptera: Scarabaeidae)
+r: melolonthid beetles
+r: Pegylis sommeri
+r: Schizonycha affinis (Coleoptera: Scarabaeidae)

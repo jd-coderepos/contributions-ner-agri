@@ -1,4 +1,4 @@
 Proximate, mineral, fibre, phytate–phosphate, vitamin E, amino acid and fatty acid composition of Terminalia sericea
 
 rp: Proximate, mineral, fibre, phytate–phosphate, vitamin E, amino acid and fatty acid composition
-m: Terminalia sericea
+r: Terminalia sericea

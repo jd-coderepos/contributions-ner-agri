@@ -1,5 +1,5 @@
 Lectin-like proteins from South African plants used in traditional medicine
 
-m: Lectin-like proteins
-m: South African plants
+r: Lectin-like proteins
+r: South African plants
 rp: traditional medicine

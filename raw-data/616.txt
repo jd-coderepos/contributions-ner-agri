@@ -2,6 +2,6 @@ Atmospheric pressure chemical ionisation mass spectrometry analysis linked with 
 
 meth: Atmospheric pressure chemical ionisation mass spectrometry analysis linked with chemometrics
 rp: food classification
-m: monovarietal clarified apple juices
+r: monovarietal clarified apple juices
 p: Geographical provenance
 p: cultivar classification

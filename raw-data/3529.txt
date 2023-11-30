@@ -1,4 +1,4 @@
 Revision of the South African genus Chasmanthe (Iridaceae)
 
-m: South African genus Chasmanthe (Iridaceae)
+r: South African genus Chasmanthe (Iridaceae)
 meth: Revision

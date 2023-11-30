@@ -1,6 +1,6 @@
-Seroepidemiology of Strongyloides stercoralis amongst immunocompromised patients in Southwest Iran 
+Seroepidemiology of Strongyloides stercoralis amongst immunocompromised patients in Southwest Iran
 
 rp: Seroepidemiology
-m: Strongyloides stercoralis
-m: immunocompromised patients
+r: Strongyloides stercoralis
+r: immunocompromised patients
 loc: Southwest Iran

@@ -1,4 +1,4 @@
 Fractions of Searsia undulata (Anacardiaceae) have excellent antimycobacterial activity
 
 f: Fractions of Searsia undulata (Anacardiaceae) have excellent antimycobacterial activity
-m: Searsia undulata (Anacardiaceae)
+r: Searsia undulata (Anacardiaceae)

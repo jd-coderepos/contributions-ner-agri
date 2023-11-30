@@ -1,4 +1,4 @@
 The long-term impact of infant rearing background on the affective state of adult common marmosets (Callithrix jacchus)
 
-m: adult common marmosets (Callithrix jacchus)
+r: adult common marmosets (Callithrix jacchus)
 rp: long-term impact of infant rearing background

@@ -1,5 +1,5 @@
 Evaluation of cowpea (Vigna unguiculata (L.) Walp.) landraces to bacterial blight caused by Xanthomonas axonopodis pv. vignicola
 
-m: cowpea (Vigna unguiculata (L.) Walp.) landraces
+r: cowpea (Vigna unguiculata (L.) Walp.) landraces
 p: bacterial blight
-m: Xanthomonas axonopodis pv. vignicola
+r: Xanthomonas axonopodis pv. vignicola

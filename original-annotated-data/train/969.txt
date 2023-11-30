@@ -1,6 +1,6 @@
 Using contrails and animated sequences to visualize uncertainty in dynamic sensory profiles obtained from temporal check-all-that-apply (TCATA) data
 
-m: contrails and animated sequences
+r: contrails and animated sequences
 p: visualize uncertainty
-m: dynamic sensory profiles
-m: temporal check-all-that-apply (TCATA) data
+r: dynamic sensory profiles
+r: temporal check-all-that-apply (TCATA) data

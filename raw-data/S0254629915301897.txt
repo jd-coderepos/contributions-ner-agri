@@ -1,5 +1,5 @@
 Isolation of an anthelmintic compound from Leucosidea sericea
 
-m: Leucosidea sericea
+r: Leucosidea sericea
 meth: Isolation
-m: anthelmintic compound
+r: anthelmintic compound

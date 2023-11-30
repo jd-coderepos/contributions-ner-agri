@@ -1,5 +1,5 @@
 The genus Phymatolithon (Hapalidiaceae, Corallinales, Rhodophyta) in South Africa, including species previously ascribed to Leptophytum
 
-m: genus Phymatolithon (Hapalidiaceae, Corallinales, Rhodophyta)
-m: species previously ascribed to Leptophytum
+r: genus Phymatolithon (Hapalidiaceae, Corallinales, Rhodophyta)
+r: species previously ascribed to Leptophytum
 loc: South Africa

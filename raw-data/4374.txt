@@ -1,5 +1,5 @@
 South African fungi 3: A reinvestigation of Pearson’s Lepiota types
 
-m: South African fungi
-m: Pearson’s Lepiota types
+r: South African fungi
+r: Pearson’s Lepiota types
 meth: reinvestigation

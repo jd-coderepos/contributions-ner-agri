@@ -1,6 +1,6 @@
 Organic carbon content controls the severity of water repellency and the critical moisture level across New Zealand pasture soils
 
-m: Organic carbon content
-m: New Zealand pasture soils
+r: Organic carbon content
+r: New Zealand pasture soils
 rp: severity of water repellency
 rp: critical moisture level

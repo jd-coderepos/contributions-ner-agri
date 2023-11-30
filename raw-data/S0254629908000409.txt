@@ -2,4 +2,4 @@ Size class structure of three commonly traded bulbs at Faraday (Johannesburg) um
 
 loc: Faraday (Johannesburg) umuthi market
 rp: Size class structure
-m: commonly traded bulbs
+r: commonly traded bulbs

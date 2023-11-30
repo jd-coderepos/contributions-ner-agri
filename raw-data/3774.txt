@@ -3,4 +3,4 @@ The evolution of the platyrrhine talus: A comparative analysis of the phenetic a
 rp: evolution of the platyrrhine talus
 meth: comparative analysis
 p: phenetic affinities
-m: Miocene platyrrhines
+r: Miocene platyrrhines

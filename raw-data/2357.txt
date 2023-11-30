@@ -1,6 +1,6 @@
 Variations in N2 fixation of field-grown Kersting's groundnut (Macrotyloma geocarpum) landraces in response to inoculation with two Bradyrhizobium strains in the northern region of Ghana
 
 rp: Variations in N2 fixation
-m: field-grown Kersting's groundnut (Macrotyloma geocarpum) landraces
+r: field-grown Kersting's groundnut (Macrotyloma geocarpum) landraces
 p: inoculation with two Bradyrhizobium strains
 loc: northern region of Ghana

@@ -1,4 +1,4 @@
 A stage-structured Bayesian hierarchical model for salmon lice populations at individual salmon farms – Estimated from multiple farm data sets
 
 meth: stage-structured Bayesian hierarchical model
-m: salmon lice populations at individual salmon farms
+r: salmon lice populations at individual salmon farms

@@ -2,4 +2,4 @@ Genomic differences may drive speciation in South African Helichrysum odoratissi
 
 rp: Genomic differences
 p: speciation
-m: South African Helichrysum odoratissimum
+r: South African Helichrysum odoratissimum

@@ -2,6 +2,6 @@ Population heterogeneity and dynamics in starter culture and lag phase adaptatio
 
 rp: Population heterogeneity and dynamics
 p: starter culture
-m: spoilage yeast Zygosaccharomyces bailii
-m: weak acid preservatives
+r: spoilage yeast Zygosaccharomyces bailii
+r: weak acid preservatives
 p: lag phase adaptation

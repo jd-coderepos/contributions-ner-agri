@@ -1,6 +1,6 @@
 Smoke-water, karrikinolide and gibberellic acid stimulate growth in bean and maize seedlings by efficient starch mobilization and suppression of oxidative stress
 
-m: bean and maize seedlings
+r: bean and maize seedlings
 s: Smoke-water, karrikinolide and gibberellic acid stimulate growth
 meth: starch mobilization
 meth: suppression of oxidative stress

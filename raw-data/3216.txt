@@ -2,5 +2,5 @@ In vitro 5-lipoxygenase and anti-oxidant activities of Warburgia salutaris and d
 
 meth: In vitro
 rp: 5-lipoxygenase and anti-oxidant activities
-m: Warburgia salutaris
-m: drimane sesquiterpenoids
+r: Warburgia salutaris
+r: drimane sesquiterpenoids

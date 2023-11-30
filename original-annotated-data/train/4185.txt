@@ -3,4 +3,4 @@ High irradiation and increased temperature induce different strategies for compe
 meth: High irradiation
 meth: increased temperature
 rp: competent photosynthesis
-m: young and mature fig leaves
+r: young and mature fig leaves

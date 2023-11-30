@@ -1,6 +1,6 @@
 The in vitro propagation of Helichrysum umbraculigerum and the isolation of a gene involved in the stilbenoid biosynthetic pathway
 
 meth: in vitro propagation
-m: Helichrysum umbraculigerum
+r: Helichrysum umbraculigerum
 rp: isolation of a gene
-m: stilbenoid biosynthetic pathway
+r: stilbenoid biosynthetic pathway

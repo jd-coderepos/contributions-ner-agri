@@ -1,4 +1,4 @@
 Regulation within the supracellular highway — plasmodesma are the key
 
 p: Regulation
-m: supracellular highway — plasmodesma
+r: supracellular highway — plasmodesma

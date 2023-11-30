@@ -1,4 +1,4 @@
 Population structure, habitat profile and regeneration of Haworthia koelmaniorum, a vulnerable dwarf succulent, endemic to Mpumalanga, South Africa
 
 loc: Mpumalanga, South Africa
-m: Haworthia koelmaniorum
+r: Haworthia koelmaniorum

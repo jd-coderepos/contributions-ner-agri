@@ -2,4 +2,4 @@ Genetic and epigenetic aspects of somaclonal variation: flower colour bud sports
 
 rp: somaclonal variation
 p: Genetic and epigenetic aspects
-m: flower colour bud sports in azalea
+r: flower colour bud sports in azalea

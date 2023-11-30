@@ -1,4 +1,4 @@
 Pollinator-driven floral variation in Tritoniopsis revoluta
 
 rp: Pollinator-driven floral variation
-m: Tritoniopsis revoluta
+r: Tritoniopsis revoluta

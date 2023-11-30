@@ -1,6 +1,6 @@
 The intake of inorganic arsenic from long grain rice and rice-based baby food in Finland – Low safety margin warrants follow up
 
 rp: intake of inorganic arsenic
-m: long grain rice
-m: rice-based baby food
+r: long grain rice
+r: rice-based baby food
 loc: Finland

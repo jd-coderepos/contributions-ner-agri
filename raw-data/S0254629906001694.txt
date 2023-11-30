@@ -1,6 +1,6 @@
 Studies on germination, seedling vigour, lipid peroxidation and proline metabolism in Catharanthus roseus seedlings under salt stress
 
-m: Catharanthus roseus seedlings
+r: Catharanthus roseus seedlings
 rp: germination
 rp: seedling vigour
 rp: lipid peroxidation

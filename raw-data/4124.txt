@@ -2,6 +2,6 @@ Ecophysiological requirements on seed germination of a Mediterranean perennial g
 
 p: Ecophysiological requirements
 rp: seed germination
-m: Mediterranean perennial grass (Stipa tenacissima L.)
+r: Mediterranean perennial grass (Stipa tenacissima L.)
 meth: controlled temperatures
 meth: water stress

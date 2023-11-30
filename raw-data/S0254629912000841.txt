@@ -1,5 +1,5 @@
 Determination of total and bioavailable heavy and trace metals in South African commercial herbal concoctions using ICP-OES
 
-m: South African commercial herbal concoctions
+r: South African commercial herbal concoctions
 meth: ICP-OES
 rp: Determination of total and bioavailable heavy and trace metals

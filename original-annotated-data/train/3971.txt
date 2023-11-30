@@ -1,6 +1,6 @@
 Age and orientation of the cotyledonary leaf explants determine the efficiency of de novo plant regeneration and Agrobacterium tumefaciens-mediated transformation in Jatropha curcas L.
 
 rp: Age and orientation of the cotyledonary leaf explants
-m: Jatropha curcas L.
+r: Jatropha curcas L.
 p: de novo plant regeneration
 p: Agrobacterium tumefaciens-mediated transformation

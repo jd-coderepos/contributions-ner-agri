@@ -1,5 +1,5 @@
 Mangroves of the Kosi System, South Africa: Their re-establishment since a mass mortality in 1965/66
 
 loc: Kosi System, South Africa
-m: Mangroves
+r: Mangroves
 p: mass mortality in 1965/66

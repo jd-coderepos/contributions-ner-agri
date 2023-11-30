@@ -1,5 +1,5 @@
 Studies in the genus Lotononis (Crotalarieae, Fabaceae). VIII. A new species of the L. corymbosa group and notes on the taxonomy of the section Lipozygis
 
-m: genus Lotononis
-m: section Lipozygis
+r: genus Lotononis
+r: section Lipozygis
 f: A new species of the L. corymbosa group

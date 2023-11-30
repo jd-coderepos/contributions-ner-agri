@@ -1,7 +1,7 @@
 Effects of gibberellic acid on the process of organic reserve mobilization in barley grains germinated in the presence of cadmium and molybdenum
 
-m: gibberellic acid
+r: gibberellic acid
 rp: organic reserve mobilization
-m: barley grains
-m: cadmium
-m: molybdenum
+r: barley grains
+r: cadmium
+r: molybdenum

@@ -1,5 +1,5 @@
 Population persistence in landscapes fragmented by roads: Disentangling isolation, mortality, and the effect of dispersal
 
 rp: Population persistence
-m: landscapes fragmented by roads
+r: landscapes fragmented by roads
 s: Disentangling isolation, mortality, and the effect of dispersal

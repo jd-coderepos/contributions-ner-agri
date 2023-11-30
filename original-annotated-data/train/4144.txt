@@ -1,6 +1,6 @@
 Establishing the effects of phloroglucinol derivatives isolated from Leucosidea sericea on the ultrastructure of Haemonchus contortus, using electron microscopy
 
-m: phloroglucinol derivatives
-m: Leucosidea sericea
+r: phloroglucinol derivatives
+r: Leucosidea sericea
 rp: ultrastructure of Haemonchus contortus
 t: electron microscopy

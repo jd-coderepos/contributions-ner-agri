@@ -1,5 +1,5 @@
 Factors affecting the reproductive success of Acacia longifolia (Andr.) Willd. in the Banhoek Valley, south-western Cape, Republic of South Africa
 
 rp: reproductive success
-m: Acacia longifolia (Andr.) Willd.
+r: Acacia longifolia (Andr.) Willd.
 loc: Banhoek Valley, south-western Cape, Republic of South Africa

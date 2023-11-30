@@ -1,4 +1,4 @@
-Determinants of community assembly and phylogenetic structure of Tetraria communities 
+Determinants of community assembly and phylogenetic structure of Tetraria communities
 
 p: community assembly and phylogenetic structure
 rp: Tetraria communities

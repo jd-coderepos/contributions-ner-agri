@@ -1,5 +1,5 @@
 The generic concept of Lebeckia (Crotalarieae, Fabaceae): Reinstatement of the genus Calobota and the new genus Wiborgiella
 
-m: Lebeckia (Crotalarieae, Fabaceae)
-m: genus Calobota
-m: genus Wiborgiella
+r: Lebeckia (Crotalarieae, Fabaceae)
+r: genus Calobota
+r: genus Wiborgiella

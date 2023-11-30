@@ -1,4 +1,4 @@
 Responses to chilling of recalcitrant seeds of Ekebergia capensis from different provenances
 
-m: Ekebergia capensis
+r: Ekebergia capensis
 rp: chilling of recalcitrant seeds

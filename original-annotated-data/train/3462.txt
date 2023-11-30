@@ -1,5 +1,5 @@
 The seaweeds of De Hoop Nature Reserve and their phytogeographical significance
 
-m: seaweeds
+r: seaweeds
 loc: De Hoop Nature Reserve
 rp: phytogeographical significance

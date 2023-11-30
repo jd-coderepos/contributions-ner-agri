@@ -1,5 +1,5 @@
 Amphora coffeaeformis (Agardh) Kützing: a revision of the species under light and electron microscopy
 
 t: light and electron microscopy
-m: Amphora coffeaeformis (Agardh) Kützing
+r: Amphora coffeaeformis (Agardh) Kützing
 meth: revision

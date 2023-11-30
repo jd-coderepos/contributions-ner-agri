@@ -1,6 +1,6 @@
 Germination of an invasive Cenchrus ciliaris L. (buffel grass) population of the Sonoran Desert under various environmental conditions
 
 rp: Germination
-m: invasive Cenchrus ciliaris L. (buffel grass) population
+r: invasive Cenchrus ciliaris L. (buffel grass) population
 loc: Sonoran Desert
 p: various environmental conditions

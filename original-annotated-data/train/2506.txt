@@ -2,4 +2,4 @@ The first confirmed records of Lomentaria, (Lomentariaceae, Rhodophyceae) in Sou
 
 f: The first confirmed records of Lomentaria, (Lomentariaceae, Rhodophyceae) in South Africa
 loc: South Africa
-m: L. amplexans sp. nov.
+r: L. amplexans sp. nov.

@@ -1,5 +1,5 @@
 Micropropagation of Scilla kraussii and Scilla dracomontana
 
 rp: Micropropagation
-m: Scilla kraussii
-m: Scilla dracomontana
+r: Scilla kraussii
+r: Scilla dracomontana

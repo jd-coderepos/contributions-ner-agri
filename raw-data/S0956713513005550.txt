@@ -1,4 +1,4 @@
 Modeling the transmission of livestock associated methicillin-resistant Staphylococcus aureus along the pig slaughter line
 
-m: pig slaughter line
-m: livestock associated methicillin-resistant Staphylococcus aureus
+r: pig slaughter line
+r: livestock associated methicillin-resistant Staphylococcus aureus

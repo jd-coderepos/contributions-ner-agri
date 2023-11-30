@@ -2,4 +2,4 @@ Effect of nanosecond pulsed electric field treatment on cell proliferation of mi
 
 t: nanosecond pulsed electric field treatment
 rp: cell proliferation
-m: microalgae
+r: microalgae

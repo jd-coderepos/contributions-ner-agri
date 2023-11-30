@@ -2,6 +2,6 @@ Genotype by environment interactions for grain yield of perennial rice derivativ
 
 rp: Genotype by environment interactions
 p: grain yield
-m: perennial rice derivatives (Oryza sativa L./Oryza longistaminata)
+r: perennial rice derivatives (Oryza sativa L./Oryza longistaminata)
 loc: southern China
 loc: Laos

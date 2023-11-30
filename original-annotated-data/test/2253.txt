@@ -2,4 +2,4 @@ Vegetation ecology of Sekhukhuneland, South Africa: Kirkia wilmsii-Terminalia pr
 
 rp: Vegetation ecology
 loc: Sekhukhuneland, South Africa
-m: Kirkia wilmsii-Terminalia prunioides Closed Mountain Bushveld
+r: Kirkia wilmsii-Terminalia prunioides Closed Mountain Bushveld

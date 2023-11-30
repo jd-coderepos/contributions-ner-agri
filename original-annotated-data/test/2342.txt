@@ -1,4 +1,4 @@
 Influence of abiotic stress on Amaranthus cruentus allelopathic properties
 
 rp: abiotic stress
-m: Amaranthus cruentus allelopathic properties
+r: Amaranthus cruentus allelopathic properties

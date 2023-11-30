@@ -1,5 +1,5 @@
-The antimicrobial activity of commercial essential oils against skin pathogens 
+The antimicrobial activity of commercial essential oils against skin pathogens
 
 rp: skin pathogens
 p: antimicrobial activity
-m: commercial essential oils
+r: commercial essential oils

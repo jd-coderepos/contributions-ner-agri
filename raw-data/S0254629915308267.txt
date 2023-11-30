@@ -1,5 +1,5 @@
-The plant communities of the Roodeplaat Experimental Farm, Gauteng, South Africa and the importance of classification verification 
+The plant communities of the Roodeplaat Experimental Farm, Gauteng, South Africa and the importance of classification verification
 
 rp: classification verification
-m: plant communities
+r: plant communities
 loc: Roodeplaat Experimental Farm, Gauteng, South Africa

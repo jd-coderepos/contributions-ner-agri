@@ -1,4 +1,4 @@
-Immunomodulatory effects of Umakhonya®: A South African commercial traditional immune booster 
+Immunomodulatory effects of Umakhonya®: A South African commercial traditional immune booster
 
 p: Immunomodulatory effects
-m: Umakhonya
+r: Umakhonya

@@ -1,6 +1,6 @@
 Predictive species-area relations and determination of subsample size for vegetation sampling in the Transvaal Waterberg
 
-m: Predictive species-area relations
+r: Predictive species-area relations
 meth: determination of subsample size
 rp: vegetation sampling
 loc: Transvaal Waterberg

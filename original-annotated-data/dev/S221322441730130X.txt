@@ -1,6 +1,6 @@
 Histopathological characterisation of retinal lesions associated to Diplostomum species (Platyhelminthes: Trematoda) infection in polymorphic Arctic charr Salvelinus alpinus
 
-m: polymorphic Arctic charr Salvelinus alpinus
+r: polymorphic Arctic charr Salvelinus alpinus
 p: Diplostomum species (Platyhelminthes: Trematoda) infection
 meth: Histopathological characterisation
 rp: retinal lesions

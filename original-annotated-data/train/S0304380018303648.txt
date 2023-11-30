@@ -1,4 +1,4 @@
-Modelling the effect of spatially variable soil properties on the distribution of weeds 
+Modelling the effect of spatially variable soil properties on the distribution of weeds
 
 rp: distribution of weeds
 p: spatially variable soil properties

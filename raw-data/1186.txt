@@ -1,4 +1,4 @@
 Acacia related shrub communities of the dry south-western Free State
 
-m: Acacia related shrub communities
+r: Acacia related shrub communities
 loc: dry south-western Free State

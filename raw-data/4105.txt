@@ -2,4 +2,4 @@ Management approaches of conservation areas: Differences in woody vegetation str
 
 rp: Management approaches of conservation areas
 p: woody vegetation structure
-m: private and a national reserve
+r: private and a national reserve

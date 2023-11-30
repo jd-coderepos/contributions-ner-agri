@@ -1,4 +1,4 @@
 Mutagenic and antimutagenic effects of Sutherlandia frutescens
 
-m: Sutherlandia frutescens
+r: Sutherlandia frutescens
 rp: Mutagenic and antimutagenic effects

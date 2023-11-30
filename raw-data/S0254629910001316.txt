@@ -1,5 +1,5 @@
 Notes on the genus Trachyandra (Asphodelaceae: Asphodeloideae) 1: A review of the T. thyrsoidea group (Section Trachyandra), including three new species from the Northern Cape
 
-m: genus Trachyandra (Asphodelaceae: Asphodeloideae)
+r: genus Trachyandra (Asphodelaceae: Asphodeloideae)
 loc: Northern Cape
-m: T. thyrsoidea group (Section Trachyandra)
+r: T. thyrsoidea group (Section Trachyandra)

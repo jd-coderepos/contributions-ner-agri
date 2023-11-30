@@ -1,4 +1,4 @@
 The regulation of plant growth and development in liquid culture
 
 rp: regulation of plant growth and development
-m: liquid culture
+r: liquid culture

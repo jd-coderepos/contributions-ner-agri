@@ -1,7 +1,7 @@
 A Fatal Case of Louping-ill in a Dog: Immunolocalization and Full Genome Sequencing of the Virus
 
 rp: Louping-ill
-m: Dog
+r: Dog
 meth: Immunolocalization
 meth: Full Genome Sequencing
-m: Virus
+r: Virus

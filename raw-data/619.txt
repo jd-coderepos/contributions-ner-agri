@@ -4,4 +4,4 @@ meth: Hyperspectral imaging
 p: fermentation index
 p: polyphenol content
 p: antioxidant activity
-m: single cocoa beans
+r: single cocoa beans

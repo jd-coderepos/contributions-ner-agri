@@ -1,5 +1,5 @@
 Effect of seaweed concentrate on the growth of the seedlings of three species of Eucalyptus
 
-m: seaweed concentrate
+r: seaweed concentrate
 rp: growth of the seedlings
-m: three species of Eucalyptus
+r: three species of Eucalyptus

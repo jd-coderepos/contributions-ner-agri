@@ -2,5 +2,5 @@ Overcoming dormancy and characterization of germination in Cerrado ‘algodãozi
 
 rp: Overcoming dormancy
 rp: characterization of germination
-m: Cerrado ‘algodãozinho’ seeds
-m: dimethyl sulphoxide
+r: Cerrado ‘algodãozinho’ seeds
+r: dimethyl sulphoxide

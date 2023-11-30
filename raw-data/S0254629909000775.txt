@@ -1,4 +1,4 @@
 Antimycobacterial activity of seven herbaceous plants
 
-m: seven herbaceous plants
+r: seven herbaceous plants
 rp: Antimycobacterial activity

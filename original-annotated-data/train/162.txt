@@ -1,5 +1,5 @@
 Quantifying the differences in structure and mechanical response of confectionery products resulting from the baking and extrusion processes
 
 meth: baking and extrusion processes
-m: confectionery products
+r: confectionery products
 p: structure and mechanical response

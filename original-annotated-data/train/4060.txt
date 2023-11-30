@@ -1,5 +1,5 @@
 A geobotanical investigation of the Koedoesfontein Complex in the Vredefort Dome
 
 meth: geobotanical investigation
-m: Koedoesfontein Complex
+r: Koedoesfontein Complex
 loc: Vredefort Dome

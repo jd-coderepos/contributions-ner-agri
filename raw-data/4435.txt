@@ -1,5 +1,5 @@
 Seed predation and germination of Acacia erioloba in the Kuiseb River Valley, Namib Desert
 
 rp: Seed predation and germination
-m: Acacia erioloba
+r: Acacia erioloba
 loc: Kuiseb River Valley, Namib Desert

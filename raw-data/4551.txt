@@ -3,4 +3,4 @@ An assessment of forest biomass maps in Europe using harmonized national statist
 rp: forest biomass maps
 loc: Europe
 meth: harmonized national statistics
-m: inventory plots
+r: inventory plots

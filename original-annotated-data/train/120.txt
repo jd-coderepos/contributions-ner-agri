@@ -1,5 +1,5 @@
 Cell and Scale Morphology of an Isolate of Halosphaera (Prasinophyceae, Chlorophyta) from South Africa
 
 rp: Cell and Scale Morphology
-m: Isolate of Halosphaera (Prasinophyceae, Chlorophyta)
+r: Isolate of Halosphaera (Prasinophyceae, Chlorophyta)
 loc: South Africa

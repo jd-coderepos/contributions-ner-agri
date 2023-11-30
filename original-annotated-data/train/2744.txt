@@ -2,4 +2,4 @@ Rapid propagation of Lachenalia hybrids in vitro
 
 meth: Rapid propagation
 meth: in vitro
-m: Lachenalia hybrids
+r: Lachenalia hybrids

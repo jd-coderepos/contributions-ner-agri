@@ -1,4 +1,4 @@
 An overview of functional tools in deciphering resistance
 
-m: functional tools
+r: functional tools
 p: deciphering resistance

@@ -1,5 +1,5 @@
 Assessment of mortality of Antarctic krill (Euphausia superba) escaping from a trawl
 
 rp: Assessment of mortality
-m: Antarctic krill (Euphausia superba)
+r: Antarctic krill (Euphausia superba)
 p: escaping from a trawl

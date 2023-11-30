@@ -2,4 +2,4 @@ Impacts of soil carbon sequestration on life cycle greenhouse gas emissions in M
 
 p: soil carbon sequestration
 rp: life cycle greenhouse gas emissions
-m: Midwestern USA beef finishing systems
+r: Midwestern USA beef finishing systems

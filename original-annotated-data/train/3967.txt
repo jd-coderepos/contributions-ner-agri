@@ -2,4 +2,4 @@ Micropropagation and bioreactor studies of the medicinally important plant Lesse
 
 rp: Micropropagation
 rp: bioreactor studies
-m: medicinally important plant Lessertia (Sutherlandia) frutescens L.
+r: medicinally important plant Lessertia (Sutherlandia) frutescens L.

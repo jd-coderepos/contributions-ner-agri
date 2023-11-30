@@ -2,5 +2,5 @@ Seasonal variation in antimicrobial and phytochemical properties of frequently u
 
 p: Seasonal variation
 rp: antimicrobial and phytochemical properties
-m: frequently used medicinal bulbous plants
+r: frequently used medicinal bulbous plants
 loc: South Africa

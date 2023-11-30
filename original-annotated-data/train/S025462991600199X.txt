@@ -2,4 +2,4 @@ Assessment of reproductive traits in naturalized populations of Canna indica L. 
 
 loc: South Africa
 rp: Assessment of reproductive traits
-m: naturalized populations of Canna indica L. and Canna glauca L.
+r: naturalized populations of Canna indica L. and Canna glauca L.

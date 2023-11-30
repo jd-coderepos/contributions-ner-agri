@@ -1,4 +1,4 @@
 Early-diverging wood-decaying fungi detected using three complementary sampling methods
 
-m: Early-diverging wood-decaying fungi
+r: Early-diverging wood-decaying fungi
 meth: complementary sampling methods

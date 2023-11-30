@@ -1,5 +1,5 @@
-Gender expression and inflorescence structure of Pappea capensis Eckl. and Zeyh. (Sapindaceae) 
+Gender expression and inflorescence structure of Pappea capensis Eckl. and Zeyh. (Sapindaceae)
 
-m: Pappea capensis Eckl. and Zeyh. (Sapindaceae)
+r: Pappea capensis Eckl. and Zeyh. (Sapindaceae)
 rp: Gender expression
 rp: inflorescence structure

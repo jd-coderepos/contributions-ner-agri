@@ -1,5 +1,5 @@
 The Tartary Buckwheat Genome Provides Insights into Rutin Biosynthesis and Abiotic Stress Tolerance
 
-m: Tartary Buckwheat Genome
+r: Tartary Buckwheat Genome
 rp: Abiotic Stress Tolerance
 rp: Rutin Biosynthesis

@@ -1,5 +1,5 @@
 Antimicrobial properties of extracts from Euclea crispa subsp. crispa (Ebenaceae) towards human pathogens
 
 rp: Antimicrobial properties
-m: extracts from Euclea crispa subsp. crispa (Ebenaceae)
-m: human pathogens
+r: extracts from Euclea crispa subsp. crispa (Ebenaceae)
+r: human pathogens

@@ -3,4 +3,4 @@ Diagnostic characters and geographic distribution of Alepidea species used in tr
 rp: Diagnostic characters
 rp: geographic distribution
 p: traditional medicine
-m: Alepidea species
+r: Alepidea species

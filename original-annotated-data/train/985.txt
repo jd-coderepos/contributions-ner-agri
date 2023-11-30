@@ -2,5 +2,5 @@ Impact of global warming on the odour and ammonia emissions of livestock buildin
 
 rp: global warming
 p: odour and ammonia emissions
-m: livestock buildings
+r: livestock buildings
 p: fattening pigs

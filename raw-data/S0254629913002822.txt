@@ -1,5 +1,5 @@
 Highly glycosylated flavonols at the genistoid boundary and the systematic position of Dermatophyllum
 
-m: Dermatophyllum
+r: Dermatophyllum
 f: Highly glycosylated flavonols at the genistoid boundary
-m: genistoid boundary
+r: genistoid boundary

@@ -4,4 +4,4 @@ meth: salt stress
 rp: ion content
 rp: antioxidant enzymes
 rp: protein profile
-m: different tissues of Broussonetia papyrifera
+r: different tissues of Broussonetia papyrifera

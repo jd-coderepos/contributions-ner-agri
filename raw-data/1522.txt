@@ -1,5 +1,5 @@
 A biosystematic study of Pelargonium section Ligularia: 2. Reappraisal of section Chorisma
 
 meth: biosystematic study
-m: Pelargonium section Ligularia
-m: section Chorisma
+r: Pelargonium section Ligularia
+r: section Chorisma

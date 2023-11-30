@@ -2,5 +2,5 @@ In vitro antibacterial, antioxidant, total phenolic contents and anti-HIV-1 reve
 
 meth: In vitro
 rp: antibacterial, antioxidant, total phenolic contents
-m: extracts of seven Phyllanthus
+r: extracts of seven Phyllanthus
 rp: anti-HIV-1 reverse transcriptase activities

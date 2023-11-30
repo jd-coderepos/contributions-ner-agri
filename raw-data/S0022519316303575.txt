@@ -1,4 +1,4 @@
-Resistance to genetic insect control: Modelling the effects of space 
+Resistance to genetic insect control: Modelling the effects of space
 
 rp: genetic insect control
 meth: Modelling the effects of space

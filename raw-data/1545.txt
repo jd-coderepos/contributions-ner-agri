@@ -2,5 +2,5 @@ Effects of experimental defoliation on resource allocation using integrated phys
 
 p: experimental defoliation
 rp: resource allocation
-m: integrated physiological units
-m: andromonoecious Camptotheca acuminata
+r: integrated physiological units
+r: andromonoecious Camptotheca acuminata

@@ -1,7 +1,7 @@
-Maternal antibody uptake, duration and influence on survival and growth rate in a cohort of indigenous calves in a smallholder farming system in western Kenya 
+Maternal antibody uptake, duration and influence on survival and growth rate in a cohort of indigenous calves in a smallholder farming system in western Kenya
 
 p: survival and growth rate
 rp: Maternal antibody uptake, duration and influence
-m: cohort of indigenous calves
+r: cohort of indigenous calves
 t: smallholder farming system
 loc: western Kenya

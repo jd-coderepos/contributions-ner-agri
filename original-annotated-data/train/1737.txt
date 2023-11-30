@@ -2,4 +2,4 @@ The effect of water stress on the germination of Citrullus lanatus seeds
 
 p: water stress
 rp: germination
-m: Citrullus lanatus seeds
+r: Citrullus lanatus seeds

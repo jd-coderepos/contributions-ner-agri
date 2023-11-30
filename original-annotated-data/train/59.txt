@@ -1,5 +1,5 @@
 Antiplasmodial and cytotoxic activity of isolated sesquiterpene lactones from the acetone leaf extract of Vernonia colorata
 
 rp: Antiplasmodial and cytotoxic activity
-m: isolated sesquiterpene lactones
-m: acetone leaf extract of Vernonia colorata
+r: isolated sesquiterpene lactones
+r: acetone leaf extract of Vernonia colorata

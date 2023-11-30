@@ -1,5 +1,5 @@
 Response of salt stressed okra (Abelmoschus esculentus Moench) plants to foliar-applied glycine betaine and glycine betaine containing sugarbeet extract
 
 rp: Response of salt stressed okra (Abelmoschus esculentus Moench) plants
-m: foliar-applied glycine betaine
-m: glycine betaine containing sugarbeet extract
+r: foliar-applied glycine betaine
+r: glycine betaine containing sugarbeet extract

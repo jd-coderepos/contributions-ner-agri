@@ -1,5 +1,5 @@
-A survey of Angiostrongylus species in definitive hosts in Queensland 
+A survey of Angiostrongylus species in definitive hosts in Queensland
 
 meth: survey
 loc: Queensland
-m: Angiostrongylus species in definitive hosts
+r: Angiostrongylus species in definitive hosts

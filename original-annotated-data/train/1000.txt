@@ -1,6 +1,6 @@
-Photocurrents from photosystem II in a metal oxide hybrid system: Electron transfer pathways
+Photocurrents from photosystem II in a metal oxide hybrid syster: Electron transfer pathways
 
 p: Photocurrents
 t: photosystem II
-m: metal oxide hybrid system 
+r: metal oxide hybrid system
 rp: Electron transfer pathways

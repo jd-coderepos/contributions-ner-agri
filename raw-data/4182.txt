@@ -3,5 +3,5 @@ Influence of UV exclusion and selenium on carbon fixation, nitrogen fixation and
 p: UV exclusion
 rp: carbon fixation
 rp: nitrogen fixation
-m: selenium
+r: selenium
 rp: yield of soybean variety JS-335

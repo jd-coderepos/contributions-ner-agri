@@ -1,4 +1,4 @@
 A cytogenetic study of a hexaploid Themeda triandra Forssk. population
 
 meth: cytogenetic study
-m: hexaploid Themeda triandra Forssk. population
+r: hexaploid Themeda triandra Forssk. population

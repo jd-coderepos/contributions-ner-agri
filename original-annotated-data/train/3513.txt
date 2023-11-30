@@ -1,5 +1,5 @@
 Diurnal temperature variation in and around a Lithops lesliei plant growing in its natural habitat on a clear day
 
 rp: Diurnal temperature variation
-m: natural habitat
-m: Lithops lesliei plant
+r: natural habitat
+r: Lithops lesliei plant

@@ -1,4 +1,4 @@
 Effects of random motion in traveling and grazing herds
 
 p: random motion
-m: traveling and grazing herds
+r: traveling and grazing herds

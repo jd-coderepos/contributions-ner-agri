@@ -1,6 +1,6 @@
 African apes coexisting with logging: Comparing chimpanzee (Pan troglodytes troglodytes) and gorilla (Gorilla gorilla gorilla) resource needs and responses to forestry activities
 
 rp: African apes coexisting with logging
-m: chimpanzee (Pan troglodytes troglodytes)
-m: gorilla (Gorilla gorilla gorilla)
+r: chimpanzee (Pan troglodytes troglodytes)
+r: gorilla (Gorilla gorilla gorilla)
 p: forestry activities

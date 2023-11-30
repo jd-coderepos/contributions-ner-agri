@@ -1,4 +1,4 @@
 Isolation of the major germination cue from plant-derived smoke
 
-m: plant-derived smoke
+r: plant-derived smoke
 rp: germination cue

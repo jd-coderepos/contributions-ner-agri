@@ -1,5 +1,5 @@
 Postharvest Management and Processing of Fruits and Vegetables—Instant Notes
 
-m: Fruits
-m: Vegetables
+r: Fruits
+r: Vegetables
 p: Postharvest Management and Processing

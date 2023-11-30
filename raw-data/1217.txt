@@ -1,4 +1,4 @@
 A taxonomic revision of Ectadium (Periplocaceae)
 
 rp: taxonomic revision
-m: Ectadium (Periplocaceae)
+r: Ectadium (Periplocaceae)

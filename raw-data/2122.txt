@@ -3,4 +3,4 @@ Phytochemical composition, antioxidant activity and neuroprotective effect of Cr
 rp: Phytochemical composition
 rp: antioxidant activity
 rp: neuroprotective effect
-m: Crataegus pinnatifida fruit
+r: Crataegus pinnatifida fruit

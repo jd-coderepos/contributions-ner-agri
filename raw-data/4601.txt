@@ -2,5 +2,5 @@ Temporal and depth-related differences in prokaryotic communities in abyssal sed
 
 p: Temporal and depth-related differences
 rp: prokaryotic communities
-m: abyssal sediments
+r: abyssal sediments
 p: particulate organic carbon flux

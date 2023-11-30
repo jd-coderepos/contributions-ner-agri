@@ -1,5 +1,5 @@
 Identification of pheromone components and their binding affinity to the odorant binding protein CcapOBP83a-2 of the Mediterranean fruit fly, Ceratitis capitata
 
 rp: Identification of pheromone components and their binding affinity
-m: Mediterranean fruit fly, Ceratitis capitata
-m: odorant binding protein CcapOBP83a-2
+r: Mediterranean fruit fly, Ceratitis capitata
+r: odorant binding protein CcapOBP83a-2

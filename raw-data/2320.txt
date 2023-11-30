@@ -1,4 +1,4 @@
 The distribution of epiphytic algae on three Kenyan seagrass species
 
-m: epiphytic algae
-m: Kenyan seagrass species
+r: epiphytic algae
+r: Kenyan seagrass species

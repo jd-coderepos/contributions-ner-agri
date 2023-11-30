@@ -1,4 +1,4 @@
 Effects of Helinus integrifolius crude leaf extract on ruminant fodder digestion
 
-m: Helinus integrifolius crude leaf extract
+r: Helinus integrifolius crude leaf extract
 rp: ruminant fodder digestion

@@ -1,6 +1,6 @@
 Nutrient profiles of rotifers (Brachionus sp.) and rotifer diets from four different marine fish hatcheries
 
 rp: Nutrient profiles
-m: rotifers (Brachionus sp.)
-m: rotifer diets
-m: four different marine fish hatcheries
+r: rotifers (Brachionus sp.)
+r: rotifer diets
+r: four different marine fish hatcheries

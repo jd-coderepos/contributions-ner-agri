@@ -1,5 +1,5 @@
 Effects of cropping systems upon the three-dimensional architecture of soil systems are modulated by texture
 
-m: three-dimensional architecture of soil systems
+r: three-dimensional architecture of soil systems
 p: Effects of cropping systems upon the three-dimensional architecture of soil systems are modulated by texture
 t: cropping systems

@@ -1,5 +1,5 @@
 New species and taxonomic notes in Ixia (Iridaceae: Crocoideae) from western South Africa
 
 rp: New species and taxonomic notes
-m: Ixia (Iridaceae: Crocoideae)
+r: Ixia (Iridaceae: Crocoideae)
 loc: western South Africa

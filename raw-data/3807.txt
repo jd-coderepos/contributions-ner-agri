@@ -3,6 +3,6 @@ N2-fixation and N contribution by grain legumes under different soil fertility s
 rp: N2-fixation
 p: soil fertility status
 rp: N contribution
-m: grain legumes
+r: grain legumes
 meth: cropping systems
 loc: Guinea savanna of northern Ghana

@@ -1,4 +1,4 @@
 The search for germination stimulants in plant-derived smoke extracts
 
 rp: germination stimulants
-m: plant-derived smoke extracts
+r: plant-derived smoke extracts

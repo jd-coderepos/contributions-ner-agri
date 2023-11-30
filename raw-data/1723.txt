@@ -4,6 +4,6 @@ loc: Ghats
 meth: Agricultural intensification
 p: functional diversity
 p: trait filtering
-m: biodiversity hotspot
+r: biodiversity hotspot
 loc: India
 f: Agricultural intensification reduces functional diversity and increases trait filtering in a biodiversity hotspot in India

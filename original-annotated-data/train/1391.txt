@@ -1,5 +1,5 @@
 A pharmacological assessment of various South African orchids used in traditional medicine
 
 meth: pharmacological assessment
-m: various South African orchids
+r: various South African orchids
 rp: traditional medicine

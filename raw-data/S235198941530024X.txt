@@ -1,5 +1,5 @@
-Species interactions can maintain resistance of subtidal algal habitats to an increasingly modified world 
+Species interactions can maintain resistance of subtidal algal habitats to an increasingly modified world
 
 f: Species interactions can maintain resistance of subtidal algal habitats to an increasingly modified world
 rp: Species interactions
-m: subtidal algal habitats
+r: subtidal algal habitats

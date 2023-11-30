@@ -1,5 +1,5 @@
 Altered Nuclear Expression of the Deubiquitylase BAP1 Cannot be Used as a Prognostic Marker for Canine Melanoma
 
 p: Altered Nuclear Expression of the Deubiquitylase BAP1
-m: Canine Melanoma
+r: Canine Melanoma
 rp: Prognostic Marker

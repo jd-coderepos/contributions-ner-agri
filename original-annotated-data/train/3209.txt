@@ -1,6 +1,6 @@
 The use of indigenous medicine for the treatment of hypertension by a rural community in northern Maputaland, South Africa
 
-m: indigenous medicine
+r: indigenous medicine
 rp: treatment of hypertension
-m: rural community
+r: rural community
 loc: northern Maputaland, South Africa

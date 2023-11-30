@@ -2,5 +2,5 @@ Convergent evolution of carrion and faecal scent mimicry in fly-pollinated angio
 
 p: Convergent evolution
 rp: carrion and faecal scent mimicry
-m: fly-pollinated angiosperm flowers
-m: stinkhorn fungus
+r: fly-pollinated angiosperm flowers
+r: stinkhorn fungus

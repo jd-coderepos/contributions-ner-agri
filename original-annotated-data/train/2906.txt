@@ -2,5 +2,5 @@ Effects of dark chilling on components of Calvin cycle metabolism in soybean gen
 
 meth: dark chilling
 rp: components of Calvin cycle metabolism
-m: soybean genotypes
+r: soybean genotypes
 p: contrasting chilling tolerance

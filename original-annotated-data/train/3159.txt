@@ -1,4 +1,4 @@
 Seed storage longevity of Hosta sieboldiana (Asparagaceae)
 
 rp: Seed storage longevity
-m: Hosta sieboldiana (Asparagaceae)
+r: Hosta sieboldiana (Asparagaceae)

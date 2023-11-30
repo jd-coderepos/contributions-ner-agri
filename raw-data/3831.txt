@@ -1,5 +1,5 @@
 Regeneration and transformation of an elite inbred line of maize (Zea mays L.), with a gene from Bacillus thuringiensis
 
 rp: Regeneration and transformation
-m: elite inbred line of maize (Zea mays L.)
-m: gene from Bacillus thuringiensis
+r: elite inbred line of maize (Zea mays L.)
+r: gene from Bacillus thuringiensis

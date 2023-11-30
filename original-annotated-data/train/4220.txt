@@ -2,6 +2,6 @@ Metabolic control of avocado fruit growth: 3-hydroxy-3-methylglutaryl coenzyme a
 
 meth: Metabolic control
 rp: avocado fruit growth
-m: 3-hydroxy-3-methylglutaryl coenzyme a reductase
-m: active oxygen species
-m: C7 sugars
+r: 3-hydroxy-3-methylglutaryl coenzyme a reductase
+r: active oxygen species
+r: C7 sugars

@@ -1,5 +1,5 @@
 Morphological and taxonomic studies of Gracilaria and Gracilariopsis species (Gracilariales, Rhodophyta) from South Africa
 
 meth: Morphological and taxonomic studies
-m: Gracilaria and Gracilariopsis species (Gracilariales, Rhodophyta)
+r: Gracilaria and Gracilariopsis species (Gracilariales, Rhodophyta)
 loc: South Africa

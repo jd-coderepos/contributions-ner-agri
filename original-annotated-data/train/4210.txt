@@ -1,5 +1,5 @@
 Reduction in transport in wheat (Triticum aestivum) is caused by sustained phloem feeding by the Russian wheat aphid (Diuraphis noxia)
 
 rp: Reduction in transport in wheat (Triticum aestivum)
-m: Russian wheat aphid (Diuraphis noxia)
+r: Russian wheat aphid (Diuraphis noxia)
 p: sustained phloem feeding

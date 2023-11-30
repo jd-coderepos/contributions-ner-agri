@@ -1,4 +1,4 @@
 Oxidative stability of functional phytosterol-enriched dark chocolate
 
-m: functional phytosterol-enriched dark chocolate
+r: functional phytosterol-enriched dark chocolate
 rp: Oxidative stability

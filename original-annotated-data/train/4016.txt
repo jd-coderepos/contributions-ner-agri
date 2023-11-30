@@ -1,5 +1,5 @@
 Knysna Turacos (Tauraco corythaix) do not improve seed germination of ingested fruit of some indigenous South African tree species
 
-m: Knysna Turacos (Tauraco corythaix)
-m: ingested fruit of some indigenous South African tree species
+r: Knysna Turacos (Tauraco corythaix)
+r: ingested fruit of some indigenous South African tree species
 rp: seed germination

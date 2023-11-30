@@ -2,5 +2,5 @@ Using occupancy models to investigate the prevalence of ectoparasitic vectors on
 
 meth: occupancy models
 rp: prevalence of ectoparasitic vectors
-m: fleas
-m: prairie dogs
+r: fleas
+r: prairie dogs

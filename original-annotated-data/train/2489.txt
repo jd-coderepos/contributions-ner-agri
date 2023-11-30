@@ -2,5 +2,5 @@ A review of Natalian Solieriaceae (Gigartinales, Rhodophyta), including the firs
 
 meth: review
 rp: Natalian Solieriaceae (Gigartinales, Rhodophyta)
-m: first South African records of Solieria and Meristotheca
-m: Erythroclonium corallinum
+r: first South African records of Solieria and Meristotheca
+r: Erythroclonium corallinum

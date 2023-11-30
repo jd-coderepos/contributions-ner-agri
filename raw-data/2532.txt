@@ -1,5 +1,5 @@
 Taxonomic studies in the Acanthaceae; the genus Hypoestes in southern Africa
 
 rp: Taxonomic studies
-m: Acanthaceae; the genus Hypoestes
+r: Acanthaceae; the genus Hypoestes
 loc: southern Africa

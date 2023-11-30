@@ -1,5 +1,5 @@
 Effect of seaweed concentrate on yield and seed quality of Arachis hypogaea
 
-m: seaweed concentrate
-m: Arachis hypogaea
+r: seaweed concentrate
+r: Arachis hypogaea
 rp: yield and seed quality

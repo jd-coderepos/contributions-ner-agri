@@ -1,4 +1,4 @@
 Metabolism of [3H]-DHZ in mature leaves of Ginkgo biloba and Salix babylonica
 
 rp: Metabolism of [3H]-DHZ
-m: mature leaves of Ginkgo biloba and Salix babylonica
+r: mature leaves of Ginkgo biloba and Salix babylonica

@@ -1,5 +1,5 @@
 Two melobesioid coralline algae (Rhodophyta, Corallinales), Mesophyllum erubescens (Foslie) Lemoine and Mesophyllum funafutiense (Foslie) Verheij from Sodwana Bay, South Africa
 
 loc: Sodwana Bay, South Africa
-m: Mesophyllum erubescens (Foslie) Lemoine
-m: Mesophyllum funafutiense (Foslie) Verheij
+r: Mesophyllum erubescens (Foslie) Lemoine
+r: Mesophyllum funafutiense (Foslie) Verheij

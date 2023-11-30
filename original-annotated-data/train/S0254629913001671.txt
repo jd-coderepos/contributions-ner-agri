@@ -1,5 +1,5 @@
 Micropropagation of Helichrysum populifolium, which produces medicinally active dicaffeoylquinic acid derivatives
 
-m: Helichrysum populifolium
+r: Helichrysum populifolium
 meth: Micropropagation
 p: medicinally active dicaffeoylquinic acid derivatives

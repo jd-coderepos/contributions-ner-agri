@@ -2,4 +2,4 @@ Metabolic response of short term calorie restriction and supplementation with Ho
 
 rp: Metabolic response
 meth: short term calorie restriction and supplementation
-m: Hoodia gordonii
+r: Hoodia gordonii

@@ -1,6 +1,6 @@
 Ectopic expression of Brassica rapa L. MDHAR increased tolerance to freezing stress by enhancing antioxidant systems of host plants
 
-m: Brassica rapa L. MDHAR
+r: Brassica rapa L. MDHAR
 rp: freezing stress
 meth: enhancing antioxidant systems of host plants
 meth: Ectopic expression

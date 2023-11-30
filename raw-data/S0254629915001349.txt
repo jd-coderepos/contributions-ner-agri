@@ -1,4 +1,4 @@
 The distribution and utilisation of Sclerocarya birrea (A Rich.) Hochst., subspecies caffra (Sond) in Vhembe District, Limpopo Province, South Africa
 
 loc: Vhembe District, Limpopo Province, South Africa
-m: Sclerocarya birrea (A Rich.) Hochst., subspecies caffra (Sond)
+r: Sclerocarya birrea (A Rich.) Hochst., subspecies caffra (Sond)

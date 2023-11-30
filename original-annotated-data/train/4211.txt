@@ -1,4 +1,4 @@
 Forest edge herbaceous vegetation (Trifolio-Geranietea) of northern Spain
 
-m: Forest edge herbaceous vegetation (Trifolio-Geranietea)
+r: Forest edge herbaceous vegetation (Trifolio-Geranietea)
 loc: northern Spain

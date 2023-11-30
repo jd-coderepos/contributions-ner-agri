@@ -1,5 +1,5 @@
 Understanding drought (and desiccation) tolerance in woody perennials: Lessons from a resurrection plant
 
-m: resurrection plant
-m: woody perennials
+r: resurrection plant
+r: woody perennials
 rp: drought (and desiccation) tolerance

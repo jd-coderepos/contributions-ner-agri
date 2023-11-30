@@ -1,5 +1,5 @@
 Mutagenic evaluation of 10 long-term stored medicinal plants commonly used in South Africa
 
 rp: Mutagenic evaluation
-m: 10 long-term stored medicinal plants
+r: 10 long-term stored medicinal plants
 loc: South Africa

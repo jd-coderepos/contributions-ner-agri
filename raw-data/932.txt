@@ -1,3 +1,3 @@
 Reinterpretation of the pericarp of Rhus lancea (Anacardiaceae)
 
-m: pericarp of Rhus lancea (Anacardiaceae)
+r: pericarp of Rhus lancea (Anacardiaceae)

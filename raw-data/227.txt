@@ -2,4 +2,4 @@ Morphometric staging of organ development based on cross sectional images
 
 meth: Morphometric staging
 rp: organ development
-m: cross sectional images
+r: cross sectional images

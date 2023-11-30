@@ -2,5 +2,5 @@ Community structure and leaf trait heterogeneity in a deciduous thicket communit
 
 rp: Community structure
 rp: leaf trait heterogeneity
-m: deciduous thicket community
+r: deciduous thicket community
 loc: Middle Zambezi River Valley, Zambia

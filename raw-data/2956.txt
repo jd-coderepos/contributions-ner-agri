@@ -1,5 +1,5 @@
 Poor germplasm management complicates the effective utilisation of Napier and Bana grass
 
 rp: germplasm management
-m: Napier and Bana grass
+r: Napier and Bana grass
 p: effective utilisation

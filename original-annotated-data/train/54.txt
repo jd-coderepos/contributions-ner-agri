@@ -1,5 +1,5 @@
 Evidence for induced pseudo-vivipary in Pennisetum setaceum (Fountain grass) invading a dry river, arid Karoo, South Africa
 
 rp: induced pseudo-vivipary
-m: Pennisetum setaceum (Fountain grass)
+r: Pennisetum setaceum (Fountain grass)
 loc: dry river, arid Karoo, South Africa

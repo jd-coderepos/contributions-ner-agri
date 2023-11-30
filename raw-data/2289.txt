@@ -2,4 +2,4 @@ The systematic value of the surface micromorphology and anatomy of cypselae of s
 
 p: systematic value
 rp: surface micromorphology and anatomy of cypselae
-m: members of the Senecioneae, Liabeae and Vernonieae (Asteraceae)
+r: members of the Senecioneae, Liabeae and Vernonieae (Asteraceae)

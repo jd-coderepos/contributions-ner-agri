@@ -1,5 +1,5 @@
 Expression and putative role of mitochondrial transport proteins in cancer
 
 rp: Expression and putative role
-m: mitochondrial transport proteins
-m: cancer
+r: mitochondrial transport proteins
+r: cancer

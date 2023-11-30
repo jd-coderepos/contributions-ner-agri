@@ -1,6 +1,6 @@
-Determining pathogen resistance in Arabidopsis by investigating the interaction between glutathione and non-xpressor of pathogenecity genes (NPR1) 
+Determining pathogen resistance in Arabidopsis by investigating the interaction between glutathione and non-xpressor of pathogenecity genes (NPR1)
 
-m: Arabidopsis
+r: Arabidopsis
 rp: Determining pathogen resistance
-m: glutathione
-m: non-xpressor of pathogenecity genes (NPR1)
+r: glutathione
+r: non-xpressor of pathogenecity genes (NPR1)

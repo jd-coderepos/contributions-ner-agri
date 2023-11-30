@@ -1,4 +1,4 @@
 Development and application of molecular DNA markers in Africa: a South African view
 
 rp: molecular DNA markers
-m: Africa
+r: Africa

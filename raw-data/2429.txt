@@ -1,5 +1,5 @@
 New species, chromosome cytology and notes on the southern African Iridaceae-Irideae: Moraea, Roggeveldia and Homeria
 
-m: southern African Iridaceae
+r: southern African Iridaceae
 rp: chromosome cytology
-m: Irideae: Moraea, Roggeveldia and Homeria
+r: Irideae: Moraea, Roggeveldia and Homeria

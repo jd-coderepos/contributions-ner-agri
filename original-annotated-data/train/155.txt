@@ -1,5 +1,5 @@
 Inorganic nutrient requirements of in vitro cultured Manihot esculenta explants
 
 rp: Inorganic nutrient requirements
-m: in vitro cultured
-m: Manihot esculenta explants
+r: in vitro cultured
+r: Manihot esculenta explants

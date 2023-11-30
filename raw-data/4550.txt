@@ -1,6 +1,6 @@
 Tree species identity in high-latitude forests determines fire spread through fuel ladders from branches to soil and vice versa
 
 rp: Tree species identity
-m: high-latitude forests
+r: high-latitude forests
 p: fire spread
 p: fuel ladders from branches to soil and vice versa

@@ -1,6 +1,6 @@
 Source–sink relationship and photosynthesis in the horn-shaped gall and its host plant Copaifera langsdorffii Desf. (Fabaceae)
 
-m: horn-shaped gall
-m: host plant Copaifera langsdorffii Desf. (Fabaceae)
+r: horn-shaped gall
+r: host plant Copaifera langsdorffii Desf. (Fabaceae)
 rp: Source–sink relationship
 p: photosynthesis

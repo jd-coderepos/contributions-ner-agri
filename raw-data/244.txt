@@ -1,5 +1,5 @@
 Comparison of hydraulics and particle removal efficiencies in a mixed cell raceway and Burrows pond rearing system
 
 rp: Comparison of hydraulics and particle removal efficiencies
-m: mixed cell raceway
-m: Burrows pond rearing system
+r: mixed cell raceway
+r: Burrows pond rearing system

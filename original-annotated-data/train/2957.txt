@@ -1,5 +1,5 @@
 Genetic relationships between South African Solanum retroflexum and other related species using partial 18S sequencing
 
 rp: Genetic relationships
-m: South African Solanum retroflexum
+r: South African Solanum retroflexum
 meth: partial 18S sequencing

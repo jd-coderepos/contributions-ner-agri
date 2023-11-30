@@ -1,6 +1,6 @@
 Growth and development of four Themeda triandra populations from southern Africa in response to temperature
 
 p: Growth and development
-m: four Themeda triandra populations
+r: four Themeda triandra populations
 loc: southern Africa
 p: temperature

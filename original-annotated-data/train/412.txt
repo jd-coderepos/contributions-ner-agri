@@ -1,5 +1,5 @@
 Physiological and biochemical responses of six herbaceous peony cultivars to cold stress
 
 rp: Physiological and biochemical responses
-m: six herbaceous peony cultivars
+r: six herbaceous peony cultivars
 p: cold stress

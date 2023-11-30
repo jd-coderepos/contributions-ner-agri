@@ -1,6 +1,6 @@
 Role of floral scent in promoting the co-occurrence of two pollinating wasps in Ficus natalensis natalensis in the KwaZulu-Natal (South Africa)
 
-m: floral scent
-m: Ficus natalensis natalensis
+r: floral scent
+r: Ficus natalensis natalensis
 rp: co-occurrence of two pollinating wasps
 loc: KwaZulu-Natal (South Africa)

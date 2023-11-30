@@ -3,4 +3,4 @@ The pigment-scent connection: Do mutations in regulatory vs. structural anthocya
 p: pigment-scent connection
 rp: floral scent production
 p: mutations in regulatory vs. structural anthocyanin genes
-m: Ipomoea purpurea
+r: Ipomoea purpurea

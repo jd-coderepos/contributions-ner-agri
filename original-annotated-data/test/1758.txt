@@ -1,5 +1,5 @@
 A morphological study of Dichapetalum cymosum (Hook.) Engl. Part 1. The underground stem and root systems
 
 meth: morphological study
-m: Dichapetalum cymosum (Hook.) Engl.
+r: Dichapetalum cymosum (Hook.) Engl.
 p: underground stem and root systems

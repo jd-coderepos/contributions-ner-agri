@@ -2,5 +2,5 @@ Morphometric analysis and taxonomic revision of the Memecylon natalense species-
 
 rp: Morphometric analysis
 rp: taxonomic revision
-m: Memecylon natalense species-complex (Melastomataceae)
+r: Memecylon natalense species-complex (Melastomataceae)
 loc: southern Africa

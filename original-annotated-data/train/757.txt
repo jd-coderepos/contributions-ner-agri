@@ -1,4 +1,4 @@
 The fly who shagged me: Drivers of floral diversity in Gorteria diffusa
 
 rp: floral diversity
-m: Gorteria diffusa
+r: Gorteria diffusa

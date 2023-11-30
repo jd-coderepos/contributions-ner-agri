@@ -1,4 +1,4 @@
 Using plant extracts to control ticks and tick-borne diseases: A review
 
-m: plant extracts
+r: plant extracts
 rp: control ticks and tick-borne diseases

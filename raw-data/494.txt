@@ -1,5 +1,5 @@
 Screening of South African lichens for prostaglandin-synthesis inhibitors
 
 meth: Screening
-m: South African lichens
-m: prostaglandin-synthesis inhibitors
+r: South African lichens
+r: prostaglandin-synthesis inhibitors

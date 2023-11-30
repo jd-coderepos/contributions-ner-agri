@@ -1,6 +1,6 @@
 Large, binge-type meals of high fat diet change feeding behaviour and entrain food anticipatory activity in mice☆
 
-m: mice
-m: Large, binge-type meals of high fat diet
+r: mice
+r: Large, binge-type meals of high fat diet
 p: feeding behaviour
 p: entrain food anticipatory activity

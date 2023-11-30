@@ -1,5 +1,5 @@
 The afromontane forests of Transkei. IV: Aspects of their exploitation potential
 
 loc: Transkei
-m: afromontane forests
+r: afromontane forests
 p: exploitation potential

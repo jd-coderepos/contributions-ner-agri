@@ -3,4 +3,4 @@ A cost minimisation and Bayesian inference model predicts startle reflex modulat
 meth: cost minimisation
 meth: Bayesian inference model
 rp: startle reflex modulation
-m: species
+r: species

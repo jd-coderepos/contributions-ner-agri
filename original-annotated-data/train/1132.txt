@@ -1,5 +1,5 @@
 Morpho-histological and bioherbicidal evaluation of wild-type and transformed hairy roots of goosefoot
 
 meth: Morpho-histological and bioherbicidal evaluation
-m: wild-type
-m: transformed hairy roots of goosefoot
+r: wild-type
+r: transformed hairy roots of goosefoot

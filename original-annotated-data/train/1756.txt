@@ -1,4 +1,4 @@
 The ploidy status of Anthephora pubescens (Panicoideae)
 
 rp: ploidy status
-m: Anthephora pubescens (Panicoideae)
+r: Anthephora pubescens (Panicoideae)

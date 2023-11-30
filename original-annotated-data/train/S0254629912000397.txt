@@ -1,5 +1,5 @@
 Trace Elements in Soils and Plants
 
 rp: Trace Elements
-m: Soils
-m: Plants
+r: Soils
+r: Plants

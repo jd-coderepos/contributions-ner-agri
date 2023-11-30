@@ -2,8 +2,8 @@ Woody Plants of Western African Forests—A Guide to the Forest Trees, Shrubs an
 
 rp: Woody Plants
 loc: Western African Forests
-m: Forest Trees
-m: Shrubs
-m: Lianes
+r: Forest Trees
+r: Shrubs
+r: Lianes
 loc: Senegal
 loc: Ghana

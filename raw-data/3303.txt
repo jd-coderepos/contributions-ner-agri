@@ -3,4 +3,4 @@ Partial dehydration and ABA induce tolerance to desiccation-induced ion leakage 
 p: Partial dehydration
 p: ABA induce tolerance
 rp: desiccation-induced ion leakage
-m: moss Atrichum androgynum
+r: moss Atrichum androgynum

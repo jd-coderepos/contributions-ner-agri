@@ -1,5 +1,5 @@
 Role of selenium in preventing manganese toxicity in sunflower (Helianthus annuus) seedling
 
-m: selenium
-m: sunflower (Helianthus annuus) seedling
+r: selenium
+r: sunflower (Helianthus annuus) seedling
 rp: preventing manganese toxicity

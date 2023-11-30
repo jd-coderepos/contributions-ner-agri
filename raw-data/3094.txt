@@ -1,4 +1,4 @@
 Nitric oxide differentially modulates the expression of four cystatins from soybean
 
 rp: Nitric oxide differentially modulates
-m: expression of four cystatins from soybean
+r: expression of four cystatins from soybean

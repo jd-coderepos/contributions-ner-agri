@@ -3,4 +3,4 @@ Can genomics and bioinformatics be applied to studies of non-model plants such a
 meth: genomics
 meth: bioinformatics
 rp: non-model plants
-m: pearl millet
+r: pearl millet

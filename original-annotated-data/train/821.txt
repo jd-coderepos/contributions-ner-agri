@@ -3,4 +3,4 @@ Microsatellite DNA fingerprinting and cultivar identification in sugarcane using
 rp: Microsatellite DNA fingerprinting
 rp: cultivar identification
 meth: semi-automated genetic analyser
-m: sugarcane
+r: sugarcane

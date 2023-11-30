@@ -1,5 +1,5 @@
 Reducing sampling error in faecal egg counts from black rhinoceros (Diceros bicornis)
 
 rp: Reducing sampling error
-m: faecal egg counts
-m: black rhinoceros (Diceros bicornis)
+r: faecal egg counts
+r: black rhinoceros (Diceros bicornis)

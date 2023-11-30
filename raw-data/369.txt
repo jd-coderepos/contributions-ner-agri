@@ -4,5 +4,5 @@ p: salinity
 p: temperature
 rp: seed germination rate
 rp: hydrotime model parameters
-m: halophyte, Chloris virgata
-m: glycophyte, Digitaria sanguinalis
+r: halophyte, Chloris virgata
+r: glycophyte, Digitaria sanguinalis

@@ -1,5 +1,5 @@
 Phylogenetic studies in southern African Thicket: Schotia Jacq. (Fabaceae)
 
-m: Schotia Jacq. (Fabaceae)
+r: Schotia Jacq. (Fabaceae)
 loc: southern African Thicket
 meth: Phylogenetic studies

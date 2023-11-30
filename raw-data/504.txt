@@ -1,4 +1,4 @@
 In vitro culture and establishment of Anthurium parvispathum
 
 meth: In vitro culture
-m: Anthurium parvispathum
+r: Anthurium parvispathum

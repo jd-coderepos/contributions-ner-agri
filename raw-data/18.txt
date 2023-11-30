@@ -1,5 +1,5 @@
 Atmospheric deposition of soluble trace elements along the Atlantic Meridional Transect (AMT)
 
 rp: Atmospheric deposition
-m: soluble trace elements
+r: soluble trace elements
 loc: Atlantic Meridional Transect (AMT)

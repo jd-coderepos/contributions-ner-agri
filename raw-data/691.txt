@@ -1,5 +1,5 @@
 Mixed-species versus monocultures in plantation forestry: Development, benefits, ecosystem services and perspectives for the future
 
-m: Mixed-species
-m: monocultures
+r: Mixed-species
+r: monocultures
 rp: plantation forestry

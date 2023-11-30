@@ -1,5 +1,5 @@
 Tissue discs as an experimental system for metabolic flux analysis in the sugarcane culm
 
-m: Tissue discs
-m: sugarcane culm
+r: Tissue discs
+r: sugarcane culm
 rp: metabolic flux analysis

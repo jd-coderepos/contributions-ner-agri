@@ -1,5 +1,5 @@
 Interaction between benzyladenine, naphthaleneacetic acid and tissue age on adventitious bud formation on leaf sections of Lachenalia hybrids
 
-m: leaf sections of Lachenalia hybrids
+r: leaf sections of Lachenalia hybrids
 rp: adventitious bud formation
 meth: Interaction between benzyladenine, naphthaleneacetic acid and tissue age

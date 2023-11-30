@@ -1,5 +1,5 @@
 Evaluation of light energy to H2 energy conversion efficiency in thin films of cyanobacteria and green alga under photoautotrophic conditions
 
 rp: light energy to H2 energy conversion efficiency
-m: thin films of cyanobacteria and green alga
+r: thin films of cyanobacteria and green alga
 p: photoautotrophic conditions

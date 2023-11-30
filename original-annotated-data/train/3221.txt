@@ -1,6 +1,6 @@
 In vitro hardening — the role of supra-optimal sucrose on acclimation stress in Kniphofia leucocephala
 
 meth: In vitro hardening
-m: supra-optimal sucrose
-m: Kniphofia leucocephala
+r: supra-optimal sucrose
+r: Kniphofia leucocephala
 rp: acclimation stress

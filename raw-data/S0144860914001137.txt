@@ -1,5 +1,5 @@
-Heterotrophic denitrification of aquaculture effluent using fluidized sand biofilters 
+Heterotrophic denitrification of aquaculture effluent using fluidized sand biofilters
 
 meth: Heterotrophic denitrification
-m: aquaculture effluent
+r: aquaculture effluent
 t: fluidized sand biofilters

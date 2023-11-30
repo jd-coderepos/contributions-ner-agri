@@ -1,4 +1,4 @@
 Elicitation of medicinally active dicaffeoylquinic acid derivatives from Helichrysum populifolium
 
-m: Helichrysum populifolium
-m: medicinally active dicaffeoylquinic acid derivatives
+r: Helichrysum populifolium
+r: medicinally active dicaffeoylquinic acid derivatives

@@ -1,4 +1,4 @@
 A re-appraisal of Cryptolepis sinensis subsp. africana (Apocynaceae: Periplocoideae) and a description of the pollen apparatus
 
-m: pollen apparatus
+r: pollen apparatus
 rp: re-appraisal of Cryptolepis sinensis subsp. africana (Apocynaceae: Periplocoideae)

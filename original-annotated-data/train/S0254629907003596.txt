@@ -1,5 +1,5 @@
 An Agrobacterium-mediated system for gene transfer in Pinus patula
 
-m: Pinus patula
+r: Pinus patula
 sol: Agrobacterium-mediated system
 rp: gene transfer

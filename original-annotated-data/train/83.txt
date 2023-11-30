@@ -1,4 +1,4 @@
 Distichamine, a chemotaxonomic marker for the genus Boophone Herb. (Amaryllidaceae)
 
-m: Distichamine, a chemotaxonomic marker
-m: genus Boophone Herb. (Amaryllidaceae)
+r: Distichamine, a chemotaxonomic marker
+r: genus Boophone Herb. (Amaryllidaceae)

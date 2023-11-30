@@ -2,4 +2,4 @@ Forest tree and fern species as indicators of an unnatural fire event in a south
 
 loc: southern Cape mountain forest
 rp: unnatural fire event
-m: Forest tree and fern species
+r: Forest tree and fern species

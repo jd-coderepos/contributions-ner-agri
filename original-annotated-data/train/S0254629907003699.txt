@@ -2,5 +2,5 @@ Re-identification of “Oscillatoria simplicissima” isolated from the Vaal Riv
 
 loc: Vaal River, South Africa
 rp: Re-identification
-m: Oscillatoria simplicissima
-m: Planktothrix pseudagardhii
+r: Oscillatoria simplicissima
+r: Planktothrix pseudagardhii

@@ -1,5 +1,5 @@
 Phylogenetic interactions among lianas in a southeastern Brazilian semideciduous tropical forest
 
 rp: Phylogenetic interactions
-m: lianas
+r: lianas
 loc: southeastern Brazilian semideciduous tropical forest

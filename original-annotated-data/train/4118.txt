@@ -1,5 +1,5 @@
 Interactive antimicrobial and toxicity profiles of conventional antimicrobials with Southern African medicinal plants
 
 rp: Interactive antimicrobial and toxicity profiles
-m: conventional antimicrobials
-m: Southern African medicinal plants
+r: conventional antimicrobials
+r: Southern African medicinal plants

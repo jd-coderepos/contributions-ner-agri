@@ -1,6 +1,6 @@
 High frequency regeneration protocol for Dendrobium nobile: A model tissue culture approach for propagation of medicinally important orchid species
 
-m: Dendrobium nobile
+r: Dendrobium nobile
 s: High frequency regeneration protocol
 meth: model tissue culture approach
 rp: propagation of medicinally important orchid species

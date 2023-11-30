@@ -1,5 +1,5 @@
 About the limited benefit of water content and temperature on orthodox seed longevity
 
-m: water content
+r: water content
 p: temperature
 rp: orthodox seed longevity

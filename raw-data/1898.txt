@@ -1,5 +1,5 @@
 Evaluation of medicinal plants and synthesized naphthoquinones on cancer cells
 
-m: medicinal plants
-m: synthesized naphthoquinones
-m: cancer cells
+r: medicinal plants
+r: synthesized naphthoquinones
+r: cancer cells

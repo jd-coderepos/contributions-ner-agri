@@ -1,4 +1,4 @@
-Interaction of cysteine protease inhibitor mutants with cysteine proteases 
+Interaction of cysteine protease inhibitor mutants with cysteine proteases
 
-m: cysteine protease inhibitor mutants
-m: cysteine proteases
+r: cysteine protease inhibitor mutants
+r: cysteine proteases

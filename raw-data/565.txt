@@ -1,4 +1,4 @@
 Fire intensity and regeneration of myrmecochorous Proteaceae
 
 rp: Fire intensity and regeneration
-m: myrmecochorous Proteaceae
+r: myrmecochorous Proteaceae

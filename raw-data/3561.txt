@@ -2,7 +2,7 @@ A meta-analysis approach to examining the greenhouse gas implications of includi
 
 meth: meta-analysis approach
 rp: greenhouse gas implications
-m: dry peas (Pisum sativum L.)
-m: lentils (Lens culinaris M.)
+r: dry peas (Pisum sativum L.)
+r: lentils (Lens culinaris M.)
 meth: crop rotations
 loc: western Canada

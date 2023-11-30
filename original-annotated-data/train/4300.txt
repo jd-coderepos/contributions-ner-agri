@@ -2,4 +2,4 @@ Leaf age, position and anatomical influences on the distribution of the secondar
 
 rp: Leaf age, position and anatomical influences
 p: distribution of the secondary metabolites, homonataloin and three isomers of aloeresin
-m: Aloe hereroensis (Aloaceae) leaves
+r: Aloe hereroensis (Aloaceae) leaves

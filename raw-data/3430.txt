@@ -2,5 +2,5 @@ The phytosociology of the Villiers – Grootvlei area, South Africa. 1. Physical
 
 p: phytosociology
 loc: Villiers – Grootvlei area, South Africa
-m: Bb Land Type
+r: Bb Land Type
 rp: Physical environment and the plant communities

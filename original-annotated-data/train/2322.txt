@@ -1,4 +1,4 @@
 Some physical factors affecting adsorption of heavy metals from solution by dried brown seaweed material
 
 rp: physical factors affecting adsorption of heavy metals
-m: dried brown seaweed material
+r: dried brown seaweed material

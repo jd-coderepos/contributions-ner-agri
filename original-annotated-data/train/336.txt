@@ -1,4 +1,4 @@
 Antibacterial and antioxidant activities of four kaempferol methyl ethers isolated from Dodonaea viscosa Jacq. var. angustifolia leaf extracts
 
 rp: Antibacterial and antioxidant activities
-m: four kaempferol methyl ethers isolated from Dodonaea viscosa Jacq. var. angustifolia leaf extracts
+r: four kaempferol methyl ethers isolated from Dodonaea viscosa Jacq. var. angustifolia leaf extracts

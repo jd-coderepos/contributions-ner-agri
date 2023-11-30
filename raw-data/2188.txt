@@ -1,5 +1,5 @@
 Assessment of potential invasiveness of Verbascum thapsus L. in South Africa
 
 rp: Assessment of potential invasiveness
-m: Verbascum thapsus L.
+r: Verbascum thapsus L.
 loc: South Africa

@@ -1,5 +1,5 @@
 Effects of thirty-five years of afforestation with Pinus radiata on the composition of mesic mountain fynbos near Stellenbosch
 
 rp: thirty-five years of afforestation
-m: Pinus radiata
+r: Pinus radiata
 loc: mesic mountain fynbos near Stellenbosch

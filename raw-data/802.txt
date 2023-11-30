@@ -1,4 +1,4 @@
 The identity of the type of Tanacetum burchellii DC. (Asteraceae, Anthemideae), and the correct author citation for Pentzia punctata Harv. ex Hutch.
 
-m: Tanacetum burchellii DC. (Asteraceae, Anthemideae)
-m: Pentzia punctata Harv. ex Hutch.
+r: Tanacetum burchellii DC. (Asteraceae, Anthemideae)
+r: Pentzia punctata Harv. ex Hutch.

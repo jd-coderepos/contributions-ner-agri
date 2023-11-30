@@ -2,4 +2,4 @@ Sequence-Independent Identification of Active LTR Retrotransposons in Arabidopsi
 
 rp: Sequence-Independent Identification
 p: Active LTR Retrotransposons
-m: Arabidopsis
+r: Arabidopsis

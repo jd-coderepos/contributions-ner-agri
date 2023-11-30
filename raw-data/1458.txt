@@ -1,4 +1,4 @@
 Arabidopsis seeds as a system to understand desiccation tolerance
 
-m: Arabidopsis seeds
+r: Arabidopsis seeds
 rp: desiccation tolerance

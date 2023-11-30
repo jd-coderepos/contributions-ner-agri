@@ -1,4 +1,4 @@
-Neighbourhood analysis of competition between two Namaqualand ephemeral plant species 
+Neighbourhood analysis of competition between two Namaqualand ephemeral plant species
 
 meth: Neighbourhood analysis
-m: two Namaqualand ephemeral plant species
+r: two Namaqualand ephemeral plant species

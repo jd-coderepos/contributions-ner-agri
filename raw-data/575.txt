@@ -1,5 +1,5 @@
 Studies in Lotononis (Crotalarieae, Fabaceae). IV. Three new species of the L. umbellata group (section Polylobium) from the Cape Province
 
-m: Lotononis (Crotalarieae, Fabaceae)
+r: Lotononis (Crotalarieae, Fabaceae)
 loc: Cape Province
 f: Three new species of the L. umbellata group (section Polylobium) from the Cape Province

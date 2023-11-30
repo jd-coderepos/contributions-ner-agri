@@ -1,5 +1,5 @@
 Floral and macroecological evolution within Cyrtanthus (Amaryllidaceae): Inferences from combined analyses of plastid ndhF and nrDNA ITS sequences
 
 rp: Floral and macroecological evolution
-m: Cyrtanthus (Amaryllidaceae)
+r: Cyrtanthus (Amaryllidaceae)
 meth: combined analyses of plastid ndhF and nrDNA ITS sequences

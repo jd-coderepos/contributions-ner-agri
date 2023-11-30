@@ -1,4 +1,4 @@
 Secretory structures in Ekebergia capensis (Meliaceae)
 
 rp: Secretory structures
-m: Ekebergia capensis (Meliaceae)
+r: Ekebergia capensis (Meliaceae)

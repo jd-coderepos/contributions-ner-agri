@@ -1,4 +1,4 @@
 Characterisation of the pitch canker fungus, Fusarium circinatum, from Mexico
 
-m: pitch canker fungus, Fusarium circinatum
+r: pitch canker fungus, Fusarium circinatum
 loc: Mexico

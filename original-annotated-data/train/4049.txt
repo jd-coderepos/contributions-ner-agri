@@ -2,5 +2,5 @@ Oxidative damages induced by short-term exposure to cadmium in bean plants: Prot
 
 rp: Oxidative damages
 p: short-term exposure to cadmium
-m: bean plants
-m: salicylic acid
+r: bean plants
+r: salicylic acid

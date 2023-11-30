@@ -1,4 +1,4 @@
 Producing South African Journal of Botany: current realities and future perspectives
 
 rp: Botany
-m: South African Journal
+r: South African Journal

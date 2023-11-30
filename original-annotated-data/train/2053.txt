@@ -1,5 +1,5 @@
 Morphological and physiological response of soybean treated with the microsymbiont Bradyrhizobium japonicum pre-incubated with genistein
 
 rp: Morphological and physiological response
-m: soybean
-m: microsymbiont Bradyrhizobium japonicum pre-incubated
+r: soybean
+r: microsymbiont Bradyrhizobium japonicum pre-incubated

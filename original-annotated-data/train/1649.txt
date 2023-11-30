@@ -1,4 +1,4 @@
 Developmental changes in children's facial preferences
 
 rp: Developmental changes
-m: children's facial preferences
+r: children's facial preferences

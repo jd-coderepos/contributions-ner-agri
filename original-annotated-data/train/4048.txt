@@ -1,5 +1,5 @@
 Erratum to “Determination of total and bioavailable heavy and trace metals in South African commercial herbal concoctions using ICP-OES” [South African Journal of Botany 82C (2012) (pp. 75–82)]
 
-m: total and bioavailable heavy and trace metals
-m: South African commercial herbal concoctions
+r: total and bioavailable heavy and trace metals
+r: South African commercial herbal concoctions
 t: ICP-OES

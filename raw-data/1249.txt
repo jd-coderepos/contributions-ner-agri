@@ -1,5 +1,5 @@
 Impact of cell wall encapsulation of almonds on in vitro duodenal lipolysis
 
 rp: cell wall encapsulation
-m: almonds
+r: almonds
 meth: in vitro duodenal lipolysis

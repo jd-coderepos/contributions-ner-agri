@@ -1,4 +1,4 @@
 Elicitation of 7-methyljuglone in Drosera capensis
 
 rp: Elicitation of 7-methyljuglone
-m: Drosera capensis
+r: Drosera capensis

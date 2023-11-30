@@ -1,5 +1,5 @@
 Habitat loss causes non-linear genetic erosion in specialist species
 
-rp: Habitat loss 
+rp: Habitat loss
 p: non-linear genetic erosion
-m: specialist species
+r: specialist species

@@ -1,6 +1,6 @@
 Myxozoa in high Arctic: Survey on the central part of Svalbard archipelago
 
-m: Myxozoa
+r: Myxozoa
 loc: high Arctic
 loc: central part of Svalbard archipelago
 meth: Survey

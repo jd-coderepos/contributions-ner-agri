@@ -2,5 +2,5 @@ Cover crops to mitigate soil degradation and enhance soil functionality in irrig
 
 rp: mitigate soil degradation
 rp: enhance soil functionality
-m: irrigated land
-m: Cover crops
+r: irrigated land
+r: Cover crops

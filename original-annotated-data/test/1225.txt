@@ -1,4 +1,4 @@
 Taxonomy of the African species of Securidaca (Polygalaceae)
 
 rp: Taxonomy
-m: African species of Securidaca (Polygalaceae)
+r: African species of Securidaca (Polygalaceae)

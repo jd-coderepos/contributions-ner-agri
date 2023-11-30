@@ -1,4 +1,4 @@
 Biological activities of cycloart-23-ene-3,25-diol isolated from the leaves of Trichilia dregeana
 
 rp: Biological activities
-m: cycloart-23-ene-3,25-diol isolated from the leaves of Trichilia dregeana
+r: cycloart-23-ene-3,25-diol isolated from the leaves of Trichilia dregeana

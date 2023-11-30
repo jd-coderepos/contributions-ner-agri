@@ -1,4 +1,4 @@
 Potential application of vermicompost leachate in tomato and banana cultivation
 
-m: vermicompost leachate
+r: vermicompost leachate
 rp: tomato and banana cultivation

@@ -1,6 +1,6 @@
 iRNA-PseKNC(2methyl): Identify RNA 2'-O-methylation sites by convolution neural network and Chou's pseudo components
 
-m: iRNA-PseKNC(2methyl)
+r: iRNA-PseKNC(2methyl)
 meth: convolution neural network
 meth: Chou's pseudo components
-m: RNA 2'-O-methylation sites
+r: RNA 2'-O-methylation sites

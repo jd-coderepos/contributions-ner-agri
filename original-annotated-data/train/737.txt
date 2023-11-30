@@ -1,6 +1,6 @@
 Effects of the lipid regulating drug acid on PPARα-regulated gene levels in common carp carpio) at pharmacological and environmental levels
 
-m: lipid regulating drug acid
+r: lipid regulating drug acid
 p: PPARα-regulated gene levels
-m: common carp
+r: common carp
 p: pharmacological and environmental levels

@@ -2,4 +2,4 @@ Antimicrobial activity and safety evaluation of commonly used South African herb
 
 rp: Antimicrobial activity
 rp: safety evaluation
-m: commonly used South African herbal mixtures
+r: commonly used South African herbal mixtures

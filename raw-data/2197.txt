@@ -1,5 +1,5 @@
 Phytotoxic interference of volatile organic compounds and water extracts of Tinospora tuberculata Beumee on growth of weeds in rice fields
 
 p: Phytotoxic interference
-m: volatile organic compounds and water extracts of Tinospora tuberculata Beumee
+r: volatile organic compounds and water extracts of Tinospora tuberculata Beumee
 rp: growth of weeds in rice fields

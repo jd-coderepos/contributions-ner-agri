@@ -1,4 +1,4 @@
 Isolation of antioxidant constituents from Combretum apiculatum subsp. apiculatum
 
 rp: Isolation of antioxidant constituents
-m: Combretum apiculatum subsp. apiculatum
+r: Combretum apiculatum subsp. apiculatum

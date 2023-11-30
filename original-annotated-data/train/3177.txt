@@ -1,5 +1,5 @@
 Ecological associations between leaf domatia and mites: How does the mutualism work?
 
 rp: Ecological associations
-m: leaf domatia
-m: mites
+r: leaf domatia
+r: mites

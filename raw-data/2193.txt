@@ -1,5 +1,5 @@
 Review of the southern African Moraea ciliata complex (Iridaceae: Iridoideae) including the three new taxa M. flava and M. ciliata subsp. cuprina and subsp. lutescens
 
 meth: Review
-m: southern African Moraea ciliata complex (Iridaceae: Iridoideae)
-m: three new taxa M. flava and M. ciliata subsp. cuprina and subsp. lutescens
+r: southern African Moraea ciliata complex (Iridaceae: Iridoideae)
+r: three new taxa M. flava and M. ciliata subsp. cuprina and subsp. lutescens

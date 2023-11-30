@@ -1,4 +1,4 @@
 Does resistance really carry a fitness cost?
 
 p: resistance
-m: fitness cost
+r: fitness cost

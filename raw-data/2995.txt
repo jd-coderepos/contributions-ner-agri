@@ -1,5 +1,5 @@
 Patterns of diversity, endemism and distribution of bees (Insecta: Hymenoptera: Anthophila) in southern Africa
 
 rp: Patterns of diversity, endemism and distribution
-m: bees (Insecta: Hymenoptera: Anthophila)
+r: bees (Insecta: Hymenoptera: Anthophila)
 loc: southern Africa

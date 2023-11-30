@@ -1,4 +1,4 @@
 Urinary active transforming growth factor β in feline chronic kidney disease
 
-m: Urinary active transforming growth factor β
+r: Urinary active transforming growth factor β
 rp: feline chronic kidney disease

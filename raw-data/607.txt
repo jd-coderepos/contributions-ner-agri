@@ -1,5 +1,5 @@
 Modelling shoreline evolution in the vicinity of a groyne and a river
 
 rp: Modelling shoreline evolution
-m: groyne
-m: river
+r: groyne
+r: river

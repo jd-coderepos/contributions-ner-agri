@@ -1,4 +1,4 @@
 Production of copious dilute nectar in the bird-pollinated African succulent Aloe marlothii (Asphodelaceae)
 
-m: copious dilute nectar
-m: bird-pollinated African succulent Aloe marlothii (Asphodelaceae)
+r: copious dilute nectar
+r: bird-pollinated African succulent Aloe marlothii (Asphodelaceae)

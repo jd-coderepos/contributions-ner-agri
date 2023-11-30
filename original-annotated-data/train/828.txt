@@ -1,4 +1,4 @@
 Antiplasmodial, HIV-1 reverse transcriptase inhibitory and cytotoxicity properties of Centratherum punctatum Cass. and its fractions
 
 p: Antiplasmodial, HIV-1 reverse transcriptase inhibitory and cytotoxicity properties
-m: Centratherum punctatum Cass. and its fractions
+r: Centratherum punctatum Cass. and its fractions

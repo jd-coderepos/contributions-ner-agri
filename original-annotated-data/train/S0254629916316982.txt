@@ -1,6 +1,6 @@
-The influence of ants on the dispersal distance and seedling recruitment of Leucospermum conocarpodendron (L.) Buek (Proteaceae) 
+The influence of ants on the dispersal distance and seedling recruitment of Leucospermum conocarpodendron (L.) Buek (Proteaceae)
 
-m: Leucospermum conocarpodendron (L.) Buek (Proteaceae)
-m: ants
+r: Leucospermum conocarpodendron (L.) Buek (Proteaceae)
+r: ants
 rp: dispersal distance
 rp: seedling recruitment

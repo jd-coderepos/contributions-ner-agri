@@ -1,7 +1,7 @@
 Efficacy of titanium dioxide nanoparticles in modulating photosynthesis, peltate glandular trichomes and essential oil production and quality in Mentha piperita L.
 
-m: titanium dioxide nanoparticles
+r: titanium dioxide nanoparticles
 rp: essential oil production and quality
 rp: modulating photosynthesis
-m: peltate glandular trichomes
-m: Mentha piperita L.
+r: peltate glandular trichomes
+r: Mentha piperita L.

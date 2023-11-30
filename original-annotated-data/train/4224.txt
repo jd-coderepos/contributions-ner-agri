@@ -1,4 +1,4 @@
 The anti-inflammatory and antibacterial activities of Amaryllidaceae alkaloids
 
 rp: anti-inflammatory and antibacterial activities
-m: Amaryllidaceae alkaloids
+r: Amaryllidaceae alkaloids

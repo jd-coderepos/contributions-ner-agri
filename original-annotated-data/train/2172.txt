@@ -3,5 +3,5 @@ In vitro antimicrobial activity and genotoxicity evaluation of plants used for t
 meth: In vitro
 rp: antimicrobial activity
 rp: genotoxicity evaluation
-m: plants used for the treatment of tuberculosis and related symptoms
+r: plants used for the treatment of tuberculosis and related symptoms
 loc: South Africa

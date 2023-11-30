@@ -1,4 +1,4 @@
 Antibacterial effects of fatty acids and related compounds from plants
 
 rp: Antibacterial effects
-m: fatty acids and related compounds from plants
+r: fatty acids and related compounds from plants

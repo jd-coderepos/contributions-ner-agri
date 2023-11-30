@@ -3,4 +3,4 @@ Effects of awareness that food intake is being measured by a universal eating mo
 rp: awareness that food intake is being measured
 meth: universal eating monitor
 p: consumption of a pasta lunch and a cookie snack
-m: healthy female volunteers
+r: healthy female volunteers

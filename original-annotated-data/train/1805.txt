@@ -1,6 +1,6 @@
 Differential expression of Toll-like receptors and inflammatory cytokines in ovine interdigital dermatitis and footrot
 
 p: Differential expression
-m: Toll-like receptors
+r: Toll-like receptors
 rp: ovine interdigital dermatitis and footrot
-m: inflammatory cytokines
+r: inflammatory cytokines

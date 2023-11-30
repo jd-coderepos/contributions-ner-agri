@@ -1,4 +1,4 @@
 Desiccation sensitivity in the Arecaceae: Correlates and frequency
 
 rp: Desiccation sensitivity
-m: Arecaceae
+r: Arecaceae

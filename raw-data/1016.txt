@@ -1,4 +1,4 @@
 Habitat heterogeneity of hadal trenches: Considerations and implications for future studies
 
 rp: Habitat heterogeneity
-m: hadal trenches
+r: hadal trenches

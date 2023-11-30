@@ -1,5 +1,5 @@
-Effect of exogenous application of nitric oxide on salt stress responses of soybean 
+Effect of exogenous application of nitric oxide on salt stress responses of soybean
 
-m: soybean
+r: soybean
 meth: exogenous application of nitric oxide
 rp: salt stress responses

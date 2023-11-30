@@ -1,4 +1,4 @@
 Towards a revision of Bulbine (Asphodeloideae, Asphodelaceae): Phylogeny and problem species
 
-m: Bulbine (Asphodeloideae, Asphodelaceae)
+r: Bulbine (Asphodeloideae, Asphodelaceae)
 rp: Phylogeny and problem species

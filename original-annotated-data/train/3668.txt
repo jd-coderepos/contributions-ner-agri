@@ -1,4 +1,4 @@
 Armed and dangerous – Chemical warfare in wood decay communities
 
 p: Chemical warfare
-m: wood decay communities
+r: wood decay communities

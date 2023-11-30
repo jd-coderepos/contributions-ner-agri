@@ -2,4 +2,4 @@ Screening for hydroxynitrile lyase activity in non-commercialised plants
 
 meth: Screening
 rp: hydroxynitrile lyase activity
-m: non-commercialised plants
+r: non-commercialised plants

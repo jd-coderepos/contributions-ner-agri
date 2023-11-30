@@ -1,5 +1,5 @@
 The spatio-ecological segregation of different cytotypes of Oxalis obtusa (Oxalidaceae) in contact zones
 
 rp: spatio-ecological segregation
-m: different cytotypes of Oxalis obtusa (Oxalidaceae)
-m: contact zones
+r: different cytotypes of Oxalis obtusa (Oxalidaceae)
+r: contact zones

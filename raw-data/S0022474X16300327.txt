@@ -1,5 +1,5 @@
-Triple bag hermetic technology for controlling a bruchid (Spermophagus sp.) (Coleoptera, Chrysomelidae) in stored Hibiscus sabdariffa grain 
+Triple bag hermetic technology for controlling a bruchid (Spermophagus sp.) (Coleoptera, Chrysomelidae) in stored Hibiscus sabdariffa grain
 
 s: Triple bag hermetic technology
-m: bruchid (Spermophagus sp.) (Coleoptera, Chrysomelidae)
-m: stored Hibiscus sabdariffa grain
+r: bruchid (Spermophagus sp.) (Coleoptera, Chrysomelidae)
+r: stored Hibiscus sabdariffa grain

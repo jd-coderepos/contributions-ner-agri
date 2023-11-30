@@ -1,6 +1,6 @@
 The cone snails of Cape Verde: Marine endemism at a terrestrial scale
 
 loc: Cape Verde
-m: cone snails
+r: cone snails
 rp: Marine endemism
 meth: terrestrial scale

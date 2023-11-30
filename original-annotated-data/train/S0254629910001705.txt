@@ -1,5 +1,5 @@
-Volatile composition and antimicrobial activity of twenty commercial frankincense essential oil samples 
+Volatile composition and antimicrobial activity of twenty commercial frankincense essential oil samples
 
 rp: Volatile composition
 rp: antimicrobial activity
-m: twenty commercial frankincense essential oil samples
+r: twenty commercial frankincense essential oil samples

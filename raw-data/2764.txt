@@ -1,4 +1,4 @@
 The CoRR hypothesis for genes in organelles
 
 rp: CoRR hypothesis
-m: genes in organelles
+r: genes in organelles

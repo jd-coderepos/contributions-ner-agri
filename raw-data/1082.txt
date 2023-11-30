@@ -1,5 +1,5 @@
 Novel insights into the inhibition of symbiotic nitrogen fixation by dark chilling in soybean root nodules
 
 rp: inhibition of symbiotic nitrogen fixation
-m: soybean root nodules
+r: soybean root nodules
 meth: dark chilling

@@ -2,6 +2,6 @@ Changes of xylem hydraulic efficiency and native embolism of Tamarix ramosissima
 
 rp: xylem hydraulic efficiency
 rp: native embolism
-m: Tamarix ramosissima Ledeb. seedlings
+r: Tamarix ramosissima Ledeb. seedlings
 p: drought stress conditions
 p: rewatering

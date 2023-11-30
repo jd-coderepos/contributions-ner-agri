@@ -1,5 +1,5 @@
-Acclimation of the maize transcriptome to CO2 enrichment 
+Acclimation of the maize transcriptome to CO2 enrichment
 
 rp: CO2 enrichment
-m: maize transcriptome
+r: maize transcriptome
 p: Acclimation

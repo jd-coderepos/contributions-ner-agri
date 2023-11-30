@@ -1,4 +1,4 @@
 Notes on the Lamiaceae: A new Tetradenia and a new Thorncroftia from South Africa
 
-m: Lamiaceae
+r: Lamiaceae
 loc: South Africa

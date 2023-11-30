@@ -1,4 +1,4 @@
 Isozyme diversity in Vigna vexillata (L.) A. Rich (Fabaceae) complex
 
 rp: Isozyme diversity
-m: Vigna vexillata (L.) A. Rich (Fabaceae) complex
+r: Vigna vexillata (L.) A. Rich (Fabaceae) complex

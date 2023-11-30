@@ -2,4 +2,4 @@ The effects of limiting phosphate on photosynthesis and growth of Lotus japonicu
 
 meth: limiting phosphate
 rp: photosynthesis and growth
-m: Lotus japonicus
+r: Lotus japonicus

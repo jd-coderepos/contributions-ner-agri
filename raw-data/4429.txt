@@ -2,4 +2,4 @@ Entomophily and seed predation of Witsenia maura (Iridaceae), a rare fynbos spec
 
 rp: Entomophily
 rp: seed predation
-m: Witsenia maura (Iridaceae), a rare fynbos species
+r: Witsenia maura (Iridaceae), a rare fynbos species

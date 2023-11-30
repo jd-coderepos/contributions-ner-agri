@@ -3,5 +3,5 @@ Assessment of photoperiod treatments on flowering and pollen production in a sug
 rp: photoperiod treatments
 p: pollen production
 p: flowering
-m: sugarcane breeding programme
+r: sugarcane breeding programme
 loc: South Africa

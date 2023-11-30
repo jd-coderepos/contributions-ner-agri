@@ -1,5 +1,5 @@
 Energy and water use of a small-scale raft aquaponics system in Baltimore, Maryland, United States
 
 loc: Baltimore, Maryland, United States
-m: small-scale raft aquaponics system
+r: small-scale raft aquaponics system
 rp: Energy and water use

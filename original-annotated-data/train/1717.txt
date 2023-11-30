@@ -2,4 +2,4 @@ Optimising different types of biodiversity coverage of protected areas with a ca
 
 rp: biodiversity coverage of protected areas
 meth: case study
-m: Himalayan Galliformes
+r: Himalayan Galliformes

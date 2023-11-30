@@ -1,6 +1,6 @@
 RNA Interference, Methods for Plants and Animals. Principles and Protocols Series
 
 rp: RNA Interference
-m: Plants
-m: Animals
+r: Plants
+r: Animals
 rp: Principles and Protocols Series

@@ -2,4 +2,4 @@ Rapid screening methods for estimation of mangiferin and xanthone contents of Cy
 
 meth: Rapid screening methods
 rp: estimation of mangiferin and xanthone contents
-m: Cyclopia subternata plant material
+r: Cyclopia subternata plant material

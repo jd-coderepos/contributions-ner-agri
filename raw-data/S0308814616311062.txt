@@ -2,5 +2,5 @@ Effect of polyglycerol esters additive on palm oil crystallization using focused
 
 meth: focused beam reflectance measurement
 meth: differential scanning calorimetry
-m: polyglycerol esters additive
+r: polyglycerol esters additive
 rp: palm oil crystallization

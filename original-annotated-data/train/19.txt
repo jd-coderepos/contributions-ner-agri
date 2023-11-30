@@ -1,5 +1,5 @@
 The elemental stoichiometry (C, Si, N, P) of the Hebrides Shelf and its role in carbon export
 
 rp: elemental stoichiometry (C, Si, N, P)
-m: Hebrides Shelf
+r: Hebrides Shelf
 p: carbon export

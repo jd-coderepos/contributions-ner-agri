@@ -4,4 +4,4 @@ rp: Ethnobotany
 rp: leaf anatomy
 rp: essential oil composition
 rp: antibacterial activity
-m: Pteronia onobromoides (Asteraceae)
+r: Pteronia onobromoides (Asteraceae)

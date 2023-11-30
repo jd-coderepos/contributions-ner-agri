@@ -1,4 +1,4 @@
 Effect of charcoal rot on selected putative drought tolerant soybean genotypes and yield
 
 rp: charcoal rot
-m: selected putative drought tolerant soybean genotypes and yield
+r: selected putative drought tolerant soybean genotypes and yield

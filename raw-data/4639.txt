@@ -3,5 +3,5 @@ Utilization of ground-based digital photography for the evaluation of seasonal c
 meth: ground-based digital photography
 rp: seasonal changes
 p: foliage phenology
-m: aboveground green biomass
-m: grassland ecosystem
+r: aboveground green biomass
+r: grassland ecosystem

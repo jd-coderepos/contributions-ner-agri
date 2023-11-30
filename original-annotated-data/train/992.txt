@@ -1,5 +1,5 @@
 Genes and genomic processes underpinning the social lives ants
 
-m: Genes
+r: Genes
 p: genomic processes
 rp: social lives ants

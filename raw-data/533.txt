@@ -1,5 +1,5 @@
 Comparative studies on the effects of different types of soil in the ecology of plants
 
-m: different types of soil
+r: different types of soil
 rp: ecology of plants
 meth: Comparative studies

@@ -1,6 +1,6 @@
 Investigation of the treatment of sand accumulations in the equine large colon with psyllium and magnesium sulphate
 
 rp: treatment of sand accumulations
-m: equine large colon
-m: magnesium sulphate
-m: psyllium
+r: equine large colon
+r: magnesium sulphate
+r: psyllium

@@ -1,5 +1,5 @@
 Seed biology of three species of Mesembryanthema in the southern succulent Karoo
 
 rp: Seed biology
-m: three species of Mesembryanthema
-m: southern succulent Karoo
+r: three species of Mesembryanthema
+r: southern succulent Karoo

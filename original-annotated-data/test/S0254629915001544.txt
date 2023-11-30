@@ -1,6 +1,6 @@
 Impact of collection practices on availability and conservation of six medicinal plants commonly used to treat diabetes in the eastern Free State Province, South Africa
 
 loc: eastern Free State Province, South Africa
-m: six medicinal plants
+r: six medicinal plants
 meth: collection practices
 rp: diabetes

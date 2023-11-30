@@ -2,4 +2,4 @@ Negative effects of potassium supplies and calcium signal inhibitors on oxalate 
 
 rp: Negative effects of potassium supplies and calcium signal inhibitors
 p: oxalate efflux
-m: ectomycorrhizal fungi
+r: ectomycorrhizal fungi

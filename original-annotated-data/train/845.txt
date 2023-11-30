@@ -2,5 +2,5 @@ Spatial distribution in the photosynthetic efficiency of Welwitschia in the cent
 
 p: Spatial distribution
 rp: photosynthetic efficiency
-m: Welwitschia
+r: Welwitschia
 loc: central Namib dessert

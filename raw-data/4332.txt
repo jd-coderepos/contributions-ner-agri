@@ -1,5 +1,5 @@
 Antimycobacterial activity in plants: Which is the best model organism to use?
 
 rp: Antimycobacterial activity
-m: plants
+r: plants
 meth: model organism

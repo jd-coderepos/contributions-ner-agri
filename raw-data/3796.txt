@@ -1,8 +1,8 @@
 Quantification and phenotypic characterisation of peripheral IFN-γ producing leucocytes in chickens vaccinated against Newcastle disease
 
 rp: Quantification and phenotypic characterisation
-m: peripheral IFN-γ
-m: leucocytes
-m: chickens
+r: peripheral IFN-γ
+r: leucocytes
+r: chickens
 p: vaccinated
 p: Newcastle disease

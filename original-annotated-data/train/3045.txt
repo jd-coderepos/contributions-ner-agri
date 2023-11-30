@@ -1,6 +1,6 @@
 Microculture effects on leaf epidermis and root structure in Sclerocarya birrea subsp. caffra
 
 rp: Microculture effects
-m: leaf epidermis
-m: Sclerocarya birrea subsp. caffra
-m: root structure
+r: leaf epidermis
+r: Sclerocarya birrea subsp. caffra
+r: root structure

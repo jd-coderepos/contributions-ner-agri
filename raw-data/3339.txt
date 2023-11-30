@@ -2,4 +2,4 @@ Alternatives to improve long-term cultures of Harpagophytum procumbens in vitro
 
 meth: in vitro
 rp: Alternatives to improve long-term cultures
-m: Harpagophytum procumbens
+r: Harpagophytum procumbens

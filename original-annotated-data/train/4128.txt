@@ -1,4 +1,4 @@
 Changes of phenylethanoid and iridoid glycoside distribution in various tissues of shoot cultures and regenerated plants of Harpagophytum procumbens (Burch.) DC. ex Meisn
 
 rp: Changes of phenylethanoid and iridoid glycoside distribution
-m: various tissues of shoot cultures and regenerated plants of Harpagophytum procumbens (Burch.) DC. ex Meisn
+r: various tissues of shoot cultures and regenerated plants of Harpagophytum procumbens (Burch.) DC. ex Meisn

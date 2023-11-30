@@ -2,4 +2,4 @@
 
 meth: animal and plant assays
 rp: cytogenotoxicity
-m: “Brazilian ginseng” (Pfaffia glomerata Spreng. Pedersen, Amaranthaceae) methanolic extract
+r: “Brazilian ginseng” (Pfaffia glomerata Spreng. Pedersen, Amaranthaceae) methanolic extract

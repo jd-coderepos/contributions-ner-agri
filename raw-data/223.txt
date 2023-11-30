@@ -3,4 +3,4 @@ Computational modelling of amino acid exchange and facilitated transport in plac
 meth: Computational modelling
 p: amino acid exchange
 p: facilitated transport
-m: placental membrane vesicles
+r: placental membrane vesicles

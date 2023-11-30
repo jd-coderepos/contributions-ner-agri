@@ -1,6 +1,6 @@
 The genetic relationship between Encephalartos natalensis and E. woodii determined using RAPD fingerprinting
 
 rp: genetic relationship
-m: Encephalartos natalensis
-m: E. woodii
+r: Encephalartos natalensis
+r: E. woodii
 meth: RAPD fingerprinting

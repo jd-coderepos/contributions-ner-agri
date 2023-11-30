@@ -1,6 +1,6 @@
 Smoke-water enhances in vitro pollen germination and tube elongation of three species of Amaryllidaceae
 
-m: three species of Amaryllidaceae
-m: Smoke-water
+r: three species of Amaryllidaceae
+r: Smoke-water
 rp: in vitro pollen germination
 rp: tube elongation

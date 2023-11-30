@@ -2,4 +2,4 @@ Influence of experimental protocol on response rate and repeatability of mechani
 
 meth: experimental protocol
 rp: response rate and repeatability of mechanical threshold testing
-m: dogs
+r: dogs

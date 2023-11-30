@@ -1,5 +1,5 @@
-The effect of fluctuating substrate salinity on the yield and flag leaf photosynthesis of wheat 
+The effect of fluctuating substrate salinity on the yield and flag leaf photosynthesis of wheat
 
-m: wheat
+r: wheat
 rp: fluctuating substrate salinity
 p: leaf photosynthesis

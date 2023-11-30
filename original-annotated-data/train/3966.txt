@@ -1,4 +1,4 @@
 High performance thin layer chromatography as a method to authenticate Hoodia gordonii raw material and products
 
 t: High performance thin layer chromatography
-m: Hoodia gordonii raw material and products
+r: Hoodia gordonii raw material and products

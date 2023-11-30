@@ -1,5 +1,5 @@
 Socio-economic importance of Cymbopogon validus in Mkambati Game Reserve, Transkei
 
 rp: Socio-economic importance
-m: Cymbopogon validus
+r: Cymbopogon validus
 loc: Mkambati Game Reserve, Transkei

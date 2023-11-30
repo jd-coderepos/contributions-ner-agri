@@ -2,4 +2,4 @@ Variation in chemical composition, antibacterial and antioxidant activity of fre
 
 rp: chemical composition
 rp: antibacterial and antioxidant activity
-m: fresh and dried Acacia leaf extracts
+r: fresh and dried Acacia leaf extracts

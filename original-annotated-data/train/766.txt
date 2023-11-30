@@ -1,4 +1,4 @@
 Difficulties in developing successful cryopreservation protocols for shoot tips and nodal bud explants of the tropical species Dioscorea rotundata (yam)
 
 rp: cryopreservation protocols
-m: shoot tips and nodal bud explants of the tropical species Dioscorea rotundata (yam)
+r: shoot tips and nodal bud explants of the tropical species Dioscorea rotundata (yam)

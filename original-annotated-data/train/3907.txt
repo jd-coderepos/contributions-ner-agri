@@ -1,5 +1,5 @@
 Out of Hawaii: A remote archipelago as a source area
 
 loc: Hawaii
-m: remote archipelago
+r: remote archipelago
 rp: source area

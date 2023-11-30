@@ -1,4 +1,4 @@
 Micropropagation of Cussonia paniculata — a medicinal plant with horticultural potential
 
 rp: Micropropagation
-m: Cussonia paniculata — a medicinal plant with horticultural potential
+r: Cussonia paniculata — a medicinal plant with horticultural potential

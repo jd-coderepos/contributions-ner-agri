@@ -2,4 +2,4 @@ Effect of irradiance on photosynthesis in a filamentous red alga (Ceramiaceae, R
 
 p: irradiance
 rp: photosynthesis
-m: filamentous red alga (Ceramiaceae, Rhodophyta)
+r: filamentous red alga (Ceramiaceae, Rhodophyta)

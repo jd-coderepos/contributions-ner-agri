@@ -1,4 +1,4 @@
 Extinction risk in eastern African flora
 
 rp: Extinction risk
-m: eastern African flora
+r: eastern African flora

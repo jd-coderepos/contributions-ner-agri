@@ -1,7 +1,7 @@
 Maintenance of Trypanosoma cruzi, T. evansi and Leishmania spp. by domestic dogs and wild mammals in a rural settlement in Brazil-Bolivian border
 
-m: Trypanosoma cruzi, T. evansi
-m: Leishmania spp.
-m: domestic dogs
-m: wild mammals
+r: Trypanosoma cruzi, T. evansi
+r: Leishmania spp.
+r: domestic dogs
+r: wild mammals
 loc: rural settlement in Brazil-Bolivian border

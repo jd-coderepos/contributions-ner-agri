@@ -1,5 +1,5 @@
 Antileishmanial activity of 12-methoxycarnosic acid from Salvia repens Burch. ex Benth. (Lamiaceae)
 
 rp: Antileishmanial activity
-m: 12-methoxycarnosic acid
-m: Salvia repens Burch. ex Benth. (Lamiaceae)
+r: 12-methoxycarnosic acid
+r: Salvia repens Burch. ex Benth. (Lamiaceae)

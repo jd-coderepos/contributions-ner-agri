@@ -2,5 +2,5 @@ Litter production and decomposition from shrubs of Protea repens growing in sand
 
 rp: Litter production
 rp: decomposition
-m: shrubs of Protea repens
+r: shrubs of Protea repens
 loc: sand plain lowland and mountain fynbos, south-western Cape

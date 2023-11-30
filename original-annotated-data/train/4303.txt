@@ -1,4 +1,4 @@
 Status and distribution of mangroves in Mozambique
 
-m: mangroves
+r: mangroves
 loc: Mozambique

@@ -1,5 +1,5 @@
 Carbon sequestration following a biome switch from mesic savanna to forest
 
 rp: Carbon sequestration
-m: biome switch
+r: biome switch
 loc: mesic savanna

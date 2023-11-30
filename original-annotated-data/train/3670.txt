@@ -1,6 +1,6 @@
 The oomycete Pythium oligandrum expresses putative effectors during mycoparasitism of Phytophthora infestans and is amenable to transformation
 
-m: oomycete Pythium oligandrum
+r: oomycete Pythium oligandrum
 p: putative effectors
 p: mycoparasitism
-m: Phytophthora infestans
+r: Phytophthora infestans

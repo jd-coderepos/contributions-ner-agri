@@ -1,5 +1,5 @@
 Development of a GFP-expressing Ustilaginoidea virens strain to study fungal invasion and colonization in rice spikelets
 
-m: rice spikelets
+r: rice spikelets
 rp: fungal invasion and colonization
-m: GFP-expressing Ustilaginoidea virens strain
+r: GFP-expressing Ustilaginoidea virens strain

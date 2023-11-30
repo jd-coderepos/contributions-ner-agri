@@ -1,5 +1,5 @@
 Pollination by flower chafer beetles in Eulophia ensata and Eulophia welwitschii (Orchidaceae)
 
 rp: Pollination
-m: flower chafer beetles
-m: Eulophia ensata and Eulophia welwitschii (Orchidaceae)
+r: flower chafer beetles
+r: Eulophia ensata and Eulophia welwitschii (Orchidaceae)

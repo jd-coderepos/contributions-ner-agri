@@ -1,4 +1,4 @@
 Impact of irradiance on the epidermis of Impatiens flanaganae Hemsl
 
 p: irradiance
-m: epidermis of Impatiens flanaganae Hemsl
+r: epidermis of Impatiens flanaganae Hemsl

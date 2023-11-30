@@ -1,8 +1,8 @@
 When molecules support morphology: Phylogenetic reconstruction of the family Onuphidae (Eunicida, Annelida) based on 16S rDNA and 18S rDNA
 
-m: molecules
+r: molecules
 p: morphology
 rp: Phylogenetic reconstruction
-m: family Onuphidae (Eunicida, Annelida)
-m: 16S rDNA
-m: 18S rDNA
+r: family Onuphidae (Eunicida, Annelida)
+r: 16S rDNA
+r: 18S rDNA

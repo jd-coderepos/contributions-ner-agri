@@ -1,5 +1,5 @@
 1,2,3,4,6-penta-O-galloyl-β-d-glucose: A cholinesterase inhibitor from Terminalia chebula
 
-m: 1,2,3,4,6-penta-O-galloyl-β-d-glucose
-m: Terminalia chebula
+r: 1,2,3,4,6-penta-O-galloyl-β-d-glucose
+r: Terminalia chebula
 rp: cholinesterase inhibitor

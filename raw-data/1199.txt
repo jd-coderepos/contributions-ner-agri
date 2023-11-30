@@ -1,4 +1,4 @@
 Identification of miRNAs differentially expressed in Fusarium wilt-resistant and susceptible banana varieties
 
 rp: miRNAs differentially expressed
-m: Fusarium wilt-resistant and susceptible banana varieties
+r: Fusarium wilt-resistant and susceptible banana varieties

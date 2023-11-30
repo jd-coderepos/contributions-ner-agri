@@ -1,5 +1,5 @@
 Prostaglandin inhibitory activity by lectin-like proteins from South African medicinal plants
 
 p: Prostaglandin inhibitory activity
-m: lectin-like proteins
-m: South African medicinal plants
+r: lectin-like proteins
+r: South African medicinal plants

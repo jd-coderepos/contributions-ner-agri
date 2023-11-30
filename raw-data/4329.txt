@@ -1,5 +1,5 @@
 The response of previously disturbed Burkea africana Hook. F. plants following multiple injury in the Nylsvley Nature Reserve, Limpopo Province, South Africa
 
-m: previously disturbed Burkea africana Hook. F. plants
+r: previously disturbed Burkea africana Hook. F. plants
 p: multiple injury
 loc: Nylsvley Nature Reserve, Limpopo Province, South Africa

@@ -1,4 +1,4 @@
 A comparison of the pharmacological properties of garden cultivated and muthi market-sold Bowiea volubilis
 
 rp: pharmacological properties
-m: garden cultivated and muthi market-sold Bowiea volubilis
+r: garden cultivated and muthi market-sold Bowiea volubilis

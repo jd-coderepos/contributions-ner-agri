@@ -1,5 +1,5 @@
 Phylogenetic relationships within Pappophoreae s.l. (Poaceae: Chloridoideae): Additional evidence based on ITS and trnL-F sequence data
 
 rp: Phylogenetic relationships
-m: Pappophoreae s.l. (Poaceae: Chloridoideae)
-m: ITS and trnL-F sequence data
+r: Pappophoreae s.l. (Poaceae: Chloridoideae)
+r: ITS and trnL-F sequence data

@@ -1,5 +1,5 @@
 Endectocide-treated cattle for malaria control: A coupled entomological-epidemiological model
 
-m: Endectocide-treated cattle
+r: Endectocide-treated cattle
 rp: malaria control
 s: coupled entomological-epidemiological model

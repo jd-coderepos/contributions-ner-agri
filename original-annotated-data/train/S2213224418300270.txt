@@ -1,4 +1,4 @@
-Wild pigs as sentinels for hard ticks: A case study from south-central Florida 
+Wild pigs as sentinels for hard ticks: A case study from south-central Florida
 
 loc: south-central Florida
-m: Wild pigs
+r: Wild pigs

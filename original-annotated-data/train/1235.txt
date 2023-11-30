@@ -1,6 +1,6 @@
 Morphology of the anther, microsporogenesis and pollen structure of Momordica balsamina
 
 p: Morphology
-m: anther
+r: anther
 p: microsporogenesis
-m: pollen structure of Momordica balsamina
+r: pollen structure of Momordica balsamina

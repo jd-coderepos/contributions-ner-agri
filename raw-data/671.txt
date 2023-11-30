@@ -1,5 +1,5 @@
 Crystal Structure Analysis of Extrinsic PsbP Protein of Photosystem II Reveals a Manganese-Induced Conformational Change
 
 meth: Crystal Structure Analysis
-m: Extrinsic PsbP Protein of Photosystem II
+r: Extrinsic PsbP Protein of Photosystem II
 rp: Manganese-Induced Conformational Change

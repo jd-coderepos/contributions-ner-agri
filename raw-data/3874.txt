@@ -1,6 +1,6 @@
 Relationship between bark thickness and diameter at breast height for six tree species used medicinally in South Africa
 
 rp: Relationship between bark thickness and diameter
-m: breast height
-m: six tree species
+r: breast height
+r: six tree species
 loc: South Africa

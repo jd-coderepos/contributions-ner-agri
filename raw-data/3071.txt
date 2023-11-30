@@ -1,5 +1,5 @@
 Investigation on the genotoxicity of extracts from Cleome amblyocarpa Barr. and Murb, an important Tunisian medicinal plant
 
 rp: genotoxicity of extracts
-m: Cleome amblyocarpa Barr. and Murb
-m: Tunisian medicinal plant
+r: Cleome amblyocarpa Barr. and Murb
+r: Tunisian medicinal plant

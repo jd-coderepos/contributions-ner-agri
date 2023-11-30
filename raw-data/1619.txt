@@ -2,5 +2,5 @@ Optimization model for on-farm irrigation management of Mediterranean greenhouse
 
 meth: Optimization model
 rp: on-farm irrigation management
-m: Mediterranean greenhouse crops
-m: desalinated and saline water from different sources
+r: Mediterranean greenhouse crops
+r: desalinated and saline water from different sources

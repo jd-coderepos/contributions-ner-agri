@@ -2,5 +2,5 @@ Using the mouse grimace scale and behaviour to assess pain in CBA mice following
 
 p: mouse grimace scale and behaviour
 rp: assess pain
-m: CBA mice
+r: CBA mice
 meth: vasectomy

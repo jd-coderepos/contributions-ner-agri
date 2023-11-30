@@ -1,4 +1,4 @@
-Protein body formation in the starchy endosperm of developing Sorghum bicolor (L.) Moench seeds 
+Protein body formation in the starchy endosperm of developing Sorghum bicolor (L.) Moench seeds
 
-m: starchy endosperm of developing Sorghum bicolor (L.) Moench seeds
+r: starchy endosperm of developing Sorghum bicolor (L.) Moench seeds
 rp: Protein body formation

@@ -2,5 +2,5 @@ Testing the boundaries: Seasonal residency and inter-annual site fidelity of bas
 
 rp: Seasonal residency
 rp: inter-annual site fidelity
-m: basking sharks
+r: basking sharks
 loc: Marine Protected Area

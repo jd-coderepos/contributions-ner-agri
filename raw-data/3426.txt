@@ -1,4 +1,4 @@
 Impact of flower and cone harvesting on seed banks and seed set of serotinous Agulhas Proteaceae
 
 rp: flower and cone harvesting
-m: seed banks and seed set of serotinous Agulhas Proteaceae
+r: seed banks and seed set of serotinous Agulhas Proteaceae

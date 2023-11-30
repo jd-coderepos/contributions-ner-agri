@@ -1,4 +1,4 @@
 Detection of Streptococcus equi subspecies equi using a triplex qPCR assay
 
-m: Streptococcus equi subspecies equi
+r: Streptococcus equi subspecies equi
 meth: triplex qPCR assay

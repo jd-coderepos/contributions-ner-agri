@@ -1,4 +1,4 @@
 A reappraisal of Acocks’ Bankenveld: origin and diversity of vegetation types
 
-m: vegetation types
+r: vegetation types
 rp: Acocks’ Bankenveld

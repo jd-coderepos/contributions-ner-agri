@@ -1,6 +1,6 @@
 Russian wheat aphid biotype RWASA2 causes more vascular disruption than RWASA1 on resistant barley lines
 
 rp: vascular disruption
-m: Russian wheat aphid biotype RWASA2
-m: RWASA1
-m: resistant barley lines
+r: Russian wheat aphid biotype RWASA2
+r: RWASA1
+r: resistant barley lines

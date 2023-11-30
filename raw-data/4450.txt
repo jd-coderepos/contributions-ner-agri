@@ -1,4 +1,4 @@
 Studies on Citrus pollination using gamma-irradiated pollen
 
 rp: Citrus pollination
-m: gamma-irradiated pollen
+r: gamma-irradiated pollen

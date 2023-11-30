@@ -1,5 +1,5 @@
 A re-assessment of the genera Tridentea Haw. and Tromotriche Haw.
 
 meth: re-assessment
-m: genera Tridentea Haw.
-m: Tromotriche Haw.
+r: genera Tridentea Haw.
+r: Tromotriche Haw.

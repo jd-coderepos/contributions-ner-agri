@@ -1,6 +1,6 @@
 Pycnia and aecia of Uromyces hypoëstis (Uredinales) described from South Africa
 
-m: Pycnia
-m: aecia
-m: Uromyces hypoëstis (Uredinales)
+r: Pycnia
+r: aecia
+r: Uromyces hypoëstis (Uredinales)
 loc: South Africa

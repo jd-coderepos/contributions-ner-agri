@@ -1,5 +1,5 @@
 Effect of conspecific adult plants on the spatial patterns of the soil seed bank of Calligonum rubicundum
 
-m: conspecific adult plants
+r: conspecific adult plants
 rp: spatial patterns of the soil seed bank
-m: Calligonum rubicundum
+r: Calligonum rubicundum

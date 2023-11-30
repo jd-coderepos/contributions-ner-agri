@@ -1,7 +1,7 @@
 Failure of sucrose replacement with the non-nutritive sweetener erythritol to alter GLP-1 or PYY release or test meal size in lean or obese people
 
 rp: Failure of sucrose replacement
-m: non-nutritive sweetener erythritol
-m: lean or obese people
+r: non-nutritive sweetener erythritol
+r: lean or obese people
 p: GLP-1 or PYY release
 rp: meal size

@@ -1,4 +1,4 @@
 Compounds from Mentha aquatica with affinity to the GABA-benzodiazepine receptor
 
-m: Compounds from Mentha aquatica
-m: GABA-benzodiazepine receptor
+r: Compounds from Mentha aquatica
+r: GABA-benzodiazepine receptor

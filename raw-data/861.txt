@@ -1,5 +1,5 @@
 Thidiazuron induced shoot regeneration of Costus speciosus (Koen.) Sm using thin rhizome sections
 
 rp: Thidiazuron induced shoot regeneration
-m: Costus speciosus (Koen.) Sm
-m: thin rhizome sections
+r: Costus speciosus (Koen.) Sm
+r: thin rhizome sections

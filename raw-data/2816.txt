@@ -1,5 +1,5 @@
 Aggregate size distribution in a biochar-amended tropical Ultisol under conventional hand-hoe tillage
 
 rp: Aggregate size distribution
-m: biochar-amended tropical Ultisol
+r: biochar-amended tropical Ultisol
 meth: conventional hand-hoe tillage

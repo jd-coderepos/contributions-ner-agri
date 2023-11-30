@@ -1,4 +1,4 @@
 Succession and toxicity of Microcystis and Anabaena (Dolichospermum) blooms are controlled by nutrient-dependent allelopathic interactions
 
-m: Microcystis and Anabaena (Dolichospermum) blooms
+r: Microcystis and Anabaena (Dolichospermum) blooms
 meth: nutrient-dependent allelopathic interactions

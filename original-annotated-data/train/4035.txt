@@ -1,4 +1,4 @@
 Unusual carpological characters in Marlothiella gummifera (Apiaceae)
 
 rp: carpological characters
-m: Marlothiella gummifera (Apiaceae)
+r: Marlothiella gummifera (Apiaceae)

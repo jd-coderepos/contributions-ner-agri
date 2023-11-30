@@ -1,4 +1,4 @@
 Outdoor environments in healthcare settings: A quality evaluation tool for use in designing healthcare gardens
 
-m: Outdoor environments
+r: Outdoor environments
 rp: designing healthcare gardens

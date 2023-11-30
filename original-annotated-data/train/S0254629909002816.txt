@@ -2,4 +2,4 @@ Ca2+ significantly enhanced development and salt-secretion rate of salt glands o
 
 meth: NaCl treatment
 p: Ca2+ significantly enhanced development and salt-secretion rate
-m: salt glands of Limonium bicolor
+r: salt glands of Limonium bicolor

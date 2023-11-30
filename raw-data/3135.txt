@@ -2,4 +2,4 @@ A taxonomic revision of the Cotula coronopifolia group (Asteraceae) and implicat
 
 rp: taxonomic revision
 rp: conservation statuses of the species
-m: Cotula coronopifolia group (Asteraceae)
+r: Cotula coronopifolia group (Asteraceae)

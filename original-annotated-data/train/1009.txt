@@ -2,4 +2,4 @@ Evolution of pathogens towards low R0 in heterogeneous populations
 
 rp: Evolution of pathogens
 p: low R0
-m: heterogeneous populations
+r: heterogeneous populations

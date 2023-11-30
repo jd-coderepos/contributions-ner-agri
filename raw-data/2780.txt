@@ -2,4 +2,4 @@ Time-to-response toxicity analysis as a method for drug susceptibility assessmen
 
 meth: Time-to-response toxicity analysis
 rp: drug susceptibility assessment
-m: salmon lice
+r: salmon lice

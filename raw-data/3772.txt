@@ -2,6 +2,6 @@ Archaeogenomic insights into the adaptation of plants to the human environment: 
 
 meth: Archaeogenomic insights
 rp: adaptation of plants
-m: human environment
+r: human environment
 p: plant–hominin co-evolution
-m: Pliocene
+r: Pliocene

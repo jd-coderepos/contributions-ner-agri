@@ -1,4 +1,4 @@
 Inorganic arsenic in rice-based products for infants and young children
 
-m: Inorganic arsenic
+r: Inorganic arsenic
 rp: rice-based products for infants and young children

@@ -2,4 +2,4 @@ Seed structure and germination of Dichrostachys cinerea
 
 rp: Seed structure
 rp: germination
-m: Dichrostachys cinerea
+r: Dichrostachys cinerea

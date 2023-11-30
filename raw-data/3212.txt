@@ -1,7 +1,7 @@
 Isoalantolactone, a sesquiterpene lactone from Artemisia afra Jacq. ex Willd and its in vitro mechanism of induced cell death in HeLa cells
 
 rp: Isoalantolactone, a sesquiterpene lactone
-m: Artemisia afra Jacq. ex Willd
-m: HeLa cells
+r: Artemisia afra Jacq. ex Willd
+r: HeLa cells
 p: induced cell death
 meth: in vitro mechanism

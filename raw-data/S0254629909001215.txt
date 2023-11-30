@@ -1,4 +1,4 @@
 Radiation-induced genome alterations in Vigna unguiculata
 
-m: Vigna unguiculata
+r: Vigna unguiculata
 s: Radiation-induced genome alterations

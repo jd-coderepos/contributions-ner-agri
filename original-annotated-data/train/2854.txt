@@ -1,4 +1,4 @@
 The endemic and near-endemic angiosperms of the Drakensberg Alpine Centre
 
-m: endemic and near-endemic angiosperms
+r: endemic and near-endemic angiosperms
 loc: Drakensberg Alpine Centre

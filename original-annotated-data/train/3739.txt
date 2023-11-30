@@ -1,4 +1,4 @@
 Distribution and evolution of aril-bearing trees in southern Africa
 
-m: aril-bearing trees
+r: aril-bearing trees
 loc: southern Africa

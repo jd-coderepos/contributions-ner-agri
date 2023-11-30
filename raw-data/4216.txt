@@ -1,6 +1,6 @@
 The distribution of algae epiphytic on pneumatophores of the mangrove, Avicennia marina, at different salinities in the Kosi System
 
 rp: distribution of algae epiphytic
-m: pneumatophores of the mangrove, Avicennia marina
+r: pneumatophores of the mangrove, Avicennia marina
 p: different salinities
 meth: Kosi System

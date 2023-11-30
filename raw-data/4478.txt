@@ -2,4 +2,4 @@ Seed dispersal and seedling recruitment in Protea laurifolia
 
 rp: Seed dispersal
 rp: seedling recruitment
-m: Protea laurifolia
+r: Protea laurifolia

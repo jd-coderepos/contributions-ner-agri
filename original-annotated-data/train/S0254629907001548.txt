@@ -1,4 +1,4 @@
-Seasonality of precipitation and species distribution in a widespread North American ecosystem: Insights from ecophysiological studies 
+Seasonality of precipitation and species distribution in a widespread North American ecosyster: Insights from ecophysiological studies
 
 loc: widespread North American ecosystem
 rp: Seasonality of precipitation and species distribution

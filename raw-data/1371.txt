@@ -1,6 +1,6 @@
 Dark chilling lowers the content and catabolism of ureides in soybean leaves: Long-term effects on nitrogen status and vegetative growth
 
 meth: Dark chilling
-m: soybean leaves
+r: soybean leaves
 p: vegetative growth
 p: nitrogen status

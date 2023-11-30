@@ -1,4 +1,4 @@
 Potent poisonous compounds from Elaeodendron croceum
 
 rp: Potent poisonous compounds
-m: Elaeodendron croceum
+r: Elaeodendron croceum

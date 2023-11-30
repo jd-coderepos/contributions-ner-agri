@@ -3,4 +3,4 @@ Comparison of response surface methodology (RSM) and artificial neural networks 
 meth: response surface methodology (RSM)
 meth: artificial neural networks (ANN)
 rp: efficient extraction of artemisinin
-m: Artemisia annua
+r: Artemisia annua

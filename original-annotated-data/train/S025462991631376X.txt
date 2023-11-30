@@ -1,4 +1,4 @@
 A new species of Bulbine (Asphodelaceae) with myxospermatic seeds
 
-m: myxospermatic seeds
+r: myxospermatic seeds
 f: A new species of Bulbine (Asphodelaceae) with myxospermatic seeds

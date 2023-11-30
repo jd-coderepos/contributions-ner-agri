@@ -1,6 +1,6 @@
 Autecological studies on Audouinia capitata (Bruniaceae). 5. Seed development, abortion and pre-emergent reproductive success
 
 meth: Autecological studies
-m: Audouinia capitata (Bruniaceae)
+r: Audouinia capitata (Bruniaceae)
 rp: Seed development, abortion
 rp: pre-emergent reproductive success

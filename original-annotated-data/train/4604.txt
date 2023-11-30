@@ -2,5 +2,5 @@ Improving predictive mapping of deep-water habitats: Considering multiple model 
 
 meth: predictive mapping
 rp: deep-water habitats
-m: multiple model outputs
+r: multiple model outputs
 meth: ensemble techniques

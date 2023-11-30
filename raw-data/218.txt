@@ -1,6 +1,6 @@
 Vegetation zonation on a Natal coastal sand-dune system in relation to salt spray and soil salinity
 
 rp: Vegetation zonation
-m: Natal coastal sand-dune system
+r: Natal coastal sand-dune system
 p: salt spray
 p: soil salinity

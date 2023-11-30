@@ -1,5 +1,5 @@
 Antiviral efficacy of Limonium densiflorum against HSV-1 and influenza viruses
 
 rp: Antiviral efficacy
-m: Limonium densiflorum
+r: Limonium densiflorum
 p: HSV-1 and influenza viruses

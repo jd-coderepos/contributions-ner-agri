@@ -3,4 +3,4 @@ Influence of solvent selection and extraction temperature on yield and compositi
 p: solvent selection
 p: extraction temperature
 rp: yield and composition of lipids
-m: spent coffee grounds
+r: spent coffee grounds

@@ -1,5 +1,5 @@
-Ecological connectivity across ocean depths: Implications for protected area design 
+Ecological connectivity across ocean depths: Implications for protected area design
 
 rp: Ecological connectivity
-m: ocean depths
+r: ocean depths
 s: protected area design

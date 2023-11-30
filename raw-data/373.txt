@@ -1,7 +1,7 @@
 Essential oils of Schinus terebinthifolius and S. molle (Anacardiaceae): Mitodepressive and aneugenic inducers in onion and lettuce root meristems
 
 rp: Essential oils
-m: Schinus terebinthifolius
-m: S. molle (Anacardiaceae)
-m: onion and lettuce root meristems
+r: Schinus terebinthifolius
+r: S. molle (Anacardiaceae)
+r: onion and lettuce root meristems
 p: Mitodepressive and aneugenic inducers

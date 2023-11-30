@@ -1,6 +1,6 @@
 Volatile constituents of fruit pulp of Strychnos cocculoides (Baker) growing in Malawi using solid phase microextraction
 
 rp: Volatile constituents
-m: fruit pulp of Strychnos cocculoides (Baker)
+r: fruit pulp of Strychnos cocculoides (Baker)
 loc: Malawi
 meth: solid phase microextraction

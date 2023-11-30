@@ -2,5 +2,5 @@ Partial dissolution of carbonate rock grains during reactive CO2-saturated brine
 
 rp: Partial dissolution
 meth: reactive CO2-saturated brine injection
-m: carbonate rock grains
+r: carbonate rock grains
 p: reservoir conditions

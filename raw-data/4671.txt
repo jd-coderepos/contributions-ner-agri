@@ -1,7 +1,7 @@
 By land, air, and sea: hemipteran diversity through the genomic lens
 
-m: land
-m: air
-m: sea
+r: land
+r: air
+r: sea
 rp: hemipteran diversity
-m: genomic lens
+r: genomic lens

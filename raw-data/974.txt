@@ -3,4 +3,4 @@ Energy consumption and water-soluble protein release by cell wall disruption of 
 rp: Energy consumption
 rp: water-soluble protein release
 meth: cell wall disruption
-m: Nannochloropsis gaditana
+r: Nannochloropsis gaditana

@@ -1,4 +1,4 @@
 Isolation and identification of acetovanillone from an extract of Boophone disticha (L.f.) herb (Amaryllidaceae)
 
 rp: Isolation and identification of acetovanillone
-m: extract of Boophone disticha (L.f.) herb (Amaryllidaceae)
+r: extract of Boophone disticha (L.f.) herb (Amaryllidaceae)

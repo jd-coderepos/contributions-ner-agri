@@ -1,5 +1,5 @@
 Chemical composition of indigenous watermelon (Citrullus lanatus (Thunb) Matsum. and Nakai) landrace seeds from the Sekhukhune and Capricorn districts in the Limpopo Province
 
 loc: Sekhukhune and Capricorn districts in the Limpopo Province
-m: indigenous watermelon (Citrullus lanatus (Thunb) Matsum. and Nakai) landrace seeds
+r: indigenous watermelon (Citrullus lanatus (Thunb) Matsum. and Nakai) landrace seeds
 rp: Chemical composition

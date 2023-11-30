@@ -1,6 +1,6 @@
 Transformation of tef (Eragrostis tef) by Agrobacterium through immature embryo regeneration system for inducing semi-dwarfism
 
 rp: Transformation of tef (Eragrostis tef)
-m: Agrobacterium
+r: Agrobacterium
 t: immature embryo regeneration system
 p: inducing semi-dwarfism

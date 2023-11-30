@@ -1,6 +1,6 @@
 Genes controlling vaccine responses and disease resistance to respiratory viral pathogens in cattle
 
-m: Genes
-m: respiratory viral pathogens in cattle
+r: Genes
+r: respiratory viral pathogens in cattle
 rp: vaccine responses
 rp: disease resistance

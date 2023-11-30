@@ -1,5 +1,5 @@
 Optimal gut size of small birds and its dependence on environmental and physiological parameters
 
 rp: Optimal gut size
-m: small birds
+r: small birds
 p: environmental and physiological parameters

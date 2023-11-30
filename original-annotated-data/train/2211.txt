@@ -2,4 +2,4 @@ Major production areas of rooibos (Aspalathus linearis) deliver herbal tea of si
 
 rp: Major production areas of rooibos (Aspalathus linearis)
 p: deliver herbal tea
-m: similar phenolic and phenylpropenoic acid glucoside content
+r: similar phenolic and phenylpropenoic acid glucoside content

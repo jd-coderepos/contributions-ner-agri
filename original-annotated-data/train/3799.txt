@@ -2,5 +2,5 @@ Fishery-induced changes to age and length dependent maturation schedules of thre
 
 p: Fishery-induced changes
 rp: age and length dependent maturation schedules
-m: three demersal fish species
+r: three demersal fish species
 loc: Firth of Clyde

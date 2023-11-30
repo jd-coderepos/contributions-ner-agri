@@ -1,4 +1,4 @@
-The vegetation of the farms Jurisdam and Zeekoegat of the Mountain Zebra National Park, Eastern Cape 
+The vegetation of the farms Jurisdam and Zeekoegat of the Mountain Zebra National Park, Eastern Cape
 
 loc: farms Jurisdam and Zeekoegat of the Mountain Zebra National Park, Eastern Cape
-m: vegetation
+r: vegetation

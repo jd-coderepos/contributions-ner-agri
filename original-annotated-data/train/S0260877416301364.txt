@@ -1,4 +1,4 @@
 Processing of barley grains in a continuous vibrating conveyor
 
 t: continuous vibrating conveyor
-m: barley grains
+r: barley grains

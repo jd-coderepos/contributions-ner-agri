@@ -1,7 +1,7 @@
-DMPP is ineffective at mitigating N2O emissions from sheep urine patches in a UK grassland under summer conditions 
+DMPP is ineffective at mitigating N2O emissions from sheep urine patches in a UK grassland under summer conditions
 
 loc: UK grassland
 f: DMPP is ineffective at mitigating N2O emissions from sheep urine patches in a UK grassland under summer conditions
-m: DMPP
+r: DMPP
 rp: mitigating N2O emissions
-m: sheep urine patches
+r: sheep urine patches

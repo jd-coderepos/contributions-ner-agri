@@ -2,6 +2,6 @@ The seaweeds of Kenya: Checklist, history of seaweed study, coastal environment,
 
 loc: seaweeds of Kenya
 meth: Checklist
-m: history of seaweed study
+r: history of seaweed study
 p: coastal environment
 rp: seaweed diversity and biogeography

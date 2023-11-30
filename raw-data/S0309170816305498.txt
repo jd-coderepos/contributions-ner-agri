@@ -2,4 +2,4 @@ The impact of capillary backpressure on spontaneous counter-current imbibition i
 
 meth: capillary backpressure
 rp: counter-current imbibition
-m: porous media
+r: porous media

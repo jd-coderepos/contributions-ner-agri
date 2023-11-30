@@ -2,5 +2,5 @@ Understanding the spatial and temporal patterns of photosynthetic efficiency of 
 
 p: spatial and temporal patterns
 rp: photosynthetic efficiency
-m: Welwitschia mirabilis
+r: Welwitschia mirabilis
 loc: central Namib Desert

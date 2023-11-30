@@ -1,5 +1,5 @@
 Extreme desiccation- and heat-tolerance of desert seeds: A study on Welwitschia mirabilis
 
 rp: Extreme desiccation- and heat-tolerance
-m: desert seeds
-m: Welwitschia mirabilis
+r: desert seeds
+r: Welwitschia mirabilis

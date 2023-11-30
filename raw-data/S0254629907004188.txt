@@ -1,6 +1,6 @@
 Effects of chitin and salicylic acid on biological control activity of Pseudomonas spp. against damping off of pepper
 
-m: Pseudomonas spp.
+r: Pseudomonas spp.
 rp: biological control activity
-m: chitin and salicylic acid
+r: chitin and salicylic acid
 p: damping off of pepper

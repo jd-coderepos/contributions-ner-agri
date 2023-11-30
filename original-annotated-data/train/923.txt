@@ -1,5 +1,5 @@
 The marine benthic flora of the Cape Hangklip area and its phytogeographical affinities
 
-m: marine benthic flora
+r: marine benthic flora
 loc: Cape Hangklip area
 p: phytogeographical affinities

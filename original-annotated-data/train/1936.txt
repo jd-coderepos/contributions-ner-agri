@@ -1,4 +1,4 @@
 Approaches to improve seed production of Jatropha curcas L.
 
 rp: seed production
-m: Jatropha curcas L.
+r: Jatropha curcas L.

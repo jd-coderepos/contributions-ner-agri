@@ -2,5 +2,5 @@ A re-evaluation of plastochron index determination in peas — a case for using 
 
 meth: re-evaluation
 rp: plastochron index determination
-m: peas
-m: leaflet length
+r: peas
+r: leaflet length

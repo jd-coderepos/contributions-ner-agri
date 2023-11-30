@@ -1,6 +1,6 @@
 Influence of fire on litter production and root and litter turnover in a semi-arid grassland of South Africa
 
-m: fire
+r: fire
 rp: litter production
 rp: root and litter turnover
 loc: semi-arid grassland of South Africa

@@ -2,4 +2,4 @@ Efficacy of two vaccine formulations against contagious bovine pleuropneumonia (
 
 rp: vaccine formulations
 p: contagious bovine pleuropneumonia (CBPP)
-m: Kenyan indigenous cattle
+r: Kenyan indigenous cattle

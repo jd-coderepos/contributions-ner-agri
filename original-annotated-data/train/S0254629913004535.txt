@@ -1,5 +1,5 @@
-Influence of seasonal variation in water quality on the microalgal diversity of sewage wastewater 
+Influence of seasonal variation in water quality on the microalgal diversity of sewage wastewater
 
 rp: microalgal diversity
-m: sewage wastewater
+r: sewage wastewater
 p: seasonal variation in water quality

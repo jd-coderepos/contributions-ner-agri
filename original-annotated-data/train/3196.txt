@@ -1,5 +1,5 @@
 Where do you draw the line? Determining the transition thresholds between estuarine salt marshes and terrestrial vegetation
 
 rp: transition thresholds
-m: estuarine salt marshes
-m: terrestrial vegetation
+r: estuarine salt marshes
+r: terrestrial vegetation

@@ -1,5 +1,5 @@
 Heavy metal contamination in South African herbal medicines: Safety issues and quality control
 
 rp: Heavy metal contamination
-m: South African herbal medicines
+r: South African herbal medicines
 p: Safety issues and quality control

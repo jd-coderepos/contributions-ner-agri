@@ -2,5 +2,5 @@ Can survival analyses detect hunting pressure in a highly connected species? Les
 
 meth: survival analyses
 rp: hunting pressure
-m: highly connected species
-m: straw-coloured fruit bats
+r: highly connected species
+r: straw-coloured fruit bats

@@ -2,5 +2,5 @@ Intensive land-use and high native fruit availability reduce fruit removal of th
 
 p: land-use and high native fruit availability
 rp: fruit removal
-m: invasive Solanum mauritianum
+r: invasive Solanum mauritianum
 loc: South Africa

@@ -1,5 +1,5 @@
 Variability of single bean coffee volatile compounds of Arabica and robusta roasted coffees analysed by SPME-GC-MS
 
 rp: Variability of single bean coffee volatile compounds
-m: Arabica and robusta roasted coffees
+r: Arabica and robusta roasted coffees
 t: SPME-GC-MS

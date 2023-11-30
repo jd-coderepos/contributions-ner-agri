@@ -2,5 +2,5 @@ Varietal improvement options for higher rice productivity in salt affected areas
 
 s: Varietal improvement options
 rp: higher rice productivity
-m: salt affected areas
+r: salt affected areas
 meth: crop modelling

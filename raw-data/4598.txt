@@ -3,4 +3,4 @@ Maternal provision of transformer-2 is required for female development and embry
 p: Maternal provision of transformer-2
 rp: female development
 rp: embryo viability
-m: wasp Nasonia vitripennis
+r: wasp Nasonia vitripennis

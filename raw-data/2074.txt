@@ -4,4 +4,4 @@ p: salt stress
 rp: ion content
 rp: antioxidant enzymes
 rp: protein profile
-m: tissues of Broussonetia papyrifera
+r: tissues of Broussonetia papyrifera

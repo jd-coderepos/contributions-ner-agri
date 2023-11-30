@@ -2,5 +2,5 @@ Comparison of photosynthetic temperature and light optima in selected C3 and C4 
 
 rp: photosynthetic temperature
 rp: light optima
-m: selected C3 and C4 grasses
+r: selected C3 and C4 grasses
 loc: E. Cape/Ciskei region

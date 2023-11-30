@@ -1,4 +1,4 @@
 Optimizing in vivo bulblet formation on leaf cuttings in Eucomis spp.
 
 rp: in vivo bulblet formation
-m: leaf cuttings in Eucomis spp.
+r: leaf cuttings in Eucomis spp.

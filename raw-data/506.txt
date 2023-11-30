@@ -1,4 +1,4 @@
 Section Reniformia, a new section in the genus Pelargonium (Geraniaceae)
 
-m: genus Pelargonium (Geraniaceae)
+r: genus Pelargonium (Geraniaceae)
 f: Section Reniformia, a new section in the genus Pelargonium (Geraniaceae)

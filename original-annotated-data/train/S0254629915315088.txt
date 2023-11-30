@@ -1,5 +1,5 @@
-Metabolomic and molecular signatures of Mascarene Aloes using a multidisciplinary approach 
+Metabolomic and molecular signatures of Mascarene Aloes using a multidisciplinary approach
 
 rp: Metabolomic and molecular signatures
-m: Mascarene Aloes
+r: Mascarene Aloes
 meth: multidisciplinary approach

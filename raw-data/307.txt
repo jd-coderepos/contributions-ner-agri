@@ -1,4 +1,4 @@
 Mild psychoactive constituents of Mentha aquatica L.
 
 rp: Mild psychoactive constituents
-m: Mentha aquatica L.
+r: Mentha aquatica L.

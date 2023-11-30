@@ -2,4 +2,4 @@ Altered metabolism in vitro of two aromatic medicinal Cape plants
 
 rp: Altered metabolism
 meth: in vitro
-m: two aromatic medicinal Cape plants
+r: two aromatic medicinal Cape plants

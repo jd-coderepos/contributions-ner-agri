@@ -1,7 +1,7 @@
-Damage potential of Tribolium castaneum (Herbst) (Coleoptera: Tenebrionidae) on cocoa beans: Effect of initial adult population density and post infestation storage time 
+Damage potential of Tribolium castaneum (Herbst) (Coleoptera: Tenebrionidae) on cocoa beans: Effect of initial adult population density and post infestation storage time
 
 rp: Damage potential
-m: Tribolium castaneum (Herbst) (Coleoptera: Tenebrionidae)
-m: cocoa beans
+r: Tribolium castaneum (Herbst) (Coleoptera: Tenebrionidae)
+r: cocoa beans
 p: initial adult population density
-p: post infestation storage time 
+p: post infestation storage time

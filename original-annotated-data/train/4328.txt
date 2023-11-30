@@ -1,6 +1,6 @@
 Variation in N-benefit by five grain legumes to succeeding maize at Mbombela, South Africa
 
 p: Variation in N-benefit
-m: five grain legumes
+r: five grain legumes
 rp: succeeding maize
 loc: Mbombela, South Africa

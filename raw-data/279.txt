@@ -1,5 +1,5 @@
 Microscopic studies on stripe rust-infected doubled haploid wheat lines derived from a cross Kariega×Avocet S
 
 rp: Microscopic studies
-m: stripe rust-infected doubled haploid wheat lines
-m: cross Kariega×Avocet S
+r: stripe rust-infected doubled haploid wheat lines
+r: cross Kariega×Avocet S

@@ -2,4 +2,4 @@ Chemical characterization and biological activity of an endemic Amaryllidaceae s
 
 rp: Chemical characterization
 rp: biological activity
-m: endemic Amaryllidaceae species: Galanthus cilicicus
+r: endemic Amaryllidaceae species: Galanthus cilicicus

@@ -1,4 +1,4 @@
-A critical assessment of plant resource utilisation and park expansion in North-West 
+A critical assessment of plant resource utilisation and park expansion in North-West
 
 loc: North-West
 rp: plant resource utilisation

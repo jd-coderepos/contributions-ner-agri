@@ -1,6 +1,6 @@
 Metagenomic and metatranscriptomic analysis of the microbial community in Swiss-type Maasdam cheese during ripening
 
 rp: Metagenomic and metatranscriptomic analysis
-m: microbial community
-m: Swiss-type Maasdam cheese
+r: microbial community
+r: Swiss-type Maasdam cheese
 p: ripening

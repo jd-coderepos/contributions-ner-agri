@@ -1,4 +1,4 @@
 Heterothallism in Huntiella omanensis is supported by the structure of its MAT locus
 
 rp: Heterothallism in Huntiella omanensis
-m: MAT locus
+r: MAT locus

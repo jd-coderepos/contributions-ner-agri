@@ -1,7 +1,7 @@
 Quinolizidine alkaloid status of Acosmium s.s., Guianodendron and Leptolobium, the segregate genera of Acosmium s.l.
 
 rp: Quinolizidine alkaloid status
-m: Acosmium s.s.
-m: Guianodendron
-m: Leptolobium
-m: segregate genera of Acosmium s.l.
+r: Acosmium s.s.
+r: Guianodendron
+r: Leptolobium
+r: segregate genera of Acosmium s.l.

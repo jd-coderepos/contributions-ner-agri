@@ -1,4 +1,4 @@
 Distribution and dynamics of electron transport complexes in cyanobacterial thylakoid membranes
 
 rp: electron transport complexes
-m: cyanobacterial thylakoid membranes
+r: cyanobacterial thylakoid membranes

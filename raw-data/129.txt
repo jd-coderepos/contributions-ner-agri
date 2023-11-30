@@ -1,5 +1,5 @@
 The effect of aminoglycoside antibiotics on the induction of adventitious shoots in soybean
 
 rp: aminoglycoside antibiotics
-m: soybean
+r: soybean
 p: induction of adventitious shoots

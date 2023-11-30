@@ -1,4 +1,4 @@
-Edaphic factors and competition as determinants of pattern in South African karoo vegetation 
+Edaphic factors and competition as determinants of pattern in South African karoo vegetation
 
 p: Edaphic factors and competition
-m: South African karoo vegetation
+r: South African karoo vegetation

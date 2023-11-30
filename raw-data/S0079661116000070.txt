@@ -1,5 +1,5 @@
 Habitat suitability of the Atlantic bluefin tuna by size class: An ecological niche approach
 
-m: Atlantic bluefin tuna
+r: Atlantic bluefin tuna
 rp: Habitat suitability
 s: ecological niche approach

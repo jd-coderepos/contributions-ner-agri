@@ -2,4 +2,4 @@ Seed dormancy and germination characteristics of Astragalus arpilobus (Fabaceae,
 
 rp: Seed dormancy
 rp: germination characteristics
-m: Astragalus arpilobus (Fabaceae, subfamily Papilionoideae)
+r: Astragalus arpilobus (Fabaceae, subfamily Papilionoideae)

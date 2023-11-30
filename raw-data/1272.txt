@@ -1,9 +1,9 @@
 Multiple origins of Heliozoa from flagellate ancestors: New cryptist subphylum Corbihelia, superclass Corbistoma, and monophyly of Haptista, Cryptista, Hacrobia and Chromista
 
 rp: Multiple origins of Heliozoa
-m: cryptist subphylum Corbihelia
-m: superclass Corbistoma
-m: monophyly of Haptista
-m: Cryptista
-m: Hacrobia
-m: Chromista
+r: cryptist subphylum Corbihelia
+r: superclass Corbistoma
+r: monophyly of Haptista
+r: Cryptista
+r: Hacrobia
+r: Chromista

@@ -1,4 +1,4 @@
-Antimicrobial and cyclooxygenase enzyme inhibitory activities of Sclerocarya birrea and Harpephyllum caffrum (Anacardiaceae) plant extracts 
+Antimicrobial and cyclooxygenase enzyme inhibitory activities of Sclerocarya birrea and Harpephyllum caffrum (Anacardiaceae) plant extracts
 
 rp: Antimicrobial and cyclooxygenase enzyme inhibitory activities
-m: Sclerocarya birrea and Harpephyllum caffrum (Anacardiaceae) plant extracts
+r: Sclerocarya birrea and Harpephyllum caffrum (Anacardiaceae) plant extracts

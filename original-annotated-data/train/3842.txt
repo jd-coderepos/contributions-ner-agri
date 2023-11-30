@@ -1,5 +1,5 @@
 Extreme thermo-tolerance in seeds of desert succulents is related to maximum annual temperature
 
 rp: Extreme thermo-tolerance
-m: seeds of desert succulents
+r: seeds of desert succulents
 p: maximum annual temperature

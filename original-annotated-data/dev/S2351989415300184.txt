@@ -1,5 +1,5 @@
-Fate of semi-natural grassland in England between 1960 and 2013: A test of national conservation policy 
+Fate of semi-natural grassland in England between 1960 and 2013: A test of national conservation policy
 
 loc: England
-m: semi-natural grassland
+r: semi-natural grassland
 rp: national conservation policy

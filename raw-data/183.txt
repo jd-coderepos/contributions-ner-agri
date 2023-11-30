@@ -1,6 +1,6 @@
 Preliminary genetic analyses of important musculoskeletal conditions of Thoroughbred racehorses in Hong Kong
 
 rp: Preliminary genetic analyses
-m: Thoroughbred racehorses
+r: Thoroughbred racehorses
 p: musculoskeletal conditions
 loc: Hong Kong

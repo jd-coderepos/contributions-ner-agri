@@ -1,5 +1,5 @@
 Antimicrobial activities of selected essential oils against Fusarium oxysporum isolates and their biofilms
 
 rp: Antimicrobial activities
-m: selected essential oils
-m: Fusarium oxysporum isolates and their biofilms
+r: selected essential oils
+r: Fusarium oxysporum isolates and their biofilms

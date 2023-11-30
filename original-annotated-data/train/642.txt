@@ -1,6 +1,6 @@
 Role of screen plate design in the performance of a rotor impact mill in fine grinding of biomass
 
 p: fine grinding
-m: biomass
+r: biomass
 t: rotor impact mill
 rp: screen plate design

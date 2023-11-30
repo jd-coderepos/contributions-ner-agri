@@ -1,7 +1,7 @@
 Antioxidant and anti-inflammatory activities and phenolic content of Podocarpus sensu latissimo (s.l.) used in traditional medicine in South Africa
 
 p: Antioxidant and anti-inflammatory activities
-m: phenolic content
-m: Podocarpus sensu latissimo (s.l.)
+r: phenolic content
+r: Podocarpus sensu latissimo (s.l.)
 rp: traditional medicine
 loc: South Africa

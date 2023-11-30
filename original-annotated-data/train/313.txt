@@ -1,6 +1,6 @@
 Studies in Cyperaceae in southern Africa 42: Pseudo-vivipary in South African Cyperaceae
 
-m: Cyperaceae
+r: Cyperaceae
 loc: southern Africa
-m: South African Cyperaceae
+r: South African Cyperaceae
 rp: Pseudo-vivipary

@@ -1,4 +1,4 @@
 Synthesis of silver nanoparticles using the seaweed Codium capitatum P.C. Silva (Chlorophyceae)
 
 rp: Synthesis of silver nanoparticles
-m: seaweed Codium capitatum P.C. Silva (Chlorophyceae)
+r: seaweed Codium capitatum P.C. Silva (Chlorophyceae)

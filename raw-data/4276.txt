@@ -1,5 +1,5 @@
 Seed production of four Namaqualand pioneer plant species grown on saline soil
 
 rp: Seed production
-m: four Namaqualand pioneer plant species
-m: saline soil
+r: four Namaqualand pioneer plant species
+r: saline soil

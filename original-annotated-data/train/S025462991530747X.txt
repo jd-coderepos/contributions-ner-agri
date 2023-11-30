@@ -1,5 +1,5 @@
-Morphological characteristics of Impatiens flanaganiae Hemsl. grown under different light conditions 
+Morphological characteristics of Impatiens flanaganiae Hemsl. grown under different light conditions
 
 meth: Morphological characteristics
-m: Impatiens flanaganiae Hemsl.
+r: Impatiens flanaganiae Hemsl.
 p: different light conditions

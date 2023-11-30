@@ -4,4 +4,4 @@ rp: Wild flower harvesting
 loc: Agulhas Plain, South Africa
 p: harvesting intensity
 p: simulated commercial harvesting regime
-m: fynbos species
+r: fynbos species

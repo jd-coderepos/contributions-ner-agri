@@ -1,5 +1,5 @@
 The ethnobotanical, antimicrobial and phytochemical screening of selected medicinal plants from Ga-Mashashane, Limpopo Province, South Africa
 
 meth: ethnobotanical, antimicrobial and phytochemical screening
-m: medicinal plants
+r: medicinal plants
 loc: Ga-Mashashane, Limpopo Province, South Africa

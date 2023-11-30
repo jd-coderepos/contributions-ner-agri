@@ -1,4 +1,4 @@
 A hybrid approach to model shoreline change at multiple timescales
 
-m: multiple timescales
+r: multiple timescales
 rp: model shoreline change

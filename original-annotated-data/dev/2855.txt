@@ -1,7 +1,7 @@
 Studies in Cyperaceae in southern Africa 38: The identities of Cyperus natalensis, Cyperus crassipes and Cyperus brevis
 
-m: Cyperaceae
-m: Cyperus natalensis
-m: Cyperus crassipes
-m: Cyperus brevis
+r: Cyperaceae
+r: Cyperus natalensis
+r: Cyperus crassipes
+r: Cyperus brevis
 loc: southern Africa

@@ -1,5 +1,5 @@
 New and interesting records of South African fungi. XI. Eucalyptus leaf fungi
 
-m: South African fungi
-m: Eucalyptus leaf fungi
+r: South African fungi
+r: Eucalyptus leaf fungi
 f: New and interesting records of South African fungi

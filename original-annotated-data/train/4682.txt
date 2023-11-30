@@ -1,5 +1,5 @@
 The influence of spatial scales on Red List composition: Forest species in Fennoscandia
 
 meth: spatial scales
-m: Red List composition
-m: Forest species in Fennoscandia
+r: Red List composition
+r: Forest species in Fennoscandia

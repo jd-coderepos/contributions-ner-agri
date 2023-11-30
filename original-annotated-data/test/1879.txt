@@ -1,5 +1,5 @@
 Using stable water isotopes to determine the depth of water used by different sizes of savanna trees
 
-m: stable water isotopes
+r: stable water isotopes
 rp: depth of water
-m: savanna trees
+r: savanna trees

@@ -2,5 +2,5 @@ Reactive oxygen species production during imbibition of orthodox seeds and early
 
 rp: Reactive oxygen species production
 p: imbibition
-m: orthodox seeds
+r: orthodox seeds
 p: early seedling growth

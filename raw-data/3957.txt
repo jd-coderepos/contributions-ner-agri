@@ -1,5 +1,5 @@
 Interaction between the non-volatile and volatile fractions on the antimicrobial activity of Tarchonanthus camphoratus
 
 p: non-volatile and volatile fractions
-m: Tarchonanthus camphoratus
+r: Tarchonanthus camphoratus
 rp: antimicrobial activity

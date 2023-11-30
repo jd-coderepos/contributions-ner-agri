@@ -1,5 +1,5 @@
 A micropropagation protocol for Siphonochilus aethiopicus, an endangered South African medicinal plant
 
 p: micropropagation protocol
-m: Siphonochilus aethiopicus
+r: Siphonochilus aethiopicus
 rp: South African medicinal plant

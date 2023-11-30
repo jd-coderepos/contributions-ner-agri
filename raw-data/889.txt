@@ -1,5 +1,5 @@
 Isolation of Aureobasidium pullulans from Zimbabwean sources and glucosidase activities of selected isolates
 
 rp: Isolation of Aureobasidium pullulans
-m: Zimbabwean sources
+r: Zimbabwean sources
 p: glucosidase activities

@@ -1,4 +1,4 @@
 Physiological and biochemical effects of cytokinins in micropropagated Merwilla plumbea
 
 rp: Physiological and biochemical effects of cytokinins
-m: micropropagated Merwilla plumbea
+r: micropropagated Merwilla plumbea

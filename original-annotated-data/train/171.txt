@@ -1,5 +1,5 @@
 Regeneration of native broadleaved species on clearfelled conifer plantations in upland Britain
 
 rp: Regeneration of native broadleaved species
-m: clearfelled conifer plantations
+r: clearfelled conifer plantations
 loc: upland Britain

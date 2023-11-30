@@ -1,5 +1,5 @@
 A Cassava vein mosaic virus promoter cassette induces high and stable gene expression in clonally propagated transgenic cassava (Manihot esculenta Crantz)
 
-m: clonally propagated transgenic cassava (Manihot esculenta Crantz)
-m: Cassava vein mosaic virus promoter cassette
+r: clonally propagated transgenic cassava (Manihot esculenta Crantz)
+r: Cassava vein mosaic virus promoter cassette
 p: high and stable gene expression

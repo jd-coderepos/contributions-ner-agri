@@ -1,4 +1,4 @@
 Nitrate reductase activity (NRA) of cultivated scrophulariacean root parasites
 
 rp: Nitrate reductase activity (NRA)
-m: cultivated scrophulariacean root parasites
+r: cultivated scrophulariacean root parasites

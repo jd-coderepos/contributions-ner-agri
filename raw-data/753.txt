@@ -1,4 +1,4 @@
 The antifungal activity of twenty-four southern African Combretum (Combretaceae)
 
 rp: antifungal activity
-m: twenty-four southern African Combretum (Combretaceae)
+r: twenty-four southern African Combretum (Combretaceae)

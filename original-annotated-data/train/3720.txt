@@ -2,8 +2,8 @@ Modelling field scale spatial variation in water run-off, soil moisture, N2O emi
 
 rp: Modelling field scale spatial variation
 p: water run-off
-m: soil moisture
+r: soil moisture
 p: N2O emissions
-m: grazed pasture
+r: grazed pasture
 p: herbage biomass
 t: SPACSYS model

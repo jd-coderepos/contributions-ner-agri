@@ -2,4 +2,4 @@ Vegetation classification in a floristically complex area: the Agulhas Plain
 
 rp: Vegetation classification
 loc: Agulhas Plain
-m: floristically complex area
+r: floristically complex area

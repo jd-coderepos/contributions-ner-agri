@@ -1,4 +1,4 @@
 Studies in Cyperaceae in southern Africa: 12. A new specific name in Fuirena Rottb.
 
-m: Cyperaceae
+r: Cyperaceae
 loc: southern Africa

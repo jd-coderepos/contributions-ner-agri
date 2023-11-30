@@ -1,5 +1,5 @@
 In vitro propagation of Hypoxis rooperi from flower buds
 
 meth: In vitro propagation
-m: Hypoxis rooperi
-m: flower buds
+r: Hypoxis rooperi
+r: flower buds

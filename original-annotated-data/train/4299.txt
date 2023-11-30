@@ -1,5 +1,5 @@
 Micropropagation of Cynodon dactylon from leaf and nodal segments
 
 rp: Micropropagation
-m: Cynodon dactylon
-m: leaf and nodal segments
+r: Cynodon dactylon
+r: leaf and nodal segments

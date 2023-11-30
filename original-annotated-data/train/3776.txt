@@ -2,4 +2,4 @@ Tidal influence on particulate organic carbon export fluxes around a tall seamou
 
 p: Tidal influence
 rp: particulate organic carbon export fluxes
-m: tall seamount
+r: tall seamount

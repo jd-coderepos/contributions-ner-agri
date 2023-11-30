@@ -1,7 +1,7 @@
 The root morphology of some legume spp. in the south-western Cape and the relationship of vesicular-arbuscular mycorrhizas with dry mass and phosphorus content of Acacia saligna seedlings
 
 rp: root morphology
-m: legume spp.
+r: legume spp.
 loc: south-western Cape
-m: vesicular-arbuscular mycorrhizas
-m: dry mass and phosphorus content of Acacia saligna seedlings
+r: vesicular-arbuscular mycorrhizas
+r: dry mass and phosphorus content of Acacia saligna seedlings

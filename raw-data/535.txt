@@ -1,4 +1,4 @@
 Observations on the distribution and abundance of a green tide along an intertidal shore, Knysna Estuary
 
-m: green tide
+r: green tide
 loc: intertidal shore, Knysna Estuary

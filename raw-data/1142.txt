@@ -1,4 +1,4 @@
 The study of the understory percentage vegetation covers in three savanna plant species
 
 rp: understory percentage vegetation
-m: three savanna plant species
+r: three savanna plant species

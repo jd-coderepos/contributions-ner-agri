@@ -1,6 +1,6 @@
 Salt secretion, proline accumulation and increased branching confer tolerance to drought and salinity in the endemic halophyte Limonium linifolium
 
-m: endemic halophyte Limonium linifolium
+r: endemic halophyte Limonium linifolium
 rp: endemic halophyte Limonium linifolium
 p: Salt secretion
 p: proline accumulation

@@ -3,4 +3,4 @@ Morphology, ontogeny and functional anatomy of the seeds of Colophospermum mopan
 rp: Morphology
 rp: ontogeny
 rp: functional anatomy
-m: seeds of Colophospermum mopane
+r: seeds of Colophospermum mopane

@@ -1,5 +1,5 @@
 Cardiometabolic response of juvenile rainbow trout exposed to dietary selenomethionine
 
 rp: Cardiometabolic response
-m: dietary selenomethionine
-m: juvenile rainbow trout
+r: dietary selenomethionine
+r: juvenile rainbow trout

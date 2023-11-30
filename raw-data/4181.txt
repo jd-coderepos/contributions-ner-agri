@@ -1,4 +1,4 @@
 Photoprotective, antioxidant screening and new ester from dry root extracts of Potentilla atrosanguinea (Himalayan cinquefoil)
 
 rp: Photoprotective, antioxidant screening and new ester
-m: dry root extracts of Potentilla atrosanguinea (Himalayan cinquefoil)
+r: dry root extracts of Potentilla atrosanguinea (Himalayan cinquefoil)

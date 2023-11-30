@@ -1,4 +1,4 @@
 New South African records of Erysiphaceae from the Transvaal II
 
-m: South African records of Erysiphaceae
+r: South African records of Erysiphaceae
 loc: Transvaal II

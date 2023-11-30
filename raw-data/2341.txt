@@ -3,4 +3,4 @@ Investigating a potential adjuvent remedy for cancer treatment: LC/MS based meth
 rp: potential adjuvent remedy for cancer treatment
 meth: LC/MS based methods
 p: differentiate and assess chemical composition
-m: wild populations of Dodonaea viscosa
+r: wild populations of Dodonaea viscosa

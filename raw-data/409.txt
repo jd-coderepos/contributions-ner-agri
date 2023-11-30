@@ -3,5 +3,5 @@ Salt secretion, proline accumulation and increased branching confer tolerance to
 p: Salt secretion
 p: proline accumulation
 p: increased branching
-m: endemic halophyte Limonium linifolium
+r: endemic halophyte Limonium linifolium
 rp: tolerance to drought and salinity

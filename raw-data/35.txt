@@ -1,5 +1,5 @@
 Viability and ultrastructural responses of seeds and embryonic axes of Trichilia emetica to different dehydration and storage conditions
 
-m: seeds and embryonic axes of Trichilia emetica
+r: seeds and embryonic axes of Trichilia emetica
 rp: Viability and ultrastructural responses
 p: dehydration and storage conditions

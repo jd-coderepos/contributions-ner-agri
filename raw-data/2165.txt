@@ -1,6 +1,6 @@
 Isolation of antiplasmodial compounds from traditionally used plants by means of NMR-based metabolomics and chromatography
 
 rp: Isolation of antiplasmodial compounds
-m: traditionally used plants
+r: traditionally used plants
 meth: NMR-based metabolomics
 meth: chromatography

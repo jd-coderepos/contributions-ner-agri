@@ -4,5 +4,5 @@ rp: potential oil seed crop
 p: Pollen viability
 p: pollen germination
 p: pollen tube growth
-m: Jatropha curcas
-m: biodiesel
+r: Jatropha curcas
+r: biodiesel

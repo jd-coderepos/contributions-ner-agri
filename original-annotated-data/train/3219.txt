@@ -1,5 +1,5 @@
 Chemical analysis and antimicrobial activity of essential oil extracted from Helichrysum aureonitens
 
 rp: Chemical analysis and antimicrobial activity
-m: essential oil
-m: Helichrysum aureonitens
+r: essential oil
+r: Helichrysum aureonitens

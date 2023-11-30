@@ -3,4 +3,4 @@ Synthesis, X-ray structure determination and germination studies on some smoke-d
 meth: Synthesis
 rp: X-ray structure determination
 rp: germination studies
-m: smoke-derived karrikins
+r: smoke-derived karrikins

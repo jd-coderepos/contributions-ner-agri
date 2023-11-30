@@ -1,4 +1,4 @@
 Phytochemical comparison among five indigenous Aloe species
 
 rp: Phytochemical comparison
-m: five indigenous Aloe species
+r: five indigenous Aloe species

@@ -1,5 +1,5 @@
 An evaluation of the endophytic colonies present in pathogenic and non-pathogenic Vanguerieae using electron microscopy
 
 rp: endophytic colonies
-m: pathogenic and non-pathogenic Vanguerieae
+r: pathogenic and non-pathogenic Vanguerieae
 t: electron microscopy

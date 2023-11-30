@@ -1,5 +1,5 @@
-Potential of metal contamination to affect the food safety of seaweed (Caulerpa spp.) cultured in coastal ponds in Sulawesi, Indonesia 
+Potential of metal contamination to affect the food safety of seaweed (Caulerpa spp.) cultured in coastal ponds in Sulawesi, Indonesia
 
 rp: metal contamination to affect the food safety
-m: seaweed (Caulerpa spp.)
+r: seaweed (Caulerpa spp.)
 loc: coastal ponds in Sulawesi, Indonesia

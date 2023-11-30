@@ -1,5 +1,5 @@
 In vitro regeneration of Ensete ventricosum from zygotic embryos of stored seeds
 
 meth: In vitro regeneration
-m: Ensete ventricosum
-m: zygotic embryos of stored seeds
+r: Ensete ventricosum
+r: zygotic embryos of stored seeds

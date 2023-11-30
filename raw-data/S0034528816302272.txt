@@ -1,6 +1,6 @@
-Seroprevalence of respiratory viral pathogens of indigenous calves in Western Kenya 
+Seroprevalence of respiratory viral pathogens of indigenous calves in Western Kenya
 
-p: Seroprevalence 
+p: Seroprevalence
 rp: respiratory viral pathogens
 loc: Western Kenya
-m: indigenous calves
+r: indigenous calves

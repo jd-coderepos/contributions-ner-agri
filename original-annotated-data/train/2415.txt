@@ -2,5 +2,5 @@ The phytosociology of the Villiers – Grootvlei area, South Africa. 4. The plan
 
 rp: phytosociology of the Villiers
 loc: Grootvlei area, South Africa
-m: plant communities
+r: plant communities
 p: Ea Land Type

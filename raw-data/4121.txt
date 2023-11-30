@@ -2,4 +2,4 @@ Rapid adaptation of seed germination requirements of the threatened Mediterranea
 
 p: Rapid adaptation
 rp: seed germination requirements
-m: threatened Mediterranean species Malcolmia littorea (Brassicaceae)
+r: threatened Mediterranean species Malcolmia littorea (Brassicaceae)

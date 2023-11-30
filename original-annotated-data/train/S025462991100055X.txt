@@ -1,6 +1,6 @@
-A morphological re-evaluation of the taxonomic status of the genus Pellegriniodendron (Harms) J. Léonard (Leguminosae–Caesalpinioideae–Detarieae) and its inclusion in Gilbertiodendron J. Léonard 
+A morphological re-evaluation of the taxonomic status of the genus Pellegriniodendron (Harms) J. Léonard (Leguminosae–Caesalpinioideae–Detarieae) and its inclusion in Gilbertiodendron J. Léonard
 
 meth: morphological re-evaluation
 rp: taxonomic status
-m: genus Pellegriniodendron (Harms) J. Léonard (Leguminosae–Caesalpinioideae–Detarieae)
-m: Gilbertiodendron J. Léonard
+r: genus Pellegriniodendron (Harms) J. Léonard (Leguminosae–Caesalpinioideae–Detarieae)
+r: Gilbertiodendron J. Léonard

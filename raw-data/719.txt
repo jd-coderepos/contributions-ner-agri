@@ -2,6 +2,6 @@ Contributions to the floral morphology and embryology of Pavetta gardeniifolia A
 
 rp: floral morphology
 rp: embryology
-m: Pavetta gardeniifolia A. Rich
+r: Pavetta gardeniifolia A. Rich
 p: megasporogenesis
-m: ovule
+r: ovule

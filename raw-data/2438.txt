@@ -3,4 +3,4 @@ Physiological and anatomical aspects related to in vitro shoot initiation in Bow
 p: Physiological and anatomical aspects
 meth: in vitro
 rp: shoot initiation
-m: Bowiea volubilis
+r: Bowiea volubilis

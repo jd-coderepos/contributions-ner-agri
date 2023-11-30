@@ -1,5 +1,5 @@
 The horizontal distribution of root biomass in a South African winter-rainfall desert community
 
 p: horizontal distribution
-m: root biomass
+r: root biomass
 loc: South African winter-rainfall desert community

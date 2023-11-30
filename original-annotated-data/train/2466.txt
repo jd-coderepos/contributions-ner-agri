@@ -2,5 +2,5 @@ Breakdown and decomposition in three coastal grassland communities in Transkei
 
 p: Breakdown
 p: decomposition
-m: three coastal grassland communities
+r: three coastal grassland communities
 loc: Transkei

@@ -1,5 +1,5 @@
 The status of Larryleachia Plowes and additional synonymy for Lavrania Plowes
 
-m: Larryleachia Plowes
-m: Lavrania Plowes
+r: Larryleachia Plowes
+r: Lavrania Plowes
 rp: additional synonymy

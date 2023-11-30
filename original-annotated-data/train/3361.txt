@@ -1,4 +1,4 @@
 Metabolomics profile of wild versus cultivated South African indigenous/traditional African leafy vegetables
 
 rp: Metabolomics profile
-m: wild versus cultivated South African indigenous/traditional African leafy vegetables
+r: wild versus cultivated South African indigenous/traditional African leafy vegetables

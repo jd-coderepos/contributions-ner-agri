@@ -1,5 +1,5 @@
 Potential phenolic bioherbicides from Cladonia verticillaris produce ultrastructural changes in Lactuca sativa seedlings
 
-m: Lactuca sativa seedlings
-m: Cladonia verticillaris
+r: Lactuca sativa seedlings
+r: Cladonia verticillaris
 rp: Potential phenolic bioherbicides

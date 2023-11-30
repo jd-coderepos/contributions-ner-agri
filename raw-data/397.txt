@@ -2,6 +2,6 @@ Warneckea parvifolia (Melastomataceae–Olisbeoideae), a new “sand-forest” e
 
 loc: northeastern KwaZulu-Natal (South Africa)
 loc: southernmost Mozambique
-m: eastern and southern African representatives of W. section Warneckea
+r: eastern and southern African representatives of W. section Warneckea
 p: phylogenetic analysis
 f: Warneckea parvifolia (Melastomataceae–Olisbeoideae), a new “sand-forest” endemic from northeastern KwaZulu-Natal (South Africa)

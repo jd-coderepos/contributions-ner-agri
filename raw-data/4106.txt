@@ -1,4 +1,4 @@
 Cytotoxic and genotoxic properties of leaf extract of Icacina trichantha Oliv.
 
 rp: Cytotoxic and genotoxic properties
-m: leaf extract of Icacina trichantha Oliv.
+r: leaf extract of Icacina trichantha Oliv.

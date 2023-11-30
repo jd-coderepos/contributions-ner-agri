@@ -1,5 +1,5 @@
 Rhus longispina and Rhus pterota, two hitherto confused South African shrubs
 
-m: Rhus longispina
-m: Rhus pterota
-m: South African shrubs
+r: Rhus longispina
+r: Rhus pterota
+r: South African shrubs

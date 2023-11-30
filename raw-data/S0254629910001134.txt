@@ -3,4 +3,4 @@ Seed germination at different temperatures and water stress levels, and seedling
 rp: Seed germination
 rp: seedling emergence
 meth: different temperatures and water stress levels
-m: depths of Ziziphus lotus
+r: depths of Ziziphus lotus

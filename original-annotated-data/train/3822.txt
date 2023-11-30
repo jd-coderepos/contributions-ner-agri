@@ -3,5 +3,5 @@ Two observational studies examining the effect of a social norm and a health mes
 meth: observational studies
 p: social norm
 rp: purchase of vegetables
-m: health message
+r: health message
 p: student canteen settings

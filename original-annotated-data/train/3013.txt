@@ -1,5 +1,5 @@
 Antimicrobial and phytochemical evaluation of twelve medicinal plants used by the Venda People
 
 rp: Antimicrobial and phytochemical evaluation
-m: twelve medicinal plants
-m: Venda People
+r: twelve medicinal plants
+r: Venda People

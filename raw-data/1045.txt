@@ -1,5 +1,5 @@
 Vegetation studies of feral horse habitat in the Namib Naukluft Park, Namibia
 
 rp: Vegetation studies
-m: feral horse habitat
+r: feral horse habitat
 loc: Namib Naukluft Park, Namibia

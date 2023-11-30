@@ -2,4 +2,4 @@ Glandular trichomes and essential oils of Salvia glutinosa L.
 
 rp: Glandular trichomes
 rp: essential oils
-m: Salvia glutinosa L.
+r: Salvia glutinosa L.

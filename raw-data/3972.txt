@@ -1,5 +1,5 @@
 Analysis of heavy metal contamination in home gardens in Alice, Nkonkobe Municipality, Eastern Cape, South Africa
 
 rp: heavy metal contamination
-m: home gardens
+r: home gardens
 loc: Alice, Nkonkobe Municipality, Eastern Cape, South Africa

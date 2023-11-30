@@ -2,4 +2,4 @@ Some medicinal properties of Cussonia and Schefflera species used in traditional
 
 rp: medicinal properties
 meth: traditional medicine
-m: Cussonia and Schefflera species
+r: Cussonia and Schefflera species

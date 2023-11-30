@@ -2,4 +2,4 @@ Calibration, verification and stepwise analysis for numerical phenetics: Olinia 
 
 p: Calibration, verification and stepwise analysis
 rp: numerical phenetics
-m: Olinia (Oliniaceae)
+r: Olinia (Oliniaceae)

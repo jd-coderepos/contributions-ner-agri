@@ -2,5 +2,5 @@ Conservation biology and population dynamics of Leucospermum gerrardii Stapf. (P
 
 rp: Conservation biology
 rp: population dynamics
-m: Leucospermum gerrardii Stapf. (Proteaceae)
+r: Leucospermum gerrardii Stapf. (Proteaceae)
 loc: Dr Hamilton Protea Reserve, Mpumalanga

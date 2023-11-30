@@ -2,4 +2,4 @@ Evaluating the functional status of a rehabilitated gold tailings storage facili
 
 p: rehabilitated gold tailings storage facility
 meth: case study
-m: Witwatersrand
+r: Witwatersrand

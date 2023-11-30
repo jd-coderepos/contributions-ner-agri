@@ -1,4 +1,4 @@
-Performance of PICS bags under extreme conditions in the sahel zone of Niger 
+Performance of PICS bags under extreme conditions in the sahel zone of Niger
 
-m: PICS bags
+r: PICS bags
 loc: sahel zone of Niger

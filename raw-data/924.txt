@@ -2,5 +2,5 @@ Pollen morphology and its taxonomic value in Brachylaena (Asteraceae) in souther
 
 rp: Pollen morphology
 rp: taxonomic value
-m: Brachylaena (Asteraceae)
+r: Brachylaena (Asteraceae)
 loc: southern Africa

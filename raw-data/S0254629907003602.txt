@@ -1,6 +1,6 @@
 Allelopathic potential of Tetrapleura tetraptera leaf extracts on early seedling growth of five agricultural crops
 
-m: Tetrapleura tetraptera leaf extracts
+r: Tetrapleura tetraptera leaf extracts
 rp: Allelopathic potential
 p: early seedling growth
-m: five agricultural crops
+r: five agricultural crops

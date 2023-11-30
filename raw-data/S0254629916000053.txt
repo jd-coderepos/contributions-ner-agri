@@ -1,5 +1,5 @@
 Pre-soaking in indole-3-acetic acid or spermidine enhances copper tolerance in wheat seedlings
 
-m: wheat seedlings
+r: wheat seedlings
 meth: Pre-soaking in indole-3-acetic acid
 meth: spermidine enhances copper tolerance

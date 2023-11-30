@@ -2,6 +2,6 @@ The relationship between seasonal changes in anti-oxidative system and freezing 
 
 rp: seasonal changes
 p: anti-oxidative system
-m: leaves of evergreen plants
+r: leaves of evergreen plants
 loc: Sabina
 p: freezing tolerance

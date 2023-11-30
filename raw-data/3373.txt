@@ -2,4 +2,4 @@ Impact of salt stress on morpho-physiological and biochemical parameters of Sola
 
 rp: salt stress
 p: morpho-physiological and biochemical parameters
-m: Solanum lycopersicum cv. Microtom leaves
+r: Solanum lycopersicum cv. Microtom leaves

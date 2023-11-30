@@ -2,10 +2,10 @@ Effects of temperature, light, nutrients and smoke-water on seed germination and
 
 rp: seed germination
 rp: seedling growth
-m: temperature
-m: light
-m: nutrients
-m: smoke-water
-m: Astragalus membranaceus
-m: Panax notoginseng
-m: Magnolia officinalis
+r: temperature
+r: light
+r: nutrients
+r: smoke-water
+r: Astragalus membranaceus
+r: Panax notoginseng
+r: Magnolia officinalis

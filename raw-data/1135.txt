@@ -2,7 +2,7 @@ Salicylic acid supplementation improves photosynthesis and growth in mustard thr
 
 s: Salicylic acid supplementation
 rp: photosynthesis and growth
-m: mustard
+r: mustard
 p: proline accumulation
 p: ethylene formation
 p: drought stress

@@ -2,5 +2,5 @@ Osmoregulation, monitored by pressure–volume tissue water component analysis, 
 
 rp: Osmoregulation
 meth: pressure–volume tissue water component analysis
-m: cultivars of Nicotiana tabacum L.
+r: cultivars of Nicotiana tabacum L.
 p: different drought tolerance

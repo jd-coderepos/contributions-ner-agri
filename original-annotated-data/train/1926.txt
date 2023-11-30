@@ -1,4 +1,4 @@
 Elemental patterns in Ni hyperaccumulating and non-hyperaccumulating ultramafic soil populations of Senecio coronatus
 
 rp: Elemental patterns
-m: Ni hyperaccumulating and non-hyperaccumulating ultramafic soil populations of Senecio coronatus
+r: Ni hyperaccumulating and non-hyperaccumulating ultramafic soil populations of Senecio coronatus

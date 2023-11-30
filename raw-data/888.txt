@@ -1,5 +1,5 @@
 The impact of alien plant invasion on mycorrhizas in mountain fynbos vegetation
 
 rp: alien plant invasion
-m: mycorrhizas
-m: mountain fynbos vegetation
+r: mycorrhizas
+r: mountain fynbos vegetation

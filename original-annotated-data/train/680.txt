@@ -2,4 +2,4 @@ A standardised faecal collection protocol for intestinal helminth egg counts in 
 
 meth: standardised faecal collection protocol
 rp: intestinal helminth egg counts
-m: Asian elephants, Elephas maximus
+r: Asian elephants, Elephas maximus

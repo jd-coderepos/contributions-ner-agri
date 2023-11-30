@@ -1,5 +1,5 @@
 Patterns of antimicrobial agent prescription in a sentinel population of canine and feline veterinary practices in the United Kingdom
 
 rp: antimicrobial agent prescription
-m: sentinel population of canine and feline veterinary practices
+r: sentinel population of canine and feline veterinary practices
 loc: United Kingdom

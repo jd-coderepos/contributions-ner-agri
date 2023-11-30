@@ -1,4 +1,4 @@
 The coastal red-milkwood (Mimusops caffra) seed: Proximate, mineral, amino acid and fatty acid composition
 
-m: coastal red-milkwood (Mimusops caffra) seed
+r: coastal red-milkwood (Mimusops caffra) seed
 rp: Proximate, mineral, amino acid and fatty acid composition

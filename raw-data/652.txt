@@ -1,7 +1,7 @@
 Comparative analysis of mutant plants impaired in the main regulatory mechanisms of photosynthetic light reactions - From biophysical measurements to molecular mechanisms
 
 meth: Comparative analysis
-m: mutant plants
+r: mutant plants
 rp: regulatory mechanisms of photosynthetic light reactions
 meth: molecular mechanisms
 meth: biophysical measurements

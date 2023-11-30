@@ -1,5 +1,5 @@
 Are meta-topolins better in the clonal micropropagation of Pelargonium sidoides?
 
-m: meta-topolins
-m: Pelargonium sidoides
+r: meta-topolins
+r: Pelargonium sidoides
 rp: clonal micropropagation

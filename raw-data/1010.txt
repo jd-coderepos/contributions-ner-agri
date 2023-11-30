@@ -1,5 +1,5 @@
 Mutually stimulating interactions between lactic acid bacteria and Saccharomyces cerevisiae in sourdough fermentation
 
-m: lactic acid bacteria
+r: lactic acid bacteria
 rp: sourdough fermentation
-m: Saccharomyces cerevisiae
+r: Saccharomyces cerevisiae

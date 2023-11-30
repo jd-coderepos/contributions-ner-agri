@@ -1,5 +1,5 @@
 Competitive interactions between the perennial shrub Leipoldtia constricta and an annual forb, Gorteria diffusa
 
 rp: Competitive interactions
-m: perennial shrub Leipoldtia constricta
-m: annual forb, Gorteria diffusa
+r: perennial shrub Leipoldtia constricta
+r: annual forb, Gorteria diffusa

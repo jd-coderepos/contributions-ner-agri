@@ -1,6 +1,6 @@
 Seed dispersal effectiveness: A comparison of four bird species feeding on seeds of invasive Acacia cyclops in South Africa
 
 loc: South Africa
-m: seeds of invasive Acacia cyclops
-m: four bird species
+r: seeds of invasive Acacia cyclops
+r: four bird species
 rp: Seed dispersal effectiveness

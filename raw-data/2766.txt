@@ -1,6 +1,6 @@
 Adhesion and volume constraints via nonlocal interactions determine cell organisation and migration profiles
 
-m: Adhesion and volume constraints
+r: Adhesion and volume constraints
 p: nonlocal interactions
 rp: migration profiles
 rp: cell organisation

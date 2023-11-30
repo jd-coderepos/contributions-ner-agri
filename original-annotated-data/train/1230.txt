@@ -1,5 +1,5 @@
 Batcheloromyces leucadendri sp. nov. on Leucadendron spp. in South Africa
 
-m: Batcheloromyces leucadendri sp. nov.
-m: Leucadendron spp.
+r: Batcheloromyces leucadendri sp. nov.
+r: Leucadendron spp.
 loc: South Africa

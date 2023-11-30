@@ -1,5 +1,5 @@
 Influence of land use on populations of the medicinal plant Alepidea amatymbica in the southern Drakensberg
 
 rp: Influence of land use
-m: populations of the medicinal plant Alepidea amatymbica
+r: populations of the medicinal plant Alepidea amatymbica
 loc: southern Drakensberg

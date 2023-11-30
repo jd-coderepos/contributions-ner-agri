@@ -1,5 +1,5 @@
 Acetylcholinesterase inhibitory effects of the bulb of Ammocharis coranica (Amaryllidaceae) and its active constituent lycorine
 
 rp: Acetylcholinesterase inhibitory effects
-m: bulb of Ammocharis coranica (Amaryllidaceae)
-m: lycorine
+r: bulb of Ammocharis coranica (Amaryllidaceae)
+r: lycorine

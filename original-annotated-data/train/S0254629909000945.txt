@@ -1,4 +1,4 @@
-Orchid speciation and coexistence in the context of above and belowground mutualists 
+Orchid speciation and coexistence in the context of above and belowground mutualists
 
 rp: Orchid speciation and coexistence
-m: above and belowground mutualists
+r: above and belowground mutualists

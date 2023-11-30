@@ -2,4 +2,4 @@ Intercellular space variation among air-cured Nicotiana tabacum L. genotypes and
 
 rp: Intercellular space variation
 rp: water use efficiency
-m: air-cured Nicotiana tabacum L. genotypes
+r: air-cured Nicotiana tabacum L. genotypes

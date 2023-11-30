@@ -1,5 +1,5 @@
 Quality of life assessment in domestic dogs: An evidence-based rapid review
 
 rp: Quality of life assessment
-m: domestic dogs
+r: domestic dogs
 meth: evidence-based rapid review

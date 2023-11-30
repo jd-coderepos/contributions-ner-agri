@@ -1,5 +1,5 @@
 Genetic variation between Pakistani wheat (Triticum aestivum L.) genotypes as revealed by Random Amplified Polymorphic DNA (RAPD) markers
 
 rp: Genetic variation
-m: Pakistani wheat (Triticum aestivum L.) genotypes
+r: Pakistani wheat (Triticum aestivum L.) genotypes
 meth: Random Amplified Polymorphic DNA (RAPD) markers

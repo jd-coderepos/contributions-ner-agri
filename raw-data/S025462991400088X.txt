@@ -2,4 +2,4 @@ Repeated monitoring as an effective early detection means: first records of natu
 
 loc: southern Africa
 meth: Repeated monitoring
-m: first records of naturalised Solidago gigantea Aiton (Asteraceae)
+r: first records of naturalised Solidago gigantea Aiton (Asteraceae)

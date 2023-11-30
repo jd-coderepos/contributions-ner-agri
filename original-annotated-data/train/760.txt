@@ -1,4 +1,4 @@
 Effects of competition and resource availability on Terminalia sericea seedlings establishment and growth
 
 rp: competition and resource availability
-m: Terminalia sericea seedlings
+r: Terminalia sericea seedlings

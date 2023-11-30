@@ -1,4 +1,4 @@
 Intact plasma membranes in dried cells
 
-m: dried cells
-m: Intact plasma membranes
+r: dried cells
+r: Intact plasma membranes

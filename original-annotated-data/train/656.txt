@@ -3,4 +3,4 @@ Estimates of genetic parameters of distal limb fracture and superficial digital 
 p: Estimates of genetic parameters
 rp: distal limb fracture
 rp: superficial digital flexor tendon injury
-m: UK Thoroughbred racehorses
+r: UK Thoroughbred racehorses

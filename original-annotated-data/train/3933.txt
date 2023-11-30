@@ -1,5 +1,5 @@
 Effect of culture medium consistency and photoperiod on the micropropagation of Theobroma cacao L. axillary bud meristems
 
-m: culture medium consistency and photoperiod
+r: culture medium consistency and photoperiod
 rp: micropropagation
-m: Theobroma cacao L. axillary bud meristems
+r: Theobroma cacao L. axillary bud meristems

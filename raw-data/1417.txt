@@ -1,5 +1,5 @@
 The analysis of genes involved in starch phosphorylation metabolism in Solanum species
 
 p: analysis of genes
-m: Solanum species
+r: Solanum species
 rp: starch phosphorylation metabolism

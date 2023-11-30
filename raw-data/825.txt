@@ -1,6 +1,6 @@
 Intercropping white (Lupinus albus) and Andean (Lupinus mutabilis) lupins with other annual cool season legumes for forage production
 
 meth: Intercropping
-m: white (Lupinus albus) and Andean (Lupinus mutabilis) lupins
-m: annual cool season legumes
+r: white (Lupinus albus) and Andean (Lupinus mutabilis) lupins
+r: annual cool season legumes
 rp: forage production

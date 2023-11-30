@@ -1,5 +1,5 @@
 The interactive effects of light, temperature and CO2/O2 ratios on photosynthesis of Coix lachryma-jobi L.
 
 p: interactive effects of light, temperature and CO2/O2 ratios
-m: Coix lachryma-jobi L.
+r: Coix lachryma-jobi L.
 rp: photosynthesis

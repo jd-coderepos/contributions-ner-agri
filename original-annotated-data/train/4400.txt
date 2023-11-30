@@ -1,6 +1,6 @@
 Autecological studies on Audouinia capitata (Bruniaceae). 2. Insects as pollen vectors
 
 rp: Autecological studies
-m: Audouinia capitata (Bruniaceae)
-m: Insects
+r: Audouinia capitata (Bruniaceae)
+r: Insects
 p: pollen vectors

@@ -2,4 +2,4 @@ Concurrent parent–child relationship quality is associated with an imprinting-
 
 p: Concurrent parent–child relationship quality
 rp: imprinting-like effect
-m: children's facial preferences
+r: children's facial preferences
